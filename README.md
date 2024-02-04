@@ -9,3 +9,7 @@ Visando desenvolver as melhores praticas do mercado.
 
 > Repositório para Api's das estatísticas e dados do Brasileirão *2023*
 
+
+### Repo GEO:
+
+> Repositório de geolocalização
