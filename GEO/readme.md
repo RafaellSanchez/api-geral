@@ -4,6 +4,7 @@
 
 diretório: GEO
  >      |-- bckp
+ >      |     |___ dados_teste_2024-02-04 15:58:33.txt
  >      |     |___ dados_teste.json
  >      |
  >      |-- codigo
@@ -16,6 +17,5 @@ diretório: GEO
  >      |     |___ dados_geo_pe.txt
  >      |     |___ dados_geo_sp.txt
  >      |     |___ dados_id_uf.txt
- >      |     |___ dados_teste_2024-02-04 15:58:33.txt
  >      |
  >      |-- doc
