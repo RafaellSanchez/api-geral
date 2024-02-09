@@ -1,5 +1,9 @@
 import requests
-import pandas as pd 
+import pandas as pd
+import pyarrow as pa
+import pyarrow.parquet as pq
+
+
 from datetime import datetime
 
 
@@ -14,30 +18,21 @@ dados = response.json()
 
 dados_list = []
 
+
 if dados:
     for resultado in dados:
         id = resultado['id']
         nome = resultado['nome']
-        id_mun = resultado['microrregiao']['id']
-        nm_mun = resultado['microrregiao']['nome']
-        id_mcr = resultado['microrregiao']['mesorregiao']['id']
-        nm_mcr = resultado['microrregiao']['mesorregiao']['nome']
-        id_uf = resultado['microrregiao']['mesorregiao']['UF']['id']
-        nm_uf = resultado['microrregiao']['mesorregiao']['UF']['nome']
-        sigla_uf = resultado['microrregiao']['mesorregiao']['UF']['sigla']
-        id_reg = resultado['microrregiao']['mesorregiao']['UF']['regiao']['id']
-        nm_reg = resultado['microrregiao']['mesorregiao']['UF']['regiao']['nome']
-        sigla_rg = resultado['microrregiao']['mesorregiao']['UF']['regiao']['sigla']
-        rgimd_id = resultado['regiao-imediata']['id']
-        rgimd_nm = resultado['regiao-imediata']['nome']
-        rgint_id = resultado['regiao-imediata']['regiao-intermediaria']['id']
-        rgint_nm = resultado['regiao-imediata']['regiao-intermediaria']['nome']
-        rguf_id = resultado['regiao-imediata']['regiao-intermediaria']['UF']['id']
-        rguf_sgl = resultado['regiao-imediata']['regiao-intermediaria']['UF']['sigla']
-        rguf_nm = resultado['regiao-imediata']['regiao-intermediaria']['UF']['nome']
-        rgrg_id = resultado['regiao-imediata']['regiao-intermediaria']['UF']['regiao']['id']
-        rgrg_sgl = resultado['regiao-imediata']['regiao-intermediaria']['UF']['regiao']['sigla']
-        rgrg_nm = resultado['regiao-imediata']['regiao-intermediaria']['UF']['regiao']['nome']
+        id_mun = resultado['municipio']['id']
+        nm_mun = resultado['municipio']['nome']
+        id_mcr = resultado['municipio']['microrregiao']['mesorregiao']['id']
+        nm_mcr = resultado['municipio']['microrregiao']['mesorregiao']['nome']
+        id_uf = resultado['municipio']['microrregiao']['mesorregiao']['UF']['id']
+        nm_uf = resultado['municipio']['microrregiao']['mesorregiao']['UF']['nome']
+        sigla_uf = resultado['municipio']['microrregiao']['mesorregiao']['UF']['sigla']
+        id_reg = resultado['municipio']['microrregiao']['mesorregiao']['UF']['regiao']['id']
+        nm_reg = resultado['municipio']['microrregiao']['mesorregiao']['UF']['regiao']['nome']
+        sigla_rg = resultado['municipio']['microrregiao']['mesorregiao']['UF']['regiao']['sigla']
         
         
         dados_list.append({
@@ -53,23 +48,20 @@ if dados:
             'id_reg': id_reg,
             'nm_reg': nm_reg,
             'sigla_rg': sigla_rg,
-            'rgimd_id': rgimd_id,
-            'rgimd_nm': rgimd_nm,
-            'rgint_id': rgint_id,
-            'rgint_nm': rgint_nm,
-            'rguf_id': rguf_id,
-            'rguf_sgl': rguf_sgl,
-            'rguf_nm': rguf_nm,
-            'rgrg_id': rgrg_id,
-            'rgrg_sgl': rgrg_sgl,
-            'rgrg_nm': rgrg_nm,
             'dtigtao': timestamp
             
         })
 
 
+
 df = pd.DataFrame(dados_list)
 print(df)
+
+
+# df = pd.DataFrame(data={'col1': [1, 2], 'col2': [3, 4]})
+# table = pa.Table.from_pandas(df, preserve_index=True)
+# pq.write_table(table, 'output.parquet')
+
 
 # file = f'dados_geo_{sigla_uf}.txt'
 # path = '/workspaces/api-geral/GEO/dados/'
