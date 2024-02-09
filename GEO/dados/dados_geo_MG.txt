@@ -1,0 +1,854 @@
+;id;nome;id_mun;nm_mun;id_mcr;nm_mcr;id_uf;nm_uf;sigla_uf;id_reg;nm_reg;sigla_rg;rgimd_id;rgimd_nm;rgint_id;rgint_nm;rguf_id;rguf_sgl;rguf_nm;rgrg_id;rgrg_sgl;rgrg_nm;dtigtao
+0;3100104;Abadia dos Dourados;31019;Patrocínio;3105;Triângulo Mineiro/Alto Paranaíba;31;Minas Gerais;MG;3;Sudeste;SE;310061;Monte Carmelo;3111;Uberlândia;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+1;3100203;Abaeté;31024;Três Marias;3106;Central Mineira;31;Minas Gerais;MG;3;Sudeste;SE;310070;Abaeté;3113;Divinópolis;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+2;3100302;Abre Campo;31061;Manhuaçu;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310028;Manhuaçu;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+3;3100401;Acaiaca;31060;Ponte Nova;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310030;Ponte Nova;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+4;3100500;Açucena;31039;Ipatinga;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310024;Ipatinga;3105;Ipatinga;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+5;3100609;Água Boa;31036;Peçanha;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310014;Capelinha;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+6;3100708;Água Comprida;31022;Uberaba;3105;Triângulo Mineiro/Alto Paranaíba;31;Minas Gerais;MG;3;Sudeste;SE;310055;Uberaba;3110;Uberaba;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+7;3100807;Aguanil;31045;Campo Belo;3109;Oeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310048;Campo Belo;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+8;3100906;Águas Formosas;31016;Nanuque;3104;Vale do Mucuri;31;Minas Gerais;MG;3;Sudeste;SE;310019;Águas Formosas;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+9;3101003;Águas Vermelhas;31005;Salinas;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310018;Pedra Azul;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+10;3101102;Aimorés;31041;Aimorés;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310023;Aimorés - Resplendor;3104;Governador Valadares;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+11;3101201;Aiuruoca;31055;Andrelândia;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310054;Caxambu - Baependi;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+12;3101300;Alagoa;31054;São Lourenço;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310053;São Lourenço;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+13;3101409;Albertina;31051;Poços de Caldas;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310050;Pouso Alegre;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+14;3101508;Além Paraíba;31066;Cataguases;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310036;Além Paraíba;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+15;3101607;Alfenas;31049;Alfenas;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310042;Alfenas;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+16;3101631;Alfredo Vasconcelos;31059;Barbacena;3111;Campo das Vertentes;31;Minas Gerais;MG;3;Sudeste;SE;310037;Barbacena;3107;Barbacena;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+17;3101706;Almenara;31014;Almenara;3103;Jequitinhonha;31;Minas Gerais;MG;3;Sudeste;SE;310015;Almenara;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+18;3101805;Alpercata;31037;Governador Valadares;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310020;Governador Valadares;3104;Governador Valadares;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+19;3101904;Alpinópolis;31047;Passos;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310041;Passos;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+20;3102001;Alterosa;31049;Alfenas;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310042;Alfenas;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+21;3102050;Alto Caparaó;31061;Manhuaçu;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310028;Manhuaçu;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+22;3102100;Alto Rio Doce;31062;Viçosa;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310037;Barbacena;3107;Barbacena;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+23;3102209;Alvarenga;31041;Aimorés;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310025;Caratinga;3105;Ipatinga;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+24;3102308;Alvinópolis;31031;Itabira;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310030;Ponte Nova;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+25;3102407;Alvorada de Minas;31028;Conceição do Mato Dentro;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310016;Diamantina;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+26;3102506;Amparo do Serra;31062;Viçosa;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310030;Ponte Nova;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+27;3102605;Andradas;31051;Poços de Caldas;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310051;Poços de Caldas;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+28;3102704;Cachoeira de Pajeú;31013;Pedra Azul;3103;Jequitinhonha;31;Minas Gerais;MG;3;Sudeste;SE;310018;Pedra Azul;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+29;3102803;Andrelândia;31055;Andrelândia;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310027;Juiz de Fora;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+30;3102852;Angelândia;31011;Capelinha;3103;Jequitinhonha;31;Minas Gerais;MG;3;Sudeste;SE;310014;Capelinha;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+31;3102902;Antônio Carlos;31059;Barbacena;3111;Campo das Vertentes;31;Minas Gerais;MG;3;Sudeste;SE;310037;Barbacena;3107;Barbacena;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+32;3103009;Antônio Dias;31039;Ipatinga;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310024;Ipatinga;3105;Ipatinga;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+33;3103108;Antônio Prado de Minas;31063;Muriaé;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310031;Muriaé;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+34;3103207;Araçaí;31027;Sete Lagoas;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310002;Sete Lagoas;3101;Belo Horizonte;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+35;3103306;Aracitaba;31065;Juiz de Fora;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310027;Juiz de Fora;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+36;3103405;Araçuaí;31012;Araçuaí;3103;Jequitinhonha;31;Minas Gerais;MG;3;Sudeste;SE;310017;Araçuaí;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+37;3103504;Araguari;31018;Uberlândia;3105;Triângulo Mineiro/Alto Paranaíba;31;Minas Gerais;MG;3;Sudeste;SE;310059;Uberlândia;3111;Uberlândia;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+38;3103603;Arantina;31055;Andrelândia;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310027;Juiz de Fora;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+39;3103702;Araponga;31062;Viçosa;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310033;Viçosa;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+40;3103751;Araporã;31018;Uberlândia;3105;Triângulo Mineiro/Alto Paranaíba;31;Minas Gerais;MG;3;Sudeste;SE;310059;Uberlândia;3111;Uberlândia;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+41;3103801;Arapuá;31020;Patos de Minas;3105;Triângulo Mineiro/Alto Paranaíba;31;Minas Gerais;MG;3;Sudeste;SE;310062;Patos de Minas;3112;Patos de Minas;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+42;3103900;Araújos;31026;Bom Despacho;3106;Central Mineira;31;Minas Gerais;MG;3;Sudeste;SE;310065;Divinópolis;3113;Divinópolis;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+43;3104007;Araxá;31023;Araxá;3105;Triângulo Mineiro/Alto Paranaíba;31;Minas Gerais;MG;3;Sudeste;SE;310056;Araxá;3110;Uberaba;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+44;3104106;Arceburgo;31048;São Sebastião do Paraíso;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310044;Guaxupé;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+45;3104205;Arcos;31044;Formiga;3109;Oeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310066;Formiga;3113;Divinópolis;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+46;3104304;Areado;31049;Alfenas;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310042;Alfenas;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+47;3104403;Argirita;31066;Cataguases;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310032;Cataguases;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+48;3104452;Aricanduva;31011;Capelinha;3103;Jequitinhonha;31;Minas Gerais;MG;3;Sudeste;SE;310014;Capelinha;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+49;3104502;Arinos;31001;Unaí;3101;Noroeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310063;Unaí;3112;Patos de Minas;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+50;3104601;Astolfo Dutra;31064;Ubá;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310032;Cataguases;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+51;3104700;Ataléia;31015;Teófilo Otoni;3104;Vale do Mucuri;31;Minas Gerais;MG;3;Sudeste;SE;310013;Teófilo Otoni;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+52;3104809;Augusto de Lima;31025;Curvelo;3106;Central Mineira;31;Minas Gerais;MG;3;Sudeste;SE;310004;Curvelo;3101;Belo Horizonte;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+53;3104908;Baependi;31054;São Lourenço;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310054;Caxambu - Baependi;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+54;3105004;Baldim;31027;Sete Lagoas;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310002;Sete Lagoas;3101;Belo Horizonte;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+55;3105103;Bambuí;31042;Piuí;3109;Oeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310066;Formiga;3113;Divinópolis;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+56;3105202;Bandeira;31014;Almenara;3103;Jequitinhonha;31;Minas Gerais;MG;3;Sudeste;SE;310015;Almenara;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+57;3105301;Bandeira do Sul;31051;Poços de Caldas;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310051;Poços de Caldas;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+58;3105400;Barão de Cocais;31031;Itabira;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310003;Santa Bárbara - Ouro Preto;3101;Belo Horizonte;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+59;3105509;Barão de Monte Alto;31063;Muriaé;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310031;Muriaé;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+60;3105608;Barbacena;31059;Barbacena;3111;Campo das Vertentes;31;Minas Gerais;MG;3;Sudeste;SE;310037;Barbacena;3107;Barbacena;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+61;3105707;Barra Longa;31060;Ponte Nova;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310030;Ponte Nova;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+62;3105905;Barroso;31059;Barbacena;3111;Campo das Vertentes;31;Minas Gerais;MG;3;Sudeste;SE;310037;Barbacena;3107;Barbacena;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+63;3106002;Bela Vista de Minas;31031;Itabira;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310026;João Monlevade;3105;Ipatinga;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+64;3106101;Belmiro Braga;31065;Juiz de Fora;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310027;Juiz de Fora;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+65;3106200;Belo Horizonte;31030;Belo Horizonte;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310001;Belo Horizonte;3101;Belo Horizonte;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+66;3106309;Belo Oriente;31039;Ipatinga;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310024;Ipatinga;3105;Ipatinga;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+67;3106408;Belo Vale;31032;Itaguara;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310038;Conselheiro Lafaiete;3107;Barbacena;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+68;3106507;Berilo;31011;Capelinha;3103;Jequitinhonha;31;Minas Gerais;MG;3;Sudeste;SE;310017;Araçuaí;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+69;3106606;Bertópolis;31016;Nanuque;3104;Vale do Mucuri;31;Minas Gerais;MG;3;Sudeste;SE;310019;Águas Formosas;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+70;3106655;Berizal;31005;Salinas;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310008;Salinas;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+71;3106705;Betim;31030;Belo Horizonte;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310001;Belo Horizonte;3101;Belo Horizonte;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+72;3106804;Bias Fortes;31065;Juiz de Fora;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310027;Juiz de Fora;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+73;3106903;Bicas;31065;Juiz de Fora;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310035;São João Nepomuceno - Bicas;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+74;3107000;Biquinhas;31024;Três Marias;3106;Central Mineira;31;Minas Gerais;MG;3;Sudeste;SE;310070;Abaeté;3113;Divinópolis;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+75;3107109;Boa Esperança;31050;Varginha;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310046;Três Pontas - Boa Esperança;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+76;3107208;Bocaina de Minas;31055;Andrelândia;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310027;Juiz de Fora;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+77;3107307;Bocaiúva;31009;Bocaiúva;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310006;Montes Claros;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+78;3107406;Bom Despacho;31026;Bom Despacho;3106;Central Mineira;31;Minas Gerais;MG;3;Sudeste;SE;310067;Dores do Indaiá;3113;Divinópolis;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+79;3107505;Bom Jardim de Minas;31055;Andrelândia;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310027;Juiz de Fora;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+80;3107604;Bom Jesus da Penha;31047;Passos;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310041;Passos;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+81;3107703;Bom Jesus do Amparo;31031;Itabira;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310005;Itabira;3101;Belo Horizonte;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+82;3107802;Bom Jesus do Galho;31040;Caratinga;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310025;Caratinga;3105;Ipatinga;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+83;3107901;Bom Repouso;31052;Pouso Alegre;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310050;Pouso Alegre;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+84;3108008;Bom Sucesso;31046;Oliveira;3109;Oeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310043;Lavras;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+85;3108107;Bonfim;31032;Itaguara;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310069;Oliveira;3113;Divinópolis;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+86;3108206;Bonfinópolis de Minas;31001;Unaí;3101;Noroeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310063;Unaí;3112;Patos de Minas;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+87;3108255;Bonito de Minas;31003;Januária;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310009;Januária;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+88;3108305;Borda da Mata;31052;Pouso Alegre;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310050;Pouso Alegre;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+89;3108404;Botelhos;31051;Poços de Caldas;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310051;Poços de Caldas;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+90;3108503;Botumirim;31008;Grão Mogol;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310006;Montes Claros;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+91;3108552;Brasilândia de Minas;31002;Paracatu;3101;Noroeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310062;Patos de Minas;3112;Patos de Minas;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+92;3108602;Brasília de Minas;31007;Montes Claros;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310006;Montes Claros;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+93;3108701;Brás Pires;31062;Viçosa;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310029;Ubá;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+94;3108800;Braúnas;31035;Guanhães;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310024;Ipatinga;3105;Ipatinga;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+95;3108909;Brazópolis;31056;Itajubá;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310052;Itajubá;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+96;3109006;Brumadinho;31030;Belo Horizonte;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310001;Belo Horizonte;3101;Belo Horizonte;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+97;3109105;Bueno Brandão;31052;Pouso Alegre;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310050;Pouso Alegre;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+98;3109204;Buenópolis;31025;Curvelo;3106;Central Mineira;31;Minas Gerais;MG;3;Sudeste;SE;310004;Curvelo;3101;Belo Horizonte;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+99;3109253;Bugre;31040;Caratinga;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310024;Ipatinga;3105;Ipatinga;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+100;3109303;Buritis;31001;Unaí;3101;Noroeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310063;Unaí;3112;Patos de Minas;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+101;3109402;Buritizeiro;31006;Pirapora;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310010;Pirapora;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+102;3109451;Cabeceira Grande;31001;Unaí;3101;Noroeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310063;Unaí;3112;Patos de Minas;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+103;3109501;Cabo Verde;31048;São Sebastião do Paraíso;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310044;Guaxupé;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+104;3109600;Cachoeira da Prata;31027;Sete Lagoas;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310002;Sete Lagoas;3101;Belo Horizonte;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+105;3109709;Cachoeira de Minas;31053;Santa Rita do Sapucaí;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310050;Pouso Alegre;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+106;3109808;Cachoeira Dourada;31017;Ituiutaba;3105;Triângulo Mineiro/Alto Paranaíba;31;Minas Gerais;MG;3;Sudeste;SE;310060;Ituiutaba;3111;Uberlândia;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+107;3109907;Caetanópolis;31027;Sete Lagoas;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310002;Sete Lagoas;3101;Belo Horizonte;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+108;3110004;Caeté;31030;Belo Horizonte;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310001;Belo Horizonte;3101;Belo Horizonte;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+109;3110103;Caiana;31063;Muriaé;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310034;Carangola;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+110;3110202;Cajuri;31062;Viçosa;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310033;Viçosa;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+111;3110301;Caldas;31051;Poços de Caldas;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310051;Poços de Caldas;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+112;3110400;Camacho;31044;Formiga;3109;Oeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310065;Divinópolis;3113;Divinópolis;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+113;3110509;Camanducaia;31052;Pouso Alegre;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310050;Pouso Alegre;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+114;3110608;Cambuí;31052;Pouso Alegre;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310050;Pouso Alegre;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+115;3110707;Cambuquira;31054;São Lourenço;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310045;Três Corações;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+116;3110806;Campanário;31037;Governador Valadares;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310013;Teófilo Otoni;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+117;3110905;Campanha;31050;Varginha;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310045;Três Corações;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+118;3111002;Campestre;31051;Poços de Caldas;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310051;Poços de Caldas;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+119;3111101;Campina Verde;31021;Frutal;3105;Triângulo Mineiro/Alto Paranaíba;31;Minas Gerais;MG;3;Sudeste;SE;310059;Uberlândia;3111;Uberlândia;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+120;3111150;Campo Azul;31007;Montes Claros;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310006;Montes Claros;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+121;3111200;Campo Belo;31045;Campo Belo;3109;Oeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310048;Campo Belo;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+122;3111309;Campo do Meio;31050;Varginha;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310042;Alfenas;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+123;3111408;Campo Florido;31022;Uberaba;3105;Triângulo Mineiro/Alto Paranaíba;31;Minas Gerais;MG;3;Sudeste;SE;310055;Uberaba;3110;Uberaba;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+124;3111507;Campos Altos;31023;Araxá;3105;Triângulo Mineiro/Alto Paranaíba;31;Minas Gerais;MG;3;Sudeste;SE;310056;Araxá;3110;Uberaba;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+125;3111606;Campos Gerais;31050;Varginha;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310042;Alfenas;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+126;3111705;Canaã;31062;Viçosa;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310033;Viçosa;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+127;3111804;Canápolis;31018;Uberlândia;3105;Triângulo Mineiro/Alto Paranaíba;31;Minas Gerais;MG;3;Sudeste;SE;310059;Uberlândia;3111;Uberlândia;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+128;3111903;Cana Verde;31045;Campo Belo;3109;Oeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310043;Lavras;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+129;3112000;Candeias;31045;Campo Belo;3109;Oeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310048;Campo Belo;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+130;3112059;Cantagalo;31036;Peçanha;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310021;Guanhães;3104;Governador Valadares;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+131;3112109;Caparaó;31061;Manhuaçu;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310028;Manhuaçu;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+132;3112208;Capela Nova;31059;Barbacena;3111;Campo das Vertentes;31;Minas Gerais;MG;3;Sudeste;SE;310038;Conselheiro Lafaiete;3107;Barbacena;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+133;3112307;Capelinha;31011;Capelinha;3103;Jequitinhonha;31;Minas Gerais;MG;3;Sudeste;SE;310014;Capelinha;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+134;3112406;Capetinga;31047;Passos;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310041;Passos;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+135;3112505;Capim Branco;31027;Sete Lagoas;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310002;Sete Lagoas;3101;Belo Horizonte;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+136;3112604;Capinópolis;31017;Ituiutaba;3105;Triângulo Mineiro/Alto Paranaíba;31;Minas Gerais;MG;3;Sudeste;SE;310060;Ituiutaba;3111;Uberlândia;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+137;3112653;Capitão Andrade;31037;Governador Valadares;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310020;Governador Valadares;3104;Governador Valadares;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+138;3112703;Capitão Enéas;31007;Montes Claros;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310006;Montes Claros;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+139;3112802;Capitólio;31047;Passos;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310049;Piumhi;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+140;3112901;Caputira;31061;Manhuaçu;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310028;Manhuaçu;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+141;3113008;Caraí;31012;Araçuaí;3103;Jequitinhonha;31;Minas Gerais;MG;3;Sudeste;SE;310013;Teófilo Otoni;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+142;3113107;Caranaíba;31059;Barbacena;3111;Campo das Vertentes;31;Minas Gerais;MG;3;Sudeste;SE;310038;Conselheiro Lafaiete;3107;Barbacena;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+143;3113206;Carandaí;31059;Barbacena;3111;Campo das Vertentes;31;Minas Gerais;MG;3;Sudeste;SE;310038;Conselheiro Lafaiete;3107;Barbacena;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+144;3113305;Carangola;31063;Muriaé;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310034;Carangola;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+145;3113404;Caratinga;31040;Caratinga;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310025;Caratinga;3105;Ipatinga;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+146;3113503;Carbonita;31011;Capelinha;3103;Jequitinhonha;31;Minas Gerais;MG;3;Sudeste;SE;310016;Diamantina;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+147;3113602;Careaçu;31053;Santa Rita do Sapucaí;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310050;Pouso Alegre;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+148;3113701;Carlos Chagas;31016;Nanuque;3104;Vale do Mucuri;31;Minas Gerais;MG;3;Sudeste;SE;310013;Teófilo Otoni;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+149;3113800;Carmésia;31035;Guanhães;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310005;Itabira;3101;Belo Horizonte;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+150;3113909;Carmo da Cachoeira;31050;Varginha;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310045;Três Corações;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+151;3114006;Carmo da Mata;31046;Oliveira;3109;Oeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310065;Divinópolis;3113;Divinópolis;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+152;3114105;Carmo de Minas;31054;São Lourenço;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310053;São Lourenço;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+153;3114204;Carmo do Cajuru;31043;Divinópolis;3109;Oeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310065;Divinópolis;3113;Divinópolis;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+154;3114303;Carmo do Paranaíba;31020;Patos de Minas;3105;Triângulo Mineiro/Alto Paranaíba;31;Minas Gerais;MG;3;Sudeste;SE;310062;Patos de Minas;3112;Patos de Minas;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+155;3114402;Carmo do Rio Claro;31049;Alfenas;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310041;Passos;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+156;3114501;Carmópolis de Minas;31046;Oliveira;3109;Oeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310069;Oliveira;3113;Divinópolis;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+157;3114550;Carneirinho;31021;Frutal;3105;Triângulo Mineiro/Alto Paranaíba;31;Minas Gerais;MG;3;Sudeste;SE;310058;Iturama;3110;Uberaba;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+158;3114600;Carrancas;31057;Lavras;3111;Campo das Vertentes;31;Minas Gerais;MG;3;Sudeste;SE;310043;Lavras;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+159;3114709;Carvalhópolis;31049;Alfenas;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310042;Alfenas;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+160;3114808;Carvalhos;31055;Andrelândia;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310054;Caxambu - Baependi;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+161;3114907;Casa Grande;31034;Conselheiro Lafaiete;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310038;Conselheiro Lafaiete;3107;Barbacena;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+162;3115003;Cascalho Rico;31018;Uberlândia;3105;Triângulo Mineiro/Alto Paranaíba;31;Minas Gerais;MG;3;Sudeste;SE;310059;Uberlândia;3111;Uberlândia;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+163;3115102;Cássia;31047;Passos;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310041;Passos;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+164;3115201;Conceição da Barra de Minas;31058;São João Del Rei;3111;Campo das Vertentes;31;Minas Gerais;MG;3;Sudeste;SE;310039;São João del Rei;3107;Barbacena;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+165;3115300;Cataguases;31066;Cataguases;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310032;Cataguases;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+166;3115359;Catas Altas;31031;Itabira;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310003;Santa Bárbara - Ouro Preto;3101;Belo Horizonte;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+167;3115409;Catas Altas da Noruega;31034;Conselheiro Lafaiete;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310038;Conselheiro Lafaiete;3107;Barbacena;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+168;3115458;Catuji;31015;Teófilo Otoni;3104;Vale do Mucuri;31;Minas Gerais;MG;3;Sudeste;SE;310013;Teófilo Otoni;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+169;3115474;Catuti;31004;Janaúba;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310012;Espinosa;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+170;3115508;Caxambu;31054;São Lourenço;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310054;Caxambu - Baependi;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+171;3115607;Cedro do Abaeté;31024;Três Marias;3106;Central Mineira;31;Minas Gerais;MG;3;Sudeste;SE;310070;Abaeté;3113;Divinópolis;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+172;3115706;Central de Minas;31038;Mantena;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310022;Mantena;3104;Governador Valadares;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+173;3115805;Centralina;31018;Uberlândia;3105;Triângulo Mineiro/Alto Paranaíba;31;Minas Gerais;MG;3;Sudeste;SE;310059;Uberlândia;3111;Uberlândia;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+174;3115904;Chácara;31065;Juiz de Fora;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310027;Juiz de Fora;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+175;3116001;Chalé;31061;Manhuaçu;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310028;Manhuaçu;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+176;3116100;Chapada do Norte;31011;Capelinha;3103;Jequitinhonha;31;Minas Gerais;MG;3;Sudeste;SE;310014;Capelinha;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+177;3116159;Chapada Gaúcha;31003;Januária;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310011;São Francisco;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+178;3116209;Chiador;31065;Juiz de Fora;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310027;Juiz de Fora;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+179;3116308;Cipotânea;31062;Viçosa;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310037;Barbacena;3107;Barbacena;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+180;3116407;Claraval;31047;Passos;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310041;Passos;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+181;3116506;Claro dos Poções;31007;Montes Claros;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310006;Montes Claros;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+182;3116605;Cláudio;31043;Divinópolis;3109;Oeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310065;Divinópolis;3113;Divinópolis;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+183;3116704;Coimbra;31062;Viçosa;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310033;Viçosa;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+184;3116803;Coluna;31035;Guanhães;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310021;Guanhães;3104;Governador Valadares;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+185;3116902;Comendador Gomes;31021;Frutal;3105;Triângulo Mineiro/Alto Paranaíba;31;Minas Gerais;MG;3;Sudeste;SE;310057;Frutal;3110;Uberaba;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+186;3117009;Comercinho;31013;Pedra Azul;3103;Jequitinhonha;31;Minas Gerais;MG;3;Sudeste;SE;310018;Pedra Azul;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+187;3117108;Conceição da Aparecida;31049;Alfenas;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310042;Alfenas;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+188;3117207;Conceição das Pedras;31053;Santa Rita do Sapucaí;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310052;Itajubá;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+189;3117306;Conceição das Alagoas;31022;Uberaba;3105;Triângulo Mineiro/Alto Paranaíba;31;Minas Gerais;MG;3;Sudeste;SE;310055;Uberaba;3110;Uberaba;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+190;3117405;Conceição de Ipanema;31041;Aimorés;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310028;Manhuaçu;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+191;3117504;Conceição do Mato Dentro;31028;Conceição do Mato Dentro;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310002;Sete Lagoas;3101;Belo Horizonte;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+192;3117603;Conceição do Pará;31043;Divinópolis;3109;Oeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310065;Divinópolis;3113;Divinópolis;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+193;3117702;Conceição do Rio Verde;31054;São Lourenço;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310053;São Lourenço;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+194;3117801;Conceição dos Ouros;31053;Santa Rita do Sapucaí;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310050;Pouso Alegre;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+195;3117836;Cônego Marinho;31003;Januária;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310009;Januária;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+196;3117876;Confins;31030;Belo Horizonte;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310001;Belo Horizonte;3101;Belo Horizonte;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+197;3117900;Congonhal;31052;Pouso Alegre;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310050;Pouso Alegre;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+198;3118007;Congonhas;31034;Conselheiro Lafaiete;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310038;Conselheiro Lafaiete;3107;Barbacena;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+199;3118106;Congonhas do Norte;31028;Conceição do Mato Dentro;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310002;Sete Lagoas;3101;Belo Horizonte;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+200;3118205;Conquista;31022;Uberaba;3105;Triângulo Mineiro/Alto Paranaíba;31;Minas Gerais;MG;3;Sudeste;SE;310055;Uberaba;3110;Uberaba;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+201;3118304;Conselheiro Lafaiete;31034;Conselheiro Lafaiete;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310038;Conselheiro Lafaiete;3107;Barbacena;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+202;3118403;Conselheiro Pena;31041;Aimorés;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310020;Governador Valadares;3104;Governador Valadares;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+203;3118502;Consolação;31056;Itajubá;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310050;Pouso Alegre;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+204;3118601;Contagem;31030;Belo Horizonte;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310001;Belo Horizonte;3101;Belo Horizonte;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+205;3118700;Coqueiral;31050;Varginha;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310046;Três Pontas - Boa Esperança;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+206;3118809;Coração de Jesus;31007;Montes Claros;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310006;Montes Claros;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+207;3118908;Cordisburgo;31027;Sete Lagoas;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310002;Sete Lagoas;3101;Belo Horizonte;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+208;3119005;Cordislândia;31053;Santa Rita do Sapucaí;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310040;Varginha;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+209;3119104;Corinto;31025;Curvelo;3106;Central Mineira;31;Minas Gerais;MG;3;Sudeste;SE;310004;Curvelo;3101;Belo Horizonte;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+210;3119203;Coroaci;31037;Governador Valadares;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310020;Governador Valadares;3104;Governador Valadares;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+211;3119302;Coromandel;31019;Patrocínio;3105;Triângulo Mineiro/Alto Paranaíba;31;Minas Gerais;MG;3;Sudeste;SE;310064;Patrocínio;3112;Patos de Minas;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+212;3119401;Coronel Fabriciano;31039;Ipatinga;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310024;Ipatinga;3105;Ipatinga;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+213;3119500;Coronel Murta;31012;Araçuaí;3103;Jequitinhonha;31;Minas Gerais;MG;3;Sudeste;SE;310017;Araçuaí;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+214;3119609;Coronel Pacheco;31065;Juiz de Fora;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310027;Juiz de Fora;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+215;3119708;Coronel Xavier Chaves;31058;São João Del Rei;3111;Campo das Vertentes;31;Minas Gerais;MG;3;Sudeste;SE;310039;São João del Rei;3107;Barbacena;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+216;3119807;Córrego Danta;31042;Piuí;3109;Oeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310066;Formiga;3113;Divinópolis;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+217;3119906;Córrego do Bom Jesus;31052;Pouso Alegre;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310050;Pouso Alegre;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+218;3119955;Córrego Fundo;31044;Formiga;3109;Oeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310066;Formiga;3113;Divinópolis;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+219;3120003;Córrego Novo;31040;Caratinga;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310025;Caratinga;3105;Ipatinga;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+220;3120102;Couto de Magalhães de Minas;31010;Diamantina;3103;Jequitinhonha;31;Minas Gerais;MG;3;Sudeste;SE;310016;Diamantina;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+221;3120151;Crisólita;31016;Nanuque;3104;Vale do Mucuri;31;Minas Gerais;MG;3;Sudeste;SE;310019;Águas Formosas;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+222;3120201;Cristais;31045;Campo Belo;3109;Oeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310048;Campo Belo;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+223;3120300;Cristália;31008;Grão Mogol;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310006;Montes Claros;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+224;3120409;Cristiano Otoni;31034;Conselheiro Lafaiete;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310038;Conselheiro Lafaiete;3107;Barbacena;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+225;3120508;Cristina;31056;Itajubá;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310053;São Lourenço;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+226;3120607;Crucilândia;31032;Itaguara;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310069;Oliveira;3113;Divinópolis;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+227;3120706;Cruzeiro da Fortaleza;31019;Patrocínio;3105;Triângulo Mineiro/Alto Paranaíba;31;Minas Gerais;MG;3;Sudeste;SE;310064;Patrocínio;3112;Patos de Minas;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+228;3120805;Cruzília;31055;Andrelândia;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310054;Caxambu - Baependi;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+229;3120839;Cuparaque;31041;Aimorés;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310023;Aimorés - Resplendor;3104;Governador Valadares;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+230;3120870;Curral de Dentro;31005;Salinas;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310008;Salinas;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+231;3120904;Curvelo;31025;Curvelo;3106;Central Mineira;31;Minas Gerais;MG;3;Sudeste;SE;310004;Curvelo;3101;Belo Horizonte;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+232;3121001;Datas;31010;Diamantina;3103;Jequitinhonha;31;Minas Gerais;MG;3;Sudeste;SE;310016;Diamantina;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+233;3121100;Delfim Moreira;31056;Itajubá;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310052;Itajubá;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+234;3121209;Delfinópolis;31047;Passos;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310041;Passos;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+235;3121258;Delta;31022;Uberaba;3105;Triângulo Mineiro/Alto Paranaíba;31;Minas Gerais;MG;3;Sudeste;SE;310055;Uberaba;3110;Uberaba;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+236;3121308;Descoberto;31065;Juiz de Fora;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310035;São João Nepomuceno - Bicas;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+237;3121407;Desterro de Entre Rios;31034;Conselheiro Lafaiete;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310038;Conselheiro Lafaiete;3107;Barbacena;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+238;3121506;Desterro do Melo;31059;Barbacena;3111;Campo das Vertentes;31;Minas Gerais;MG;3;Sudeste;SE;310037;Barbacena;3107;Barbacena;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+239;3121605;Diamantina;31010;Diamantina;3103;Jequitinhonha;31;Minas Gerais;MG;3;Sudeste;SE;310016;Diamantina;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+240;3121704;Diogo de Vasconcelos;31033;Ouro Preto;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310030;Ponte Nova;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+241;3121803;Dionísio;31031;Itabira;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310024;Ipatinga;3105;Ipatinga;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+242;3121902;Divinésia;31064;Ubá;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310029;Ubá;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+243;3122009;Divino;31063;Muriaé;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310034;Carangola;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+244;3122108;Divino das Laranjeiras;31037;Governador Valadares;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310020;Governador Valadares;3104;Governador Valadares;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+245;3122207;Divinolândia de Minas;31035;Guanhães;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310021;Guanhães;3104;Governador Valadares;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+246;3122306;Divinópolis;31043;Divinópolis;3109;Oeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310065;Divinópolis;3113;Divinópolis;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+247;3122355;Divisa Alegre;31005;Salinas;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310018;Pedra Azul;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+248;3122405;Divisa Nova;31049;Alfenas;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310042;Alfenas;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+249;3122454;Divisópolis;31014;Almenara;3103;Jequitinhonha;31;Minas Gerais;MG;3;Sudeste;SE;310018;Pedra Azul;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+250;3122470;Dom Bosco;31001;Unaí;3101;Noroeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310063;Unaí;3112;Patos de Minas;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+251;3122504;Dom Cavati;31040;Caratinga;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310024;Ipatinga;3105;Ipatinga;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+252;3122603;Dom Joaquim;31028;Conceição do Mato Dentro;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310021;Guanhães;3104;Governador Valadares;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+253;3122702;Dom Silvério;31060;Ponte Nova;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310030;Ponte Nova;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+254;3122801;Dom Viçoso;31056;Itajubá;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310053;São Lourenço;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+255;3122900;Dona Euzébia;31066;Cataguases;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310032;Cataguases;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+256;3123007;Dores de Campos;31058;São João Del Rei;3111;Campo das Vertentes;31;Minas Gerais;MG;3;Sudeste;SE;310037;Barbacena;3107;Barbacena;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+257;3123106;Dores de Guanhães;31035;Guanhães;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310021;Guanhães;3104;Governador Valadares;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+258;3123205;Dores do Indaiá;31026;Bom Despacho;3106;Central Mineira;31;Minas Gerais;MG;3;Sudeste;SE;310067;Dores do Indaiá;3113;Divinópolis;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+259;3123304;Dores do Turvo;31064;Ubá;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310029;Ubá;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+260;3123403;Doresópolis;31042;Piuí;3109;Oeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310049;Piumhi;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+261;3123502;Douradoquara;31019;Patrocínio;3105;Triângulo Mineiro/Alto Paranaíba;31;Minas Gerais;MG;3;Sudeste;SE;310061;Monte Carmelo;3111;Uberlândia;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+262;3123528;Durandé;31061;Manhuaçu;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310028;Manhuaçu;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+263;3123601;Elói Mendes;31050;Varginha;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310040;Varginha;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+264;3123700;Engenheiro Caldas;31037;Governador Valadares;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310020;Governador Valadares;3104;Governador Valadares;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+265;3123809;Engenheiro Navarro;31009;Bocaiúva;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310006;Montes Claros;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+266;3123858;Entre Folhas;31040;Caratinga;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310025;Caratinga;3105;Ipatinga;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+267;3123908;Entre Rios de Minas;31034;Conselheiro Lafaiete;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310038;Conselheiro Lafaiete;3107;Barbacena;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+268;3124005;Ervália;31062;Viçosa;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310033;Viçosa;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+269;3124104;Esmeraldas;31030;Belo Horizonte;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310001;Belo Horizonte;3101;Belo Horizonte;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+270;3124203;Espera Feliz;31063;Muriaé;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310034;Carangola;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+271;3124302;Espinosa;31004;Janaúba;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310012;Espinosa;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+272;3124401;Espírito Santo do Dourado;31052;Pouso Alegre;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310050;Pouso Alegre;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+273;3124500;Estiva;31052;Pouso Alegre;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310050;Pouso Alegre;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+274;3124609;Estrela Dalva;31066;Cataguases;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310036;Além Paraíba;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+275;3124708;Estrela do Indaiá;31026;Bom Despacho;3106;Central Mineira;31;Minas Gerais;MG;3;Sudeste;SE;310067;Dores do Indaiá;3113;Divinópolis;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+276;3124807;Estrela do Sul;31019;Patrocínio;3105;Triângulo Mineiro/Alto Paranaíba;31;Minas Gerais;MG;3;Sudeste;SE;310061;Monte Carmelo;3111;Uberlândia;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+277;3124906;Eugenópolis;31063;Muriaé;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310031;Muriaé;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+278;3125002;Ewbank da Câmara;31065;Juiz de Fora;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310027;Juiz de Fora;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+279;3125101;Extrema;31052;Pouso Alegre;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310050;Pouso Alegre;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+280;3125200;Fama;31049;Alfenas;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310042;Alfenas;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+281;3125309;Faria Lemos;31063;Muriaé;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310034;Carangola;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+282;3125408;Felício dos Santos;31010;Diamantina;3103;Jequitinhonha;31;Minas Gerais;MG;3;Sudeste;SE;310016;Diamantina;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+283;3125507;São Gonçalo do Rio Preto;31010;Diamantina;3103;Jequitinhonha;31;Minas Gerais;MG;3;Sudeste;SE;310016;Diamantina;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+284;3125606;Felisburgo;31014;Almenara;3103;Jequitinhonha;31;Minas Gerais;MG;3;Sudeste;SE;310015;Almenara;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+285;3125705;Felixlândia;31025;Curvelo;3106;Central Mineira;31;Minas Gerais;MG;3;Sudeste;SE;310004;Curvelo;3101;Belo Horizonte;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+286;3125804;Fernandes Tourinho;31037;Governador Valadares;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310020;Governador Valadares;3104;Governador Valadares;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+287;3125903;Ferros;31031;Itabira;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310005;Itabira;3101;Belo Horizonte;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+288;3125952;Fervedouro;31063;Muriaé;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310031;Muriaé;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+289;3126000;Florestal;31029;Pará de Minas;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310001;Belo Horizonte;3101;Belo Horizonte;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+290;3126109;Formiga;31044;Formiga;3109;Oeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310066;Formiga;3113;Divinópolis;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+291;3126208;Formoso;31001;Unaí;3101;Noroeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310063;Unaí;3112;Patos de Minas;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+292;3126307;Fortaleza de Minas;31047;Passos;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310041;Passos;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+293;3126406;Fortuna de Minas;31027;Sete Lagoas;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310002;Sete Lagoas;3101;Belo Horizonte;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+294;3126505;Francisco Badaró;31011;Capelinha;3103;Jequitinhonha;31;Minas Gerais;MG;3;Sudeste;SE;310017;Araçuaí;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+295;3126604;Francisco Dumont;31009;Bocaiúva;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310006;Montes Claros;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+296;3126703;Francisco Sá;31007;Montes Claros;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310006;Montes Claros;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+297;3126752;Franciscópolis;31015;Teófilo Otoni;3104;Vale do Mucuri;31;Minas Gerais;MG;3;Sudeste;SE;310013;Teófilo Otoni;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+298;3126802;Frei Gaspar;31015;Teófilo Otoni;3104;Vale do Mucuri;31;Minas Gerais;MG;3;Sudeste;SE;310013;Teófilo Otoni;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+299;3126901;Frei Inocêncio;31037;Governador Valadares;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310020;Governador Valadares;3104;Governador Valadares;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+300;3126950;Frei Lagonegro;31036;Peçanha;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310021;Guanhães;3104;Governador Valadares;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+301;3127008;Fronteira;31021;Frutal;3105;Triângulo Mineiro/Alto Paranaíba;31;Minas Gerais;MG;3;Sudeste;SE;310057;Frutal;3110;Uberaba;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+302;3127057;Fronteira dos Vales;31016;Nanuque;3104;Vale do Mucuri;31;Minas Gerais;MG;3;Sudeste;SE;310019;Águas Formosas;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+303;3127073;Fruta de Leite;31005;Salinas;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310008;Salinas;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+304;3127107;Frutal;31021;Frutal;3105;Triângulo Mineiro/Alto Paranaíba;31;Minas Gerais;MG;3;Sudeste;SE;310057;Frutal;3110;Uberaba;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+305;3127206;Funilândia;31027;Sete Lagoas;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310002;Sete Lagoas;3101;Belo Horizonte;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+306;3127305;Galiléia;31037;Governador Valadares;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310020;Governador Valadares;3104;Governador Valadares;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+307;3127339;Gameleiras;31004;Janaúba;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310012;Espinosa;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+308;3127354;Glaucilândia;31007;Montes Claros;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310006;Montes Claros;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+309;3127370;Goiabeira;31041;Aimorés;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310020;Governador Valadares;3104;Governador Valadares;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+310;3127388;Goianá;31065;Juiz de Fora;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310027;Juiz de Fora;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+311;3127404;Gonçalves;31052;Pouso Alegre;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310052;Itajubá;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+312;3127503;Gonzaga;31035;Guanhães;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310020;Governador Valadares;3104;Governador Valadares;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+313;3127602;Gouveia;31010;Diamantina;3103;Jequitinhonha;31;Minas Gerais;MG;3;Sudeste;SE;310016;Diamantina;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+314;3127701;Governador Valadares;31037;Governador Valadares;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310020;Governador Valadares;3104;Governador Valadares;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+315;3127800;Grão Mogol;31008;Grão Mogol;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310006;Montes Claros;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+316;3127909;Grupiara;31019;Patrocínio;3105;Triângulo Mineiro/Alto Paranaíba;31;Minas Gerais;MG;3;Sudeste;SE;310061;Monte Carmelo;3111;Uberlândia;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+317;3128006;Guanhães;31035;Guanhães;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310021;Guanhães;3104;Governador Valadares;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+318;3128105;Guapé;31050;Varginha;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310041;Passos;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+319;3128204;Guaraciaba;31060;Ponte Nova;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310030;Ponte Nova;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+320;3128253;Guaraciama;31009;Bocaiúva;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310006;Montes Claros;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+321;3128303;Guaranésia;31048;São Sebastião do Paraíso;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310044;Guaxupé;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+322;3128402;Guarani;31064;Ubá;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310029;Ubá;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+323;3128501;Guarará;31065;Juiz de Fora;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310035;São João Nepomuceno - Bicas;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+324;3128600;Guarda-Mor;31002;Paracatu;3101;Noroeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310062;Patos de Minas;3112;Patos de Minas;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+325;3128709;Guaxupé;31048;São Sebastião do Paraíso;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310044;Guaxupé;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+326;3128808;Guidoval;31064;Ubá;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310029;Ubá;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+327;3128907;Guimarânia;31020;Patos de Minas;3105;Triângulo Mineiro/Alto Paranaíba;31;Minas Gerais;MG;3;Sudeste;SE;310064;Patrocínio;3112;Patos de Minas;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+328;3129004;Guiricema;31064;Ubá;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310029;Ubá;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+329;3129103;Gurinhatã;31017;Ituiutaba;3105;Triângulo Mineiro/Alto Paranaíba;31;Minas Gerais;MG;3;Sudeste;SE;310060;Ituiutaba;3111;Uberlândia;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+330;3129202;Heliodora;31053;Santa Rita do Sapucaí;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310050;Pouso Alegre;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+331;3129301;Iapu;31040;Caratinga;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310024;Ipatinga;3105;Ipatinga;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+332;3129400;Ibertioga;31059;Barbacena;3111;Campo das Vertentes;31;Minas Gerais;MG;3;Sudeste;SE;310037;Barbacena;3107;Barbacena;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+333;3129509;Ibiá;31023;Araxá;3105;Triângulo Mineiro/Alto Paranaíba;31;Minas Gerais;MG;3;Sudeste;SE;310056;Araxá;3110;Uberaba;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+334;3129608;Ibiaí;31006;Pirapora;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310010;Pirapora;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+335;3129657;Ibiracatu;31007;Montes Claros;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310006;Montes Claros;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+336;3129707;Ibiraci;31047;Passos;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310041;Passos;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+337;3129806;Ibirité;31030;Belo Horizonte;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310001;Belo Horizonte;3101;Belo Horizonte;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+338;3129905;Ibitiúra de Minas;31051;Poços de Caldas;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310051;Poços de Caldas;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+339;3130002;Ibituruna;31046;Oliveira;3109;Oeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310043;Lavras;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+340;3130051;Icaraí de Minas;31003;Januária;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310011;São Francisco;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+341;3130101;Igarapé;31030;Belo Horizonte;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310001;Belo Horizonte;3101;Belo Horizonte;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+342;3130200;Igaratinga;31043;Divinópolis;3109;Oeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310068;Pará de Minas;3113;Divinópolis;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+343;3130309;Iguatama;31042;Piuí;3109;Oeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310066;Formiga;3113;Divinópolis;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+344;3130408;Ijaci;31057;Lavras;3111;Campo das Vertentes;31;Minas Gerais;MG;3;Sudeste;SE;310043;Lavras;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+345;3130507;Ilicínea;31050;Varginha;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310046;Três Pontas - Boa Esperança;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+346;3130556;Imbé de Minas;31040;Caratinga;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310025;Caratinga;3105;Ipatinga;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+347;3130606;Inconfidentes;31051;Poços de Caldas;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310050;Pouso Alegre;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+348;3130655;Indaiabira;31005;Salinas;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310008;Salinas;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+349;3130705;Indianópolis;31018;Uberlândia;3105;Triângulo Mineiro/Alto Paranaíba;31;Minas Gerais;MG;3;Sudeste;SE;310059;Uberlândia;3111;Uberlândia;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+350;3130804;Ingaí;31057;Lavras;3111;Campo das Vertentes;31;Minas Gerais;MG;3;Sudeste;SE;310043;Lavras;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+351;3130903;Inhapim;31040;Caratinga;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310025;Caratinga;3105;Ipatinga;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+352;3131000;Inhaúma;31027;Sete Lagoas;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310002;Sete Lagoas;3101;Belo Horizonte;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+353;3131109;Inimutaba;31025;Curvelo;3106;Central Mineira;31;Minas Gerais;MG;3;Sudeste;SE;310004;Curvelo;3101;Belo Horizonte;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+354;3131158;Ipaba;31040;Caratinga;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310024;Ipatinga;3105;Ipatinga;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+355;3131208;Ipanema;31041;Aimorés;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310028;Manhuaçu;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+356;3131307;Ipatinga;31039;Ipatinga;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310024;Ipatinga;3105;Ipatinga;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+357;3131406;Ipiaçu;31017;Ituiutaba;3105;Triângulo Mineiro/Alto Paranaíba;31;Minas Gerais;MG;3;Sudeste;SE;310060;Ituiutaba;3111;Uberlândia;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+358;3131505;Ipuiúna;31052;Pouso Alegre;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310050;Pouso Alegre;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+359;3131604;Iraí de Minas;31019;Patrocínio;3105;Triângulo Mineiro/Alto Paranaíba;31;Minas Gerais;MG;3;Sudeste;SE;310061;Monte Carmelo;3111;Uberlândia;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+360;3131703;Itabira;31031;Itabira;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310005;Itabira;3101;Belo Horizonte;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+361;3131802;Itabirinha;31038;Mantena;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310022;Mantena;3104;Governador Valadares;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+362;3131901;Itabirito;31033;Ouro Preto;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310003;Santa Bárbara - Ouro Preto;3101;Belo Horizonte;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+363;3132008;Itacambira;31008;Grão Mogol;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310006;Montes Claros;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+364;3132107;Itacarambi;31003;Januária;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310009;Januária;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+365;3132206;Itaguara;31032;Itaguara;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310069;Oliveira;3113;Divinópolis;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+366;3132305;Itaipé;31015;Teófilo Otoni;3104;Vale do Mucuri;31;Minas Gerais;MG;3;Sudeste;SE;310013;Teófilo Otoni;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+367;3132404;Itajubá;31056;Itajubá;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310052;Itajubá;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+368;3132503;Itamarandiba;31011;Capelinha;3103;Jequitinhonha;31;Minas Gerais;MG;3;Sudeste;SE;310014;Capelinha;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+369;3132602;Itamarati de Minas;31066;Cataguases;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310032;Cataguases;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+370;3132701;Itambacuri;31037;Governador Valadares;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310013;Teófilo Otoni;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+371;3132800;Itambé do Mato Dentro;31028;Conceição do Mato Dentro;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310005;Itabira;3101;Belo Horizonte;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+372;3132909;Itamogi;31048;São Sebastião do Paraíso;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310047;São Sebastião do Paraíso;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+373;3133006;Itamonte;31054;São Lourenço;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310053;São Lourenço;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+374;3133105;Itanhandu;31054;São Lourenço;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310053;São Lourenço;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+375;3133204;Itanhomi;31037;Governador Valadares;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310020;Governador Valadares;3104;Governador Valadares;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+376;3133303;Itaobim;31013;Pedra Azul;3103;Jequitinhonha;31;Minas Gerais;MG;3;Sudeste;SE;310013;Teófilo Otoni;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+377;3133402;Itapagipe;31021;Frutal;3105;Triângulo Mineiro/Alto Paranaíba;31;Minas Gerais;MG;3;Sudeste;SE;310057;Frutal;3110;Uberaba;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+378;3133501;Itapecerica;31044;Formiga;3109;Oeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310065;Divinópolis;3113;Divinópolis;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+379;3133600;Itapeva;31052;Pouso Alegre;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310050;Pouso Alegre;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+380;3133709;Itatiaiuçu;31032;Itaguara;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310065;Divinópolis;3113;Divinópolis;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+381;3133758;Itaú de Minas;31047;Passos;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310041;Passos;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+382;3133808;Itaúna;31043;Divinópolis;3109;Oeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310065;Divinópolis;3113;Divinópolis;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+383;3133907;Itaverava;31034;Conselheiro Lafaiete;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310038;Conselheiro Lafaiete;3107;Barbacena;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+384;3134004;Itinga;31012;Araçuaí;3103;Jequitinhonha;31;Minas Gerais;MG;3;Sudeste;SE;310017;Araçuaí;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+385;3134103;Itueta;31041;Aimorés;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310023;Aimorés - Resplendor;3104;Governador Valadares;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+386;3134202;Ituiutaba;31017;Ituiutaba;3105;Triângulo Mineiro/Alto Paranaíba;31;Minas Gerais;MG;3;Sudeste;SE;310060;Ituiutaba;3111;Uberlândia;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+387;3134301;Itumirim;31057;Lavras;3111;Campo das Vertentes;31;Minas Gerais;MG;3;Sudeste;SE;310043;Lavras;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+388;3134400;Iturama;31021;Frutal;3105;Triângulo Mineiro/Alto Paranaíba;31;Minas Gerais;MG;3;Sudeste;SE;310058;Iturama;3110;Uberaba;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+389;3134509;Itutinga;31057;Lavras;3111;Campo das Vertentes;31;Minas Gerais;MG;3;Sudeste;SE;310043;Lavras;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+390;3134608;Jaboticatubas;31027;Sete Lagoas;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310001;Belo Horizonte;3101;Belo Horizonte;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+391;3134707;Jacinto;31014;Almenara;3103;Jequitinhonha;31;Minas Gerais;MG;3;Sudeste;SE;310015;Almenara;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+392;3134806;Jacuí;31048;São Sebastião do Paraíso;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310047;São Sebastião do Paraíso;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+393;3134905;Jacutinga;31051;Poços de Caldas;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310050;Pouso Alegre;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+394;3135001;Jaguaraçu;31039;Ipatinga;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310024;Ipatinga;3105;Ipatinga;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+395;3135050;Jaíba;31004;Janaúba;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310007;Janaúba;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+396;3135076;Jampruca;31037;Governador Valadares;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310020;Governador Valadares;3104;Governador Valadares;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+397;3135100;Janaúba;31004;Janaúba;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310007;Janaúba;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+398;3135209;Januária;31003;Januária;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310009;Januária;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+399;3135308;Japaraíba;31026;Bom Despacho;3106;Central Mineira;31;Minas Gerais;MG;3;Sudeste;SE;310065;Divinópolis;3113;Divinópolis;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+400;3135357;Japonvar;31007;Montes Claros;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310006;Montes Claros;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+401;3135407;Jeceaba;31032;Itaguara;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310038;Conselheiro Lafaiete;3107;Barbacena;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+402;3135456;Jenipapo de Minas;31011;Capelinha;3103;Jequitinhonha;31;Minas Gerais;MG;3;Sudeste;SE;310017;Araçuaí;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+403;3135506;Jequeri;31060;Ponte Nova;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310030;Ponte Nova;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+404;3135605;Jequitaí;31006;Pirapora;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310006;Montes Claros;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+405;3135704;Jequitibá;31027;Sete Lagoas;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310002;Sete Lagoas;3101;Belo Horizonte;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+406;3135803;Jequitinhonha;31014;Almenara;3103;Jequitinhonha;31;Minas Gerais;MG;3;Sudeste;SE;310015;Almenara;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+407;3135902;Jesuânia;31054;São Lourenço;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310053;São Lourenço;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+408;3136009;Joaíma;31014;Almenara;3103;Jequitinhonha;31;Minas Gerais;MG;3;Sudeste;SE;310015;Almenara;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+409;3136108;Joanésia;31039;Ipatinga;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310024;Ipatinga;3105;Ipatinga;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+410;3136207;João Monlevade;31031;Itabira;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310026;João Monlevade;3105;Ipatinga;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+411;3136306;João Pinheiro;31002;Paracatu;3101;Noroeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310062;Patos de Minas;3112;Patos de Minas;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+412;3136405;Joaquim Felício;31025;Curvelo;3106;Central Mineira;31;Minas Gerais;MG;3;Sudeste;SE;310006;Montes Claros;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+413;3136504;Jordânia;31014;Almenara;3103;Jequitinhonha;31;Minas Gerais;MG;3;Sudeste;SE;310015;Almenara;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+414;3136520;José Gonçalves de Minas;31011;Capelinha;3103;Jequitinhonha;31;Minas Gerais;MG;3;Sudeste;SE;310017;Araçuaí;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+415;3136553;José Raydan;31036;Peçanha;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310021;Guanhães;3104;Governador Valadares;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+416;3136579;Josenópolis;31008;Grão Mogol;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310006;Montes Claros;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+417;3136603;Nova União;31031;Itabira;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310001;Belo Horizonte;3101;Belo Horizonte;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+418;3136652;Juatuba;31030;Belo Horizonte;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310001;Belo Horizonte;3101;Belo Horizonte;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+419;3136702;Juiz de Fora;31065;Juiz de Fora;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310027;Juiz de Fora;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+420;3136801;Juramento;31007;Montes Claros;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310006;Montes Claros;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+421;3136900;Juruaia;31048;São Sebastião do Paraíso;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310044;Guaxupé;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+422;3136959;Juvenília;31003;Januária;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310009;Januária;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+423;3137007;Ladainha;31015;Teófilo Otoni;3104;Vale do Mucuri;31;Minas Gerais;MG;3;Sudeste;SE;310013;Teófilo Otoni;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+424;3137106;Lagamar;31002;Paracatu;3101;Noroeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310062;Patos de Minas;3112;Patos de Minas;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+425;3137205;Lagoa da Prata;31026;Bom Despacho;3106;Central Mineira;31;Minas Gerais;MG;3;Sudeste;SE;310065;Divinópolis;3113;Divinópolis;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+426;3137304;Lagoa dos Patos;31006;Pirapora;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310006;Montes Claros;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+427;3137403;Lagoa Dourada;31058;São João Del Rei;3111;Campo das Vertentes;31;Minas Gerais;MG;3;Sudeste;SE;310039;São João del Rei;3107;Barbacena;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+428;3137502;Lagoa Formosa;31020;Patos de Minas;3105;Triângulo Mineiro/Alto Paranaíba;31;Minas Gerais;MG;3;Sudeste;SE;310062;Patos de Minas;3112;Patos de Minas;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+429;3137536;Lagoa Grande;31002;Paracatu;3101;Noroeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310062;Patos de Minas;3112;Patos de Minas;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+430;3137601;Lagoa Santa;31030;Belo Horizonte;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310001;Belo Horizonte;3101;Belo Horizonte;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+431;3137700;Lajinha;31061;Manhuaçu;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310028;Manhuaçu;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+432;3137809;Lambari;31054;São Lourenço;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310053;São Lourenço;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+433;3137908;Lamim;31062;Viçosa;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310038;Conselheiro Lafaiete;3107;Barbacena;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+434;3138005;Laranjal;31066;Cataguases;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310032;Cataguases;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+435;3138104;Lassance;31006;Pirapora;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310010;Pirapora;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+436;3138203;Lavras;31057;Lavras;3111;Campo das Vertentes;31;Minas Gerais;MG;3;Sudeste;SE;310043;Lavras;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+437;3138302;Leandro Ferreira;31026;Bom Despacho;3106;Central Mineira;31;Minas Gerais;MG;3;Sudeste;SE;310065;Divinópolis;3113;Divinópolis;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+438;3138351;Leme do Prado;31011;Capelinha;3103;Jequitinhonha;31;Minas Gerais;MG;3;Sudeste;SE;310014;Capelinha;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+439;3138401;Leopoldina;31066;Cataguases;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310032;Cataguases;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+440;3138500;Liberdade;31055;Andrelândia;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310027;Juiz de Fora;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+441;3138609;Lima Duarte;31065;Juiz de Fora;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310027;Juiz de Fora;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+442;3138625;Limeira do Oeste;31021;Frutal;3105;Triângulo Mineiro/Alto Paranaíba;31;Minas Gerais;MG;3;Sudeste;SE;310058;Iturama;3110;Uberaba;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+443;3138658;Lontra;31007;Montes Claros;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310006;Montes Claros;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+444;3138674;Luisburgo;31061;Manhuaçu;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310028;Manhuaçu;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+445;3138682;Luislândia;31007;Montes Claros;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310006;Montes Claros;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+446;3138708;Luminárias;31057;Lavras;3111;Campo das Vertentes;31;Minas Gerais;MG;3;Sudeste;SE;310043;Lavras;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+447;3138807;Luz;31026;Bom Despacho;3106;Central Mineira;31;Minas Gerais;MG;3;Sudeste;SE;310067;Dores do Indaiá;3113;Divinópolis;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+448;3138906;Machacalis;31016;Nanuque;3104;Vale do Mucuri;31;Minas Gerais;MG;3;Sudeste;SE;310019;Águas Formosas;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+449;3139003;Machado;31049;Alfenas;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310042;Alfenas;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+450;3139102;Madre de Deus de Minas;31058;São João Del Rei;3111;Campo das Vertentes;31;Minas Gerais;MG;3;Sudeste;SE;310039;São João del Rei;3107;Barbacena;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+451;3139201;Malacacheta;31015;Teófilo Otoni;3104;Vale do Mucuri;31;Minas Gerais;MG;3;Sudeste;SE;310013;Teófilo Otoni;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+452;3139250;Mamonas;31004;Janaúba;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310012;Espinosa;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+453;3139300;Manga;31003;Januária;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310007;Janaúba;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+454;3139409;Manhuaçu;31061;Manhuaçu;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310028;Manhuaçu;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+455;3139508;Manhumirim;31061;Manhuaçu;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310028;Manhuaçu;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+456;3139607;Mantena;31038;Mantena;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310022;Mantena;3104;Governador Valadares;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+457;3139706;Maravilhas;31027;Sete Lagoas;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310068;Pará de Minas;3113;Divinópolis;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+458;3139805;Mar de Espanha;31065;Juiz de Fora;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310035;São João Nepomuceno - Bicas;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+459;3139904;Maria da Fé;31056;Itajubá;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310052;Itajubá;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+460;3140001;Mariana;31033;Ouro Preto;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310003;Santa Bárbara - Ouro Preto;3101;Belo Horizonte;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+461;3140100;Marilac;31037;Governador Valadares;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310020;Governador Valadares;3104;Governador Valadares;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+462;3140159;Mário Campos;31030;Belo Horizonte;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310001;Belo Horizonte;3101;Belo Horizonte;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+463;3140209;Maripá de Minas;31065;Juiz de Fora;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310035;São João Nepomuceno - Bicas;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+464;3140308;Marliéria;31039;Ipatinga;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310024;Ipatinga;3105;Ipatinga;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+465;3140407;Marmelópolis;31056;Itajubá;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310052;Itajubá;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+466;3140506;Martinho Campos;31026;Bom Despacho;3106;Central Mineira;31;Minas Gerais;MG;3;Sudeste;SE;310067;Dores do Indaiá;3113;Divinópolis;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+467;3140530;Martins Soares;31061;Manhuaçu;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310028;Manhuaçu;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+468;3140555;Mata Verde;31014;Almenara;3103;Jequitinhonha;31;Minas Gerais;MG;3;Sudeste;SE;310015;Almenara;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+469;3140605;Materlândia;31035;Guanhães;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310021;Guanhães;3104;Governador Valadares;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+470;3140704;Mateus Leme;31030;Belo Horizonte;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310001;Belo Horizonte;3101;Belo Horizonte;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+471;3140803;Matias Barbosa;31065;Juiz de Fora;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310027;Juiz de Fora;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+472;3140852;Matias Cardoso;31003;Januária;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310007;Janaúba;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+473;3140902;Matipó;31061;Manhuaçu;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310028;Manhuaçu;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+474;3141009;Mato Verde;31004;Janaúba;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310012;Espinosa;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+475;3141108;Matozinhos;31027;Sete Lagoas;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310002;Sete Lagoas;3101;Belo Horizonte;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+476;3141207;Matutina;31020;Patos de Minas;3105;Triângulo Mineiro/Alto Paranaíba;31;Minas Gerais;MG;3;Sudeste;SE;310062;Patos de Minas;3112;Patos de Minas;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+477;3141306;Medeiros;31042;Piuí;3109;Oeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310066;Formiga;3113;Divinópolis;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+478;3141405;Medina;31013;Pedra Azul;3103;Jequitinhonha;31;Minas Gerais;MG;3;Sudeste;SE;310018;Pedra Azul;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+479;3141504;Mendes Pimentel;31038;Mantena;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310022;Mantena;3104;Governador Valadares;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+480;3141603;Mercês;31064;Ubá;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310029;Ubá;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+481;3141702;Mesquita;31039;Ipatinga;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310024;Ipatinga;3105;Ipatinga;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+482;3141801;Minas Novas;31011;Capelinha;3103;Jequitinhonha;31;Minas Gerais;MG;3;Sudeste;SE;310014;Capelinha;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+483;3141900;Minduri;31055;Andrelândia;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310054;Caxambu - Baependi;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+484;3142007;Mirabela;31007;Montes Claros;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310006;Montes Claros;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+485;3142106;Miradouro;31063;Muriaé;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310031;Muriaé;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+486;3142205;Miraí;31063;Muriaé;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310031;Muriaé;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+487;3142254;Miravânia;31003;Januária;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310007;Janaúba;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+488;3142304;Moeda;31032;Itaguara;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310001;Belo Horizonte;3101;Belo Horizonte;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+489;3142403;Moema;31026;Bom Despacho;3106;Central Mineira;31;Minas Gerais;MG;3;Sudeste;SE;310067;Dores do Indaiá;3113;Divinópolis;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+490;3142502;Monjolos;31025;Curvelo;3106;Central Mineira;31;Minas Gerais;MG;3;Sudeste;SE;310004;Curvelo;3101;Belo Horizonte;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+491;3142601;Monsenhor Paulo;31050;Varginha;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310040;Varginha;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+492;3142700;Montalvânia;31003;Januária;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310009;Januária;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+493;3142809;Monte Alegre de Minas;31018;Uberlândia;3105;Triângulo Mineiro/Alto Paranaíba;31;Minas Gerais;MG;3;Sudeste;SE;310059;Uberlândia;3111;Uberlândia;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+494;3142908;Monte Azul;31004;Janaúba;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310012;Espinosa;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+495;3143005;Monte Belo;31048;São Sebastião do Paraíso;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310044;Guaxupé;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+496;3143104;Monte Carmelo;31019;Patrocínio;3105;Triângulo Mineiro/Alto Paranaíba;31;Minas Gerais;MG;3;Sudeste;SE;310061;Monte Carmelo;3111;Uberlândia;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+497;3143153;Monte Formoso;31014;Almenara;3103;Jequitinhonha;31;Minas Gerais;MG;3;Sudeste;SE;310013;Teófilo Otoni;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+498;3143203;Monte Santo de Minas;31048;São Sebastião do Paraíso;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310047;São Sebastião do Paraíso;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+499;3143302;Montes Claros;31007;Montes Claros;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310006;Montes Claros;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+500;3143401;Monte Sião;31051;Poços de Caldas;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310050;Pouso Alegre;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+501;3143450;Montezuma;31005;Salinas;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310012;Espinosa;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+502;3143500;Morada Nova de Minas;31024;Três Marias;3106;Central Mineira;31;Minas Gerais;MG;3;Sudeste;SE;310070;Abaeté;3113;Divinópolis;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+503;3143609;Morro da Garça;31025;Curvelo;3106;Central Mineira;31;Minas Gerais;MG;3;Sudeste;SE;310004;Curvelo;3101;Belo Horizonte;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+504;3143708;Morro do Pilar;31028;Conceição do Mato Dentro;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310002;Sete Lagoas;3101;Belo Horizonte;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+505;3143807;Munhoz;31052;Pouso Alegre;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310050;Pouso Alegre;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+506;3143906;Muriaé;31063;Muriaé;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310031;Muriaé;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+507;3144003;Mutum;31041;Aimorés;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310028;Manhuaçu;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+508;3144102;Muzambinho;31048;São Sebastião do Paraíso;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310044;Guaxupé;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+509;3144201;Nacip Raydan;31037;Governador Valadares;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310020;Governador Valadares;3104;Governador Valadares;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+510;3144300;Nanuque;31016;Nanuque;3104;Vale do Mucuri;31;Minas Gerais;MG;3;Sudeste;SE;310013;Teófilo Otoni;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+511;3144359;Naque;31039;Ipatinga;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310024;Ipatinga;3105;Ipatinga;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+512;3144375;Natalândia;31001;Unaí;3101;Noroeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310063;Unaí;3112;Patos de Minas;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+513;3144409;Natércia;31053;Santa Rita do Sapucaí;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310050;Pouso Alegre;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+514;3144508;Nazareno;31058;São João Del Rei;3111;Campo das Vertentes;31;Minas Gerais;MG;3;Sudeste;SE;310039;São João del Rei;3107;Barbacena;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+515;3144607;Nepomuceno;31057;Lavras;3111;Campo das Vertentes;31;Minas Gerais;MG;3;Sudeste;SE;310043;Lavras;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+516;3144656;Ninheira;31005;Salinas;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310008;Salinas;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+517;3144672;Nova Belém;31038;Mantena;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310022;Mantena;3104;Governador Valadares;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+518;3144706;Nova Era;31031;Itabira;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310026;João Monlevade;3105;Ipatinga;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+519;3144805;Nova Lima;31030;Belo Horizonte;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310001;Belo Horizonte;3101;Belo Horizonte;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+520;3144904;Nova Módica;31037;Governador Valadares;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310013;Teófilo Otoni;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+521;3145000;Nova Ponte;31023;Araxá;3105;Triângulo Mineiro/Alto Paranaíba;31;Minas Gerais;MG;3;Sudeste;SE;310055;Uberaba;3110;Uberaba;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+522;3145059;Nova Porteirinha;31004;Janaúba;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310007;Janaúba;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+523;3145109;Nova Resende;31048;São Sebastião do Paraíso;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310044;Guaxupé;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+524;3145208;Nova Serrana;31043;Divinópolis;3109;Oeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310065;Divinópolis;3113;Divinópolis;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+525;3145307;Novo Cruzeiro;31012;Araçuaí;3103;Jequitinhonha;31;Minas Gerais;MG;3;Sudeste;SE;310013;Teófilo Otoni;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+526;3145356;Novo Oriente de Minas;31015;Teófilo Otoni;3104;Vale do Mucuri;31;Minas Gerais;MG;3;Sudeste;SE;310013;Teófilo Otoni;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+527;3145372;Novorizonte;31005;Salinas;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310008;Salinas;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+528;3145406;Olaria;31065;Juiz de Fora;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310027;Juiz de Fora;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+529;3145455;Olhos-d'Água;31009;Bocaiúva;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310006;Montes Claros;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+530;3145505;Olímpio Noronha;31054;São Lourenço;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310053;São Lourenço;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+531;3145604;Oliveira;31046;Oliveira;3109;Oeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310069;Oliveira;3113;Divinópolis;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+532;3145703;Oliveira Fortes;31065;Juiz de Fora;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310027;Juiz de Fora;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+533;3145802;Onça de Pitangui;31029;Pará de Minas;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310068;Pará de Minas;3113;Divinópolis;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+534;3145851;Oratórios;31060;Ponte Nova;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310030;Ponte Nova;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+535;3145877;Orizânia;31063;Muriaé;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310034;Carangola;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+536;3145901;Ouro Branco;31034;Conselheiro Lafaiete;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310038;Conselheiro Lafaiete;3107;Barbacena;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+537;3146008;Ouro Fino;31051;Poços de Caldas;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310050;Pouso Alegre;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+538;3146107;Ouro Preto;31033;Ouro Preto;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310003;Santa Bárbara - Ouro Preto;3101;Belo Horizonte;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+539;3146206;Ouro Verde de Minas;31015;Teófilo Otoni;3104;Vale do Mucuri;31;Minas Gerais;MG;3;Sudeste;SE;310013;Teófilo Otoni;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+540;3146255;Padre Carvalho;31008;Grão Mogol;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310008;Salinas;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+541;3146305;Padre Paraíso;31012;Araçuaí;3103;Jequitinhonha;31;Minas Gerais;MG;3;Sudeste;SE;310013;Teófilo Otoni;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+542;3146404;Paineiras;31024;Três Marias;3106;Central Mineira;31;Minas Gerais;MG;3;Sudeste;SE;310070;Abaeté;3113;Divinópolis;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+543;3146503;Pains;31044;Formiga;3109;Oeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310066;Formiga;3113;Divinópolis;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+544;3146552;Pai Pedro;31004;Janaúba;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310007;Janaúba;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+545;3146602;Paiva;31065;Juiz de Fora;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310027;Juiz de Fora;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+546;3146701;Palma;31066;Cataguases;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310032;Cataguases;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+547;3146750;Palmópolis;31014;Almenara;3103;Jequitinhonha;31;Minas Gerais;MG;3;Sudeste;SE;310015;Almenara;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+548;3146909;Papagaios;31027;Sete Lagoas;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310068;Pará de Minas;3113;Divinópolis;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+549;3147006;Paracatu;31002;Paracatu;3101;Noroeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310062;Patos de Minas;3112;Patos de Minas;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+550;3147105;Pará de Minas;31029;Pará de Minas;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310068;Pará de Minas;3113;Divinópolis;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+551;3147204;Paraguaçu;31049;Alfenas;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310042;Alfenas;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+552;3147303;Paraisópolis;31056;Itajubá;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310052;Itajubá;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+553;3147402;Paraopeba;31027;Sete Lagoas;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310002;Sete Lagoas;3101;Belo Horizonte;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+554;3147501;Passabém;31028;Conceição do Mato Dentro;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310005;Itabira;3101;Belo Horizonte;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+555;3147600;Passa Quatro;31054;São Lourenço;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310053;São Lourenço;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+556;3147709;Passa Tempo;31046;Oliveira;3109;Oeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310069;Oliveira;3113;Divinópolis;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+557;3147808;Passa Vinte;31055;Andrelândia;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310027;Juiz de Fora;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+558;3147907;Passos;31047;Passos;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310041;Passos;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+559;3147956;Patis;31007;Montes Claros;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310006;Montes Claros;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+560;3148004;Patos de Minas;31020;Patos de Minas;3105;Triângulo Mineiro/Alto Paranaíba;31;Minas Gerais;MG;3;Sudeste;SE;310062;Patos de Minas;3112;Patos de Minas;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+561;3148103;Patrocínio;31019;Patrocínio;3105;Triângulo Mineiro/Alto Paranaíba;31;Minas Gerais;MG;3;Sudeste;SE;310064;Patrocínio;3112;Patos de Minas;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+562;3148202;Patrocínio do Muriaé;31063;Muriaé;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310031;Muriaé;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+563;3148301;Paula Cândido;31062;Viçosa;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310033;Viçosa;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+564;3148400;Paulistas;31035;Guanhães;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310021;Guanhães;3104;Governador Valadares;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+565;3148509;Pavão;31015;Teófilo Otoni;3104;Vale do Mucuri;31;Minas Gerais;MG;3;Sudeste;SE;310013;Teófilo Otoni;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+566;3148608;Peçanha;31036;Peçanha;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310021;Guanhães;3104;Governador Valadares;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+567;3148707;Pedra Azul;31013;Pedra Azul;3103;Jequitinhonha;31;Minas Gerais;MG;3;Sudeste;SE;310018;Pedra Azul;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+568;3148756;Pedra Bonita;31061;Manhuaçu;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310034;Carangola;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+569;3148806;Pedra do Anta;31062;Viçosa;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310033;Viçosa;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+570;3148905;Pedra do Indaiá;31044;Formiga;3109;Oeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310065;Divinópolis;3113;Divinópolis;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+571;3149002;Pedra Dourada;31063;Muriaé;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310034;Carangola;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+572;3149101;Pedralva;31053;Santa Rita do Sapucaí;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310052;Itajubá;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+573;3149150;Pedras de Maria da Cruz;31003;Januária;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310009;Januária;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+574;3149200;Pedrinópolis;31023;Araxá;3105;Triângulo Mineiro/Alto Paranaíba;31;Minas Gerais;MG;3;Sudeste;SE;310056;Araxá;3110;Uberaba;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+575;3149309;Pedro Leopoldo;31030;Belo Horizonte;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310001;Belo Horizonte;3101;Belo Horizonte;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+576;3149408;Pedro Teixeira;31065;Juiz de Fora;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310027;Juiz de Fora;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+577;3149507;Pequeri;31065;Juiz de Fora;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310035;São João Nepomuceno - Bicas;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+578;3149606;Pequi;31027;Sete Lagoas;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310068;Pará de Minas;3113;Divinópolis;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+579;3149705;Perdigão;31043;Divinópolis;3109;Oeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310065;Divinópolis;3113;Divinópolis;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+580;3149804;Perdizes;31023;Araxá;3105;Triângulo Mineiro/Alto Paranaíba;31;Minas Gerais;MG;3;Sudeste;SE;310056;Araxá;3110;Uberaba;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+581;3149903;Perdões;31045;Campo Belo;3109;Oeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310043;Lavras;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+582;3149952;Periquito;31039;Ipatinga;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310024;Ipatinga;3105;Ipatinga;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+583;3150000;Pescador;31037;Governador Valadares;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310013;Teófilo Otoni;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+584;3150109;Piau;31065;Juiz de Fora;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310027;Juiz de Fora;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+585;3150158;Piedade de Caratinga;31040;Caratinga;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310025;Caratinga;3105;Ipatinga;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+586;3150208;Piedade de Ponte Nova;31060;Ponte Nova;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310030;Ponte Nova;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+587;3150307;Piedade do Rio Grande;31058;São João Del Rei;3111;Campo das Vertentes;31;Minas Gerais;MG;3;Sudeste;SE;310039;São João del Rei;3107;Barbacena;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+588;3150406;Piedade dos Gerais;31032;Itaguara;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310069;Oliveira;3113;Divinópolis;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+589;3150505;Pimenta;31044;Formiga;3109;Oeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310066;Formiga;3113;Divinópolis;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+590;3150539;Pingo-d'Água;31040;Caratinga;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310024;Ipatinga;3105;Ipatinga;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+591;3150570;Pintópolis;31003;Januária;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310011;São Francisco;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+592;3150604;Piracema;31046;Oliveira;3109;Oeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310069;Oliveira;3113;Divinópolis;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+593;3150703;Pirajuba;31021;Frutal;3105;Triângulo Mineiro/Alto Paranaíba;31;Minas Gerais;MG;3;Sudeste;SE;310057;Frutal;3110;Uberaba;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+594;3150802;Piranga;31062;Viçosa;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310038;Conselheiro Lafaiete;3107;Barbacena;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+595;3150901;Piranguçu;31056;Itajubá;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310052;Itajubá;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+596;3151008;Piranguinho;31056;Itajubá;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310052;Itajubá;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+597;3151107;Pirapetinga;31066;Cataguases;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310036;Além Paraíba;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+598;3151206;Pirapora;31006;Pirapora;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310010;Pirapora;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+599;3151305;Piraúba;31064;Ubá;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310029;Ubá;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+600;3151404;Pitangui;31029;Pará de Minas;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310065;Divinópolis;3113;Divinópolis;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+601;3151503;Piumhi;31042;Piuí;3109;Oeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310049;Piumhi;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+602;3151602;Planura;31021;Frutal;3105;Triângulo Mineiro/Alto Paranaíba;31;Minas Gerais;MG;3;Sudeste;SE;310057;Frutal;3110;Uberaba;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+603;3151701;Poço Fundo;31049;Alfenas;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310042;Alfenas;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+604;3151800;Poços de Caldas;31051;Poços de Caldas;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310051;Poços de Caldas;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+605;3151909;Pocrane;31041;Aimorés;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310028;Manhuaçu;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+606;3152006;Pompéu;31024;Três Marias;3106;Central Mineira;31;Minas Gerais;MG;3;Sudeste;SE;310067;Dores do Indaiá;3113;Divinópolis;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+607;3152105;Ponte Nova;31060;Ponte Nova;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310030;Ponte Nova;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+608;3152131;Ponto Chique;31007;Montes Claros;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310010;Pirapora;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+609;3152170;Ponto dos Volantes;31012;Araçuaí;3103;Jequitinhonha;31;Minas Gerais;MG;3;Sudeste;SE;310013;Teófilo Otoni;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+610;3152204;Porteirinha;31004;Janaúba;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310007;Janaúba;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+611;3152303;Porto Firme;31062;Viçosa;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310033;Viçosa;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+612;3152402;Poté;31015;Teófilo Otoni;3104;Vale do Mucuri;31;Minas Gerais;MG;3;Sudeste;SE;310013;Teófilo Otoni;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+613;3152501;Pouso Alegre;31052;Pouso Alegre;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310050;Pouso Alegre;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+614;3152600;Pouso Alto;31054;São Lourenço;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310053;São Lourenço;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+615;3152709;Prados;31058;São João Del Rei;3111;Campo das Vertentes;31;Minas Gerais;MG;3;Sudeste;SE;310039;São João del Rei;3107;Barbacena;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+616;3152808;Prata;31018;Uberlândia;3105;Triângulo Mineiro/Alto Paranaíba;31;Minas Gerais;MG;3;Sudeste;SE;310059;Uberlândia;3111;Uberlândia;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+617;3152907;Pratápolis;31047;Passos;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310041;Passos;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+618;3153004;Pratinha;31023;Araxá;3105;Triângulo Mineiro/Alto Paranaíba;31;Minas Gerais;MG;3;Sudeste;SE;310056;Araxá;3110;Uberaba;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+619;3153103;Presidente Bernardes;31062;Viçosa;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310033;Viçosa;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+620;3153202;Presidente Juscelino;31025;Curvelo;3106;Central Mineira;31;Minas Gerais;MG;3;Sudeste;SE;310004;Curvelo;3101;Belo Horizonte;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+621;3153301;Presidente Kubitschek;31010;Diamantina;3103;Jequitinhonha;31;Minas Gerais;MG;3;Sudeste;SE;310016;Diamantina;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+622;3153400;Presidente Olegário;31002;Paracatu;3101;Noroeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310062;Patos de Minas;3112;Patos de Minas;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+623;3153509;Alto Jequitibá;31061;Manhuaçu;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310028;Manhuaçu;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+624;3153608;Prudente de Morais;31027;Sete Lagoas;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310002;Sete Lagoas;3101;Belo Horizonte;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+625;3153707;Quartel Geral;31026;Bom Despacho;3106;Central Mineira;31;Minas Gerais;MG;3;Sudeste;SE;310067;Dores do Indaiá;3113;Divinópolis;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+626;3153806;Queluzito;31034;Conselheiro Lafaiete;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310038;Conselheiro Lafaiete;3107;Barbacena;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+627;3153905;Raposos;31030;Belo Horizonte;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310001;Belo Horizonte;3101;Belo Horizonte;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+628;3154002;Raul Soares;31060;Ponte Nova;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310025;Caratinga;3105;Ipatinga;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+629;3154101;Recreio;31066;Cataguases;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310032;Cataguases;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+630;3154150;Reduto;31061;Manhuaçu;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310028;Manhuaçu;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+631;3154200;Resende Costa;31058;São João Del Rei;3111;Campo das Vertentes;31;Minas Gerais;MG;3;Sudeste;SE;310039;São João del Rei;3107;Barbacena;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+632;3154309;Resplendor;31041;Aimorés;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310023;Aimorés - Resplendor;3104;Governador Valadares;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+633;3154408;Ressaquinha;31059;Barbacena;3111;Campo das Vertentes;31;Minas Gerais;MG;3;Sudeste;SE;310037;Barbacena;3107;Barbacena;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+634;3154457;Riachinho;31006;Pirapora;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310063;Unaí;3112;Patos de Minas;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+635;3154507;Riacho dos Machados;31004;Janaúba;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310007;Janaúba;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+636;3154606;Ribeirão das Neves;31030;Belo Horizonte;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310001;Belo Horizonte;3101;Belo Horizonte;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+637;3154705;Ribeirão Vermelho;31057;Lavras;3111;Campo das Vertentes;31;Minas Gerais;MG;3;Sudeste;SE;310043;Lavras;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+638;3154804;Rio Acima;31030;Belo Horizonte;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310001;Belo Horizonte;3101;Belo Horizonte;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+639;3154903;Rio Casca;31060;Ponte Nova;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310030;Ponte Nova;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+640;3155009;Rio Doce;31060;Ponte Nova;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310030;Ponte Nova;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+641;3155108;Rio do Prado;31014;Almenara;3103;Jequitinhonha;31;Minas Gerais;MG;3;Sudeste;SE;310015;Almenara;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+642;3155207;Rio Espera;31062;Viçosa;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310038;Conselheiro Lafaiete;3107;Barbacena;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+643;3155306;Rio Manso;31032;Itaguara;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310069;Oliveira;3113;Divinópolis;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+644;3155405;Rio Novo;31065;Juiz de Fora;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310027;Juiz de Fora;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+645;3155504;Rio Paranaíba;31020;Patos de Minas;3105;Triângulo Mineiro/Alto Paranaíba;31;Minas Gerais;MG;3;Sudeste;SE;310062;Patos de Minas;3112;Patos de Minas;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+646;3155603;Rio Pardo de Minas;31005;Salinas;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310008;Salinas;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+647;3155702;Rio Piracicaba;31031;Itabira;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310026;João Monlevade;3105;Ipatinga;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+648;3155801;Rio Pomba;31064;Ubá;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310029;Ubá;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+649;3155900;Rio Preto;31065;Juiz de Fora;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310027;Juiz de Fora;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+650;3156007;Rio Vermelho;31028;Conceição do Mato Dentro;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310021;Guanhães;3104;Governador Valadares;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+651;3156106;Ritápolis;31058;São João Del Rei;3111;Campo das Vertentes;31;Minas Gerais;MG;3;Sudeste;SE;310039;São João del Rei;3107;Barbacena;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+652;3156205;Rochedo de Minas;31065;Juiz de Fora;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310035;São João Nepomuceno - Bicas;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+653;3156304;Rodeiro;31064;Ubá;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310029;Ubá;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+654;3156403;Romaria;31019;Patrocínio;3105;Triângulo Mineiro/Alto Paranaíba;31;Minas Gerais;MG;3;Sudeste;SE;310061;Monte Carmelo;3111;Uberlândia;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+655;3156452;Rosário da Limeira;31063;Muriaé;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310031;Muriaé;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+656;3156502;Rubelita;31005;Salinas;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310008;Salinas;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+657;3156601;Rubim;31014;Almenara;3103;Jequitinhonha;31;Minas Gerais;MG;3;Sudeste;SE;310015;Almenara;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+658;3156700;Sabará;31030;Belo Horizonte;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310001;Belo Horizonte;3101;Belo Horizonte;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+659;3156809;Sabinópolis;31035;Guanhães;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310021;Guanhães;3104;Governador Valadares;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+660;3156908;Sacramento;31023;Araxá;3105;Triângulo Mineiro/Alto Paranaíba;31;Minas Gerais;MG;3;Sudeste;SE;310055;Uberaba;3110;Uberaba;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+661;3157005;Salinas;31005;Salinas;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310008;Salinas;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+662;3157104;Salto da Divisa;31014;Almenara;3103;Jequitinhonha;31;Minas Gerais;MG;3;Sudeste;SE;310015;Almenara;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+663;3157203;Santa Bárbara;31031;Itabira;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310003;Santa Bárbara - Ouro Preto;3101;Belo Horizonte;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+664;3157252;Santa Bárbara do Leste;31040;Caratinga;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310025;Caratinga;3105;Ipatinga;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+665;3157278;Santa Bárbara do Monte Verde;31065;Juiz de Fora;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310027;Juiz de Fora;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+666;3157302;Santa Bárbara do Tugúrio;31059;Barbacena;3111;Campo das Vertentes;31;Minas Gerais;MG;3;Sudeste;SE;310037;Barbacena;3107;Barbacena;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+667;3157336;Santa Cruz de Minas;31058;São João Del Rei;3111;Campo das Vertentes;31;Minas Gerais;MG;3;Sudeste;SE;310039;São João del Rei;3107;Barbacena;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+668;3157377;Santa Cruz de Salinas;31005;Salinas;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310008;Salinas;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+669;3157401;Santa Cruz do Escalvado;31060;Ponte Nova;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310030;Ponte Nova;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+670;3157500;Santa Efigênia de Minas;31035;Guanhães;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310020;Governador Valadares;3104;Governador Valadares;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+671;3157609;Santa Fé de Minas;31006;Pirapora;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310010;Pirapora;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+672;3157658;Santa Helena de Minas;31016;Nanuque;3104;Vale do Mucuri;31;Minas Gerais;MG;3;Sudeste;SE;310019;Águas Formosas;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+673;3157708;Santa Juliana;31023;Araxá;3105;Triângulo Mineiro/Alto Paranaíba;31;Minas Gerais;MG;3;Sudeste;SE;310055;Uberaba;3110;Uberaba;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+674;3157807;Santa Luzia;31030;Belo Horizonte;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310001;Belo Horizonte;3101;Belo Horizonte;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+675;3157906;Santa Margarida;31061;Manhuaçu;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310028;Manhuaçu;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+676;3158003;Santa Maria de Itabira;31031;Itabira;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310005;Itabira;3101;Belo Horizonte;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+677;3158102;Santa Maria do Salto;31014;Almenara;3103;Jequitinhonha;31;Minas Gerais;MG;3;Sudeste;SE;310015;Almenara;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+678;3158201;Santa Maria do Suaçuí;31036;Peçanha;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310021;Guanhães;3104;Governador Valadares;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+679;3158300;Santana da Vargem;31050;Varginha;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310046;Três Pontas - Boa Esperança;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+680;3158409;Santana de Cataguases;31066;Cataguases;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310032;Cataguases;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+681;3158508;Santana de Pirapama;31027;Sete Lagoas;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310002;Sete Lagoas;3101;Belo Horizonte;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+682;3158607;Santana do Deserto;31065;Juiz de Fora;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310027;Juiz de Fora;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+683;3158706;Santana do Garambéu;31058;São João Del Rei;3111;Campo das Vertentes;31;Minas Gerais;MG;3;Sudeste;SE;310037;Barbacena;3107;Barbacena;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+684;3158805;Santana do Jacaré;31045;Campo Belo;3109;Oeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310048;Campo Belo;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+685;3158904;Santana do Manhuaçu;31061;Manhuaçu;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310028;Manhuaçu;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+686;3158953;Santana do Paraíso;31039;Ipatinga;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310024;Ipatinga;3105;Ipatinga;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+687;3159001;Santana do Riacho;31027;Sete Lagoas;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310002;Sete Lagoas;3101;Belo Horizonte;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+688;3159100;Santana dos Montes;31034;Conselheiro Lafaiete;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310038;Conselheiro Lafaiete;3107;Barbacena;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+689;3159209;Santa Rita de Caldas;31051;Poços de Caldas;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310051;Poços de Caldas;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+690;3159308;Santa Rita de Jacutinga;31065;Juiz de Fora;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310027;Juiz de Fora;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+691;3159357;Santa Rita de Minas;31040;Caratinga;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310025;Caratinga;3105;Ipatinga;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+692;3159407;Santa Rita de Ibitipoca;31065;Juiz de Fora;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310037;Barbacena;3107;Barbacena;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+693;3159506;Santa Rita do Itueto;31041;Aimorés;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310023;Aimorés - Resplendor;3104;Governador Valadares;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+694;3159605;Santa Rita do Sapucaí;31053;Santa Rita do Sapucaí;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310050;Pouso Alegre;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+695;3159704;Santa Rosa da Serra;31020;Patos de Minas;3105;Triângulo Mineiro/Alto Paranaíba;31;Minas Gerais;MG;3;Sudeste;SE;310056;Araxá;3110;Uberaba;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+696;3159803;Santa Vitória;31017;Ituiutaba;3105;Triângulo Mineiro/Alto Paranaíba;31;Minas Gerais;MG;3;Sudeste;SE;310060;Ituiutaba;3111;Uberlândia;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+697;3159902;Santo Antônio do Amparo;31046;Oliveira;3109;Oeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310043;Lavras;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+698;3160009;Santo Antônio do Aventureiro;31066;Cataguases;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310036;Além Paraíba;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+699;3160108;Santo Antônio do Grama;31060;Ponte Nova;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310030;Ponte Nova;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+700;3160207;Santo Antônio do Itambé;31028;Conceição do Mato Dentro;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310016;Diamantina;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+701;3160306;Santo Antônio do Jacinto;31014;Almenara;3103;Jequitinhonha;31;Minas Gerais;MG;3;Sudeste;SE;310015;Almenara;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+702;3160405;Santo Antônio do Monte;31043;Divinópolis;3109;Oeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310065;Divinópolis;3113;Divinópolis;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+703;3160454;Santo Antônio do Retiro;31005;Salinas;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310012;Espinosa;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+704;3160504;Santo Antônio do Rio Abaixo;31028;Conceição do Mato Dentro;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310005;Itabira;3101;Belo Horizonte;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+705;3160603;Santo Hipólito;31025;Curvelo;3106;Central Mineira;31;Minas Gerais;MG;3;Sudeste;SE;310004;Curvelo;3101;Belo Horizonte;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+706;3160702;Santos Dumont;31065;Juiz de Fora;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310027;Juiz de Fora;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+707;3160801;São Bento Abade;31050;Varginha;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310045;Três Corações;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+708;3160900;São Brás do Suaçuí;31034;Conselheiro Lafaiete;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310038;Conselheiro Lafaiete;3107;Barbacena;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+709;3160959;São Domingos das Dores;31040;Caratinga;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310025;Caratinga;3105;Ipatinga;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+710;3161007;São Domingos do Prata;31031;Itabira;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310026;João Monlevade;3105;Ipatinga;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+711;3161056;São Félix de Minas;31038;Mantena;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310022;Mantena;3104;Governador Valadares;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+712;3161106;São Francisco;31003;Januária;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310011;São Francisco;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+713;3161205;São Francisco de Paula;31046;Oliveira;3109;Oeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310069;Oliveira;3113;Divinópolis;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+714;3161304;São Francisco de Sales;31021;Frutal;3105;Triângulo Mineiro/Alto Paranaíba;31;Minas Gerais;MG;3;Sudeste;SE;310058;Iturama;3110;Uberaba;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+715;3161403;São Francisco do Glória;31063;Muriaé;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310031;Muriaé;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+716;3161502;São Geraldo;31064;Ubá;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310029;Ubá;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+717;3161601;São Geraldo da Piedade;31037;Governador Valadares;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310020;Governador Valadares;3104;Governador Valadares;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+718;3161650;São Geraldo do Baixio;31037;Governador Valadares;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310020;Governador Valadares;3104;Governador Valadares;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+719;3161700;São Gonçalo do Abaeté;31002;Paracatu;3101;Noroeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310062;Patos de Minas;3112;Patos de Minas;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+720;3161809;São Gonçalo do Pará;31043;Divinópolis;3109;Oeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310065;Divinópolis;3113;Divinópolis;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+721;3161908;São Gonçalo do Rio Abaixo;31031;Itabira;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310026;João Monlevade;3105;Ipatinga;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+722;3162005;São Gonçalo do Sapucaí;31053;Santa Rita do Sapucaí;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310040;Varginha;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+723;3162104;São Gotardo;31020;Patos de Minas;3105;Triângulo Mineiro/Alto Paranaíba;31;Minas Gerais;MG;3;Sudeste;SE;310062;Patos de Minas;3112;Patos de Minas;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+724;3162203;São João Batista do Glória;31047;Passos;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310041;Passos;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+725;3162252;São João da Lagoa;31007;Montes Claros;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310006;Montes Claros;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+726;3162302;São João da Mata;31053;Santa Rita do Sapucaí;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310050;Pouso Alegre;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+727;3162401;São João da Ponte;31007;Montes Claros;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310006;Montes Claros;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+728;3162450;São João das Missões;31003;Januária;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310009;Januária;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+729;3162500;São João del Rei;31058;São João Del Rei;3111;Campo das Vertentes;31;Minas Gerais;MG;3;Sudeste;SE;310039;São João del Rei;3107;Barbacena;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+730;3162559;São João do Manhuaçu;31061;Manhuaçu;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310028;Manhuaçu;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+731;3162575;São João do Manteninha;31038;Mantena;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310022;Mantena;3104;Governador Valadares;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+732;3162609;São João do Oriente;31040;Caratinga;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310024;Ipatinga;3105;Ipatinga;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+733;3162658;São João do Pacuí;31007;Montes Claros;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310006;Montes Claros;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+734;3162708;São João do Paraíso;31005;Salinas;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310008;Salinas;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+735;3162807;São João Evangelista;31035;Guanhães;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310021;Guanhães;3104;Governador Valadares;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+736;3162906;São João Nepomuceno;31065;Juiz de Fora;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310035;São João Nepomuceno - Bicas;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+737;3162922;São Joaquim de Bicas;31030;Belo Horizonte;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310001;Belo Horizonte;3101;Belo Horizonte;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+738;3162948;São José da Barra;31047;Passos;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310041;Passos;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+739;3162955;São José da Lapa;31030;Belo Horizonte;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310001;Belo Horizonte;3101;Belo Horizonte;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+740;3163003;São José da Safira;31037;Governador Valadares;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310020;Governador Valadares;3104;Governador Valadares;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+741;3163102;São José da Varginha;31029;Pará de Minas;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310068;Pará de Minas;3113;Divinópolis;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+742;3163201;São José do Alegre;31053;Santa Rita do Sapucaí;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310052;Itajubá;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+743;3163300;São José do Divino;31037;Governador Valadares;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310013;Teófilo Otoni;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+744;3163409;São José do Goiabal;31031;Itabira;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310024;Ipatinga;3105;Ipatinga;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+745;3163508;São José do Jacuri;31036;Peçanha;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310021;Guanhães;3104;Governador Valadares;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+746;3163607;São José do Mantimento;31061;Manhuaçu;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310028;Manhuaçu;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+747;3163706;São Lourenço;31054;São Lourenço;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310053;São Lourenço;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+748;3163805;São Miguel do Anta;31062;Viçosa;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310033;Viçosa;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+749;3163904;São Pedro da União;31048;São Sebastião do Paraíso;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310044;Guaxupé;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+750;3164001;São Pedro dos Ferros;31060;Ponte Nova;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310030;Ponte Nova;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+751;3164100;São Pedro do Suaçuí;31036;Peçanha;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310021;Guanhães;3104;Governador Valadares;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+752;3164209;São Romão;31006;Pirapora;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310011;São Francisco;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+753;3164308;São Roque de Minas;31042;Piuí;3109;Oeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310049;Piumhi;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+754;3164407;São Sebastião da Bela Vista;31053;Santa Rita do Sapucaí;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310050;Pouso Alegre;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+755;3164431;São Sebastião da Vargem Alegre;31063;Muriaé;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310031;Muriaé;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+756;3164472;São Sebastião do Anta;31040;Caratinga;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310025;Caratinga;3105;Ipatinga;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+757;3164506;São Sebastião do Maranhão;31036;Peçanha;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310021;Guanhães;3104;Governador Valadares;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+758;3164605;São Sebastião do Oeste;31043;Divinópolis;3109;Oeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310065;Divinópolis;3113;Divinópolis;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+759;3164704;São Sebastião do Paraíso;31048;São Sebastião do Paraíso;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310047;São Sebastião do Paraíso;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+760;3164803;São Sebastião do Rio Preto;31028;Conceição do Mato Dentro;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310005;Itabira;3101;Belo Horizonte;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+761;3164902;São Sebastião do Rio Verde;31054;São Lourenço;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310053;São Lourenço;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+762;3165008;São Tiago;31058;São João Del Rei;3111;Campo das Vertentes;31;Minas Gerais;MG;3;Sudeste;SE;310039;São João del Rei;3107;Barbacena;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+763;3165107;São Tomás de Aquino;31048;São Sebastião do Paraíso;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310047;São Sebastião do Paraíso;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+764;3165206;São Tomé das Letras;31050;Varginha;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310045;Três Corações;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+765;3165305;São Vicente de Minas;31055;Andrelândia;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310039;São João del Rei;3107;Barbacena;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+766;3165404;Sapucaí-Mirim;31052;Pouso Alegre;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310052;Itajubá;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+767;3165503;Sardoá;31035;Guanhães;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310020;Governador Valadares;3104;Governador Valadares;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+768;3165537;Sarzedo;31030;Belo Horizonte;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310001;Belo Horizonte;3101;Belo Horizonte;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+769;3165552;Setubinha;31015;Teófilo Otoni;3104;Vale do Mucuri;31;Minas Gerais;MG;3;Sudeste;SE;310013;Teófilo Otoni;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+770;3165560;Sem-Peixe;31060;Ponte Nova;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310030;Ponte Nova;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+771;3165578;Senador Amaral;31052;Pouso Alegre;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310050;Pouso Alegre;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+772;3165602;Senador Cortes;31065;Juiz de Fora;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310035;São João Nepomuceno - Bicas;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+773;3165701;Senador Firmino;31064;Ubá;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310029;Ubá;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+774;3165800;Senador José Bento;31052;Pouso Alegre;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310050;Pouso Alegre;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+775;3165909;Senador Modestino Gonçalves;31010;Diamantina;3103;Jequitinhonha;31;Minas Gerais;MG;3;Sudeste;SE;310016;Diamantina;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+776;3166006;Senhora de Oliveira;31062;Viçosa;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310038;Conselheiro Lafaiete;3107;Barbacena;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+777;3166105;Senhora do Porto;31035;Guanhães;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310021;Guanhães;3104;Governador Valadares;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+778;3166204;Senhora dos Remédios;31059;Barbacena;3111;Campo das Vertentes;31;Minas Gerais;MG;3;Sudeste;SE;310037;Barbacena;3107;Barbacena;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+779;3166303;Sericita;31060;Ponte Nova;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310030;Ponte Nova;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+780;3166402;Seritinga;31055;Andrelândia;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310054;Caxambu - Baependi;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+781;3166501;Serra Azul de Minas;31028;Conceição do Mato Dentro;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310016;Diamantina;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+782;3166600;Serra da Saudade;31026;Bom Despacho;3106;Central Mineira;31;Minas Gerais;MG;3;Sudeste;SE;310067;Dores do Indaiá;3113;Divinópolis;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+783;3166709;Serra dos Aimorés;31016;Nanuque;3104;Vale do Mucuri;31;Minas Gerais;MG;3;Sudeste;SE;310013;Teófilo Otoni;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+784;3166808;Serra do Salitre;31019;Patrocínio;3105;Triângulo Mineiro/Alto Paranaíba;31;Minas Gerais;MG;3;Sudeste;SE;310064;Patrocínio;3112;Patos de Minas;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+785;3166907;Serrania;31049;Alfenas;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310042;Alfenas;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+786;3166956;Serranópolis de Minas;31004;Janaúba;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310007;Janaúba;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+787;3167004;Serranos;31055;Andrelândia;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310054;Caxambu - Baependi;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+788;3167103;Serro;31028;Conceição do Mato Dentro;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310016;Diamantina;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+789;3167202;Sete Lagoas;31027;Sete Lagoas;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310002;Sete Lagoas;3101;Belo Horizonte;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+790;3167301;Silveirânia;31064;Ubá;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310029;Ubá;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+791;3167400;Silvianópolis;31053;Santa Rita do Sapucaí;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310050;Pouso Alegre;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+792;3167509;Simão Pereira;31065;Juiz de Fora;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310027;Juiz de Fora;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+793;3167608;Simonésia;31061;Manhuaçu;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310028;Manhuaçu;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+794;3167707;Sobrália;31037;Governador Valadares;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310020;Governador Valadares;3104;Governador Valadares;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+795;3167806;Soledade de Minas;31054;São Lourenço;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310053;São Lourenço;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+796;3167905;Tabuleiro;31064;Ubá;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310029;Ubá;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+797;3168002;Taiobeiras;31005;Salinas;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310008;Salinas;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+798;3168051;Taparuba;31041;Aimorés;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310028;Manhuaçu;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+799;3168101;Tapira;31023;Araxá;3105;Triângulo Mineiro/Alto Paranaíba;31;Minas Gerais;MG;3;Sudeste;SE;310056;Araxá;3110;Uberaba;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+800;3168200;Tapiraí;31042;Piuí;3109;Oeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310066;Formiga;3113;Divinópolis;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+801;3168309;Taquaraçu de Minas;31031;Itabira;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310001;Belo Horizonte;3101;Belo Horizonte;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+802;3168408;Tarumirim;31040;Caratinga;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310020;Governador Valadares;3104;Governador Valadares;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+803;3168507;Teixeiras;31062;Viçosa;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310033;Viçosa;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+804;3168606;Teófilo Otoni;31015;Teófilo Otoni;3104;Vale do Mucuri;31;Minas Gerais;MG;3;Sudeste;SE;310013;Teófilo Otoni;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+805;3168705;Timóteo;31039;Ipatinga;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310024;Ipatinga;3105;Ipatinga;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+806;3168804;Tiradentes;31058;São João Del Rei;3111;Campo das Vertentes;31;Minas Gerais;MG;3;Sudeste;SE;310039;São João del Rei;3107;Barbacena;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+807;3168903;Tiros;31020;Patos de Minas;3105;Triângulo Mineiro/Alto Paranaíba;31;Minas Gerais;MG;3;Sudeste;SE;310062;Patos de Minas;3112;Patos de Minas;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+808;3169000;Tocantins;31064;Ubá;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310029;Ubá;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+809;3169059;Tocos do Moji;31052;Pouso Alegre;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310050;Pouso Alegre;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+810;3169109;Toledo;31052;Pouso Alegre;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310050;Pouso Alegre;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+811;3169208;Tombos;31063;Muriaé;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310034;Carangola;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+812;3169307;Três Corações;31050;Varginha;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310045;Três Corações;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+813;3169356;Três Marias;31024;Três Marias;3106;Central Mineira;31;Minas Gerais;MG;3;Sudeste;SE;310004;Curvelo;3101;Belo Horizonte;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+814;3169406;Três Pontas;31050;Varginha;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310046;Três Pontas - Boa Esperança;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+815;3169505;Tumiritinga;31037;Governador Valadares;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310020;Governador Valadares;3104;Governador Valadares;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+816;3169604;Tupaciguara;31018;Uberlândia;3105;Triângulo Mineiro/Alto Paranaíba;31;Minas Gerais;MG;3;Sudeste;SE;310059;Uberlândia;3111;Uberlândia;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+817;3169703;Turmalina;31011;Capelinha;3103;Jequitinhonha;31;Minas Gerais;MG;3;Sudeste;SE;310014;Capelinha;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+818;3169802;Turvolândia;31053;Santa Rita do Sapucaí;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310050;Pouso Alegre;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+819;3169901;Ubá;31064;Ubá;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310029;Ubá;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+820;3170008;Ubaí;31007;Montes Claros;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310011;São Francisco;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+821;3170057;Ubaporanga;31040;Caratinga;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310025;Caratinga;3105;Ipatinga;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+822;3170107;Uberaba;31022;Uberaba;3105;Triângulo Mineiro/Alto Paranaíba;31;Minas Gerais;MG;3;Sudeste;SE;310055;Uberaba;3110;Uberaba;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+823;3170206;Uberlândia;31018;Uberlândia;3105;Triângulo Mineiro/Alto Paranaíba;31;Minas Gerais;MG;3;Sudeste;SE;310059;Uberlândia;3111;Uberlândia;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+824;3170305;Umburatiba;31016;Nanuque;3104;Vale do Mucuri;31;Minas Gerais;MG;3;Sudeste;SE;310019;Águas Formosas;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+825;3170404;Unaí;31001;Unaí;3101;Noroeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310063;Unaí;3112;Patos de Minas;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+826;3170438;União de Minas;31021;Frutal;3105;Triângulo Mineiro/Alto Paranaíba;31;Minas Gerais;MG;3;Sudeste;SE;310058;Iturama;3110;Uberaba;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+827;3170479;Uruana de Minas;31001;Unaí;3101;Noroeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310063;Unaí;3112;Patos de Minas;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+828;3170503;Urucânia;31060;Ponte Nova;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310030;Ponte Nova;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+829;3170529;Urucuia;31003;Januária;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310063;Unaí;3112;Patos de Minas;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+830;3170578;Vargem Alegre;31040;Caratinga;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310025;Caratinga;3105;Ipatinga;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+831;3170602;Vargem Bonita;31042;Piuí;3109;Oeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310049;Piumhi;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+832;3170651;Vargem Grande do Rio Pardo;31005;Salinas;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310008;Salinas;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+833;3170701;Varginha;31050;Varginha;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310040;Varginha;3108;Varginha;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+834;3170750;Varjão de Minas;31002;Paracatu;3101;Noroeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310062;Patos de Minas;3112;Patos de Minas;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+835;3170800;Várzea da Palma;31006;Pirapora;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310010;Pirapora;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+836;3170909;Varzelândia;31007;Montes Claros;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310006;Montes Claros;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+837;3171006;Vazante;31002;Paracatu;3101;Noroeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310062;Patos de Minas;3112;Patos de Minas;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+838;3171030;Verdelândia;31007;Montes Claros;3102;Norte de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310007;Janaúba;3102;Montes Claros;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+839;3171071;Veredinha;31011;Capelinha;3103;Jequitinhonha;31;Minas Gerais;MG;3;Sudeste;SE;310014;Capelinha;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+840;3171105;Veríssimo;31022;Uberaba;3105;Triângulo Mineiro/Alto Paranaíba;31;Minas Gerais;MG;3;Sudeste;SE;310055;Uberaba;3110;Uberaba;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+841;3171154;Vermelho Novo;31060;Ponte Nova;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310025;Caratinga;3105;Ipatinga;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+842;3171204;Vespasiano;31030;Belo Horizonte;3107;Metropolitana de Belo Horizonte;31;Minas Gerais;MG;3;Sudeste;SE;310001;Belo Horizonte;3101;Belo Horizonte;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+843;3171303;Viçosa;31062;Viçosa;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310033;Viçosa;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+844;3171402;Vieiras;31063;Muriaé;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310031;Muriaé;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+845;3171501;Mathias Lobato;31037;Governador Valadares;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310020;Governador Valadares;3104;Governador Valadares;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+846;3171600;Virgem da Lapa;31012;Araçuaí;3103;Jequitinhonha;31;Minas Gerais;MG;3;Sudeste;SE;310017;Araçuaí;3103;Teófilo Otoni;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+847;3171709;Virgínia;31056;Itajubá;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310053;São Lourenço;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+848;3171808;Virginópolis;31035;Guanhães;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310021;Guanhães;3104;Governador Valadares;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+849;3171907;Virgolândia;31037;Governador Valadares;3108;Vale do Rio Doce;31;Minas Gerais;MG;3;Sudeste;SE;310020;Governador Valadares;3104;Governador Valadares;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+850;3172004;Visconde do Rio Branco;31064;Ubá;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310029;Ubá;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+851;3172103;Volta Grande;31066;Cataguases;3112;Zona da Mata;31;Minas Gerais;MG;3;Sudeste;SE;310036;Além Paraíba;3106;Juíz de Fora;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
+852;3172202;Wenceslau Braz;31056;Itajubá;3110;Sul/Sudoeste de Minas;31;Minas Gerais;MG;3;Sudeste;SE;310052;Itajubá;3109;Pouso Alegre;31;MG;Minas Gerais;3;SE;Sudeste;2024-02-09
