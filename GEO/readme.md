@@ -21,6 +21,7 @@ diretório: GEO
  >      |     |___ dados_geo_MG.txt
  >      |     |___ dados_geo_PE.txt
  >      |     |___ dados_geo_SP.txt
+ >      |     |___ dados_geo.txt
  >      |     |___ dados_id_uf.txt
  >      |
  >      |-- doc
