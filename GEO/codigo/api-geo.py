@@ -58,7 +58,7 @@ print(df)
 file = f'dados_geo.txt'
 path = '/workspaces/api-geral/GEO/dados/'
 
-df.to_csv(f'{path}{file}', sep=';')
+df.to_csv(f'{path}{file}', sep=';', index=False)
 print(f'Arquivo salvo: {file}')
 print(f'Caminho: {path}')
 
