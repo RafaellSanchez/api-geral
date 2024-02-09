@@ -5,7 +5,7 @@ from datetime import datetime
 
 timestamp = datetime.now().strftime('%Y-%m-%d')
 
-url_api = 'https://servicodados.ibge.gov.br/api/v1/localidades/estados/26/municipios'
+url_api = 'https://servicodados.ibge.gov.br/api/v1/localidades/estados/29/municipios'
 
 response = requests.get(url_api)
 
@@ -73,6 +73,6 @@ df = pd.DataFrame(dados_list)
 file = f'dados_geo_{sigla_uf}.txt'
 path = '/workspaces/api-geral/GEO/dados/'
 
-df.to_csv(f'{path}{file}', sep=';', index=False)
+df.to_csv(f'{path}{file}', sep=';')
 print(f'Arquivo salvo: {file}')
 print(f'Caminho: {path}')
