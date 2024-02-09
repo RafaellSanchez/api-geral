@@ -76,9 +76,9 @@ df = pd.DataFrame(dados_list)
 # print(df)
 
 
-file = f'dados_geo_sp.txt'
+file = f'dados_geo_{sigla_uf}.txt'
 path = '/workspaces/api-geral/GEO/dados/'
 
-df.to_csv(f'{path}{file}', sep=';')
+df.to_csv(f'{path}{file}', sep=';', index=False)
 print(f'Arquivo salvo: {file}')
 print(f'Caminho: {path}')

@@ -1,0 +1,418 @@
+;id;nome;id_mun;nm_mun;id_mcr;nm_mcr;id_uf;nm_uf;sigla_uf;id_reg;nm_reg;sigla_rg;rgimd_id;rgimd_nm;rgint_id;rgint_nm;rguf_id;rguf_sgl;rguf_nm;rgrg_id;rgrg_sgl;rgrg_nm;dtigtao
+0;2900108;Abaíra;29023;Seabra;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290013;Brumado;2904;Vitória da Conquista;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+1;2900207;Abaré;29005;Paulo Afonso;2902;Vale São-Franciscano da Bahia;29;Bahia;BA;2;Nordeste;NE;290024;Paulo Afonso;2909;Paulo Afonso;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+2;2900306;Acajutiba;29017;Alagoinhas;2904;Nordeste Baiano;29;Bahia;BA;2;Nordeste;NE;290002;Alagoinhas;2901;Salvador;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+3;2900355;Adustina;29015;Ribeira do Pombal;2904;Nordeste Baiano;29;Bahia;BA;2;Nordeste;NE;290027;Cícero Dantas;2909;Paulo Afonso;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+4;2900405;Água Fria;29012;Feira de Santana;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290029;Feira de Santana;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+5;2900504;Érico Cardoso;29025;Livramento do Brumado;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290013;Brumado;2904;Vitória da Conquista;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+6;2900603;Aiquara;29024;Jequié;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290012;Jequié;2904;Vitória da Conquista;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+7;2900702;Alagoinhas;29017;Alagoinhas;2904;Nordeste Baiano;29;Bahia;BA;2;Nordeste;NE;290002;Alagoinhas;2901;Salvador;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+8;2900801;Alcobaça;29032;Porto Seguro;2907;Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290008;Teixeira de Freitas;2903;Ilhéus ¿ Itabuna;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+9;2900900;Almadina;29031;Ilhéus-Itabuna;2907;Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290007;Ilhéus ¿ Itabuna;2903;Ilhéus ¿ Itabuna;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+10;2901007;Amargosa;29024;Jequié;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290003;Santo Antônio de Jesus;2902;Santo Antônio de Jesus;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+11;2901106;Amélia Rodrigues;29019;Catu;2905;Metropolitana de Salvador;29;Bahia;BA;2;Nordeste;NE;290029;Feira de Santana;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+12;2901155;América Dourada;29009;Irecê;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290020;Irecê;2907;Irecê;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+13;2901205;Anagé;29028;Vitória da Conquista;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290011;Vitória da Conquista;2904;Vitória da Conquista;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+14;2901304;Andaraí;29023;Seabra;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290031;Itaberaba;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+15;2901353;Andorinha;29008;Senhor do Bonfim;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290023;Senhor do Bonfim;2908;Juazeiro;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+16;2901403;Angical;29002;Cotegipe;2901;Extremo Oeste Baiano;29;Bahia;BA;2;Nordeste;NE;290018;Barreiras;2906;Barreiras;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+17;2901502;Anguera;29012;Feira de Santana;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290029;Feira de Santana;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+18;2901601;Antas;29015;Ribeira do Pombal;2904;Nordeste Baiano;29;Bahia;BA;2;Nordeste;NE;290027;Cícero Dantas;2909;Paulo Afonso;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+19;2901700;Antônio Cardoso;29012;Feira de Santana;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290029;Feira de Santana;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+20;2901809;Antônio Gonçalves;29008;Senhor do Bonfim;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290023;Senhor do Bonfim;2908;Juazeiro;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+21;2901908;Aporá;29017;Alagoinhas;2904;Nordeste Baiano;29;Bahia;BA;2;Nordeste;NE;290002;Alagoinhas;2901;Salvador;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+22;2901957;Apuarema;29024;Jequié;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290012;Jequié;2904;Vitória da Conquista;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+23;2902005;Aracatu;29027;Brumado;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290013;Brumado;2904;Vitória da Conquista;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+24;2902054;Araçás;29017;Alagoinhas;2904;Nordeste Baiano;29;Bahia;BA;2;Nordeste;NE;290002;Alagoinhas;2901;Salvador;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+25;2902104;Araci;29016;Serrinha;2904;Nordeste Baiano;29;Bahia;BA;2;Nordeste;NE;290033;Serrinha;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+26;2902203;Aramari;29017;Alagoinhas;2904;Nordeste Baiano;29;Bahia;BA;2;Nordeste;NE;290002;Alagoinhas;2901;Salvador;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+27;2902252;Arataca;29031;Ilhéus-Itabuna;2907;Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290010;Camacan;2903;Ilhéus ¿ Itabuna;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+28;2902302;Aratuípe;29020;Santo Antônio de Jesus;2905;Metropolitana de Salvador;29;Bahia;BA;2;Nordeste;NE;290006;Nazaré ¿ Maragogipe;2902;Santo Antônio de Jesus;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+29;2902401;Aurelino Leal;29031;Ilhéus-Itabuna;2907;Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290007;Ilhéus ¿ Itabuna;2903;Ilhéus ¿ Itabuna;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+30;2902500;Baianópolis;29001;Barreiras;2901;Extremo Oeste Baiano;29;Bahia;BA;2;Nordeste;NE;290018;Barreiras;2906;Barreiras;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+31;2902609;Baixa Grande;29011;Itaberaba;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290029;Feira de Santana;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+32;2902658;Banzaê;29015;Ribeira do Pombal;2904;Nordeste Baiano;29;Bahia;BA;2;Nordeste;NE;290025;Ribeira do Pombal;2909;Paulo Afonso;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+33;2902708;Barra;29006;Barra;2902;Vale São-Franciscano da Bahia;29;Bahia;BA;2;Nordeste;NE;290021;Xique-Xique ¿ Barra;2907;Irecê;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+34;2902807;Barra da Estiva;29023;Seabra;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290011;Vitória da Conquista;2904;Vitória da Conquista;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+35;2902906;Barra do Choça;29028;Vitória da Conquista;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290011;Vitória da Conquista;2904;Vitória da Conquista;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+36;2903003;Barra do Mendes;29009;Irecê;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290020;Irecê;2907;Irecê;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+37;2903102;Barra do Rocha;29031;Ilhéus-Itabuna;2907;Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290014;Ipiaú;2904;Vitória da Conquista;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+38;2903201;Barreiras;29001;Barreiras;2901;Extremo Oeste Baiano;29;Bahia;BA;2;Nordeste;NE;290018;Barreiras;2906;Barreiras;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+39;2903235;Barro Alto;29009;Irecê;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290020;Irecê;2907;Irecê;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+40;2903276;Barrocas;29016;Serrinha;2904;Nordeste Baiano;29;Bahia;BA;2;Nordeste;NE;290033;Serrinha;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+41;2903300;Barro Preto;29031;Ilhéus-Itabuna;2907;Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290007;Ilhéus ¿ Itabuna;2903;Ilhéus ¿ Itabuna;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+42;2903409;Belmonte;29031;Ilhéus-Itabuna;2907;Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290009;Eunápolis - Porto Seguro;2903;Ilhéus ¿ Itabuna;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+43;2903508;Belo Campo;29028;Vitória da Conquista;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290011;Vitória da Conquista;2904;Vitória da Conquista;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+44;2903607;Biritinga;29016;Serrinha;2904;Nordeste Baiano;29;Bahia;BA;2;Nordeste;NE;290033;Serrinha;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+45;2903706;Boa Nova;29028;Vitória da Conquista;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290011;Vitória da Conquista;2904;Vitória da Conquista;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+46;2903805;Boa Vista do Tupim;29011;Itaberaba;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290031;Itaberaba;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+47;2903904;Bom Jesus da Lapa;29007;Bom Jesus da Lapa;2902;Vale São-Franciscano da Bahia;29;Bahia;BA;2;Nordeste;NE;290017;Bom Jesus da Lapa;2905;Guanambi;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+48;2903953;Bom Jesus da Serra;29028;Vitória da Conquista;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290011;Vitória da Conquista;2904;Vitória da Conquista;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+49;2904001;Boninal;29023;Seabra;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290034;Seabra;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+50;2904050;Bonito;29023;Seabra;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290020;Irecê;2907;Irecê;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+51;2904100;Boquira;29022;Boquira;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290017;Bom Jesus da Lapa;2905;Guanambi;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+52;2904209;Botuporã;29022;Boquira;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290016;Guanambi;2905;Guanambi;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+53;2904308;Brejões;29024;Jequié;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290003;Santo Antônio de Jesus;2902;Santo Antônio de Jesus;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+54;2904407;Brejolândia;29002;Cotegipe;2901;Extremo Oeste Baiano;29;Bahia;BA;2;Nordeste;NE;290018;Barreiras;2906;Barreiras;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+55;2904506;Brotas de Macaúbas;29022;Boquira;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290021;Xique-Xique ¿ Barra;2907;Irecê;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+56;2904605;Brumado;29027;Brumado;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290013;Brumado;2904;Vitória da Conquista;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+57;2904704;Buerarema;29031;Ilhéus-Itabuna;2907;Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290007;Ilhéus ¿ Itabuna;2903;Ilhéus ¿ Itabuna;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+58;2904753;Buritirama;29006;Barra;2902;Vale São-Franciscano da Bahia;29;Bahia;BA;2;Nordeste;NE;290021;Xique-Xique ¿ Barra;2907;Irecê;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+59;2904803;Caatiba;29028;Vitória da Conquista;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290011;Vitória da Conquista;2904;Vitória da Conquista;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+60;2904852;Cabaceiras do Paraguaçu;29020;Santo Antônio de Jesus;2905;Metropolitana de Salvador;29;Bahia;BA;2;Nordeste;NE;290004;Cruz das Almas;2902;Santo Antônio de Jesus;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+61;2904902;Cachoeira;29020;Santo Antônio de Jesus;2905;Metropolitana de Salvador;29;Bahia;BA;2;Nordeste;NE;290004;Cruz das Almas;2902;Santo Antônio de Jesus;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+62;2905008;Caculé;29026;Guanambi;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290016;Guanambi;2905;Guanambi;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+63;2905107;Caém;29010;Jacobina;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290030;Jacobina;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+64;2905156;Caetanos;29028;Vitória da Conquista;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290011;Vitória da Conquista;2904;Vitória da Conquista;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+65;2905206;Caetité;29026;Guanambi;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290016;Guanambi;2905;Guanambi;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+66;2905305;Cafarnaum;29009;Irecê;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290020;Irecê;2907;Irecê;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+67;2905404;Cairu;29030;Valença;2907;Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290005;Valença;2902;Santo Antônio de Jesus;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+68;2905503;Caldeirão Grande;29010;Jacobina;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290030;Jacobina;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+69;2905602;Camacan;29031;Ilhéus-Itabuna;2907;Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290010;Camacan;2903;Ilhéus ¿ Itabuna;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+70;2905701;Camaçari;29021;Salvador;2905;Metropolitana de Salvador;29;Bahia;BA;2;Nordeste;NE;290001;Salvador;2901;Salvador;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+71;2905800;Camamu;29030;Valença;2907;Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290005;Valença;2902;Santo Antônio de Jesus;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+72;2905909;Campo Alegre de Lourdes;29004;Juazeiro;2902;Vale São-Franciscano da Bahia;29;Bahia;BA;2;Nordeste;NE;290022;Juazeiro;2908;Juazeiro;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+73;2906006;Campo Formoso;29008;Senhor do Bonfim;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290023;Senhor do Bonfim;2908;Juazeiro;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+74;2906105;Canápolis;29003;Santa Maria da Vitória;2901;Extremo Oeste Baiano;29;Bahia;BA;2;Nordeste;NE;290019;Santa Maria da Vitoria;2906;Barreiras;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+75;2906204;Canarana;29009;Irecê;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290020;Irecê;2907;Irecê;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+76;2906303;Canavieiras;29031;Ilhéus-Itabuna;2907;Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290010;Camacan;2903;Ilhéus ¿ Itabuna;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+77;2906402;Candeal;29016;Serrinha;2904;Nordeste Baiano;29;Bahia;BA;2;Nordeste;NE;290029;Feira de Santana;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+78;2906501;Candeias;29021;Salvador;2905;Metropolitana de Salvador;29;Bahia;BA;2;Nordeste;NE;290001;Salvador;2901;Salvador;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+79;2906600;Candiba;29026;Guanambi;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290016;Guanambi;2905;Guanambi;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+80;2906709;Cândido Sales;29028;Vitória da Conquista;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290011;Vitória da Conquista;2904;Vitória da Conquista;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+81;2906808;Cansanção;29014;Euclides da Cunha;2904;Nordeste Baiano;29;Bahia;BA;2;Nordeste;NE;290026;Euclides da Cunha;2909;Paulo Afonso;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+82;2906824;Canudos;29014;Euclides da Cunha;2904;Nordeste Baiano;29;Bahia;BA;2;Nordeste;NE;290026;Euclides da Cunha;2909;Paulo Afonso;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+83;2906857;Capela do Alto Alegre;29016;Serrinha;2904;Nordeste Baiano;29;Bahia;BA;2;Nordeste;NE;290029;Feira de Santana;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+84;2906873;Capim Grosso;29010;Jacobina;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290030;Jacobina;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+85;2906899;Caraíbas;29027;Brumado;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290011;Vitória da Conquista;2904;Vitória da Conquista;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+86;2906907;Caravelas;29032;Porto Seguro;2907;Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290008;Teixeira de Freitas;2903;Ilhéus ¿ Itabuna;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+87;2907004;Cardeal da Silva;29018;Entre Rios;2904;Nordeste Baiano;29;Bahia;BA;2;Nordeste;NE;290002;Alagoinhas;2901;Salvador;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+88;2907103;Carinhanha;29007;Bom Jesus da Lapa;2902;Vale São-Franciscano da Bahia;29;Bahia;BA;2;Nordeste;NE;290016;Guanambi;2905;Guanambi;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+89;2907202;Casa Nova;29004;Juazeiro;2902;Vale São-Franciscano da Bahia;29;Bahia;BA;2;Nordeste;NE;290022;Juazeiro;2908;Juazeiro;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+90;2907301;Castro Alves;29020;Santo Antônio de Jesus;2905;Metropolitana de Salvador;29;Bahia;BA;2;Nordeste;NE;290004;Cruz das Almas;2902;Santo Antônio de Jesus;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+91;2907400;Catolândia;29001;Barreiras;2901;Extremo Oeste Baiano;29;Bahia;BA;2;Nordeste;NE;290018;Barreiras;2906;Barreiras;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+92;2907509;Catu;29019;Catu;2905;Metropolitana de Salvador;29;Bahia;BA;2;Nordeste;NE;290001;Salvador;2901;Salvador;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+93;2907558;Caturama;29022;Boquira;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290013;Brumado;2904;Vitória da Conquista;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+94;2907608;Central;29009;Irecê;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290020;Irecê;2907;Irecê;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+95;2907707;Chorrochó;29005;Paulo Afonso;2902;Vale São-Franciscano da Bahia;29;Bahia;BA;2;Nordeste;NE;290024;Paulo Afonso;2909;Paulo Afonso;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+96;2907806;Cícero Dantas;29015;Ribeira do Pombal;2904;Nordeste Baiano;29;Bahia;BA;2;Nordeste;NE;290027;Cícero Dantas;2909;Paulo Afonso;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+97;2907905;Cipó;29015;Ribeira do Pombal;2904;Nordeste Baiano;29;Bahia;BA;2;Nordeste;NE;290025;Ribeira do Pombal;2909;Paulo Afonso;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+98;2908002;Coaraci;29031;Ilhéus-Itabuna;2907;Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290007;Ilhéus ¿ Itabuna;2903;Ilhéus ¿ Itabuna;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+99;2908101;Cocos;29003;Santa Maria da Vitória;2901;Extremo Oeste Baiano;29;Bahia;BA;2;Nordeste;NE;290019;Santa Maria da Vitoria;2906;Barreiras;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+100;2908200;Conceição da Feira;29012;Feira de Santana;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290029;Feira de Santana;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+101;2908309;Conceição do Almeida;29020;Santo Antônio de Jesus;2905;Metropolitana de Salvador;29;Bahia;BA;2;Nordeste;NE;290004;Cruz das Almas;2902;Santo Antônio de Jesus;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+102;2908408;Conceição do Coité;29016;Serrinha;2904;Nordeste Baiano;29;Bahia;BA;2;Nordeste;NE;290032;Conceição do Coité;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+103;2908507;Conceição do Jacuípe;29012;Feira de Santana;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290029;Feira de Santana;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+104;2908606;Conde;29018;Entre Rios;2904;Nordeste Baiano;29;Bahia;BA;2;Nordeste;NE;290002;Alagoinhas;2901;Salvador;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+105;2908705;Condeúba;29027;Brumado;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290011;Vitória da Conquista;2904;Vitória da Conquista;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+106;2908804;Contendas do Sincorá;29023;Seabra;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290011;Vitória da Conquista;2904;Vitória da Conquista;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+107;2908903;Coração de Maria;29012;Feira de Santana;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290029;Feira de Santana;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+108;2909000;Cordeiros;29027;Brumado;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290011;Vitória da Conquista;2904;Vitória da Conquista;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+109;2909109;Coribe;29003;Santa Maria da Vitória;2901;Extremo Oeste Baiano;29;Bahia;BA;2;Nordeste;NE;290019;Santa Maria da Vitoria;2906;Barreiras;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+110;2909208;Coronel João Sá;29013;Jeremoabo;2904;Nordeste Baiano;29;Bahia;BA;2;Nordeste;NE;290028;Jeremoabo;2909;Paulo Afonso;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+111;2909307;Correntina;29003;Santa Maria da Vitória;2901;Extremo Oeste Baiano;29;Bahia;BA;2;Nordeste;NE;290019;Santa Maria da Vitoria;2906;Barreiras;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+112;2909406;Cotegipe;29002;Cotegipe;2901;Extremo Oeste Baiano;29;Bahia;BA;2;Nordeste;NE;290018;Barreiras;2906;Barreiras;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+113;2909505;Cravolândia;29024;Jequié;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290012;Jequié;2904;Vitória da Conquista;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+114;2909604;Crisópolis;29017;Alagoinhas;2904;Nordeste Baiano;29;Bahia;BA;2;Nordeste;NE;290002;Alagoinhas;2901;Salvador;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+115;2909703;Cristópolis;29002;Cotegipe;2901;Extremo Oeste Baiano;29;Bahia;BA;2;Nordeste;NE;290018;Barreiras;2906;Barreiras;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+116;2909802;Cruz das Almas;29020;Santo Antônio de Jesus;2905;Metropolitana de Salvador;29;Bahia;BA;2;Nordeste;NE;290004;Cruz das Almas;2902;Santo Antônio de Jesus;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+117;2909901;Curaçá;29004;Juazeiro;2902;Vale São-Franciscano da Bahia;29;Bahia;BA;2;Nordeste;NE;290022;Juazeiro;2908;Juazeiro;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+118;2910008;Dário Meira;29028;Vitória da Conquista;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290014;Ipiaú;2904;Vitória da Conquista;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+119;2910057;Dias d'Ávila;29021;Salvador;2905;Metropolitana de Salvador;29;Bahia;BA;2;Nordeste;NE;290001;Salvador;2901;Salvador;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+120;2910107;Dom Basílio;29025;Livramento do Brumado;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290013;Brumado;2904;Vitória da Conquista;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+121;2910206;Dom Macedo Costa;29020;Santo Antônio de Jesus;2905;Metropolitana de Salvador;29;Bahia;BA;2;Nordeste;NE;290003;Santo Antônio de Jesus;2902;Santo Antônio de Jesus;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+122;2910305;Elísio Medrado;29012;Feira de Santana;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290003;Santo Antônio de Jesus;2902;Santo Antônio de Jesus;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+123;2910404;Encruzilhada;29029;Itapetinga;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290011;Vitória da Conquista;2904;Vitória da Conquista;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+124;2910503;Entre Rios;29018;Entre Rios;2904;Nordeste Baiano;29;Bahia;BA;2;Nordeste;NE;290002;Alagoinhas;2901;Salvador;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+125;2910602;Esplanada;29018;Entre Rios;2904;Nordeste Baiano;29;Bahia;BA;2;Nordeste;NE;290002;Alagoinhas;2901;Salvador;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+126;2910701;Euclides da Cunha;29014;Euclides da Cunha;2904;Nordeste Baiano;29;Bahia;BA;2;Nordeste;NE;290026;Euclides da Cunha;2909;Paulo Afonso;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+127;2910727;Eunápolis;29032;Porto Seguro;2907;Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290009;Eunápolis - Porto Seguro;2903;Ilhéus ¿ Itabuna;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+128;2910750;Fátima;29015;Ribeira do Pombal;2904;Nordeste Baiano;29;Bahia;BA;2;Nordeste;NE;290027;Cícero Dantas;2909;Paulo Afonso;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+129;2910776;Feira da Mata;29007;Bom Jesus da Lapa;2902;Vale São-Franciscano da Bahia;29;Bahia;BA;2;Nordeste;NE;290016;Guanambi;2905;Guanambi;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+130;2910800;Feira de Santana;29012;Feira de Santana;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290029;Feira de Santana;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+131;2910859;Filadélfia;29008;Senhor do Bonfim;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290023;Senhor do Bonfim;2908;Juazeiro;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+132;2910909;Firmino Alves;29031;Ilhéus-Itabuna;2907;Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290007;Ilhéus ¿ Itabuna;2903;Ilhéus ¿ Itabuna;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+133;2911006;Floresta Azul;29031;Ilhéus-Itabuna;2907;Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290007;Ilhéus ¿ Itabuna;2903;Ilhéus ¿ Itabuna;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+134;2911105;Formosa do Rio Preto;29001;Barreiras;2901;Extremo Oeste Baiano;29;Bahia;BA;2;Nordeste;NE;290018;Barreiras;2906;Barreiras;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+135;2911204;Gandu;29031;Ilhéus-Itabuna;2907;Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290014;Ipiaú;2904;Vitória da Conquista;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+136;2911253;Gavião;29016;Serrinha;2904;Nordeste Baiano;29;Bahia;BA;2;Nordeste;NE;290029;Feira de Santana;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+137;2911303;Gentio do Ouro;29009;Irecê;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290021;Xique-Xique ¿ Barra;2907;Irecê;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+138;2911402;Glória;29005;Paulo Afonso;2902;Vale São-Franciscano da Bahia;29;Bahia;BA;2;Nordeste;NE;290024;Paulo Afonso;2909;Paulo Afonso;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+139;2911501;Gongogi;29031;Ilhéus-Itabuna;2907;Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290014;Ipiaú;2904;Vitória da Conquista;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+140;2911600;Governador Mangabeira;29020;Santo Antônio de Jesus;2905;Metropolitana de Salvador;29;Bahia;BA;2;Nordeste;NE;290004;Cruz das Almas;2902;Santo Antônio de Jesus;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+141;2911659;Guajeru;29027;Brumado;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290016;Guanambi;2905;Guanambi;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+142;2911709;Guanambi;29026;Guanambi;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290016;Guanambi;2905;Guanambi;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+143;2911808;Guaratinga;29032;Porto Seguro;2907;Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290009;Eunápolis - Porto Seguro;2903;Ilhéus ¿ Itabuna;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+144;2911857;Heliópolis;29015;Ribeira do Pombal;2904;Nordeste Baiano;29;Bahia;BA;2;Nordeste;NE;290027;Cícero Dantas;2909;Paulo Afonso;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+145;2911907;Iaçu;29011;Itaberaba;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290031;Itaberaba;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+146;2912004;Ibiassucê;29026;Guanambi;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290016;Guanambi;2905;Guanambi;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+147;2912103;Ibicaraí;29031;Ilhéus-Itabuna;2907;Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290007;Ilhéus ¿ Itabuna;2903;Ilhéus ¿ Itabuna;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+148;2912202;Ibicoara;29023;Seabra;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290011;Vitória da Conquista;2904;Vitória da Conquista;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+149;2912301;Ibicuí;29028;Vitória da Conquista;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290007;Ilhéus ¿ Itabuna;2903;Ilhéus ¿ Itabuna;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+150;2912400;Ibipeba;29009;Irecê;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290020;Irecê;2907;Irecê;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+151;2912509;Ibipitanga;29022;Boquira;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290017;Bom Jesus da Lapa;2905;Guanambi;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+152;2912608;Ibiquera;29011;Itaberaba;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290031;Itaberaba;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+153;2912707;Ibirapitanga;29031;Ilhéus-Itabuna;2907;Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290007;Ilhéus ¿ Itabuna;2903;Ilhéus ¿ Itabuna;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+154;2912806;Ibirapuã;29032;Porto Seguro;2907;Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290008;Teixeira de Freitas;2903;Ilhéus ¿ Itabuna;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+155;2912905;Ibirataia;29031;Ilhéus-Itabuna;2907;Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290014;Ipiaú;2904;Vitória da Conquista;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+156;2913002;Ibitiara;29022;Boquira;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290034;Seabra;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+157;2913101;Ibititá;29009;Irecê;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290020;Irecê;2907;Irecê;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+158;2913200;Ibotirama;29006;Barra;2902;Vale São-Franciscano da Bahia;29;Bahia;BA;2;Nordeste;NE;290021;Xique-Xique ¿ Barra;2907;Irecê;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+159;2913309;Ichu;29016;Serrinha;2904;Nordeste Baiano;29;Bahia;BA;2;Nordeste;NE;290029;Feira de Santana;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+160;2913408;Igaporã;29026;Guanambi;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290016;Guanambi;2905;Guanambi;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+161;2913457;Igrapiúna;29030;Valença;2907;Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290005;Valença;2902;Santo Antônio de Jesus;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+162;2913507;Iguaí;29028;Vitória da Conquista;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290011;Vitória da Conquista;2904;Vitória da Conquista;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+163;2913606;Ilhéus;29031;Ilhéus-Itabuna;2907;Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290007;Ilhéus ¿ Itabuna;2903;Ilhéus ¿ Itabuna;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+164;2913705;Inhambupe;29017;Alagoinhas;2904;Nordeste Baiano;29;Bahia;BA;2;Nordeste;NE;290002;Alagoinhas;2901;Salvador;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+165;2913804;Ipecaetá;29012;Feira de Santana;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290029;Feira de Santana;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+166;2913903;Ipiaú;29031;Ilhéus-Itabuna;2907;Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290014;Ipiaú;2904;Vitória da Conquista;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+167;2914000;Ipirá;29012;Feira de Santana;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290029;Feira de Santana;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+168;2914109;Ipupiara;29022;Boquira;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290021;Xique-Xique ¿ Barra;2907;Irecê;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+169;2914208;Irajuba;29024;Jequié;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290012;Jequié;2904;Vitória da Conquista;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+170;2914307;Iramaia;29024;Jequié;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290011;Vitória da Conquista;2904;Vitória da Conquista;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+171;2914406;Iraquara;29009;Irecê;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290034;Seabra;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+172;2914505;Irará;29012;Feira de Santana;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290029;Feira de Santana;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+173;2914604;Irecê;29009;Irecê;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290020;Irecê;2907;Irecê;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+174;2914653;Itabela;29032;Porto Seguro;2907;Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290009;Eunápolis - Porto Seguro;2903;Ilhéus ¿ Itabuna;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+175;2914703;Itaberaba;29011;Itaberaba;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290031;Itaberaba;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+176;2914802;Itabuna;29031;Ilhéus-Itabuna;2907;Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290007;Ilhéus ¿ Itabuna;2903;Ilhéus ¿ Itabuna;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+177;2914901;Itacaré;29031;Ilhéus-Itabuna;2907;Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290007;Ilhéus ¿ Itabuna;2903;Ilhéus ¿ Itabuna;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+178;2915007;Itaeté;29023;Seabra;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290031;Itaberaba;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+179;2915106;Itagi;29024;Jequié;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290012;Jequié;2904;Vitória da Conquista;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+180;2915205;Itagibá;29031;Ilhéus-Itabuna;2907;Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290014;Ipiaú;2904;Vitória da Conquista;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+181;2915304;Itagimirim;29032;Porto Seguro;2907;Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290009;Eunápolis - Porto Seguro;2903;Ilhéus ¿ Itabuna;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+182;2915353;Itaguaçu da Bahia;29006;Barra;2902;Vale São-Franciscano da Bahia;29;Bahia;BA;2;Nordeste;NE;290020;Irecê;2907;Irecê;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+183;2915403;Itaju do Colônia;29031;Ilhéus-Itabuna;2907;Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290007;Ilhéus ¿ Itabuna;2903;Ilhéus ¿ Itabuna;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+184;2915502;Itajuípe;29031;Ilhéus-Itabuna;2907;Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290007;Ilhéus ¿ Itabuna;2903;Ilhéus ¿ Itabuna;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+185;2915601;Itamaraju;29032;Porto Seguro;2907;Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290008;Teixeira de Freitas;2903;Ilhéus ¿ Itabuna;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+186;2915700;Itamari;29031;Ilhéus-Itabuna;2907;Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290014;Ipiaú;2904;Vitória da Conquista;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+187;2915809;Itambé;29029;Itapetinga;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290011;Vitória da Conquista;2904;Vitória da Conquista;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+188;2915908;Itanagra;29019;Catu;2905;Metropolitana de Salvador;29;Bahia;BA;2;Nordeste;NE;290001;Salvador;2901;Salvador;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+189;2916005;Itanhém;29032;Porto Seguro;2907;Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290008;Teixeira de Freitas;2903;Ilhéus ¿ Itabuna;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+190;2916104;Itaparica;29021;Salvador;2905;Metropolitana de Salvador;29;Bahia;BA;2;Nordeste;NE;290006;Nazaré ¿ Maragogipe;2902;Santo Antônio de Jesus;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+191;2916203;Itapé;29031;Ilhéus-Itabuna;2907;Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290007;Ilhéus ¿ Itabuna;2903;Ilhéus ¿ Itabuna;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+192;2916302;Itapebi;29031;Ilhéus-Itabuna;2907;Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290009;Eunápolis - Porto Seguro;2903;Ilhéus ¿ Itabuna;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+193;2916401;Itapetinga;29029;Itapetinga;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290015;Itapetinga;2904;Vitória da Conquista;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+194;2916500;Itapicuru;29015;Ribeira do Pombal;2904;Nordeste Baiano;29;Bahia;BA;2;Nordeste;NE;290002;Alagoinhas;2901;Salvador;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+195;2916609;Itapitanga;29031;Ilhéus-Itabuna;2907;Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290007;Ilhéus ¿ Itabuna;2903;Ilhéus ¿ Itabuna;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+196;2916708;Itaquara;29024;Jequié;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290012;Jequié;2904;Vitória da Conquista;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+197;2916807;Itarantim;29029;Itapetinga;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290015;Itapetinga;2904;Vitória da Conquista;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+198;2916856;Itatim;29012;Feira de Santana;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290004;Cruz das Almas;2902;Santo Antônio de Jesus;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+199;2916906;Itiruçu;29024;Jequié;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290012;Jequié;2904;Vitória da Conquista;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+200;2917003;Itiúba;29008;Senhor do Bonfim;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290023;Senhor do Bonfim;2908;Juazeiro;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+201;2917102;Itororó;29029;Itapetinga;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290015;Itapetinga;2904;Vitória da Conquista;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+202;2917201;Ituaçu;29027;Brumado;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290011;Vitória da Conquista;2904;Vitória da Conquista;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+203;2917300;Ituberá;29030;Valença;2907;Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290005;Valença;2902;Santo Antônio de Jesus;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+204;2917334;Iuiu;29026;Guanambi;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290016;Guanambi;2905;Guanambi;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+205;2917359;Jaborandi;29003;Santa Maria da Vitória;2901;Extremo Oeste Baiano;29;Bahia;BA;2;Nordeste;NE;290019;Santa Maria da Vitoria;2906;Barreiras;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+206;2917409;Jacaraci;29026;Guanambi;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290016;Guanambi;2905;Guanambi;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+207;2917508;Jacobina;29010;Jacobina;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290030;Jacobina;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+208;2917607;Jaguaquara;29024;Jequié;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290012;Jequié;2904;Vitória da Conquista;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+209;2917706;Jaguarari;29008;Senhor do Bonfim;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290023;Senhor do Bonfim;2908;Juazeiro;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+210;2917805;Jaguaripe;29020;Santo Antônio de Jesus;2905;Metropolitana de Salvador;29;Bahia;BA;2;Nordeste;NE;290006;Nazaré ¿ Maragogipe;2902;Santo Antônio de Jesus;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+211;2917904;Jandaíra;29018;Entre Rios;2904;Nordeste Baiano;29;Bahia;BA;2;Nordeste;NE;290002;Alagoinhas;2901;Salvador;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+212;2918001;Jequié;29024;Jequié;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290012;Jequié;2904;Vitória da Conquista;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+213;2918100;Jeremoabo;29013;Jeremoabo;2904;Nordeste Baiano;29;Bahia;BA;2;Nordeste;NE;290028;Jeremoabo;2909;Paulo Afonso;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+214;2918209;Jiquiriçá;29024;Jequié;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290003;Santo Antônio de Jesus;2902;Santo Antônio de Jesus;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+215;2918308;Jitaúna;29024;Jequié;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290012;Jequié;2904;Vitória da Conquista;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+216;2918357;João Dourado;29009;Irecê;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290020;Irecê;2907;Irecê;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+217;2918407;Juazeiro;29004;Juazeiro;2902;Vale São-Franciscano da Bahia;29;Bahia;BA;2;Nordeste;NE;290022;Juazeiro;2908;Juazeiro;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+218;2918456;Jucuruçu;29032;Porto Seguro;2907;Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290008;Teixeira de Freitas;2903;Ilhéus ¿ Itabuna;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+219;2918506;Jussara;29009;Irecê;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290020;Irecê;2907;Irecê;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+220;2918555;Jussari;29031;Ilhéus-Itabuna;2907;Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290010;Camacan;2903;Ilhéus ¿ Itabuna;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+221;2918605;Jussiape;29023;Seabra;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290013;Brumado;2904;Vitória da Conquista;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+222;2918704;Lafaiete Coutinho;29024;Jequié;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290012;Jequié;2904;Vitória da Conquista;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+223;2918753;Lagoa Real;29026;Guanambi;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290016;Guanambi;2905;Guanambi;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+224;2918803;Laje;29024;Jequié;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290003;Santo Antônio de Jesus;2902;Santo Antônio de Jesus;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+225;2918902;Lajedão;29032;Porto Seguro;2907;Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290008;Teixeira de Freitas;2903;Ilhéus ¿ Itabuna;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+226;2919009;Lajedinho;29011;Itaberaba;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290031;Itaberaba;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+227;2919058;Lajedo do Tabocal;29024;Jequié;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290012;Jequié;2904;Vitória da Conquista;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+228;2919108;Lamarão;29016;Serrinha;2904;Nordeste Baiano;29;Bahia;BA;2;Nordeste;NE;290029;Feira de Santana;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+229;2919157;Lapão;29009;Irecê;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290020;Irecê;2907;Irecê;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+230;2919207;Lauro de Freitas;29021;Salvador;2905;Metropolitana de Salvador;29;Bahia;BA;2;Nordeste;NE;290001;Salvador;2901;Salvador;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+231;2919306;Lençóis;29023;Seabra;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290034;Seabra;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+232;2919405;Licínio de Almeida;29026;Guanambi;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290016;Guanambi;2905;Guanambi;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+233;2919504;Livramento de Nossa Senhora;29025;Livramento do Brumado;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290013;Brumado;2904;Vitória da Conquista;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+234;2919553;Luís Eduardo Magalhães;29001;Barreiras;2901;Extremo Oeste Baiano;29;Bahia;BA;2;Nordeste;NE;290018;Barreiras;2906;Barreiras;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+235;2919603;Macajuba;29011;Itaberaba;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290029;Feira de Santana;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+236;2919702;Macarani;29029;Itapetinga;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290015;Itapetinga;2904;Vitória da Conquista;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+237;2919801;Macaúbas;29022;Boquira;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290017;Bom Jesus da Lapa;2905;Guanambi;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+238;2919900;Macururé;29005;Paulo Afonso;2902;Vale São-Franciscano da Bahia;29;Bahia;BA;2;Nordeste;NE;290024;Paulo Afonso;2909;Paulo Afonso;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+239;2919926;Madre de Deus;29021;Salvador;2905;Metropolitana de Salvador;29;Bahia;BA;2;Nordeste;NE;290001;Salvador;2901;Salvador;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+240;2919959;Maetinga;29027;Brumado;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290011;Vitória da Conquista;2904;Vitória da Conquista;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+241;2920007;Maiquinique;29029;Itapetinga;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290015;Itapetinga;2904;Vitória da Conquista;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+242;2920106;Mairi;29011;Itaberaba;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290029;Feira de Santana;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+243;2920205;Malhada;29026;Guanambi;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290016;Guanambi;2905;Guanambi;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+244;2920304;Malhada de Pedras;29027;Brumado;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290013;Brumado;2904;Vitória da Conquista;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+245;2920403;Manoel Vitorino;29028;Vitória da Conquista;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290012;Jequié;2904;Vitória da Conquista;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+246;2920452;Mansidão;29002;Cotegipe;2901;Extremo Oeste Baiano;29;Bahia;BA;2;Nordeste;NE;290018;Barreiras;2906;Barreiras;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+247;2920502;Maracás;29024;Jequié;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290012;Jequié;2904;Vitória da Conquista;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+248;2920601;Maragogipe;29020;Santo Antônio de Jesus;2905;Metropolitana de Salvador;29;Bahia;BA;2;Nordeste;NE;290006;Nazaré ¿ Maragogipe;2902;Santo Antônio de Jesus;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+249;2920700;Maraú;29030;Valença;2907;Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290007;Ilhéus ¿ Itabuna;2903;Ilhéus ¿ Itabuna;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+250;2920809;Marcionílio Souza;29024;Jequié;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290031;Itaberaba;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+251;2920908;Mascote;29031;Ilhéus-Itabuna;2907;Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290010;Camacan;2903;Ilhéus ¿ Itabuna;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+252;2921005;Mata de São João;29019;Catu;2905;Metropolitana de Salvador;29;Bahia;BA;2;Nordeste;NE;290001;Salvador;2901;Salvador;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+253;2921054;Matina;29026;Guanambi;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290016;Guanambi;2905;Guanambi;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+254;2921104;Medeiros Neto;29032;Porto Seguro;2907;Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290008;Teixeira de Freitas;2903;Ilhéus ¿ Itabuna;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+255;2921203;Miguel Calmon;29010;Jacobina;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290030;Jacobina;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+256;2921302;Milagres;29024;Jequié;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290003;Santo Antônio de Jesus;2902;Santo Antônio de Jesus;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+257;2921401;Mirangaba;29010;Jacobina;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290030;Jacobina;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+258;2921450;Mirante;29028;Vitória da Conquista;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290011;Vitória da Conquista;2904;Vitória da Conquista;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+259;2921500;Monte Santo;29014;Euclides da Cunha;2904;Nordeste Baiano;29;Bahia;BA;2;Nordeste;NE;290026;Euclides da Cunha;2909;Paulo Afonso;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+260;2921609;Morpará;29006;Barra;2902;Vale São-Franciscano da Bahia;29;Bahia;BA;2;Nordeste;NE;290021;Xique-Xique ¿ Barra;2907;Irecê;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+261;2921708;Morro do Chapéu;29010;Jacobina;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290020;Irecê;2907;Irecê;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+262;2921807;Mortugaba;29026;Guanambi;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290016;Guanambi;2905;Guanambi;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+263;2921906;Mucugê;29023;Seabra;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290034;Seabra;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+264;2922003;Mucuri;29032;Porto Seguro;2907;Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290008;Teixeira de Freitas;2903;Ilhéus ¿ Itabuna;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+265;2922052;Mulungu do Morro;29009;Irecê;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290020;Irecê;2907;Irecê;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+266;2922102;Mundo Novo;29011;Itaberaba;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290029;Feira de Santana;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+267;2922201;Muniz Ferreira;29020;Santo Antônio de Jesus;2905;Metropolitana de Salvador;29;Bahia;BA;2;Nordeste;NE;290003;Santo Antônio de Jesus;2902;Santo Antônio de Jesus;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+268;2922250;Muquém do São Francisco;29006;Barra;2902;Vale São-Franciscano da Bahia;29;Bahia;BA;2;Nordeste;NE;290021;Xique-Xique ¿ Barra;2907;Irecê;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+269;2922300;Muritiba;29020;Santo Antônio de Jesus;2905;Metropolitana de Salvador;29;Bahia;BA;2;Nordeste;NE;290004;Cruz das Almas;2902;Santo Antônio de Jesus;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+270;2922409;Mutuípe;29024;Jequié;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290003;Santo Antônio de Jesus;2902;Santo Antônio de Jesus;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+271;2922508;Nazaré;29020;Santo Antônio de Jesus;2905;Metropolitana de Salvador;29;Bahia;BA;2;Nordeste;NE;290006;Nazaré ¿ Maragogipe;2902;Santo Antônio de Jesus;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+272;2922607;Nilo Peçanha;29030;Valença;2907;Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290005;Valença;2902;Santo Antônio de Jesus;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+273;2922656;Nordestina;29014;Euclides da Cunha;2904;Nordeste Baiano;29;Bahia;BA;2;Nordeste;NE;290032;Conceição do Coité;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+274;2922706;Nova Canaã;29028;Vitória da Conquista;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290011;Vitória da Conquista;2904;Vitória da Conquista;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+275;2922730;Nova Fátima;29016;Serrinha;2904;Nordeste Baiano;29;Bahia;BA;2;Nordeste;NE;290029;Feira de Santana;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+276;2922755;Nova Ibiá;29031;Ilhéus-Itabuna;2907;Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290014;Ipiaú;2904;Vitória da Conquista;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+277;2922805;Nova Itarana;29024;Jequié;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290003;Santo Antônio de Jesus;2902;Santo Antônio de Jesus;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+278;2922854;Nova Redenção;29023;Seabra;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290031;Itaberaba;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+279;2922904;Nova Soure;29015;Ribeira do Pombal;2904;Nordeste Baiano;29;Bahia;BA;2;Nordeste;NE;290025;Ribeira do Pombal;2909;Paulo Afonso;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+280;2923001;Nova Viçosa;29032;Porto Seguro;2907;Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290008;Teixeira de Freitas;2903;Ilhéus ¿ Itabuna;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+281;2923035;Novo Horizonte;29022;Boquira;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290034;Seabra;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+282;2923050;Novo Triunfo;29015;Ribeira do Pombal;2904;Nordeste Baiano;29;Bahia;BA;2;Nordeste;NE;290028;Jeremoabo;2909;Paulo Afonso;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+283;2923100;Olindina;29015;Ribeira do Pombal;2904;Nordeste Baiano;29;Bahia;BA;2;Nordeste;NE;290025;Ribeira do Pombal;2909;Paulo Afonso;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+284;2923209;Oliveira dos Brejinhos;29022;Boquira;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290021;Xique-Xique ¿ Barra;2907;Irecê;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+285;2923308;Ouriçangas;29012;Feira de Santana;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290029;Feira de Santana;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+286;2923357;Ourolândia;29010;Jacobina;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290030;Jacobina;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+287;2923407;Palmas de Monte Alto;29026;Guanambi;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290016;Guanambi;2905;Guanambi;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+288;2923506;Palmeiras;29023;Seabra;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290034;Seabra;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+289;2923605;Paramirim;29025;Livramento do Brumado;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290013;Brumado;2904;Vitória da Conquista;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+290;2923704;Paratinga;29007;Bom Jesus da Lapa;2902;Vale São-Franciscano da Bahia;29;Bahia;BA;2;Nordeste;NE;290017;Bom Jesus da Lapa;2905;Guanambi;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+291;2923803;Paripiranga;29015;Ribeira do Pombal;2904;Nordeste Baiano;29;Bahia;BA;2;Nordeste;NE;290027;Cícero Dantas;2909;Paulo Afonso;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+292;2923902;Pau Brasil;29031;Ilhéus-Itabuna;2907;Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290010;Camacan;2903;Ilhéus ¿ Itabuna;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+293;2924009;Paulo Afonso;29005;Paulo Afonso;2902;Vale São-Franciscano da Bahia;29;Bahia;BA;2;Nordeste;NE;290024;Paulo Afonso;2909;Paulo Afonso;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+294;2924058;Pé de Serra;29016;Serrinha;2904;Nordeste Baiano;29;Bahia;BA;2;Nordeste;NE;290029;Feira de Santana;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+295;2924108;Pedrão;29012;Feira de Santana;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290002;Alagoinhas;2901;Salvador;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+296;2924207;Pedro Alexandre;29013;Jeremoabo;2904;Nordeste Baiano;29;Bahia;BA;2;Nordeste;NE;290028;Jeremoabo;2909;Paulo Afonso;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+297;2924306;Piatã;29023;Seabra;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290034;Seabra;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+298;2924405;Pilão Arcado;29004;Juazeiro;2902;Vale São-Franciscano da Bahia;29;Bahia;BA;2;Nordeste;NE;290022;Juazeiro;2908;Juazeiro;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+299;2924504;Pindaí;29026;Guanambi;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290016;Guanambi;2905;Guanambi;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+300;2924603;Pindobaçu;29008;Senhor do Bonfim;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290023;Senhor do Bonfim;2908;Juazeiro;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+301;2924652;Pintadas;29012;Feira de Santana;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290029;Feira de Santana;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+302;2924678;Piraí do Norte;29030;Valença;2907;Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290014;Ipiaú;2904;Vitória da Conquista;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+303;2924702;Piripá;29027;Brumado;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290011;Vitória da Conquista;2904;Vitória da Conquista;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+304;2924801;Piritiba;29010;Jacobina;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290030;Jacobina;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+305;2924900;Planaltino;29024;Jequié;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290012;Jequié;2904;Vitória da Conquista;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+306;2925006;Planalto;29028;Vitória da Conquista;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290011;Vitória da Conquista;2904;Vitória da Conquista;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+307;2925105;Poções;29028;Vitória da Conquista;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290011;Vitória da Conquista;2904;Vitória da Conquista;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+308;2925204;Pojuca;29019;Catu;2905;Metropolitana de Salvador;29;Bahia;BA;2;Nordeste;NE;290001;Salvador;2901;Salvador;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+309;2925253;Ponto Novo;29010;Jacobina;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290023;Senhor do Bonfim;2908;Juazeiro;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+310;2925303;Porto Seguro;29032;Porto Seguro;2907;Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290009;Eunápolis - Porto Seguro;2903;Ilhéus ¿ Itabuna;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+311;2925402;Potiraguá;29029;Itapetinga;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290015;Itapetinga;2904;Vitória da Conquista;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+312;2925501;Prado;29032;Porto Seguro;2907;Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290008;Teixeira de Freitas;2903;Ilhéus ¿ Itabuna;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+313;2925600;Presidente Dutra;29009;Irecê;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290020;Irecê;2907;Irecê;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+314;2925709;Presidente Jânio Quadros;29027;Brumado;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290011;Vitória da Conquista;2904;Vitória da Conquista;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+315;2925758;Presidente Tancredo Neves;29030;Valença;2907;Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290005;Valença;2902;Santo Antônio de Jesus;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+316;2925808;Queimadas;29014;Euclides da Cunha;2904;Nordeste Baiano;29;Bahia;BA;2;Nordeste;NE;290032;Conceição do Coité;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+317;2925907;Quijingue;29014;Euclides da Cunha;2904;Nordeste Baiano;29;Bahia;BA;2;Nordeste;NE;290026;Euclides da Cunha;2909;Paulo Afonso;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+318;2925931;Quixabeira;29010;Jacobina;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290030;Jacobina;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+319;2925956;Rafael Jambeiro;29012;Feira de Santana;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290029;Feira de Santana;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+320;2926004;Remanso;29004;Juazeiro;2902;Vale São-Franciscano da Bahia;29;Bahia;BA;2;Nordeste;NE;290022;Juazeiro;2908;Juazeiro;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+321;2926103;Retirolândia;29016;Serrinha;2904;Nordeste Baiano;29;Bahia;BA;2;Nordeste;NE;290032;Conceição do Coité;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+322;2926202;Riachão das Neves;29001;Barreiras;2901;Extremo Oeste Baiano;29;Bahia;BA;2;Nordeste;NE;290018;Barreiras;2906;Barreiras;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+323;2926301;Riachão do Jacuípe;29016;Serrinha;2904;Nordeste Baiano;29;Bahia;BA;2;Nordeste;NE;290029;Feira de Santana;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+324;2926400;Riacho de Santana;29026;Guanambi;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290016;Guanambi;2905;Guanambi;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+325;2926509;Ribeira do Amparo;29015;Ribeira do Pombal;2904;Nordeste Baiano;29;Bahia;BA;2;Nordeste;NE;290025;Ribeira do Pombal;2909;Paulo Afonso;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+326;2926608;Ribeira do Pombal;29015;Ribeira do Pombal;2904;Nordeste Baiano;29;Bahia;BA;2;Nordeste;NE;290025;Ribeira do Pombal;2909;Paulo Afonso;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+327;2926657;Ribeirão do Largo;29029;Itapetinga;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290011;Vitória da Conquista;2904;Vitória da Conquista;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+328;2926707;Rio de Contas;29023;Seabra;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290013;Brumado;2904;Vitória da Conquista;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+329;2926806;Rio do Antônio;29027;Brumado;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290016;Guanambi;2905;Guanambi;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+330;2926905;Rio do Pires;29025;Livramento do Brumado;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290013;Brumado;2904;Vitória da Conquista;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+331;2927002;Rio Real;29017;Alagoinhas;2904;Nordeste Baiano;29;Bahia;BA;2;Nordeste;NE;290002;Alagoinhas;2901;Salvador;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+332;2927101;Rodelas;29005;Paulo Afonso;2902;Vale São-Franciscano da Bahia;29;Bahia;BA;2;Nordeste;NE;290024;Paulo Afonso;2909;Paulo Afonso;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+333;2927200;Ruy Barbosa;29011;Itaberaba;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290031;Itaberaba;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+334;2927309;Salinas da Margarida;29020;Santo Antônio de Jesus;2905;Metropolitana de Salvador;29;Bahia;BA;2;Nordeste;NE;290006;Nazaré ¿ Maragogipe;2902;Santo Antônio de Jesus;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+335;2927408;Salvador;29021;Salvador;2905;Metropolitana de Salvador;29;Bahia;BA;2;Nordeste;NE;290001;Salvador;2901;Salvador;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+336;2927507;Santa Bárbara;29012;Feira de Santana;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290029;Feira de Santana;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+337;2927606;Santa Brígida;29013;Jeremoabo;2904;Nordeste Baiano;29;Bahia;BA;2;Nordeste;NE;290024;Paulo Afonso;2909;Paulo Afonso;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+338;2927705;Santa Cruz Cabrália;29032;Porto Seguro;2907;Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290009;Eunápolis - Porto Seguro;2903;Ilhéus ¿ Itabuna;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+339;2927804;Santa Cruz da Vitória;29031;Ilhéus-Itabuna;2907;Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290007;Ilhéus ¿ Itabuna;2903;Ilhéus ¿ Itabuna;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+340;2927903;Santa Inês;29024;Jequié;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290012;Jequié;2904;Vitória da Conquista;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+341;2928000;Santaluz;29016;Serrinha;2904;Nordeste Baiano;29;Bahia;BA;2;Nordeste;NE;290032;Conceição do Coité;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+342;2928059;Santa Luzia;29031;Ilhéus-Itabuna;2907;Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290010;Camacan;2903;Ilhéus ¿ Itabuna;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+343;2928109;Santa Maria da Vitória;29003;Santa Maria da Vitória;2901;Extremo Oeste Baiano;29;Bahia;BA;2;Nordeste;NE;290019;Santa Maria da Vitoria;2906;Barreiras;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+344;2928208;Santana;29003;Santa Maria da Vitória;2901;Extremo Oeste Baiano;29;Bahia;BA;2;Nordeste;NE;290018;Barreiras;2906;Barreiras;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+345;2928307;Santanópolis;29012;Feira de Santana;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290029;Feira de Santana;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+346;2928406;Santa Rita de Cássia;29002;Cotegipe;2901;Extremo Oeste Baiano;29;Bahia;BA;2;Nordeste;NE;290018;Barreiras;2906;Barreiras;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+347;2928505;Santa Terezinha;29012;Feira de Santana;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290004;Cruz das Almas;2902;Santo Antônio de Jesus;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+348;2928604;Santo Amaro;29020;Santo Antônio de Jesus;2905;Metropolitana de Salvador;29;Bahia;BA;2;Nordeste;NE;290001;Salvador;2901;Salvador;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+349;2928703;Santo Antônio de Jesus;29020;Santo Antônio de Jesus;2905;Metropolitana de Salvador;29;Bahia;BA;2;Nordeste;NE;290003;Santo Antônio de Jesus;2902;Santo Antônio de Jesus;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+350;2928802;Santo Estêvão;29012;Feira de Santana;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290029;Feira de Santana;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+351;2928901;São Desidério;29001;Barreiras;2901;Extremo Oeste Baiano;29;Bahia;BA;2;Nordeste;NE;290018;Barreiras;2906;Barreiras;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+352;2928950;São Domingos;29016;Serrinha;2904;Nordeste Baiano;29;Bahia;BA;2;Nordeste;NE;290032;Conceição do Coité;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+353;2929008;São Félix;29020;Santo Antônio de Jesus;2905;Metropolitana de Salvador;29;Bahia;BA;2;Nordeste;NE;290004;Cruz das Almas;2902;Santo Antônio de Jesus;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+354;2929057;São Félix do Coribe;29003;Santa Maria da Vitória;2901;Extremo Oeste Baiano;29;Bahia;BA;2;Nordeste;NE;290019;Santa Maria da Vitoria;2906;Barreiras;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+355;2929107;São Felipe;29020;Santo Antônio de Jesus;2905;Metropolitana de Salvador;29;Bahia;BA;2;Nordeste;NE;290004;Cruz das Almas;2902;Santo Antônio de Jesus;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+356;2929206;São Francisco do Conde;29021;Salvador;2905;Metropolitana de Salvador;29;Bahia;BA;2;Nordeste;NE;290001;Salvador;2901;Salvador;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+357;2929255;São Gabriel;29009;Irecê;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290020;Irecê;2907;Irecê;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+358;2929305;São Gonçalo dos Campos;29012;Feira de Santana;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290029;Feira de Santana;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+359;2929354;São José da Vitória;29031;Ilhéus-Itabuna;2907;Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290007;Ilhéus ¿ Itabuna;2903;Ilhéus ¿ Itabuna;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+360;2929370;São José do Jacuípe;29010;Jacobina;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290030;Jacobina;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+361;2929404;São Miguel das Matas;29024;Jequié;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290003;Santo Antônio de Jesus;2902;Santo Antônio de Jesus;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+362;2929503;São Sebastião do Passé;29019;Catu;2905;Metropolitana de Salvador;29;Bahia;BA;2;Nordeste;NE;290001;Salvador;2901;Salvador;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+363;2929602;Sapeaçu;29020;Santo Antônio de Jesus;2905;Metropolitana de Salvador;29;Bahia;BA;2;Nordeste;NE;290004;Cruz das Almas;2902;Santo Antônio de Jesus;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+364;2929701;Sátiro Dias;29017;Alagoinhas;2904;Nordeste Baiano;29;Bahia;BA;2;Nordeste;NE;290002;Alagoinhas;2901;Salvador;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+365;2929750;Saubara;29020;Santo Antônio de Jesus;2905;Metropolitana de Salvador;29;Bahia;BA;2;Nordeste;NE;290001;Salvador;2901;Salvador;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+366;2929800;Saúde;29010;Jacobina;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290030;Jacobina;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+367;2929909;Seabra;29023;Seabra;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290034;Seabra;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+368;2930006;Sebastião Laranjeiras;29026;Guanambi;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290016;Guanambi;2905;Guanambi;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+369;2930105;Senhor do Bonfim;29008;Senhor do Bonfim;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290023;Senhor do Bonfim;2908;Juazeiro;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+370;2930154;Serra do Ramalho;29007;Bom Jesus da Lapa;2902;Vale São-Franciscano da Bahia;29;Bahia;BA;2;Nordeste;NE;290017;Bom Jesus da Lapa;2905;Guanambi;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+371;2930204;Sento Sé;29004;Juazeiro;2902;Vale São-Franciscano da Bahia;29;Bahia;BA;2;Nordeste;NE;290022;Juazeiro;2908;Juazeiro;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+372;2930303;Serra Dourada;29003;Santa Maria da Vitória;2901;Extremo Oeste Baiano;29;Bahia;BA;2;Nordeste;NE;290018;Barreiras;2906;Barreiras;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+373;2930402;Serra Preta;29012;Feira de Santana;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290029;Feira de Santana;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+374;2930501;Serrinha;29016;Serrinha;2904;Nordeste Baiano;29;Bahia;BA;2;Nordeste;NE;290033;Serrinha;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+375;2930600;Serrolândia;29010;Jacobina;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290030;Jacobina;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+376;2930709;Simões Filho;29021;Salvador;2905;Metropolitana de Salvador;29;Bahia;BA;2;Nordeste;NE;290001;Salvador;2901;Salvador;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+377;2930758;Sítio do Mato;29007;Bom Jesus da Lapa;2902;Vale São-Franciscano da Bahia;29;Bahia;BA;2;Nordeste;NE;290017;Bom Jesus da Lapa;2905;Guanambi;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+378;2930766;Sítio do Quinto;29013;Jeremoabo;2904;Nordeste Baiano;29;Bahia;BA;2;Nordeste;NE;290028;Jeremoabo;2909;Paulo Afonso;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+379;2930774;Sobradinho;29004;Juazeiro;2902;Vale São-Franciscano da Bahia;29;Bahia;BA;2;Nordeste;NE;290022;Juazeiro;2908;Juazeiro;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+380;2930808;Souto Soares;29009;Irecê;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290034;Seabra;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+381;2930907;Tabocas do Brejo Velho;29002;Cotegipe;2901;Extremo Oeste Baiano;29;Bahia;BA;2;Nordeste;NE;290018;Barreiras;2906;Barreiras;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+382;2931004;Tanhaçu;29027;Brumado;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290011;Vitória da Conquista;2904;Vitória da Conquista;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+383;2931053;Tanque Novo;29022;Boquira;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290016;Guanambi;2905;Guanambi;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+384;2931103;Tanquinho;29012;Feira de Santana;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290029;Feira de Santana;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+385;2931202;Taperoá;29030;Valença;2907;Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290005;Valença;2902;Santo Antônio de Jesus;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+386;2931301;Tapiramutá;29011;Itaberaba;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290030;Jacobina;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+387;2931350;Teixeira de Freitas;29032;Porto Seguro;2907;Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290008;Teixeira de Freitas;2903;Ilhéus ¿ Itabuna;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+388;2931400;Teodoro Sampaio;29012;Feira de Santana;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290002;Alagoinhas;2901;Salvador;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+389;2931509;Teofilândia;29016;Serrinha;2904;Nordeste Baiano;29;Bahia;BA;2;Nordeste;NE;290033;Serrinha;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+390;2931608;Teolândia;29031;Ilhéus-Itabuna;2907;Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290014;Ipiaú;2904;Vitória da Conquista;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+391;2931707;Terra Nova;29019;Catu;2905;Metropolitana de Salvador;29;Bahia;BA;2;Nordeste;NE;290001;Salvador;2901;Salvador;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+392;2931806;Tremedal;29027;Brumado;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290011;Vitória da Conquista;2904;Vitória da Conquista;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+393;2931905;Tucano;29014;Euclides da Cunha;2904;Nordeste Baiano;29;Bahia;BA;2;Nordeste;NE;290025;Ribeira do Pombal;2909;Paulo Afonso;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+394;2932002;Uauá;29014;Euclides da Cunha;2904;Nordeste Baiano;29;Bahia;BA;2;Nordeste;NE;290022;Juazeiro;2908;Juazeiro;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+395;2932101;Ubaíra;29024;Jequié;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290003;Santo Antônio de Jesus;2902;Santo Antônio de Jesus;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+396;2932200;Ubaitaba;29031;Ilhéus-Itabuna;2907;Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290007;Ilhéus ¿ Itabuna;2903;Ilhéus ¿ Itabuna;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+397;2932309;Ubatã;29031;Ilhéus-Itabuna;2907;Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290014;Ipiaú;2904;Vitória da Conquista;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+398;2932408;Uibaí;29009;Irecê;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290020;Irecê;2907;Irecê;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+399;2932457;Umburanas;29008;Senhor do Bonfim;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290030;Jacobina;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+400;2932507;Una;29031;Ilhéus-Itabuna;2907;Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290010;Camacan;2903;Ilhéus ¿ Itabuna;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+401;2932606;Urandi;29026;Guanambi;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290016;Guanambi;2905;Guanambi;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+402;2932705;Uruçuca;29031;Ilhéus-Itabuna;2907;Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290007;Ilhéus ¿ Itabuna;2903;Ilhéus ¿ Itabuna;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+403;2932804;Utinga;29023;Seabra;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290031;Itaberaba;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+404;2932903;Valença;29030;Valença;2907;Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290005;Valença;2902;Santo Antônio de Jesus;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+405;2933000;Valente;29016;Serrinha;2904;Nordeste Baiano;29;Bahia;BA;2;Nordeste;NE;290032;Conceição do Coité;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+406;2933059;Várzea da Roça;29011;Itaberaba;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290029;Feira de Santana;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+407;2933109;Várzea do Poço;29010;Jacobina;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290030;Jacobina;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+408;2933158;Várzea Nova;29010;Jacobina;2903;Centro Norte Baiano;29;Bahia;BA;2;Nordeste;NE;290030;Jacobina;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+409;2933174;Varzedo;29020;Santo Antônio de Jesus;2905;Metropolitana de Salvador;29;Bahia;BA;2;Nordeste;NE;290003;Santo Antônio de Jesus;2902;Santo Antônio de Jesus;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+410;2933208;Vera Cruz;29021;Salvador;2905;Metropolitana de Salvador;29;Bahia;BA;2;Nordeste;NE;290006;Nazaré ¿ Maragogipe;2902;Santo Antônio de Jesus;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+411;2933257;Vereda;29032;Porto Seguro;2907;Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290008;Teixeira de Freitas;2903;Ilhéus ¿ Itabuna;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+412;2933307;Vitória da Conquista;29028;Vitória da Conquista;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290011;Vitória da Conquista;2904;Vitória da Conquista;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+413;2933406;Wagner;29023;Seabra;2906;Centro Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290031;Itaberaba;2910;Feira de Santana;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+414;2933455;Wanderley;29002;Cotegipe;2901;Extremo Oeste Baiano;29;Bahia;BA;2;Nordeste;NE;290018;Barreiras;2906;Barreiras;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+415;2933505;Wenceslau Guimarães;29031;Ilhéus-Itabuna;2907;Sul Baiano;29;Bahia;BA;2;Nordeste;NE;290014;Ipiaú;2904;Vitória da Conquista;29;BA;Bahia;2;NE;Nordeste;2024-02-09
+416;2933604;Xique-Xique;29006;Barra;2902;Vale São-Franciscano da Bahia;29;Bahia;BA;2;Nordeste;NE;290021;Xique-Xique ¿ Barra;2907;Irecê;29;BA;Bahia;2;NE;Nordeste;2024-02-09
