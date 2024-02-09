@@ -57,32 +57,22 @@ if dados:
 df = pd.DataFrame(dados_list)
 print(df)
 
+file = f'dados_geo.txt'
+path = '/workspaces/api-geral/GEO/dados/'
 
-# df = pd.DataFrame(data={'col1': [1, 2], 'col2': [3, 4]})
-# table = pa.Table.from_pandas(df, preserve_index=True)
-# pq.write_table(table, 'output.parquet')
-
-
-# file = f'dados_geo_{sigla_uf}.txt'
-# path = '/workspaces/api-geral/GEO/dados/'
-
-# df.to_csv(f'{path}{file}', sep=';')
-# print(f'Arquivo salvo: {file}')
-# print(f'Caminho: {path}')
+df.to_csv(f'{path}{file}', sep=';')
+print(f'Arquivo salvo: {file}')
+print(f'Caminho: {path}')
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+# try:
+#     table = pa.Table.from_pandas(df, preserve_index=True)
+#     pq.write_table(table, f'{path}{file}.parquet')
+#     print(f'Arquivo parquet salvo!')
+#     print(f'caminho: {path}')
+#     print(f'Arquivo: {file}')
+# except Exception as e:
+#     print(f'Erro: {e}')
 
 
 
