@@ -8,14 +8,16 @@ diretório: GEO
  >      |     |___ dados_teste.json
  >      |
  >      |-- codigo
+ >      |     |___ api-geo-bh.py
  >      |     |___ api-geo-pe.py
  >      |     |___ api-geo-sp.py
  >      |     |___ api-geo.py 
  >      |     |___ api-teste-geo.ipynb
  >      |
  >      |-- dados
- >      |     |___ dados_geo_pe.txt
- >      |     |___ dados_geo_sp.txt
+ >      |     |___ dados_geo_BA.txt
+ >      |     |___ dados_geo_PE.txt
+ >      |     |___ dados_geo_SP.txt
  >      |     |___ dados_id_uf.txt
  >      |
  >      |-- doc
