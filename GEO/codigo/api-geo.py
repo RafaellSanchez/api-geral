@@ -1,9 +1,7 @@
 import requests
 import pandas as pd
-import pyarrow as pa
-import pyarrow.parquet as pq
-
-
+# import pyarrow as pa
+# import pyarrow.parquet as pq
 from datetime import datetime
 
 
