@@ -1,0 +1,186 @@
+;id;nome;id_mun;nm_mun;id_mcr;nm_mcr;id_uf;nm_uf;sigla_uf;id_reg;nm_reg;sigla_rg;rgimd_id;rgimd_nm;rgint_id;rgint_nm;rguf_id;rguf_sgl;rguf_nm;rgrg_id;rgrg_sgl;rgrg_nm;dtigtao
+0;2600054;Abreu e Lima;26017;Recife;2605;Metropolitana de Recife;26;Pernambuco;PE;2;Nordeste;NE;260001;Recife;2601;Recife;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+1;2600104;Afogados da Ingazeira;26003;Pajeú;2601;Sertão Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260014;Afogados da Ingazeira;2603;Serra Talhada;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+2;2600203;Afrânio;26005;Petrolina;2602;São Francisco Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260015;Petrolina;2604;Petrolina;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+3;2600302;Agrestina;26012;Brejo Pernambucano;2603;Agreste Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260009;Caruaru;2602;Caruaru;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+4;2600401;Água Preta;26015;Mata Meridional Pernambucana;2604;Mata Pernambucana;26;Pernambuco;PE;2;Nordeste;NE;260003;Palmares;2601;Recife;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+5;2600500;Águas Belas;26007;Vale do Ipanema;2603;Agreste Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260010;Garanhuns;2602;Caruaru;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+6;2600609;Alagoinha;26008;Vale do Ipojuca;2603;Agreste Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260012;Belo Jardim ¿ Pesqueira;2602;Caruaru;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+7;2600708;Aliança;26013;Mata Setentrional Pernambucana;2604;Mata Pernambucana;26;Pernambuco;PE;2;Nordeste;NE;260002;Goiana ¿ Timbaúba;2601;Recife;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+8;2600807;Altinho;26012;Brejo Pernambucano;2603;Agreste Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260009;Caruaru;2602;Caruaru;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+9;2600906;Amaraji;26015;Mata Meridional Pernambucana;2604;Mata Pernambucana;26;Pernambuco;PE;2;Nordeste;NE;260018;Escada - Ribeirão;2601;Recife;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+10;2601003;Angelim;26011;Garanhuns;2603;Agreste Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260010;Garanhuns;2602;Caruaru;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+11;2601052;Araçoiaba;26016;Itamaracá;2605;Metropolitana de Recife;26;Pernambuco;PE;2;Nordeste;NE;260001;Recife;2601;Recife;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+12;2601102;Araripina;26001;Araripina;2601;Sertão Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260016;Araripina;2604;Petrolina;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+13;2601201;Arcoverde;26004;Sertão do Moxotó;2601;Sertão Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260011;Arcoverde;2602;Caruaru;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+14;2601300;Barra de Guabiraba;26012;Brejo Pernambucano;2603;Agreste Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260009;Caruaru;2602;Caruaru;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+15;2601409;Barreiros;26015;Mata Meridional Pernambucana;2604;Mata Pernambucana;26;Pernambuco;PE;2;Nordeste;NE;260007;Barreiros - Sirinhaém;2601;Recife;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+16;2601508;Belém de Maria;26015;Mata Meridional Pernambucana;2604;Mata Pernambucana;26;Pernambuco;PE;2;Nordeste;NE;260003;Palmares;2601;Recife;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+17;2601607;Belém do São Francisco;26006;Itaparica;2602;São Francisco Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260017;Salgueiro;2604;Petrolina;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+18;2601706;Belo Jardim;26008;Vale do Ipojuca;2603;Agreste Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260012;Belo Jardim ¿ Pesqueira;2602;Caruaru;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+19;2601805;Betânia;26004;Sertão do Moxotó;2601;Sertão Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260013;Serra Talhada;2603;Serra Talhada;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+20;2601904;Bezerros;26008;Vale do Ipojuca;2603;Agreste Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260009;Caruaru;2602;Caruaru;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+21;2602001;Bodocó;26001;Araripina;2601;Sertão Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260016;Araripina;2604;Petrolina;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+22;2602100;Bom Conselho;26011;Garanhuns;2603;Agreste Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260010;Garanhuns;2602;Caruaru;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+23;2602209;Bom Jardim;26010;Médio Capibaribe;2603;Agreste Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260004;Limoeiro;2601;Recife;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+24;2602308;Bonito;26012;Brejo Pernambucano;2603;Agreste Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260009;Caruaru;2602;Caruaru;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+25;2602407;Brejão;26011;Garanhuns;2603;Agreste Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260010;Garanhuns;2602;Caruaru;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+26;2602506;Brejinho;26003;Pajeú;2601;Sertão Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260014;Afogados da Ingazeira;2603;Serra Talhada;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+27;2602605;Brejo da Madre de Deus;26008;Vale do Ipojuca;2603;Agreste Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260009;Caruaru;2602;Caruaru;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+28;2602704;Buenos Aires;26013;Mata Setentrional Pernambucana;2604;Mata Pernambucana;26;Pernambuco;PE;2;Nordeste;NE;260006;Carpina;2601;Recife;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+29;2602803;Buíque;26007;Vale do Ipanema;2603;Agreste Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260011;Arcoverde;2602;Caruaru;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+30;2602902;Cabo de Santo Agostinho;26018;Suape;2605;Metropolitana de Recife;26;Pernambuco;PE;2;Nordeste;NE;260001;Recife;2601;Recife;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+31;2603009;Cabrobó;26005;Petrolina;2602;São Francisco Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260017;Salgueiro;2604;Petrolina;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+32;2603108;Cachoeirinha;26008;Vale do Ipojuca;2603;Agreste Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260009;Caruaru;2602;Caruaru;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+33;2603207;Caetés;26011;Garanhuns;2603;Agreste Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260010;Garanhuns;2602;Caruaru;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+34;2603306;Calçado;26011;Garanhuns;2603;Agreste Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260010;Garanhuns;2602;Caruaru;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+35;2603405;Calumbi;26003;Pajeú;2601;Sertão Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260013;Serra Talhada;2603;Serra Talhada;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+36;2603454;Camaragibe;26017;Recife;2605;Metropolitana de Recife;26;Pernambuco;PE;2;Nordeste;NE;260001;Recife;2601;Recife;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+37;2603504;Camocim de São Félix;26012;Brejo Pernambucano;2603;Agreste Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260009;Caruaru;2602;Caruaru;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+38;2603603;Camutanga;26013;Mata Setentrional Pernambucana;2604;Mata Pernambucana;26;Pernambuco;PE;2;Nordeste;NE;260002;Goiana ¿ Timbaúba;2601;Recife;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+39;2603702;Canhotinho;26011;Garanhuns;2603;Agreste Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260010;Garanhuns;2602;Caruaru;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+40;2603801;Capoeiras;26008;Vale do Ipojuca;2603;Agreste Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260010;Garanhuns;2602;Caruaru;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+41;2603900;Carnaíba;26003;Pajeú;2601;Sertão Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260014;Afogados da Ingazeira;2603;Serra Talhada;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+42;2603926;Carnaubeira da Penha;26006;Itaparica;2602;São Francisco Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260013;Serra Talhada;2603;Serra Talhada;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+43;2604007;Carpina;26013;Mata Setentrional Pernambucana;2604;Mata Pernambucana;26;Pernambuco;PE;2;Nordeste;NE;260006;Carpina;2601;Recife;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+44;2604106;Caruaru;26008;Vale do Ipojuca;2603;Agreste Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260009;Caruaru;2602;Caruaru;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+45;2604155;Casinhas;26009;Alto Capibaribe;2603;Agreste Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260008;Surubim;2601;Recife;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+46;2604205;Catende;26015;Mata Meridional Pernambucana;2604;Mata Pernambucana;26;Pernambuco;PE;2;Nordeste;NE;260003;Palmares;2601;Recife;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+47;2604304;Cedro;26002;Salgueiro;2601;Sertão Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260017;Salgueiro;2604;Petrolina;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+48;2604403;Chã de Alegria;26014;Vitória de Santo Antão;2604;Mata Pernambucana;26;Pernambuco;PE;2;Nordeste;NE;260005;Vitória de Santo Antão;2601;Recife;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+49;2604502;Chã Grande;26014;Vitória de Santo Antão;2604;Mata Pernambucana;26;Pernambuco;PE;2;Nordeste;NE;260009;Caruaru;2602;Caruaru;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+50;2604601;Condado;26013;Mata Setentrional Pernambucana;2604;Mata Pernambucana;26;Pernambuco;PE;2;Nordeste;NE;260002;Goiana ¿ Timbaúba;2601;Recife;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+51;2604700;Correntes;26011;Garanhuns;2603;Agreste Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260010;Garanhuns;2602;Caruaru;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+52;2604809;Cortês;26015;Mata Meridional Pernambucana;2604;Mata Pernambucana;26;Pernambuco;PE;2;Nordeste;NE;260018;Escada - Ribeirão;2601;Recife;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+53;2604908;Cumaru;26010;Médio Capibaribe;2603;Agreste Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260009;Caruaru;2602;Caruaru;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+54;2605004;Cupira;26012;Brejo Pernambucano;2603;Agreste Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260009;Caruaru;2602;Caruaru;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+55;2605103;Custódia;26004;Sertão do Moxotó;2601;Sertão Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260011;Arcoverde;2602;Caruaru;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+56;2605152;Dormentes;26005;Petrolina;2602;São Francisco Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260015;Petrolina;2604;Petrolina;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+57;2605202;Escada;26015;Mata Meridional Pernambucana;2604;Mata Pernambucana;26;Pernambuco;PE;2;Nordeste;NE;260018;Escada - Ribeirão;2601;Recife;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+58;2605301;Exu;26001;Araripina;2601;Sertão Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260016;Araripina;2604;Petrolina;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+59;2605400;Feira Nova;26010;Médio Capibaribe;2603;Agreste Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260004;Limoeiro;2601;Recife;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+60;2605459;Fernando de Noronha;26019;Fernando de Noronha;2605;Metropolitana de Recife;26;Pernambuco;PE;2;Nordeste;NE;260001;Recife;2601;Recife;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+61;2605509;Ferreiros;26013;Mata Setentrional Pernambucana;2604;Mata Pernambucana;26;Pernambuco;PE;2;Nordeste;NE;260002;Goiana ¿ Timbaúba;2601;Recife;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+62;2605608;Flores;26003;Pajeú;2601;Sertão Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260013;Serra Talhada;2603;Serra Talhada;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+63;2605707;Floresta;26006;Itaparica;2602;São Francisco Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260013;Serra Talhada;2603;Serra Talhada;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+64;2605806;Frei Miguelinho;26009;Alto Capibaribe;2603;Agreste Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260008;Surubim;2601;Recife;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+65;2605905;Gameleira;26015;Mata Meridional Pernambucana;2604;Mata Pernambucana;26;Pernambuco;PE;2;Nordeste;NE;260003;Palmares;2601;Recife;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+66;2606002;Garanhuns;26011;Garanhuns;2603;Agreste Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260010;Garanhuns;2602;Caruaru;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+67;2606101;Glória do Goitá;26014;Vitória de Santo Antão;2604;Mata Pernambucana;26;Pernambuco;PE;2;Nordeste;NE;260005;Vitória de Santo Antão;2601;Recife;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+68;2606200;Goiana;26013;Mata Setentrional Pernambucana;2604;Mata Pernambucana;26;Pernambuco;PE;2;Nordeste;NE;260002;Goiana ¿ Timbaúba;2601;Recife;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+69;2606309;Granito;26001;Araripina;2601;Sertão Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260016;Araripina;2604;Petrolina;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+70;2606408;Gravatá;26008;Vale do Ipojuca;2603;Agreste Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260009;Caruaru;2602;Caruaru;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+71;2606507;Iati;26011;Garanhuns;2603;Agreste Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260010;Garanhuns;2602;Caruaru;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+72;2606606;Ibimirim;26004;Sertão do Moxotó;2601;Sertão Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260011;Arcoverde;2602;Caruaru;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+73;2606705;Ibirajuba;26012;Brejo Pernambucano;2603;Agreste Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260009;Caruaru;2602;Caruaru;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+74;2606804;Igarassu;26016;Itamaracá;2605;Metropolitana de Recife;26;Pernambuco;PE;2;Nordeste;NE;260001;Recife;2601;Recife;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+75;2606903;Iguaracy;26003;Pajeú;2601;Sertão Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260014;Afogados da Ingazeira;2603;Serra Talhada;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+76;2607000;Inajá;26004;Sertão do Moxotó;2601;Sertão Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260011;Arcoverde;2602;Caruaru;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+77;2607109;Ingazeira;26003;Pajeú;2601;Sertão Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260014;Afogados da Ingazeira;2603;Serra Talhada;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+78;2607208;Ipojuca;26018;Suape;2605;Metropolitana de Recife;26;Pernambuco;PE;2;Nordeste;NE;260001;Recife;2601;Recife;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+79;2607307;Ipubi;26001;Araripina;2601;Sertão Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260016;Araripina;2604;Petrolina;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+80;2607406;Itacuruba;26006;Itaparica;2602;São Francisco Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260017;Salgueiro;2604;Petrolina;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+81;2607505;Itaíba;26007;Vale do Ipanema;2603;Agreste Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260011;Arcoverde;2602;Caruaru;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+82;2607604;Ilha de Itamaracá;26016;Itamaracá;2605;Metropolitana de Recife;26;Pernambuco;PE;2;Nordeste;NE;260001;Recife;2601;Recife;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+83;2607653;Itambé;26013;Mata Setentrional Pernambucana;2604;Mata Pernambucana;26;Pernambuco;PE;2;Nordeste;NE;260002;Goiana ¿ Timbaúba;2601;Recife;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+84;2607703;Itapetim;26003;Pajeú;2601;Sertão Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260014;Afogados da Ingazeira;2603;Serra Talhada;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+85;2607752;Itapissuma;26016;Itamaracá;2605;Metropolitana de Recife;26;Pernambuco;PE;2;Nordeste;NE;260001;Recife;2601;Recife;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+86;2607802;Itaquitinga;26013;Mata Setentrional Pernambucana;2604;Mata Pernambucana;26;Pernambuco;PE;2;Nordeste;NE;260002;Goiana ¿ Timbaúba;2601;Recife;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+87;2607901;Jaboatão dos Guararapes;26017;Recife;2605;Metropolitana de Recife;26;Pernambuco;PE;2;Nordeste;NE;260001;Recife;2601;Recife;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+88;2607950;Jaqueira;26015;Mata Meridional Pernambucana;2604;Mata Pernambucana;26;Pernambuco;PE;2;Nordeste;NE;260003;Palmares;2601;Recife;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+89;2608008;Jataúba;26008;Vale do Ipojuca;2603;Agreste Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260009;Caruaru;2602;Caruaru;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+90;2608057;Jatobá;26006;Itaparica;2602;São Francisco Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260013;Serra Talhada;2603;Serra Talhada;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+91;2608107;João Alfredo;26010;Médio Capibaribe;2603;Agreste Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260004;Limoeiro;2601;Recife;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+92;2608206;Joaquim Nabuco;26015;Mata Meridional Pernambucana;2604;Mata Pernambucana;26;Pernambuco;PE;2;Nordeste;NE;260003;Palmares;2601;Recife;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+93;2608255;Jucati;26011;Garanhuns;2603;Agreste Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260010;Garanhuns;2602;Caruaru;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+94;2608305;Jupi;26011;Garanhuns;2603;Agreste Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260010;Garanhuns;2602;Caruaru;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+95;2608404;Jurema;26011;Garanhuns;2603;Agreste Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260010;Garanhuns;2602;Caruaru;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+96;2608453;Lagoa do Carro;26013;Mata Setentrional Pernambucana;2604;Mata Pernambucana;26;Pernambuco;PE;2;Nordeste;NE;260006;Carpina;2601;Recife;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+97;2608503;Lagoa de Itaenga;26013;Mata Setentrional Pernambucana;2604;Mata Pernambucana;26;Pernambuco;PE;2;Nordeste;NE;260006;Carpina;2601;Recife;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+98;2608602;Lagoa do Ouro;26011;Garanhuns;2603;Agreste Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260010;Garanhuns;2602;Caruaru;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+99;2608701;Lagoa dos Gatos;26012;Brejo Pernambucano;2603;Agreste Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260009;Caruaru;2602;Caruaru;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+100;2608750;Lagoa Grande;26005;Petrolina;2602;São Francisco Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260015;Petrolina;2604;Petrolina;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+101;2608800;Lajedo;26011;Garanhuns;2603;Agreste Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260010;Garanhuns;2602;Caruaru;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+102;2608909;Limoeiro;26010;Médio Capibaribe;2603;Agreste Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260004;Limoeiro;2601;Recife;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+103;2609006;Macaparana;26013;Mata Setentrional Pernambucana;2604;Mata Pernambucana;26;Pernambuco;PE;2;Nordeste;NE;260002;Goiana ¿ Timbaúba;2601;Recife;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+104;2609105;Machados;26010;Médio Capibaribe;2603;Agreste Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260004;Limoeiro;2601;Recife;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+105;2609154;Manari;26004;Sertão do Moxotó;2601;Sertão Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260011;Arcoverde;2602;Caruaru;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+106;2609204;Maraial;26015;Mata Meridional Pernambucana;2604;Mata Pernambucana;26;Pernambuco;PE;2;Nordeste;NE;260003;Palmares;2601;Recife;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+107;2609303;Mirandiba;26002;Salgueiro;2601;Sertão Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260013;Serra Talhada;2603;Serra Talhada;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+108;2609402;Moreno;26017;Recife;2605;Metropolitana de Recife;26;Pernambuco;PE;2;Nordeste;NE;260001;Recife;2601;Recife;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+109;2609501;Nazaré da Mata;26013;Mata Setentrional Pernambucana;2604;Mata Pernambucana;26;Pernambuco;PE;2;Nordeste;NE;260006;Carpina;2601;Recife;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+110;2609600;Olinda;26017;Recife;2605;Metropolitana de Recife;26;Pernambuco;PE;2;Nordeste;NE;260001;Recife;2601;Recife;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+111;2609709;Orobó;26010;Médio Capibaribe;2603;Agreste Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260004;Limoeiro;2601;Recife;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+112;2609808;Orocó;26005;Petrolina;2602;São Francisco Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260015;Petrolina;2604;Petrolina;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+113;2609907;Ouricuri;26001;Araripina;2601;Sertão Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260016;Araripina;2604;Petrolina;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+114;2610004;Palmares;26015;Mata Meridional Pernambucana;2604;Mata Pernambucana;26;Pernambuco;PE;2;Nordeste;NE;260003;Palmares;2601;Recife;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+115;2610103;Palmeirina;26011;Garanhuns;2603;Agreste Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260010;Garanhuns;2602;Caruaru;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+116;2610202;Panelas;26012;Brejo Pernambucano;2603;Agreste Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260009;Caruaru;2602;Caruaru;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+117;2610301;Paranatama;26011;Garanhuns;2603;Agreste Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260010;Garanhuns;2602;Caruaru;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+118;2610400;Parnamirim;26002;Salgueiro;2601;Sertão Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260017;Salgueiro;2604;Petrolina;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+119;2610509;Passira;26010;Médio Capibaribe;2603;Agreste Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260004;Limoeiro;2601;Recife;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+120;2610608;Paudalho;26013;Mata Setentrional Pernambucana;2604;Mata Pernambucana;26;Pernambuco;PE;2;Nordeste;NE;260001;Recife;2601;Recife;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+121;2610707;Paulista;26017;Recife;2605;Metropolitana de Recife;26;Pernambuco;PE;2;Nordeste;NE;260001;Recife;2601;Recife;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+122;2610806;Pedra;26007;Vale do Ipanema;2603;Agreste Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260011;Arcoverde;2602;Caruaru;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+123;2610905;Pesqueira;26008;Vale do Ipojuca;2603;Agreste Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260012;Belo Jardim ¿ Pesqueira;2602;Caruaru;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+124;2611002;Petrolândia;26006;Itaparica;2602;São Francisco Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260013;Serra Talhada;2603;Serra Talhada;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+125;2611101;Petrolina;26005;Petrolina;2602;São Francisco Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260015;Petrolina;2604;Petrolina;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+126;2611200;Poção;26008;Vale do Ipojuca;2603;Agreste Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260012;Belo Jardim ¿ Pesqueira;2602;Caruaru;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+127;2611309;Pombos;26014;Vitória de Santo Antão;2604;Mata Pernambucana;26;Pernambuco;PE;2;Nordeste;NE;260005;Vitória de Santo Antão;2601;Recife;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+128;2611408;Primavera;26015;Mata Meridional Pernambucana;2604;Mata Pernambucana;26;Pernambuco;PE;2;Nordeste;NE;260018;Escada - Ribeirão;2601;Recife;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+129;2611507;Quipapá;26015;Mata Meridional Pernambucana;2604;Mata Pernambucana;26;Pernambuco;PE;2;Nordeste;NE;260010;Garanhuns;2602;Caruaru;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+130;2611533;Quixaba;26003;Pajeú;2601;Sertão Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260014;Afogados da Ingazeira;2603;Serra Talhada;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+131;2611606;Recife;26017;Recife;2605;Metropolitana de Recife;26;Pernambuco;PE;2;Nordeste;NE;260001;Recife;2601;Recife;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+132;2611705;Riacho das Almas;26008;Vale do Ipojuca;2603;Agreste Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260009;Caruaru;2602;Caruaru;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+133;2611804;Ribeirão;26015;Mata Meridional Pernambucana;2604;Mata Pernambucana;26;Pernambuco;PE;2;Nordeste;NE;260018;Escada - Ribeirão;2601;Recife;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+134;2611903;Rio Formoso;26015;Mata Meridional Pernambucana;2604;Mata Pernambucana;26;Pernambuco;PE;2;Nordeste;NE;260007;Barreiros - Sirinhaém;2601;Recife;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+135;2612000;Sairé;26012;Brejo Pernambucano;2603;Agreste Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260009;Caruaru;2602;Caruaru;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+136;2612109;Salgadinho;26010;Médio Capibaribe;2603;Agreste Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260004;Limoeiro;2601;Recife;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+137;2612208;Salgueiro;26002;Salgueiro;2601;Sertão Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260017;Salgueiro;2604;Petrolina;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+138;2612307;Saloá;26011;Garanhuns;2603;Agreste Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260010;Garanhuns;2602;Caruaru;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+139;2612406;Sanharó;26008;Vale do Ipojuca;2603;Agreste Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260012;Belo Jardim ¿ Pesqueira;2602;Caruaru;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+140;2612455;Santa Cruz;26001;Araripina;2601;Sertão Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260016;Araripina;2604;Petrolina;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+141;2612471;Santa Cruz da Baixa Verde;26003;Pajeú;2601;Sertão Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260013;Serra Talhada;2603;Serra Talhada;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+142;2612505;Santa Cruz do Capibaribe;26009;Alto Capibaribe;2603;Agreste Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260009;Caruaru;2602;Caruaru;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+143;2612554;Santa Filomena;26001;Araripina;2601;Sertão Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260016;Araripina;2604;Petrolina;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+144;2612604;Santa Maria da Boa Vista;26005;Petrolina;2602;São Francisco Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260015;Petrolina;2604;Petrolina;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+145;2612703;Santa Maria do Cambucá;26009;Alto Capibaribe;2603;Agreste Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260008;Surubim;2601;Recife;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+146;2612802;Santa Terezinha;26003;Pajeú;2601;Sertão Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260014;Afogados da Ingazeira;2603;Serra Talhada;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+147;2612901;São Benedito do Sul;26015;Mata Meridional Pernambucana;2604;Mata Pernambucana;26;Pernambuco;PE;2;Nordeste;NE;260003;Palmares;2601;Recife;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+148;2613008;São Bento do Una;26008;Vale do Ipojuca;2603;Agreste Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260012;Belo Jardim ¿ Pesqueira;2602;Caruaru;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+149;2613107;São Caitano;26008;Vale do Ipojuca;2603;Agreste Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260009;Caruaru;2602;Caruaru;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+150;2613206;São João;26011;Garanhuns;2603;Agreste Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260010;Garanhuns;2602;Caruaru;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+151;2613305;São Joaquim do Monte;26012;Brejo Pernambucano;2603;Agreste Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260009;Caruaru;2602;Caruaru;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+152;2613404;São José da Coroa Grande;26015;Mata Meridional Pernambucana;2604;Mata Pernambucana;26;Pernambuco;PE;2;Nordeste;NE;260007;Barreiros - Sirinhaém;2601;Recife;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+153;2613503;São José do Belmonte;26002;Salgueiro;2601;Sertão Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260013;Serra Talhada;2603;Serra Talhada;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+154;2613602;São José do Egito;26003;Pajeú;2601;Sertão Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260014;Afogados da Ingazeira;2603;Serra Talhada;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+155;2613701;São Lourenço da Mata;26017;Recife;2605;Metropolitana de Recife;26;Pernambuco;PE;2;Nordeste;NE;260001;Recife;2601;Recife;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+156;2613800;São Vicente Férrer;26010;Médio Capibaribe;2603;Agreste Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260002;Goiana ¿ Timbaúba;2601;Recife;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+157;2613909;Serra Talhada;26003;Pajeú;2601;Sertão Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260013;Serra Talhada;2603;Serra Talhada;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+158;2614006;Serrita;26002;Salgueiro;2601;Sertão Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260017;Salgueiro;2604;Petrolina;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+159;2614105;Sertânia;26004;Sertão do Moxotó;2601;Sertão Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260011;Arcoverde;2602;Caruaru;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+160;2614204;Sirinhaém;26015;Mata Meridional Pernambucana;2604;Mata Pernambucana;26;Pernambuco;PE;2;Nordeste;NE;260007;Barreiros - Sirinhaém;2601;Recife;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+161;2614303;Moreilândia;26001;Araripina;2601;Sertão Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260016;Araripina;2604;Petrolina;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+162;2614402;Solidão;26003;Pajeú;2601;Sertão Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260014;Afogados da Ingazeira;2603;Serra Talhada;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+163;2614501;Surubim;26009;Alto Capibaribe;2603;Agreste Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260008;Surubim;2601;Recife;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+164;2614600;Tabira;26003;Pajeú;2601;Sertão Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260014;Afogados da Ingazeira;2603;Serra Talhada;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+165;2614709;Tacaimbó;26008;Vale do Ipojuca;2603;Agreste Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260012;Belo Jardim ¿ Pesqueira;2602;Caruaru;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+166;2614808;Tacaratu;26006;Itaparica;2602;São Francisco Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260013;Serra Talhada;2603;Serra Talhada;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+167;2614857;Tamandaré;26015;Mata Meridional Pernambucana;2604;Mata Pernambucana;26;Pernambuco;PE;2;Nordeste;NE;260007;Barreiros - Sirinhaém;2601;Recife;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+168;2615003;Taquaritinga do Norte;26009;Alto Capibaribe;2603;Agreste Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260009;Caruaru;2602;Caruaru;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+169;2615102;Terezinha;26011;Garanhuns;2603;Agreste Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260010;Garanhuns;2602;Caruaru;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+170;2615201;Terra Nova;26005;Petrolina;2602;São Francisco Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260017;Salgueiro;2604;Petrolina;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+171;2615300;Timbaúba;26013;Mata Setentrional Pernambucana;2604;Mata Pernambucana;26;Pernambuco;PE;2;Nordeste;NE;260002;Goiana ¿ Timbaúba;2601;Recife;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+172;2615409;Toritama;26009;Alto Capibaribe;2603;Agreste Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260009;Caruaru;2602;Caruaru;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+173;2615508;Tracunhaém;26013;Mata Setentrional Pernambucana;2604;Mata Pernambucana;26;Pernambuco;PE;2;Nordeste;NE;260006;Carpina;2601;Recife;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+174;2615607;Trindade;26001;Araripina;2601;Sertão Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260016;Araripina;2604;Petrolina;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+175;2615706;Triunfo;26003;Pajeú;2601;Sertão Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260013;Serra Talhada;2603;Serra Talhada;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+176;2615805;Tupanatinga;26007;Vale do Ipanema;2603;Agreste Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260011;Arcoverde;2602;Caruaru;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+177;2615904;Tuparetama;26003;Pajeú;2601;Sertão Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260014;Afogados da Ingazeira;2603;Serra Talhada;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+178;2616001;Venturosa;26007;Vale do Ipanema;2603;Agreste Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260011;Arcoverde;2602;Caruaru;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+179;2616100;Verdejante;26002;Salgueiro;2601;Sertão Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260017;Salgueiro;2604;Petrolina;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+180;2616183;Vertente do Lério;26009;Alto Capibaribe;2603;Agreste Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260008;Surubim;2601;Recife;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+181;2616209;Vertentes;26009;Alto Capibaribe;2603;Agreste Pernambucano;26;Pernambuco;PE;2;Nordeste;NE;260008;Surubim;2601;Recife;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+182;2616308;Vicência;26013;Mata Setentrional Pernambucana;2604;Mata Pernambucana;26;Pernambuco;PE;2;Nordeste;NE;260002;Goiana ¿ Timbaúba;2601;Recife;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+183;2616407;Vitória de Santo Antão;26014;Vitória de Santo Antão;2604;Mata Pernambucana;26;Pernambuco;PE;2;Nordeste;NE;260005;Vitória de Santo Antão;2601;Recife;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
+184;2616506;Xexéu;26015;Mata Meridional Pernambucana;2604;Mata Pernambucana;26;Pernambuco;PE;2;Nordeste;NE;260003;Palmares;2601;Recife;26;PE;Pernambuco;2;NE;Nordeste;2024-02-09
