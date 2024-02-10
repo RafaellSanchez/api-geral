@@ -14,6 +14,8 @@ diretório: GEO
  >      |     |___ api-geo-sp.py
  >      |     |___ api-geo.py 
  >      |     |___ api-teste-geo.ipynb
+ >      |     |___ igtao-silver.ipynb
+ >      |     |___ ingestion-sql.ipynb
  >      |     |___ teste.ipynb
  >      |
  >      |-- dados
@@ -25,3 +27,6 @@ diretório: GEO
  >      |     |___ dados_id_uf.txt
  >      |
  >      |-- doc
+ >      |
+ >      |-- sql
+ >      |     |___ dados_geo.db
