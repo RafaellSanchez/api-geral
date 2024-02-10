@@ -29,4 +29,7 @@ diretório: GEO
  >      |-- doc
  >      |
  >      |-- sql
- >      |     |___ dados_geo.db
+ >            |___ dados_geo.db
+ >                      |___ tables
+ >                              |___ bronze_dados_geo
+ >                              |___ silver_dados_geo
