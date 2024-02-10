@@ -1,5 +1,7 @@
 ## Repositório Geo
 
+Status: Desenvolvendo
+
 ### Estrutura:
 
 diretório: GEO
