@@ -17,6 +17,7 @@ diretório: GEO
  >      |     |___ api-geo.py 
  >      |     |___ api-teste-geo.ipynb
  >      |     |___ igtao-silver.ipynb
+ >      |     |___ igtao-sp.ipynb
  >      |     |___ ingestion-sql.ipynb
  >      |     |___ teste.ipynb
  >      |
@@ -35,7 +36,7 @@ diretório: GEO
  >                      |___ tables
  >                              |___ bronze_dados_geo
  >                              |___ silver_dados_geo
-
+ >                              |___ sp_dados_geo
 
 
 #### Descrição do Repositório:
