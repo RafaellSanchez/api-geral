@@ -16,12 +16,14 @@ diretório: GEO
  >      |     |___ api-geo-sp.py
  >      |     |___ api-geo.py 
  >      |     |___ api-teste-geo.ipynb
+ >      |     |___ cripto-teste.ipynb
  >      |     |___ igtao-silver.ipynb
  >      |     |___ igtao-sp.ipynb
  >      |     |___ ingestion-sql.ipynb
  >      |     |___ teste.ipynb
  >      |
  >      |-- dados
+ >      |     |___ dados_criptografados.txt
  >      |     |___ dados_geo_BA.txt
  >      |     |___ dados_geo_MG.txt
  >      |     |___ dados_geo_PE.txt
@@ -32,11 +34,15 @@ diretório: GEO
  >      |-- doc
  >      |
  >      |-- sql
- >            |___ dados_geo.db
+ >           |___ dados_geo.db
+ >           |          |___ tables
+ >           |                  |___ bronze_dados_geo
+ >           |                  |___ silver_dados_geo
+ >           |                  |___ sp_dados_geo
+ >           |
+ >           |___ teste_dados_criptografados.db
  >                      |___ tables
- >                              |___ bronze_dados_geo
- >                              |___ silver_dados_geo
- >                              |___ sp_dados_geo
+ >                              |___ dados_descriptografados
 
 
 #### Descrição do Repositório:
