@@ -19,10 +19,13 @@ diretório: GEO
  >      |     |___ cripto-teste.ipynb
  >      |     |___ igtao-silver.ipynb
  >      |     |___ igtao-sp.ipynb
+ >      |     |___ ingestion-bronze.py
+ >      |     |___ ingestion-silver.py
  >      |     |___ ingestion-sql.ipynb
  >      |     |___ teste.ipynb
  >      |
  >      |-- dados
+ >      |     |___ dados_cript.bin
  >      |     |___ dados_criptografados.txt
  >      |     |___ dados_geo_BA.txt
  >      |     |___ dados_geo_MG.txt
@@ -34,6 +37,12 @@ diretório: GEO
  >      |-- doc
  >      |
  >      |-- sql
+ >           |
+ >           |___ bd_geo.db
+ >           |          |___ tables
+ >           |                  |___ brnz_geo
+ >           |                  |___ slvr_geo
+ >           |
  >           |___ dados_geo.db
  >           |          |___ tables
  >           |                  |___ bronze_dados_geo
@@ -64,3 +73,29 @@ diretório: GEO
 
 ##### Documentação Abrangente:
 - A API é acompanhada por uma documentação completa, que descreve detalhadamente os endpoints disponíveis, parâmetros de consulta e exemplos de uso, facilitando a integração por parte dos desenvolvedores.
+
+
+##### Bibliotecas utilizadas:
+    requests:
+        Uma biblioteca Python simples e elegante para fazer solicitações HTTP. É amplamente utilizada para interagir com APIs da web e acessar recursos da internet.
+
+    pandas:
+        Uma poderosa biblioteca de análise de dados em Python. Ela oferece estruturas de dados flexíveis e ferramentas para manipulação e análise de dados, especialmente para conjuntos de dados tabulares.
+
+    datetime:
+        Um módulo Python que fornece classes para manipulação de datas e horários. Ele permite a criação, manipulação e formatação de objetos de data e hora em Python.
+
+    json:
+        Um módulo Python para trabalhar com dados JSON (JavaScript Object Notation). Ele fornece funções para serializar e desserializar objetos Python em JSON e vice-versa.
+
+    cryptography.fernet:
+        Uma biblioteca de criptografia Python que oferece implementações do algoritmo de criptografia simétrica Fernet. Ele é amplamente utilizado para criptografar e descriptografar dados de forma segura.
+
+    time:
+        Um módulo Python que fornece funções relacionadas ao tempo. Ele permite manipular o tempo em diferentes formatos, realizar operações de espera e medição de tempo.
+
+    sqlite3:
+        Um módulo Python que fornece uma interface para o SQLite, um sistema de gerenciamento de banco de dados SQL embutido. Ele permite interagir com bancos de dados SQLite usando operações SQL padrão.
+
+    uuid:
+        Um módulo Python que fornece funções para gerar, manipular e trabalhar com UUIDs (identificadores únicos universais). Ele é frequentemente usado para criar identificadores únicos para objetos em sistemas distribuídos.
