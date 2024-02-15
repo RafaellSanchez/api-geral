@@ -1,0 +1,646 @@
+id;nome;id_mun;nm_mun;id_mcr;nm_mcr;id_uf;nm_uf;sigla_uf;id_reg;nm_reg;sigla_rg;rgimd_id;rgimd_nm;rgint_id;rgint_nm;rguf_id;rguf_sgl;rguf_nm;rgrg_id;rgrg_sgl;rgrg_nm;dtigtao
+3500105;Adamantina;35035;Adamantina;3508;Presidente Prudente;35;São Paulo;SP;3;Sudeste;SE;350019;Adamantina - Lucélia;3505;Presidente Prudente;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3500204;Adolfo;35004;São José do Rio Preto;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350025;São José do Rio Preto;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3500303;Aguaí;35029;Pirassununga;3507;Campinas;35;São Paulo;SP;3;Sudeste;SE;350044;São João da Boa Vista;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3500402;Águas da Prata;35030;São João da Boa Vista;3507;Campinas;35;São Paulo;SP;3;Sudeste;SE;350044;São João da Boa Vista;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3500501;Águas de Lindóia;35033;Amparo;3507;Campinas;35;São Paulo;SP;3;Sudeste;SE;350048;Amparo;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3500550;Águas de Santa Bárbara;35022;Avaré;3504;Bauru;35;São Paulo;SP;3;Sudeste;SE;350007;Avaré;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3500600;Águas de São Pedro;35028;Piracicaba;3506;Piracicaba;35;São Paulo;SP;3;Sudeste;SE;350040;Piracicaba;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3500709;Agudos;35020;Bauru;3504;Bauru;35;São Paulo;SP;3;Sudeste;SE;350009;Bauru;3503;Bauru;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3500758;Alambari;35042;Itapetininga;3511;Itapetininga;35;São Paulo;SP;3;Sudeste;SE;350006;Itapetininga;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3500808;Alfredo Marcondes;35036;Presidente Prudente;3508;Presidente Prudente;35;São Paulo;SP;3;Sudeste;SE;350018;Presidente Prudente;3505;Presidente Prudente;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3500907;Altair;35004;São José do Rio Preto;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350025;São José do Rio Preto;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3501004;Altinópolis;35015;Batatais;3502;Ribeirão Preto;35;São Paulo;SP;3;Sudeste;SE;350031;Ribeirão Preto;3508;Ribeirão Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3501103;Alto Alegre;35018;Birigui;3503;Araçatuba;35;São Paulo;SP;3;Sudeste;SE;350023;Birigui - Penápolis;3506;Araçatuba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3501152;Alumínio;35046;Sorocaba;3512;Macro Metropolitana Paulista;35;São Paulo;SP;3;Sudeste;SE;350003;Sorocaba;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3501202;Álvares Florence;35003;Votuporanga;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350027;Votuporanga;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3501301;Álvares Machado;35036;Presidente Prudente;3508;Presidente Prudente;35;São Paulo;SP;3;Sudeste;SE;350018;Presidente Prudente;3505;Presidente Prudente;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3501400;Álvaro de Carvalho;35038;Marília;3509;Marília;35;São Paulo;SP;3;Sudeste;SE;350013;Marília;3504;Marília;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3501509;Alvinlândia;35038;Marília;3509;Marília;35;São Paulo;SP;3;Sudeste;SE;350013;Marília;3504;Marília;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3501608;Americana;35032;Campinas;3507;Campinas;35;São Paulo;SP;3;Sudeste;SE;350038;Campinas;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3501707;Américo Brasiliense;35024;Araraquara;3505;Araraquara;35;São Paulo;SP;3;Sudeste;SE;350036;Araraquara;3509;Araraquara;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3501806;Américo de Campos;35003;Votuporanga;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350027;Votuporanga;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3501905;Amparo;35033;Amparo;3507;Campinas;35;São Paulo;SP;3;Sudeste;SE;350048;Amparo;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3502002;Analândia;35025;São Carlos;3505;Araraquara;35;São Paulo;SP;3;Sudeste;SE;350046;Rio Claro;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3502101;Andradina;35016;Andradina;3503;Araçatuba;35;São Paulo;SP;3;Sudeste;SE;350024;Andradina;3506;Araçatuba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3502200;Angatuba;35042;Itapetininga;3511;Itapetininga;35;São Paulo;SP;3;Sudeste;SE;350006;Itapetininga;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3502309;Anhembi;35023;Botucatu;3504;Bauru;35;São Paulo;SP;3;Sudeste;SE;350011;Botucatu;3503;Bauru;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3502408;Anhumas;35036;Presidente Prudente;3508;Presidente Prudente;35;São Paulo;SP;3;Sudeste;SE;350018;Presidente Prudente;3505;Presidente Prudente;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3502507;Aparecida;35051;Guaratinguetá;3513;Vale do Paraíba Paulista;35;São Paulo;SP;3;Sudeste;SE;350052;Guaratinguetá;3511;São José dos Campos;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3502606;Aparecida d'Oeste;35001;Jales;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350028;Jales;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3502705;Apiaí;35044;Capão Bonito;3511;Itapetininga;35;São Paulo;SP;3;Sudeste;SE;350004;Itapeva;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3502754;Araçariguama;35046;Sorocaba;3512;Macro Metropolitana Paulista;35;São Paulo;SP;3;Sudeste;SE;350003;Sorocaba;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3502804;Araçatuba;35017;Araçatuba;3503;Araçatuba;35;São Paulo;SP;3;Sudeste;SE;350022;Araçatuba;3506;Araçatuba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3502903;Araçoiaba da Serra;35046;Sorocaba;3512;Macro Metropolitana Paulista;35;São Paulo;SP;3;Sudeste;SE;350003;Sorocaba;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3503000;Aramina;35011;Ituverava;3502;Ribeirão Preto;35;São Paulo;SP;3;Sudeste;SE;350035;Ituverava;3508;Ribeirão Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3503109;Arandu;35022;Avaré;3504;Bauru;35;São Paulo;SP;3;Sudeste;SE;350007;Avaré;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3503158;Arapeí;35052;Bananal;3513;Vale do Paraíba Paulista;35;São Paulo;SP;3;Sudeste;SE;350053;Cruzeiro;3511;São José dos Campos;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3503208;Araraquara;35024;Araraquara;3505;Araraquara;35;São Paulo;SP;3;Sudeste;SE;350036;Araraquara;3509;Araraquara;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3503307;Araras;35027;Limeira;3506;Piracicaba;35;São Paulo;SP;3;Sudeste;SE;350045;Araras;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3503356;Arco-Íris;35037;Tupã;3509;Marília;35;São Paulo;SP;3;Sudeste;SE;350016;Tupã;3504;Marília;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3503406;Arealva;35020;Bauru;3504;Bauru;35;São Paulo;SP;3;Sudeste;SE;350009;Bauru;3503;Bauru;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3503505;Areias;35052;Bananal;3513;Vale do Paraíba Paulista;35;São Paulo;SP;3;Sudeste;SE;350053;Cruzeiro;3511;São José dos Campos;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3503604;Areiópolis;35020;Bauru;3504;Bauru;35;São Paulo;SP;3;Sudeste;SE;350011;Botucatu;3503;Bauru;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3503703;Ariranha;35005;Catanduva;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350026;Catanduva;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3503802;Artur Nogueira;35031;Mogi Mirim;3507;Campinas;35;São Paulo;SP;3;Sudeste;SE;350038;Campinas;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3503901;Arujá;35059;Guarulhos;3515;Metropolitana de São Paulo;35;São Paulo;SP;3;Sudeste;SE;350001;São Paulo;3501;São Paulo;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3503950;Aspásia;35001;Jales;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350028;Jales;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3504008;Assis;35039;Assis;3510;Assis;35;São Paulo;SP;3;Sudeste;SE;350014;Assis;3504;Marília;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3504107;Atibaia;35048;Bragança Paulista;3512;Macro Metropolitana Paulista;35;São Paulo;SP;3;Sudeste;SE;350041;Bragança Paulista;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3504206;Auriflama;35006;Auriflama;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350022;Araçatuba;3506;Araçatuba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3504305;Avaí;35020;Bauru;3504;Bauru;35;São Paulo;SP;3;Sudeste;SE;350009;Bauru;3503;Bauru;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3504404;Avanhandava;35018;Birigui;3503;Araçatuba;35;São Paulo;SP;3;Sudeste;SE;350023;Birigui - Penápolis;3506;Araçatuba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3504503;Avaré;35022;Avaré;3504;Bauru;35;São Paulo;SP;3;Sudeste;SE;350007;Avaré;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3504602;Bady Bassitt;35004;São José do Rio Preto;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350025;São José do Rio Preto;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3504701;Balbinos;35020;Bauru;3504;Bauru;35;São Paulo;SP;3;Sudeste;SE;350009;Bauru;3503;Bauru;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3504800;Bálsamo;35004;São José do Rio Preto;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350025;São José do Rio Preto;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3504909;Bananal;35052;Bananal;3513;Vale do Paraíba Paulista;35;São Paulo;SP;3;Sudeste;SE;350053;Cruzeiro;3511;São José dos Campos;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3505005;Barão de Antonina;35041;Itapeva;3511;Itapetininga;35;São Paulo;SP;3;Sudeste;SE;350004;Itapeva;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3505104;Barbosa;35018;Birigui;3503;Araçatuba;35;São Paulo;SP;3;Sudeste;SE;350023;Birigui - Penápolis;3506;Araçatuba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3505203;Bariri;35021;Jaú;3504;Bauru;35;São Paulo;SP;3;Sudeste;SE;350010;Jaú;3503;Bauru;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3505302;Barra Bonita;35021;Jaú;3504;Bauru;35;São Paulo;SP;3;Sudeste;SE;350010;Jaú;3503;Bauru;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3505351;Barra do Chapéu;35044;Capão Bonito;3511;Itapetininga;35;São Paulo;SP;3;Sudeste;SE;350004;Itapeva;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3505401;Barra do Turvo;35055;Registro;3514;Litoral Sul Paulista;35;São Paulo;SP;3;Sudeste;SE;350005;Registro;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3505500;Barretos;35009;Barretos;3502;Ribeirão Preto;35;São Paulo;SP;3;Sudeste;SE;350032;Barretos;3508;Ribeirão Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3505609;Barrinha;35014;Ribeirão Preto;3502;Ribeirão Preto;35;São Paulo;SP;3;Sudeste;SE;350031;Ribeirão Preto;3508;Ribeirão Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3505708;Barueri;35057;Osasco;3515;Metropolitana de São Paulo;35;São Paulo;SP;3;Sudeste;SE;350001;São Paulo;3501;São Paulo;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3505807;Bastos;35037;Tupã;3509;Marília;35;São Paulo;SP;3;Sudeste;SE;350016;Tupã;3504;Marília;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3505906;Batatais;35015;Batatais;3502;Ribeirão Preto;35;São Paulo;SP;3;Sudeste;SE;350031;Ribeirão Preto;3508;Ribeirão Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3506003;Bauru;35020;Bauru;3504;Bauru;35;São Paulo;SP;3;Sudeste;SE;350009;Bauru;3503;Bauru;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3506102;Bebedouro;35013;Jaboticabal;3502;Ribeirão Preto;35;São Paulo;SP;3;Sudeste;SE;350032;Barretos;3508;Ribeirão Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3506201;Bento de Abreu;35017;Araçatuba;3503;Araçatuba;35;São Paulo;SP;3;Sudeste;SE;350022;Araçatuba;3506;Araçatuba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3506300;Bernardino de Campos;35040;Ourinhos;3510;Assis;35;São Paulo;SP;3;Sudeste;SE;350015;Ourinhos;3504;Marília;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3506359;Bertioga;35063;Santos;3515;Metropolitana de São Paulo;35;São Paulo;SP;3;Sudeste;SE;350002;Santos;3501;São Paulo;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3506409;Bilac;35018;Birigui;3503;Araçatuba;35;São Paulo;SP;3;Sudeste;SE;350023;Birigui - Penápolis;3506;Araçatuba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3506508;Birigui;35018;Birigui;3503;Araçatuba;35;São Paulo;SP;3;Sudeste;SE;350023;Birigui - Penápolis;3506;Araçatuba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3506607;Biritiba Mirim;35062;Mogi das Cruzes;3515;Metropolitana de São Paulo;35;São Paulo;SP;3;Sudeste;SE;350001;São Paulo;3501;São Paulo;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3506706;Boa Esperança do Sul;35024;Araraquara;3505;Araraquara;35;São Paulo;SP;3;Sudeste;SE;350036;Araraquara;3509;Araraquara;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3506805;Bocaina;35021;Jaú;3504;Bauru;35;São Paulo;SP;3;Sudeste;SE;350010;Jaú;3503;Bauru;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3506904;Bofete;35023;Botucatu;3504;Bauru;35;São Paulo;SP;3;Sudeste;SE;350011;Botucatu;3503;Bauru;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3507001;Boituva;35043;Tatuí;3511;Itapetininga;35;São Paulo;SP;3;Sudeste;SE;350003;Sorocaba;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3507100;Bom Jesus dos Perdões;35048;Bragança Paulista;3512;Macro Metropolitana Paulista;35;São Paulo;SP;3;Sudeste;SE;350041;Bragança Paulista;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3507159;Bom Sucesso de Itararé;35041;Itapeva;3511;Itapetininga;35;São Paulo;SP;3;Sudeste;SE;350004;Itapeva;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3507209;Borá;35039;Assis;3510;Assis;35;São Paulo;SP;3;Sudeste;SE;350014;Assis;3504;Marília;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3507308;Boracéia;35021;Jaú;3504;Bauru;35;São Paulo;SP;3;Sudeste;SE;350010;Jaú;3503;Bauru;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3507407;Borborema;35024;Araraquara;3505;Araraquara;35;São Paulo;SP;3;Sudeste;SE;350036;Araraquara;3509;Araraquara;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3507456;Borebi;35020;Bauru;3504;Bauru;35;São Paulo;SP;3;Sudeste;SE;350009;Bauru;3503;Bauru;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3507506;Botucatu;35023;Botucatu;3504;Bauru;35;São Paulo;SP;3;Sudeste;SE;350011;Botucatu;3503;Bauru;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3507605;Bragança Paulista;35048;Bragança Paulista;3512;Macro Metropolitana Paulista;35;São Paulo;SP;3;Sudeste;SE;350041;Bragança Paulista;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3507704;Braúna;35018;Birigui;3503;Araçatuba;35;São Paulo;SP;3;Sudeste;SE;350023;Birigui - Penápolis;3506;Araçatuba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3507753;Brejo Alegre;35018;Birigui;3503;Araçatuba;35;São Paulo;SP;3;Sudeste;SE;350023;Birigui - Penápolis;3506;Araçatuba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3507803;Brodowski;35014;Ribeirão Preto;3502;Ribeirão Preto;35;São Paulo;SP;3;Sudeste;SE;350031;Ribeirão Preto;3508;Ribeirão Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3507902;Brotas;35026;Rio Claro;3506;Piracicaba;35;São Paulo;SP;3;Sudeste;SE;350010;Jaú;3503;Bauru;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3508009;Buri;35041;Itapeva;3511;Itapetininga;35;São Paulo;SP;3;Sudeste;SE;350004;Itapeva;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3508108;Buritama;35018;Birigui;3503;Araçatuba;35;São Paulo;SP;3;Sudeste;SE;350023;Birigui - Penápolis;3506;Araçatuba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3508207;Buritizal;35011;Ituverava;3502;Ribeirão Preto;35;São Paulo;SP;3;Sudeste;SE;350035;Ituverava;3508;Ribeirão Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3508306;Cabrália Paulista;35020;Bauru;3504;Bauru;35;São Paulo;SP;3;Sudeste;SE;350009;Bauru;3503;Bauru;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3508405;Cabreúva;35046;Sorocaba;3512;Macro Metropolitana Paulista;35;São Paulo;SP;3;Sudeste;SE;350039;Jundiaí;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3508504;Caçapava;35050;São José dos Campos;3513;Vale do Paraíba Paulista;35;São Paulo;SP;3;Sudeste;SE;350049;São José dos Campos;3511;São José dos Campos;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3508603;Cachoeira Paulista;35051;Guaratinguetá;3513;Vale do Paraíba Paulista;35;São Paulo;SP;3;Sudeste;SE;350053;Cruzeiro;3511;São José dos Campos;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3508702;Caconde;35030;São João da Boa Vista;3507;Campinas;35;São Paulo;SP;3;Sudeste;SE;350047;São José do Rio Pardo - Mococa;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3508801;Cafelândia;35019;Lins;3504;Bauru;35;São Paulo;SP;3;Sudeste;SE;350012;Lins;3503;Bauru;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3508900;Caiabu;35036;Presidente Prudente;3508;Presidente Prudente;35;São Paulo;SP;3;Sudeste;SE;350018;Presidente Prudente;3505;Presidente Prudente;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3509007;Caieiras;35058;Franco da Rocha;3515;Metropolitana de São Paulo;35;São Paulo;SP;3;Sudeste;SE;350001;São Paulo;3501;São Paulo;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3509106;Caiuá;35036;Presidente Prudente;3508;Presidente Prudente;35;São Paulo;SP;3;Sudeste;SE;350021;Presidente Epitácio-Presidente Venceslau;3505;Presidente Prudente;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3509205;Cajamar;35057;Osasco;3515;Metropolitana de São Paulo;35;São Paulo;SP;3;Sudeste;SE;350001;São Paulo;3501;São Paulo;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3509254;Cajati;35055;Registro;3514;Litoral Sul Paulista;35;São Paulo;SP;3;Sudeste;SE;350005;Registro;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3509304;Cajobi;35005;Catanduva;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350032;Barretos;3508;Ribeirão Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3509403;Cajuru;35015;Batatais;3502;Ribeirão Preto;35;São Paulo;SP;3;Sudeste;SE;350031;Ribeirão Preto;3508;Ribeirão Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3509452;Campina do Monte Alegre;35042;Itapetininga;3511;Itapetininga;35;São Paulo;SP;3;Sudeste;SE;350006;Itapetininga;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3509502;Campinas;35032;Campinas;3507;Campinas;35;São Paulo;SP;3;Sudeste;SE;350038;Campinas;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3509601;Campo Limpo Paulista;35047;Jundiaí;3512;Macro Metropolitana Paulista;35;São Paulo;SP;3;Sudeste;SE;350039;Jundiaí;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3509700;Campos do Jordão;35049;Campos do Jordão;3513;Vale do Paraíba Paulista;35;São Paulo;SP;3;Sudeste;SE;350050;Taubaté - Pindamonhangaba;3511;São José dos Campos;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3509809;Campos Novos Paulista;35039;Assis;3510;Assis;35;São Paulo;SP;3;Sudeste;SE;350013;Marília;3504;Marília;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3509908;Cananéia;35055;Registro;3514;Litoral Sul Paulista;35;São Paulo;SP;3;Sudeste;SE;350005;Registro;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3509957;Canas;35051;Guaratinguetá;3513;Vale do Paraíba Paulista;35;São Paulo;SP;3;Sudeste;SE;350052;Guaratinguetá;3511;São José dos Campos;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3510005;Cândido Mota;35039;Assis;3510;Assis;35;São Paulo;SP;3;Sudeste;SE;350014;Assis;3504;Marília;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3510104;Cândido Rodrigues;35013;Jaboticabal;3502;Ribeirão Preto;35;São Paulo;SP;3;Sudeste;SE;350036;Araraquara;3509;Araraquara;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3510153;Canitar;35040;Ourinhos;3510;Assis;35;São Paulo;SP;3;Sudeste;SE;350015;Ourinhos;3504;Marília;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3510203;Capão Bonito;35044;Capão Bonito;3511;Itapetininga;35;São Paulo;SP;3;Sudeste;SE;350004;Itapeva;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3510302;Capela do Alto;35046;Sorocaba;3512;Macro Metropolitana Paulista;35;São Paulo;SP;3;Sudeste;SE;350003;Sorocaba;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3510401;Capivari;35028;Piracicaba;3506;Piracicaba;35;São Paulo;SP;3;Sudeste;SE;350040;Piracicaba;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3510500;Caraguatatuba;35054;Caraguatatuba;3513;Vale do Paraíba Paulista;35;São Paulo;SP;3;Sudeste;SE;350051;Caraguatatuba - Ubatuba - São Sebastião;3511;São José dos Campos;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3510609;Carapicuíba;35057;Osasco;3515;Metropolitana de São Paulo;35;São Paulo;SP;3;Sudeste;SE;350001;São Paulo;3501;São Paulo;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3510708;Cardoso;35003;Votuporanga;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350027;Votuporanga;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3510807;Casa Branca;35030;São João da Boa Vista;3507;Campinas;35;São Paulo;SP;3;Sudeste;SE;350044;São João da Boa Vista;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3510906;Cássia dos Coqueiros;35015;Batatais;3502;Ribeirão Preto;35;São Paulo;SP;3;Sudeste;SE;350031;Ribeirão Preto;3508;Ribeirão Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3511003;Castilho;35016;Andradina;3503;Araçatuba;35;São Paulo;SP;3;Sudeste;SE;350024;Andradina;3506;Araçatuba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3511102;Catanduva;35005;Catanduva;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350026;Catanduva;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3511201;Catiguá;35005;Catanduva;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350026;Catanduva;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3511300;Cedral;35004;São José do Rio Preto;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350025;São José do Rio Preto;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3511409;Cerqueira César;35022;Avaré;3504;Bauru;35;São Paulo;SP;3;Sudeste;SE;350007;Avaré;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3511508;Cerquilho;35043;Tatuí;3511;Itapetininga;35;São Paulo;SP;3;Sudeste;SE;350003;Sorocaba;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3511607;Cesário Lange;35043;Tatuí;3511;Itapetininga;35;São Paulo;SP;3;Sudeste;SE;350008;Tatuí;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3511706;Charqueada;35028;Piracicaba;3506;Piracicaba;35;São Paulo;SP;3;Sudeste;SE;350040;Piracicaba;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3511904;Clementina;35018;Birigui;3503;Araçatuba;35;São Paulo;SP;3;Sudeste;SE;350023;Birigui - Penápolis;3506;Araçatuba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3512001;Colina;35009;Barretos;3502;Ribeirão Preto;35;São Paulo;SP;3;Sudeste;SE;350032;Barretos;3508;Ribeirão Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3512100;Colômbia;35009;Barretos;3502;Ribeirão Preto;35;São Paulo;SP;3;Sudeste;SE;350032;Barretos;3508;Ribeirão Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3512209;Conchal;35027;Limeira;3506;Piracicaba;35;São Paulo;SP;3;Sudeste;SE;350045;Araras;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3512308;Conchas;35023;Botucatu;3504;Bauru;35;São Paulo;SP;3;Sudeste;SE;350011;Botucatu;3503;Bauru;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3512407;Cordeirópolis;35027;Limeira;3506;Piracicaba;35;São Paulo;SP;3;Sudeste;SE;350042;Limeira;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3512506;Coroados;35018;Birigui;3503;Araçatuba;35;São Paulo;SP;3;Sudeste;SE;350023;Birigui - Penápolis;3506;Araçatuba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3512605;Coronel Macedo;35041;Itapeva;3511;Itapetininga;35;São Paulo;SP;3;Sudeste;SE;350007;Avaré;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3512704;Corumbataí;35026;Rio Claro;3506;Piracicaba;35;São Paulo;SP;3;Sudeste;SE;350046;Rio Claro;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3512803;Cosmópolis;35032;Campinas;3507;Campinas;35;São Paulo;SP;3;Sudeste;SE;350038;Campinas;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3512902;Cosmorama;35003;Votuporanga;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350027;Votuporanga;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3513009;Cotia;35060;Itapecerica da Serra;3515;Metropolitana de São Paulo;35;São Paulo;SP;3;Sudeste;SE;350001;São Paulo;3501;São Paulo;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3513108;Cravinhos;35014;Ribeirão Preto;3502;Ribeirão Preto;35;São Paulo;SP;3;Sudeste;SE;350031;Ribeirão Preto;3508;Ribeirão Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3513207;Cristais Paulista;35012;Franca;3502;Ribeirão Preto;35;São Paulo;SP;3;Sudeste;SE;350033;Franca;3508;Ribeirão Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3513306;Cruzália;35039;Assis;3510;Assis;35;São Paulo;SP;3;Sudeste;SE;350014;Assis;3504;Marília;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3513405;Cruzeiro;35051;Guaratinguetá;3513;Vale do Paraíba Paulista;35;São Paulo;SP;3;Sudeste;SE;350053;Cruzeiro;3511;São José dos Campos;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3513504;Cubatão;35063;Santos;3515;Metropolitana de São Paulo;35;São Paulo;SP;3;Sudeste;SE;350002;Santos;3501;São Paulo;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3513603;Cunha;35053;Paraibuna/Paraitinga;3513;Vale do Paraíba Paulista;35;São Paulo;SP;3;Sudeste;SE;350052;Guaratinguetá;3511;São José dos Campos;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3513702;Descalvado;35025;São Carlos;3505;Araraquara;35;São Paulo;SP;3;Sudeste;SE;350037;São Carlos;3509;Araraquara;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3513801;Diadema;35061;São Paulo;3515;Metropolitana de São Paulo;35;São Paulo;SP;3;Sudeste;SE;350001;São Paulo;3501;São Paulo;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3513850;Dirce Reis;35001;Jales;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350028;Jales;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3513900;Divinolândia;35030;São João da Boa Vista;3507;Campinas;35;São Paulo;SP;3;Sudeste;SE;350047;São José do Rio Pardo - Mococa;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3514007;Dobrada;35024;Araraquara;3505;Araraquara;35;São Paulo;SP;3;Sudeste;SE;350036;Araraquara;3509;Araraquara;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3514106;Dois Córregos;35021;Jaú;3504;Bauru;35;São Paulo;SP;3;Sudeste;SE;350010;Jaú;3503;Bauru;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3514205;Dolcinópolis;35001;Jales;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350028;Jales;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3514304;Dourado;35025;São Carlos;3505;Araraquara;35;São Paulo;SP;3;Sudeste;SE;350037;São Carlos;3509;Araraquara;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3514403;Dracena;35034;Dracena;3508;Presidente Prudente;35;São Paulo;SP;3;Sudeste;SE;350020;Dracena;3505;Presidente Prudente;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3514502;Duartina;35020;Bauru;3504;Bauru;35;São Paulo;SP;3;Sudeste;SE;350009;Bauru;3503;Bauru;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3514601;Dumont;35014;Ribeirão Preto;3502;Ribeirão Preto;35;São Paulo;SP;3;Sudeste;SE;350031;Ribeirão Preto;3508;Ribeirão Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3514700;Echaporã;35038;Marília;3509;Marília;35;São Paulo;SP;3;Sudeste;SE;350013;Marília;3504;Marília;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3514809;Eldorado;35055;Registro;3514;Litoral Sul Paulista;35;São Paulo;SP;3;Sudeste;SE;350005;Registro;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3514908;Elias Fausto;35032;Campinas;3507;Campinas;35;São Paulo;SP;3;Sudeste;SE;350038;Campinas;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3514924;Elisiário;35005;Catanduva;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350026;Catanduva;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3514957;Embaúba;35005;Catanduva;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350026;Catanduva;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3515004;Embu das Artes;35060;Itapecerica da Serra;3515;Metropolitana de São Paulo;35;São Paulo;SP;3;Sudeste;SE;350001;São Paulo;3501;São Paulo;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3515103;Embu-Guaçu;35060;Itapecerica da Serra;3515;Metropolitana de São Paulo;35;São Paulo;SP;3;Sudeste;SE;350001;São Paulo;3501;São Paulo;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3515129;Emilianópolis;35036;Presidente Prudente;3508;Presidente Prudente;35;São Paulo;SP;3;Sudeste;SE;350018;Presidente Prudente;3505;Presidente Prudente;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3515152;Engenheiro Coelho;35031;Mogi Mirim;3507;Campinas;35;São Paulo;SP;3;Sudeste;SE;350042;Limeira;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3515186;Espírito Santo do Pinhal;35030;São João da Boa Vista;3507;Campinas;35;São Paulo;SP;3;Sudeste;SE;350044;São João da Boa Vista;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3515194;Espírito Santo do Turvo;35040;Ourinhos;3510;Assis;35;São Paulo;SP;3;Sudeste;SE;350015;Ourinhos;3504;Marília;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3515202;Estrela d'Oeste;35002;Fernandópolis;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350029;Fernandópolis;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3515301;Estrela do Norte;35036;Presidente Prudente;3508;Presidente Prudente;35;São Paulo;SP;3;Sudeste;SE;350018;Presidente Prudente;3505;Presidente Prudente;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3515350;Euclides da Cunha Paulista;35036;Presidente Prudente;3508;Presidente Prudente;35;São Paulo;SP;3;Sudeste;SE;350018;Presidente Prudente;3505;Presidente Prudente;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3515400;Fartura;35040;Ourinhos;3510;Assis;35;São Paulo;SP;3;Sudeste;SE;350017;Piraju;3504;Marília;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3515509;Fernandópolis;35002;Fernandópolis;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350029;Fernandópolis;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3515608;Fernando Prestes;35013;Jaboticabal;3502;Ribeirão Preto;35;São Paulo;SP;3;Sudeste;SE;350026;Catanduva;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3515657;Fernão;35038;Marília;3509;Marília;35;São Paulo;SP;3;Sudeste;SE;350013;Marília;3504;Marília;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3515707;Ferraz de Vasconcelos;35062;Mogi das Cruzes;3515;Metropolitana de São Paulo;35;São Paulo;SP;3;Sudeste;SE;350001;São Paulo;3501;São Paulo;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3515806;Flora Rica;35035;Adamantina;3508;Presidente Prudente;35;São Paulo;SP;3;Sudeste;SE;350020;Dracena;3505;Presidente Prudente;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3515905;Floreal;35006;Auriflama;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350027;Votuporanga;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3516002;Flórida Paulista;35035;Adamantina;3508;Presidente Prudente;35;São Paulo;SP;3;Sudeste;SE;350019;Adamantina - Lucélia;3505;Presidente Prudente;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3516101;Florínea;35039;Assis;3510;Assis;35;São Paulo;SP;3;Sudeste;SE;350014;Assis;3504;Marília;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3516200;Franca;35012;Franca;3502;Ribeirão Preto;35;São Paulo;SP;3;Sudeste;SE;350033;Franca;3508;Ribeirão Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3516309;Francisco Morato;35058;Franco da Rocha;3515;Metropolitana de São Paulo;35;São Paulo;SP;3;Sudeste;SE;350001;São Paulo;3501;São Paulo;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3516408;Franco da Rocha;35058;Franco da Rocha;3515;Metropolitana de São Paulo;35;São Paulo;SP;3;Sudeste;SE;350001;São Paulo;3501;São Paulo;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3516507;Gabriel Monteiro;35018;Birigui;3503;Araçatuba;35;São Paulo;SP;3;Sudeste;SE;350023;Birigui - Penápolis;3506;Araçatuba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3516606;Gália;35038;Marília;3509;Marília;35;São Paulo;SP;3;Sudeste;SE;350013;Marília;3504;Marília;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3516705;Garça;35038;Marília;3509;Marília;35;São Paulo;SP;3;Sudeste;SE;350013;Marília;3504;Marília;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3516804;Gastão Vidigal;35006;Auriflama;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350022;Araçatuba;3506;Araçatuba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3516853;Gavião Peixoto;35024;Araraquara;3505;Araraquara;35;São Paulo;SP;3;Sudeste;SE;350036;Araraquara;3509;Araraquara;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3516903;General Salgado;35006;Auriflama;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350022;Araçatuba;3506;Araçatuba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3517000;Getulina;35019;Lins;3504;Bauru;35;São Paulo;SP;3;Sudeste;SE;350013;Marília;3504;Marília;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3517109;Glicério;35018;Birigui;3503;Araçatuba;35;São Paulo;SP;3;Sudeste;SE;350023;Birigui - Penápolis;3506;Araçatuba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3517208;Guaiçara;35019;Lins;3504;Bauru;35;São Paulo;SP;3;Sudeste;SE;350012;Lins;3503;Bauru;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3517307;Guaimbê;35019;Lins;3504;Bauru;35;São Paulo;SP;3;Sudeste;SE;350013;Marília;3504;Marília;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3517406;Guaíra;35010;São Joaquim da Barra;3502;Ribeirão Preto;35;São Paulo;SP;3;Sudeste;SE;350032;Barretos;3508;Ribeirão Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3517505;Guapiaçu;35004;São José do Rio Preto;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350025;São José do Rio Preto;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3517604;Guapiara;35044;Capão Bonito;3511;Itapetininga;35;São Paulo;SP;3;Sudeste;SE;350004;Itapeva;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3517703;Guará;35011;Ituverava;3502;Ribeirão Preto;35;São Paulo;SP;3;Sudeste;SE;350035;Ituverava;3508;Ribeirão Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3517802;Guaraçaí;35016;Andradina;3503;Araçatuba;35;São Paulo;SP;3;Sudeste;SE;350024;Andradina;3506;Araçatuba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3517901;Guaraci;35004;São José do Rio Preto;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350032;Barretos;3508;Ribeirão Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3518008;Guarani d'Oeste;35002;Fernandópolis;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350029;Fernandópolis;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3518107;Guarantã;35020;Bauru;3504;Bauru;35;São Paulo;SP;3;Sudeste;SE;350012;Lins;3503;Bauru;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3518206;Guararapes;35017;Araçatuba;3503;Araçatuba;35;São Paulo;SP;3;Sudeste;SE;350022;Araçatuba;3506;Araçatuba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3518305;Guararema;35062;Mogi das Cruzes;3515;Metropolitana de São Paulo;35;São Paulo;SP;3;Sudeste;SE;350001;São Paulo;3501;São Paulo;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3518404;Guaratinguetá;35051;Guaratinguetá;3513;Vale do Paraíba Paulista;35;São Paulo;SP;3;Sudeste;SE;350052;Guaratinguetá;3511;São José dos Campos;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3518503;Guareí;35042;Itapetininga;3511;Itapetininga;35;São Paulo;SP;3;Sudeste;SE;350006;Itapetininga;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3518602;Guariba;35013;Jaboticabal;3502;Ribeirão Preto;35;São Paulo;SP;3;Sudeste;SE;350031;Ribeirão Preto;3508;Ribeirão Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3518701;Guarujá;35063;Santos;3515;Metropolitana de São Paulo;35;São Paulo;SP;3;Sudeste;SE;350002;Santos;3501;São Paulo;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3518800;Guarulhos;35059;Guarulhos;3515;Metropolitana de São Paulo;35;São Paulo;SP;3;Sudeste;SE;350001;São Paulo;3501;São Paulo;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3518859;Guatapará;35014;Ribeirão Preto;3502;Ribeirão Preto;35;São Paulo;SP;3;Sudeste;SE;350031;Ribeirão Preto;3508;Ribeirão Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3518909;Guzolândia;35006;Auriflama;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350022;Araçatuba;3506;Araçatuba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3519006;Herculândia;35037;Tupã;3509;Marília;35;São Paulo;SP;3;Sudeste;SE;350016;Tupã;3504;Marília;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3519055;Holambra;35032;Campinas;3507;Campinas;35;São Paulo;SP;3;Sudeste;SE;350038;Campinas;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3519071;Hortolândia;35032;Campinas;3507;Campinas;35;São Paulo;SP;3;Sudeste;SE;350038;Campinas;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3519105;Iacanga;35020;Bauru;3504;Bauru;35;São Paulo;SP;3;Sudeste;SE;350009;Bauru;3503;Bauru;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3519204;Iacri;35037;Tupã;3509;Marília;35;São Paulo;SP;3;Sudeste;SE;350016;Tupã;3504;Marília;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3519253;Iaras;35022;Avaré;3504;Bauru;35;São Paulo;SP;3;Sudeste;SE;350007;Avaré;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3519303;Ibaté;35025;São Carlos;3505;Araraquara;35;São Paulo;SP;3;Sudeste;SE;350037;São Carlos;3509;Araraquara;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3519402;Ibirá;35004;São José do Rio Preto;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350025;São José do Rio Preto;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3519501;Ibirarema;35039;Assis;3510;Assis;35;São Paulo;SP;3;Sudeste;SE;350015;Ourinhos;3504;Marília;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3519600;Ibitinga;35024;Araraquara;3505;Araraquara;35;São Paulo;SP;3;Sudeste;SE;350036;Araraquara;3509;Araraquara;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3519709;Ibiúna;35045;Piedade;3512;Macro Metropolitana Paulista;35;São Paulo;SP;3;Sudeste;SE;350003;Sorocaba;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3519808;Icém;35004;São José do Rio Preto;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350025;São José do Rio Preto;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3519907;Iepê;35039;Assis;3510;Assis;35;São Paulo;SP;3;Sudeste;SE;350018;Presidente Prudente;3505;Presidente Prudente;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3520004;Igaraçu do Tietê;35021;Jaú;3504;Bauru;35;São Paulo;SP;3;Sudeste;SE;350010;Jaú;3503;Bauru;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3520103;Igarapava;35011;Ituverava;3502;Ribeirão Preto;35;São Paulo;SP;3;Sudeste;SE;350035;Ituverava;3508;Ribeirão Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3520202;Igaratá;35050;São José dos Campos;3513;Vale do Paraíba Paulista;35;São Paulo;SP;3;Sudeste;SE;350049;São José dos Campos;3511;São José dos Campos;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3520301;Iguape;35055;Registro;3514;Litoral Sul Paulista;35;São Paulo;SP;3;Sudeste;SE;350005;Registro;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3520400;Ilhabela;35054;Caraguatatuba;3513;Vale do Paraíba Paulista;35;São Paulo;SP;3;Sudeste;SE;350051;Caraguatatuba - Ubatuba - São Sebastião;3511;São José dos Campos;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3520426;Ilha Comprida;35055;Registro;3514;Litoral Sul Paulista;35;São Paulo;SP;3;Sudeste;SE;350005;Registro;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3520442;Ilha Solteira;35016;Andradina;3503;Araçatuba;35;São Paulo;SP;3;Sudeste;SE;350024;Andradina;3506;Araçatuba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3520509;Indaiatuba;35032;Campinas;3507;Campinas;35;São Paulo;SP;3;Sudeste;SE;350038;Campinas;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3520608;Indiana;35036;Presidente Prudente;3508;Presidente Prudente;35;São Paulo;SP;3;Sudeste;SE;350018;Presidente Prudente;3505;Presidente Prudente;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3520707;Indiaporã;35002;Fernandópolis;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350029;Fernandópolis;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3520806;Inúbia Paulista;35035;Adamantina;3508;Presidente Prudente;35;São Paulo;SP;3;Sudeste;SE;350019;Adamantina - Lucélia;3505;Presidente Prudente;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3520905;Ipaussu;35040;Ourinhos;3510;Assis;35;São Paulo;SP;3;Sudeste;SE;350015;Ourinhos;3504;Marília;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3521002;Iperó;35046;Sorocaba;3512;Macro Metropolitana Paulista;35;São Paulo;SP;3;Sudeste;SE;350003;Sorocaba;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3521101;Ipeúna;35026;Rio Claro;3506;Piracicaba;35;São Paulo;SP;3;Sudeste;SE;350046;Rio Claro;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3521150;Ipiguá;35004;São José do Rio Preto;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350025;São José do Rio Preto;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3521200;Iporanga;35044;Capão Bonito;3511;Itapetininga;35;São Paulo;SP;3;Sudeste;SE;350005;Registro;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3521309;Ipuã;35010;São Joaquim da Barra;3502;Ribeirão Preto;35;São Paulo;SP;3;Sudeste;SE;350034;São Joaquim da Barra ¿ Orlândia;3508;Ribeirão Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3521408;Iracemápolis;35027;Limeira;3506;Piracicaba;35;São Paulo;SP;3;Sudeste;SE;350042;Limeira;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3521507;Irapuã;35008;Novo Horizonte;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350025;São José do Rio Preto;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3521606;Irapuru;35035;Adamantina;3508;Presidente Prudente;35;São Paulo;SP;3;Sudeste;SE;350020;Dracena;3505;Presidente Prudente;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3521705;Itaberá;35041;Itapeva;3511;Itapetininga;35;São Paulo;SP;3;Sudeste;SE;350004;Itapeva;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3521804;Itaí;35022;Avaré;3504;Bauru;35;São Paulo;SP;3;Sudeste;SE;350007;Avaré;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3521903;Itajobi;35008;Novo Horizonte;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350026;Catanduva;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3522000;Itaju;35021;Jaú;3504;Bauru;35;São Paulo;SP;3;Sudeste;SE;350010;Jaú;3503;Bauru;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3522109;Itanhaém;35056;Itanhaém;3514;Litoral Sul Paulista;35;São Paulo;SP;3;Sudeste;SE;350002;Santos;3501;São Paulo;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3522158;Itaoca;35044;Capão Bonito;3511;Itapetininga;35;São Paulo;SP;3;Sudeste;SE;350004;Itapeva;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3522208;Itapecerica da Serra;35060;Itapecerica da Serra;3515;Metropolitana de São Paulo;35;São Paulo;SP;3;Sudeste;SE;350001;São Paulo;3501;São Paulo;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3522307;Itapetininga;35042;Itapetininga;3511;Itapetininga;35;São Paulo;SP;3;Sudeste;SE;350006;Itapetininga;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3522406;Itapeva;35041;Itapeva;3511;Itapetininga;35;São Paulo;SP;3;Sudeste;SE;350004;Itapeva;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3522505;Itapevi;35057;Osasco;3515;Metropolitana de São Paulo;35;São Paulo;SP;3;Sudeste;SE;350001;São Paulo;3501;São Paulo;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3522604;Itapira;35031;Mogi Mirim;3507;Campinas;35;São Paulo;SP;3;Sudeste;SE;350043;Mogi Guaçu;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3522653;Itapirapuã Paulista;35044;Capão Bonito;3511;Itapetininga;35;São Paulo;SP;3;Sudeste;SE;350004;Itapeva;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3522703;Itápolis;35024;Araraquara;3505;Araraquara;35;São Paulo;SP;3;Sudeste;SE;350036;Araraquara;3509;Araraquara;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3522802;Itaporanga;35041;Itapeva;3511;Itapetininga;35;São Paulo;SP;3;Sudeste;SE;350004;Itapeva;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3522901;Itapuí;35021;Jaú;3504;Bauru;35;São Paulo;SP;3;Sudeste;SE;350010;Jaú;3503;Bauru;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3523008;Itapura;35016;Andradina;3503;Araçatuba;35;São Paulo;SP;3;Sudeste;SE;350024;Andradina;3506;Araçatuba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3523107;Itaquaquecetuba;35062;Mogi das Cruzes;3515;Metropolitana de São Paulo;35;São Paulo;SP;3;Sudeste;SE;350001;São Paulo;3501;São Paulo;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3523206;Itararé;35041;Itapeva;3511;Itapetininga;35;São Paulo;SP;3;Sudeste;SE;350004;Itapeva;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3523305;Itariri;35056;Itanhaém;3514;Litoral Sul Paulista;35;São Paulo;SP;3;Sudeste;SE;350002;Santos;3501;São Paulo;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3523404;Itatiba;35048;Bragança Paulista;3512;Macro Metropolitana Paulista;35;São Paulo;SP;3;Sudeste;SE;350039;Jundiaí;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3523503;Itatinga;35022;Avaré;3504;Bauru;35;São Paulo;SP;3;Sudeste;SE;350011;Botucatu;3503;Bauru;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3523602;Itirapina;35026;Rio Claro;3506;Piracicaba;35;São Paulo;SP;3;Sudeste;SE;350037;São Carlos;3509;Araraquara;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3523701;Itirapuã;35012;Franca;3502;Ribeirão Preto;35;São Paulo;SP;3;Sudeste;SE;350033;Franca;3508;Ribeirão Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3523800;Itobi;35030;São João da Boa Vista;3507;Campinas;35;São Paulo;SP;3;Sudeste;SE;350047;São José do Rio Pardo - Mococa;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3523909;Itu;35046;Sorocaba;3512;Macro Metropolitana Paulista;35;São Paulo;SP;3;Sudeste;SE;350003;Sorocaba;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3524006;Itupeva;35047;Jundiaí;3512;Macro Metropolitana Paulista;35;São Paulo;SP;3;Sudeste;SE;350039;Jundiaí;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3524105;Ituverava;35011;Ituverava;3502;Ribeirão Preto;35;São Paulo;SP;3;Sudeste;SE;350035;Ituverava;3508;Ribeirão Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3524204;Jaborandi;35010;São Joaquim da Barra;3502;Ribeirão Preto;35;São Paulo;SP;3;Sudeste;SE;350032;Barretos;3508;Ribeirão Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3524303;Jaboticabal;35013;Jaboticabal;3502;Ribeirão Preto;35;São Paulo;SP;3;Sudeste;SE;350031;Ribeirão Preto;3508;Ribeirão Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3524402;Jacareí;35050;São José dos Campos;3513;Vale do Paraíba Paulista;35;São Paulo;SP;3;Sudeste;SE;350049;São José dos Campos;3511;São José dos Campos;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3524501;Jaci;35004;São José do Rio Preto;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350025;São José do Rio Preto;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3524600;Jacupiranga;35055;Registro;3514;Litoral Sul Paulista;35;São Paulo;SP;3;Sudeste;SE;350005;Registro;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3524709;Jaguariúna;35032;Campinas;3507;Campinas;35;São Paulo;SP;3;Sudeste;SE;350038;Campinas;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3524808;Jales;35001;Jales;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350028;Jales;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3524907;Jambeiro;35053;Paraibuna/Paraitinga;3513;Vale do Paraíba Paulista;35;São Paulo;SP;3;Sudeste;SE;350049;São José dos Campos;3511;São José dos Campos;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3525003;Jandira;35057;Osasco;3515;Metropolitana de São Paulo;35;São Paulo;SP;3;Sudeste;SE;350001;São Paulo;3501;São Paulo;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3525102;Jardinópolis;35014;Ribeirão Preto;3502;Ribeirão Preto;35;São Paulo;SP;3;Sudeste;SE;350031;Ribeirão Preto;3508;Ribeirão Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3525201;Jarinu;35048;Bragança Paulista;3512;Macro Metropolitana Paulista;35;São Paulo;SP;3;Sudeste;SE;350039;Jundiaí;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3525300;Jaú;35021;Jaú;3504;Bauru;35;São Paulo;SP;3;Sudeste;SE;350010;Jaú;3503;Bauru;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3525409;Jeriquara;35012;Franca;3502;Ribeirão Preto;35;São Paulo;SP;3;Sudeste;SE;350033;Franca;3508;Ribeirão Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3525508;Joanópolis;35048;Bragança Paulista;3512;Macro Metropolitana Paulista;35;São Paulo;SP;3;Sudeste;SE;350041;Bragança Paulista;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3525607;João Ramalho;35036;Presidente Prudente;3508;Presidente Prudente;35;São Paulo;SP;3;Sudeste;SE;350018;Presidente Prudente;3505;Presidente Prudente;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3525706;José Bonifácio;35004;São José do Rio Preto;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350025;São José do Rio Preto;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3525805;Júlio Mesquita;35019;Lins;3504;Bauru;35;São Paulo;SP;3;Sudeste;SE;350013;Marília;3504;Marília;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3525854;Jumirim;35028;Piracicaba;3506;Piracicaba;35;São Paulo;SP;3;Sudeste;SE;350003;Sorocaba;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3525904;Jundiaí;35047;Jundiaí;3512;Macro Metropolitana Paulista;35;São Paulo;SP;3;Sudeste;SE;350039;Jundiaí;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3526001;Junqueirópolis;35034;Dracena;3508;Presidente Prudente;35;São Paulo;SP;3;Sudeste;SE;350020;Dracena;3505;Presidente Prudente;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3526100;Juquiá;35055;Registro;3514;Litoral Sul Paulista;35;São Paulo;SP;3;Sudeste;SE;350005;Registro;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3526209;Juquitiba;35060;Itapecerica da Serra;3515;Metropolitana de São Paulo;35;São Paulo;SP;3;Sudeste;SE;350001;São Paulo;3501;São Paulo;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3526308;Lagoinha;35053;Paraibuna/Paraitinga;3513;Vale do Paraíba Paulista;35;São Paulo;SP;3;Sudeste;SE;350050;Taubaté - Pindamonhangaba;3511;São José dos Campos;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3526407;Laranjal Paulista;35043;Tatuí;3511;Itapetininga;35;São Paulo;SP;3;Sudeste;SE;350040;Piracicaba;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3526506;Lavínia;35017;Araçatuba;3503;Araçatuba;35;São Paulo;SP;3;Sudeste;SE;350024;Andradina;3506;Araçatuba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3526605;Lavrinhas;35051;Guaratinguetá;3513;Vale do Paraíba Paulista;35;São Paulo;SP;3;Sudeste;SE;350053;Cruzeiro;3511;São José dos Campos;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3526704;Leme;35027;Limeira;3506;Piracicaba;35;São Paulo;SP;3;Sudeste;SE;350045;Araras;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3526803;Lençóis Paulista;35020;Bauru;3504;Bauru;35;São Paulo;SP;3;Sudeste;SE;350009;Bauru;3503;Bauru;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3526902;Limeira;35027;Limeira;3506;Piracicaba;35;São Paulo;SP;3;Sudeste;SE;350042;Limeira;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3527009;Lindóia;35033;Amparo;3507;Campinas;35;São Paulo;SP;3;Sudeste;SE;350048;Amparo;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3527108;Lins;35019;Lins;3504;Bauru;35;São Paulo;SP;3;Sudeste;SE;350012;Lins;3503;Bauru;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3527207;Lorena;35051;Guaratinguetá;3513;Vale do Paraíba Paulista;35;São Paulo;SP;3;Sudeste;SE;350052;Guaratinguetá;3511;São José dos Campos;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3527256;Lourdes;35018;Birigui;3503;Araçatuba;35;São Paulo;SP;3;Sudeste;SE;350023;Birigui - Penápolis;3506;Araçatuba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3527306;Louveira;35047;Jundiaí;3512;Macro Metropolitana Paulista;35;São Paulo;SP;3;Sudeste;SE;350039;Jundiaí;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3527405;Lucélia;35035;Adamantina;3508;Presidente Prudente;35;São Paulo;SP;3;Sudeste;SE;350019;Adamantina - Lucélia;3505;Presidente Prudente;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3527504;Lucianópolis;35020;Bauru;3504;Bauru;35;São Paulo;SP;3;Sudeste;SE;350009;Bauru;3503;Bauru;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3527603;Luís Antônio;35014;Ribeirão Preto;3502;Ribeirão Preto;35;São Paulo;SP;3;Sudeste;SE;350031;Ribeirão Preto;3508;Ribeirão Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3527702;Luiziânia;35018;Birigui;3503;Araçatuba;35;São Paulo;SP;3;Sudeste;SE;350023;Birigui - Penápolis;3506;Araçatuba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3527801;Lupércio;35038;Marília;3509;Marília;35;São Paulo;SP;3;Sudeste;SE;350013;Marília;3504;Marília;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3527900;Lutécia;35039;Assis;3510;Assis;35;São Paulo;SP;3;Sudeste;SE;350014;Assis;3504;Marília;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3528007;Macatuba;35021;Jaú;3504;Bauru;35;São Paulo;SP;3;Sudeste;SE;350009;Bauru;3503;Bauru;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3528106;Macaubal;35007;Nhandeara;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350025;São José do Rio Preto;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3528205;Macedônia;35002;Fernandópolis;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350029;Fernandópolis;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3528304;Magda;35006;Auriflama;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350022;Araçatuba;3506;Araçatuba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3528403;Mairinque;35046;Sorocaba;3512;Macro Metropolitana Paulista;35;São Paulo;SP;3;Sudeste;SE;350003;Sorocaba;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3528502;Mairiporã;35058;Franco da Rocha;3515;Metropolitana de São Paulo;35;São Paulo;SP;3;Sudeste;SE;350001;São Paulo;3501;São Paulo;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3528601;Manduri;35040;Ourinhos;3510;Assis;35;São Paulo;SP;3;Sudeste;SE;350007;Avaré;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3528700;Marabá Paulista;35036;Presidente Prudente;3508;Presidente Prudente;35;São Paulo;SP;3;Sudeste;SE;350021;Presidente Epitácio-Presidente Venceslau;3505;Presidente Prudente;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3528809;Maracaí;35039;Assis;3510;Assis;35;São Paulo;SP;3;Sudeste;SE;350014;Assis;3504;Marília;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3528858;Marapoama;35008;Novo Horizonte;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350026;Catanduva;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3528908;Mariápolis;35035;Adamantina;3508;Presidente Prudente;35;São Paulo;SP;3;Sudeste;SE;350019;Adamantina - Lucélia;3505;Presidente Prudente;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3529005;Marília;35038;Marília;3509;Marília;35;São Paulo;SP;3;Sudeste;SE;350013;Marília;3504;Marília;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3529104;Marinópolis;35001;Jales;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350028;Jales;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3529203;Martinópolis;35036;Presidente Prudente;3508;Presidente Prudente;35;São Paulo;SP;3;Sudeste;SE;350018;Presidente Prudente;3505;Presidente Prudente;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3529302;Matão;35024;Araraquara;3505;Araraquara;35;São Paulo;SP;3;Sudeste;SE;350036;Araraquara;3509;Araraquara;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3529401;Mauá;35061;São Paulo;3515;Metropolitana de São Paulo;35;São Paulo;SP;3;Sudeste;SE;350001;São Paulo;3501;São Paulo;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3529500;Mendonça;35004;São José do Rio Preto;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350025;São José do Rio Preto;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3529609;Meridiano;35002;Fernandópolis;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350029;Fernandópolis;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3529658;Mesópolis;35001;Jales;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350028;Jales;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3529708;Miguelópolis;35010;São Joaquim da Barra;3502;Ribeirão Preto;35;São Paulo;SP;3;Sudeste;SE;350035;Ituverava;3508;Ribeirão Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3529807;Mineiros do Tietê;35021;Jaú;3504;Bauru;35;São Paulo;SP;3;Sudeste;SE;350010;Jaú;3503;Bauru;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3529906;Miracatu;35055;Registro;3514;Litoral Sul Paulista;35;São Paulo;SP;3;Sudeste;SE;350005;Registro;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3530003;Mira Estrela;35002;Fernandópolis;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350029;Fernandópolis;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3530102;Mirandópolis;35016;Andradina;3503;Araçatuba;35;São Paulo;SP;3;Sudeste;SE;350024;Andradina;3506;Araçatuba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3530201;Mirante do Paranapanema;35036;Presidente Prudente;3508;Presidente Prudente;35;São Paulo;SP;3;Sudeste;SE;350018;Presidente Prudente;3505;Presidente Prudente;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3530300;Mirassol;35004;São José do Rio Preto;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350025;São José do Rio Preto;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3530409;Mirassolândia;35004;São José do Rio Preto;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350025;São José do Rio Preto;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3530508;Mococa;35030;São João da Boa Vista;3507;Campinas;35;São Paulo;SP;3;Sudeste;SE;350047;São José do Rio Pardo - Mococa;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3530607;Mogi das Cruzes;35062;Mogi das Cruzes;3515;Metropolitana de São Paulo;35;São Paulo;SP;3;Sudeste;SE;350001;São Paulo;3501;São Paulo;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3530706;Mogi Guaçu;35031;Mogi Mirim;3507;Campinas;35;São Paulo;SP;3;Sudeste;SE;350043;Mogi Guaçu;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3530805;Mogi Mirim;35031;Mogi Mirim;3507;Campinas;35;São Paulo;SP;3;Sudeste;SE;350043;Mogi Guaçu;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3530904;Mombuca;35028;Piracicaba;3506;Piracicaba;35;São Paulo;SP;3;Sudeste;SE;350040;Piracicaba;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3531001;Monções;35007;Nhandeara;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350022;Araçatuba;3506;Araçatuba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3531100;Mongaguá;35056;Itanhaém;3514;Litoral Sul Paulista;35;São Paulo;SP;3;Sudeste;SE;350002;Santos;3501;São Paulo;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3531209;Monte Alegre do Sul;35033;Amparo;3507;Campinas;35;São Paulo;SP;3;Sudeste;SE;350048;Amparo;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3531308;Monte Alto;35013;Jaboticabal;3502;Ribeirão Preto;35;São Paulo;SP;3;Sudeste;SE;350031;Ribeirão Preto;3508;Ribeirão Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3531407;Monte Aprazível;35007;Nhandeara;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350025;São José do Rio Preto;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3531506;Monte Azul Paulista;35013;Jaboticabal;3502;Ribeirão Preto;35;São Paulo;SP;3;Sudeste;SE;350032;Barretos;3508;Ribeirão Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3531605;Monte Castelo;35034;Dracena;3508;Presidente Prudente;35;São Paulo;SP;3;Sudeste;SE;350020;Dracena;3505;Presidente Prudente;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3531704;Monteiro Lobato;35049;Campos do Jordão;3513;Vale do Paraíba Paulista;35;São Paulo;SP;3;Sudeste;SE;350049;São José dos Campos;3511;São José dos Campos;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3531803;Monte Mor;35032;Campinas;3507;Campinas;35;São Paulo;SP;3;Sudeste;SE;350038;Campinas;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3531902;Morro Agudo;35010;São Joaquim da Barra;3502;Ribeirão Preto;35;São Paulo;SP;3;Sudeste;SE;350034;São Joaquim da Barra ¿ Orlândia;3508;Ribeirão Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3532009;Morungaba;35048;Bragança Paulista;3512;Macro Metropolitana Paulista;35;São Paulo;SP;3;Sudeste;SE;350039;Jundiaí;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3532058;Motuca;35024;Araraquara;3505;Araraquara;35;São Paulo;SP;3;Sudeste;SE;350036;Araraquara;3509;Araraquara;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3532108;Murutinga do Sul;35016;Andradina;3503;Araçatuba;35;São Paulo;SP;3;Sudeste;SE;350024;Andradina;3506;Araçatuba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3532157;Nantes;35039;Assis;3510;Assis;35;São Paulo;SP;3;Sudeste;SE;350018;Presidente Prudente;3505;Presidente Prudente;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3532207;Narandiba;35036;Presidente Prudente;3508;Presidente Prudente;35;São Paulo;SP;3;Sudeste;SE;350018;Presidente Prudente;3505;Presidente Prudente;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3532306;Natividade da Serra;35053;Paraibuna/Paraitinga;3513;Vale do Paraíba Paulista;35;São Paulo;SP;3;Sudeste;SE;350050;Taubaté - Pindamonhangaba;3511;São José dos Campos;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3532405;Nazaré Paulista;35048;Bragança Paulista;3512;Macro Metropolitana Paulista;35;São Paulo;SP;3;Sudeste;SE;350041;Bragança Paulista;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3532504;Neves Paulista;35007;Nhandeara;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350025;São José do Rio Preto;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3532603;Nhandeara;35007;Nhandeara;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350027;Votuporanga;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3532702;Nipoã;35007;Nhandeara;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350025;São José do Rio Preto;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3532801;Nova Aliança;35004;São José do Rio Preto;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350025;São José do Rio Preto;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3532827;Nova Campina;35041;Itapeva;3511;Itapetininga;35;São Paulo;SP;3;Sudeste;SE;350004;Itapeva;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3532843;Nova Canaã Paulista;35001;Jales;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350030;Santa Fé do Sul;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3532868;Nova Castilho;35006;Auriflama;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350022;Araçatuba;3506;Araçatuba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3532900;Nova Europa;35024;Araraquara;3505;Araraquara;35;São Paulo;SP;3;Sudeste;SE;350036;Araraquara;3509;Araraquara;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3533007;Nova Granada;35004;São José do Rio Preto;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350025;São José do Rio Preto;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3533106;Nova Guataporanga;35034;Dracena;3508;Presidente Prudente;35;São Paulo;SP;3;Sudeste;SE;350020;Dracena;3505;Presidente Prudente;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3533205;Nova Independência;35016;Andradina;3503;Araçatuba;35;São Paulo;SP;3;Sudeste;SE;350024;Andradina;3506;Araçatuba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3533254;Novais;35005;Catanduva;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350026;Catanduva;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3533304;Nova Luzitânia;35006;Auriflama;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350022;Araçatuba;3506;Araçatuba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3533403;Nova Odessa;35032;Campinas;3507;Campinas;35;São Paulo;SP;3;Sudeste;SE;350038;Campinas;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3533502;Novo Horizonte;35008;Novo Horizonte;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350025;São José do Rio Preto;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3533601;Nuporanga;35010;São Joaquim da Barra;3502;Ribeirão Preto;35;São Paulo;SP;3;Sudeste;SE;350034;São Joaquim da Barra ¿ Orlândia;3508;Ribeirão Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3533700;Ocauçu;35038;Marília;3509;Marília;35;São Paulo;SP;3;Sudeste;SE;350013;Marília;3504;Marília;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3533809;Óleo;35040;Ourinhos;3510;Assis;35;São Paulo;SP;3;Sudeste;SE;350007;Avaré;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3533908;Olímpia;35004;São José do Rio Preto;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350032;Barretos;3508;Ribeirão Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3534005;Onda Verde;35004;São José do Rio Preto;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350025;São José do Rio Preto;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3534104;Oriente;35038;Marília;3509;Marília;35;São Paulo;SP;3;Sudeste;SE;350013;Marília;3504;Marília;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3534203;Orindiúva;35004;São José do Rio Preto;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350025;São José do Rio Preto;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3534302;Orlândia;35010;São Joaquim da Barra;3502;Ribeirão Preto;35;São Paulo;SP;3;Sudeste;SE;350034;São Joaquim da Barra ¿ Orlândia;3508;Ribeirão Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3534401;Osasco;35057;Osasco;3515;Metropolitana de São Paulo;35;São Paulo;SP;3;Sudeste;SE;350001;São Paulo;3501;São Paulo;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3534500;Oscar Bressane;35038;Marília;3509;Marília;35;São Paulo;SP;3;Sudeste;SE;350013;Marília;3504;Marília;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3534609;Osvaldo Cruz;35035;Adamantina;3508;Presidente Prudente;35;São Paulo;SP;3;Sudeste;SE;350019;Adamantina - Lucélia;3505;Presidente Prudente;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3534708;Ourinhos;35040;Ourinhos;3510;Assis;35;São Paulo;SP;3;Sudeste;SE;350015;Ourinhos;3504;Marília;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3534757;Ouroeste;35002;Fernandópolis;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350029;Fernandópolis;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3534807;Ouro Verde;35034;Dracena;3508;Presidente Prudente;35;São Paulo;SP;3;Sudeste;SE;350020;Dracena;3505;Presidente Prudente;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3534906;Pacaembu;35035;Adamantina;3508;Presidente Prudente;35;São Paulo;SP;3;Sudeste;SE;350019;Adamantina - Lucélia;3505;Presidente Prudente;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3535002;Palestina;35004;São José do Rio Preto;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350025;São José do Rio Preto;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3535101;Palmares Paulista;35005;Catanduva;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350026;Catanduva;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3535200;Palmeira d'Oeste;35001;Jales;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350028;Jales;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3535309;Palmital;35039;Assis;3510;Assis;35;São Paulo;SP;3;Sudeste;SE;350014;Assis;3504;Marília;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3535408;Panorama;35034;Dracena;3508;Presidente Prudente;35;São Paulo;SP;3;Sudeste;SE;350020;Dracena;3505;Presidente Prudente;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3535507;Paraguaçu Paulista;35039;Assis;3510;Assis;35;São Paulo;SP;3;Sudeste;SE;350014;Assis;3504;Marília;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3535606;Paraibuna;35053;Paraibuna/Paraitinga;3513;Vale do Paraíba Paulista;35;São Paulo;SP;3;Sudeste;SE;350049;São José dos Campos;3511;São José dos Campos;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3535705;Paraíso;35005;Catanduva;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350026;Catanduva;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3535804;Paranapanema;35022;Avaré;3504;Bauru;35;São Paulo;SP;3;Sudeste;SE;350007;Avaré;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3535903;Paranapuã;35001;Jales;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350028;Jales;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3536000;Parapuã;35035;Adamantina;3508;Presidente Prudente;35;São Paulo;SP;3;Sudeste;SE;350016;Tupã;3504;Marília;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3536109;Pardinho;35023;Botucatu;3504;Bauru;35;São Paulo;SP;3;Sudeste;SE;350011;Botucatu;3503;Bauru;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3536208;Pariquera-Açu;35055;Registro;3514;Litoral Sul Paulista;35;São Paulo;SP;3;Sudeste;SE;350005;Registro;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3536257;Parisi;35003;Votuporanga;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350027;Votuporanga;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3536307;Patrocínio Paulista;35012;Franca;3502;Ribeirão Preto;35;São Paulo;SP;3;Sudeste;SE;350033;Franca;3508;Ribeirão Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3536406;Paulicéia;35034;Dracena;3508;Presidente Prudente;35;São Paulo;SP;3;Sudeste;SE;350020;Dracena;3505;Presidente Prudente;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3536505;Paulínia;35032;Campinas;3507;Campinas;35;São Paulo;SP;3;Sudeste;SE;350038;Campinas;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3536570;Paulistânia;35020;Bauru;3504;Bauru;35;São Paulo;SP;3;Sudeste;SE;350009;Bauru;3503;Bauru;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3536604;Paulo de Faria;35004;São José do Rio Preto;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350025;São José do Rio Preto;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3536703;Pederneiras;35021;Jaú;3504;Bauru;35;São Paulo;SP;3;Sudeste;SE;350009;Bauru;3503;Bauru;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3536802;Pedra Bela;35033;Amparo;3507;Campinas;35;São Paulo;SP;3;Sudeste;SE;350041;Bragança Paulista;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3536901;Pedranópolis;35002;Fernandópolis;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350029;Fernandópolis;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3537008;Pedregulho;35012;Franca;3502;Ribeirão Preto;35;São Paulo;SP;3;Sudeste;SE;350033;Franca;3508;Ribeirão Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3537107;Pedreira;35032;Campinas;3507;Campinas;35;São Paulo;SP;3;Sudeste;SE;350038;Campinas;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3537156;Pedrinhas Paulista;35039;Assis;3510;Assis;35;São Paulo;SP;3;Sudeste;SE;350014;Assis;3504;Marília;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3537206;Pedro de Toledo;35056;Itanhaém;3514;Litoral Sul Paulista;35;São Paulo;SP;3;Sudeste;SE;350002;Santos;3501;São Paulo;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3537305;Penápolis;35018;Birigui;3503;Araçatuba;35;São Paulo;SP;3;Sudeste;SE;350023;Birigui - Penápolis;3506;Araçatuba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3537404;Pereira Barreto;35016;Andradina;3503;Araçatuba;35;São Paulo;SP;3;Sudeste;SE;350024;Andradina;3506;Araçatuba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3537503;Pereiras;35043;Tatuí;3511;Itapetininga;35;São Paulo;SP;3;Sudeste;SE;350008;Tatuí;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3537602;Peruíbe;35056;Itanhaém;3514;Litoral Sul Paulista;35;São Paulo;SP;3;Sudeste;SE;350002;Santos;3501;São Paulo;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3537701;Piacatu;35018;Birigui;3503;Araçatuba;35;São Paulo;SP;3;Sudeste;SE;350023;Birigui - Penápolis;3506;Araçatuba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3537800;Piedade;35045;Piedade;3512;Macro Metropolitana Paulista;35;São Paulo;SP;3;Sudeste;SE;350003;Sorocaba;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3537909;Pilar do Sul;35045;Piedade;3512;Macro Metropolitana Paulista;35;São Paulo;SP;3;Sudeste;SE;350003;Sorocaba;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3538006;Pindamonhangaba;35050;São José dos Campos;3513;Vale do Paraíba Paulista;35;São Paulo;SP;3;Sudeste;SE;350050;Taubaté - Pindamonhangaba;3511;São José dos Campos;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3538105;Pindorama;35005;Catanduva;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350026;Catanduva;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3538204;Pinhalzinho;35033;Amparo;3507;Campinas;35;São Paulo;SP;3;Sudeste;SE;350041;Bragança Paulista;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3538303;Piquerobi;35036;Presidente Prudente;3508;Presidente Prudente;35;São Paulo;SP;3;Sudeste;SE;350021;Presidente Epitácio-Presidente Venceslau;3505;Presidente Prudente;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3538501;Piquete;35051;Guaratinguetá;3513;Vale do Paraíba Paulista;35;São Paulo;SP;3;Sudeste;SE;350052;Guaratinguetá;3511;São José dos Campos;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3538600;Piracaia;35048;Bragança Paulista;3512;Macro Metropolitana Paulista;35;São Paulo;SP;3;Sudeste;SE;350041;Bragança Paulista;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3538709;Piracicaba;35028;Piracicaba;3506;Piracicaba;35;São Paulo;SP;3;Sudeste;SE;350040;Piracicaba;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3538808;Piraju;35040;Ourinhos;3510;Assis;35;São Paulo;SP;3;Sudeste;SE;350017;Piraju;3504;Marília;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3538907;Pirajuí;35020;Bauru;3504;Bauru;35;São Paulo;SP;3;Sudeste;SE;350009;Bauru;3503;Bauru;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3539004;Pirangi;35013;Jaboticabal;3502;Ribeirão Preto;35;São Paulo;SP;3;Sudeste;SE;350026;Catanduva;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3539103;Pirapora do Bom Jesus;35057;Osasco;3515;Metropolitana de São Paulo;35;São Paulo;SP;3;Sudeste;SE;350001;São Paulo;3501;São Paulo;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3539202;Pirapozinho;35036;Presidente Prudente;3508;Presidente Prudente;35;São Paulo;SP;3;Sudeste;SE;350018;Presidente Prudente;3505;Presidente Prudente;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3539301;Pirassununga;35029;Pirassununga;3507;Campinas;35;São Paulo;SP;3;Sudeste;SE;350037;São Carlos;3509;Araraquara;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3539400;Piratininga;35020;Bauru;3504;Bauru;35;São Paulo;SP;3;Sudeste;SE;350009;Bauru;3503;Bauru;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3539509;Pitangueiras;35013;Jaboticabal;3502;Ribeirão Preto;35;São Paulo;SP;3;Sudeste;SE;350031;Ribeirão Preto;3508;Ribeirão Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3539608;Planalto;35004;São José do Rio Preto;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350025;São José do Rio Preto;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3539707;Platina;35039;Assis;3510;Assis;35;São Paulo;SP;3;Sudeste;SE;350014;Assis;3504;Marília;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3539806;Poá;35062;Mogi das Cruzes;3515;Metropolitana de São Paulo;35;São Paulo;SP;3;Sudeste;SE;350001;São Paulo;3501;São Paulo;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3539905;Poloni;35007;Nhandeara;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350025;São José do Rio Preto;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3540002;Pompéia;35038;Marília;3509;Marília;35;São Paulo;SP;3;Sudeste;SE;350013;Marília;3504;Marília;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3540101;Pongaí;35020;Bauru;3504;Bauru;35;São Paulo;SP;3;Sudeste;SE;350012;Lins;3503;Bauru;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3540200;Pontal;35014;Ribeirão Preto;3502;Ribeirão Preto;35;São Paulo;SP;3;Sudeste;SE;350031;Ribeirão Preto;3508;Ribeirão Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3540259;Pontalinda;35001;Jales;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350028;Jales;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3540309;Pontes Gestal;35003;Votuporanga;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350027;Votuporanga;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3540408;Populina;35001;Jales;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350028;Jales;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3540507;Porangaba;35043;Tatuí;3511;Itapetininga;35;São Paulo;SP;3;Sudeste;SE;350008;Tatuí;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3540606;Porto Feliz;35046;Sorocaba;3512;Macro Metropolitana Paulista;35;São Paulo;SP;3;Sudeste;SE;350003;Sorocaba;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3540705;Porto Ferreira;35029;Pirassununga;3507;Campinas;35;São Paulo;SP;3;Sudeste;SE;350037;São Carlos;3509;Araraquara;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3540754;Potim;35051;Guaratinguetá;3513;Vale do Paraíba Paulista;35;São Paulo;SP;3;Sudeste;SE;350052;Guaratinguetá;3511;São José dos Campos;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3540804;Potirendaba;35004;São José do Rio Preto;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350025;São José do Rio Preto;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3540853;Pracinha;35035;Adamantina;3508;Presidente Prudente;35;São Paulo;SP;3;Sudeste;SE;350019;Adamantina - Lucélia;3505;Presidente Prudente;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3540903;Pradópolis;35014;Ribeirão Preto;3502;Ribeirão Preto;35;São Paulo;SP;3;Sudeste;SE;350031;Ribeirão Preto;3508;Ribeirão Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3541000;Praia Grande;35063;Santos;3515;Metropolitana de São Paulo;35;São Paulo;SP;3;Sudeste;SE;350002;Santos;3501;São Paulo;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3541059;Pratânia;35023;Botucatu;3504;Bauru;35;São Paulo;SP;3;Sudeste;SE;350011;Botucatu;3503;Bauru;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3541109;Presidente Alves;35020;Bauru;3504;Bauru;35;São Paulo;SP;3;Sudeste;SE;350009;Bauru;3503;Bauru;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3541208;Presidente Bernardes;35036;Presidente Prudente;3508;Presidente Prudente;35;São Paulo;SP;3;Sudeste;SE;350018;Presidente Prudente;3505;Presidente Prudente;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3541307;Presidente Epitácio;35036;Presidente Prudente;3508;Presidente Prudente;35;São Paulo;SP;3;Sudeste;SE;350021;Presidente Epitácio-Presidente Venceslau;3505;Presidente Prudente;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3541406;Presidente Prudente;35036;Presidente Prudente;3508;Presidente Prudente;35;São Paulo;SP;3;Sudeste;SE;350018;Presidente Prudente;3505;Presidente Prudente;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3541505;Presidente Venceslau;35036;Presidente Prudente;3508;Presidente Prudente;35;São Paulo;SP;3;Sudeste;SE;350021;Presidente Epitácio-Presidente Venceslau;3505;Presidente Prudente;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3541604;Promissão;35019;Lins;3504;Bauru;35;São Paulo;SP;3;Sudeste;SE;350012;Lins;3503;Bauru;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3541653;Quadra;35043;Tatuí;3511;Itapetininga;35;São Paulo;SP;3;Sudeste;SE;350008;Tatuí;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3541703;Quatá;35039;Assis;3510;Assis;35;São Paulo;SP;3;Sudeste;SE;350018;Presidente Prudente;3505;Presidente Prudente;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3541802;Queiroz;35037;Tupã;3509;Marília;35;São Paulo;SP;3;Sudeste;SE;350016;Tupã;3504;Marília;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3541901;Queluz;35051;Guaratinguetá;3513;Vale do Paraíba Paulista;35;São Paulo;SP;3;Sudeste;SE;350053;Cruzeiro;3511;São José dos Campos;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3542008;Quintana;35037;Tupã;3509;Marília;35;São Paulo;SP;3;Sudeste;SE;350013;Marília;3504;Marília;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3542107;Rafard;35028;Piracicaba;3506;Piracicaba;35;São Paulo;SP;3;Sudeste;SE;350040;Piracicaba;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3542206;Rancharia;35036;Presidente Prudente;3508;Presidente Prudente;35;São Paulo;SP;3;Sudeste;SE;350018;Presidente Prudente;3505;Presidente Prudente;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3542305;Redenção da Serra;35053;Paraibuna/Paraitinga;3513;Vale do Paraíba Paulista;35;São Paulo;SP;3;Sudeste;SE;350050;Taubaté - Pindamonhangaba;3511;São José dos Campos;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3542404;Regente Feijó;35036;Presidente Prudente;3508;Presidente Prudente;35;São Paulo;SP;3;Sudeste;SE;350018;Presidente Prudente;3505;Presidente Prudente;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3542503;Reginópolis;35020;Bauru;3504;Bauru;35;São Paulo;SP;3;Sudeste;SE;350009;Bauru;3503;Bauru;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3542602;Registro;35055;Registro;3514;Litoral Sul Paulista;35;São Paulo;SP;3;Sudeste;SE;350005;Registro;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3542701;Restinga;35012;Franca;3502;Ribeirão Preto;35;São Paulo;SP;3;Sudeste;SE;350033;Franca;3508;Ribeirão Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3542800;Ribeira;35044;Capão Bonito;3511;Itapetininga;35;São Paulo;SP;3;Sudeste;SE;350004;Itapeva;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3542909;Ribeirão Bonito;35025;São Carlos;3505;Araraquara;35;São Paulo;SP;3;Sudeste;SE;350037;São Carlos;3509;Araraquara;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3543006;Ribeirão Branco;35044;Capão Bonito;3511;Itapetininga;35;São Paulo;SP;3;Sudeste;SE;350004;Itapeva;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3543105;Ribeirão Corrente;35012;Franca;3502;Ribeirão Preto;35;São Paulo;SP;3;Sudeste;SE;350033;Franca;3508;Ribeirão Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3543204;Ribeirão do Sul;35040;Ourinhos;3510;Assis;35;São Paulo;SP;3;Sudeste;SE;350015;Ourinhos;3504;Marília;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3543238;Ribeirão dos Índios;35036;Presidente Prudente;3508;Presidente Prudente;35;São Paulo;SP;3;Sudeste;SE;350018;Presidente Prudente;3505;Presidente Prudente;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3543253;Ribeirão Grande;35044;Capão Bonito;3511;Itapetininga;35;São Paulo;SP;3;Sudeste;SE;350004;Itapeva;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3543303;Ribeirão Pires;35061;São Paulo;3515;Metropolitana de São Paulo;35;São Paulo;SP;3;Sudeste;SE;350001;São Paulo;3501;São Paulo;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3543402;Ribeirão Preto;35014;Ribeirão Preto;3502;Ribeirão Preto;35;São Paulo;SP;3;Sudeste;SE;350031;Ribeirão Preto;3508;Ribeirão Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3543501;Riversul;35041;Itapeva;3511;Itapetininga;35;São Paulo;SP;3;Sudeste;SE;350004;Itapeva;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3543600;Rifaina;35012;Franca;3502;Ribeirão Preto;35;São Paulo;SP;3;Sudeste;SE;350033;Franca;3508;Ribeirão Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3543709;Rincão;35024;Araraquara;3505;Araraquara;35;São Paulo;SP;3;Sudeste;SE;350036;Araraquara;3509;Araraquara;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3543808;Rinópolis;35035;Adamantina;3508;Presidente Prudente;35;São Paulo;SP;3;Sudeste;SE;350016;Tupã;3504;Marília;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3543907;Rio Claro;35026;Rio Claro;3506;Piracicaba;35;São Paulo;SP;3;Sudeste;SE;350046;Rio Claro;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3544004;Rio das Pedras;35028;Piracicaba;3506;Piracicaba;35;São Paulo;SP;3;Sudeste;SE;350040;Piracicaba;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3544103;Rio Grande da Serra;35061;São Paulo;3515;Metropolitana de São Paulo;35;São Paulo;SP;3;Sudeste;SE;350001;São Paulo;3501;São Paulo;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3544202;Riolândia;35003;Votuporanga;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350027;Votuporanga;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3544251;Rosana;35036;Presidente Prudente;3508;Presidente Prudente;35;São Paulo;SP;3;Sudeste;SE;350018;Presidente Prudente;3505;Presidente Prudente;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3544301;Roseira;35051;Guaratinguetá;3513;Vale do Paraíba Paulista;35;São Paulo;SP;3;Sudeste;SE;350052;Guaratinguetá;3511;São José dos Campos;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3544400;Rubiácea;35017;Araçatuba;3503;Araçatuba;35;São Paulo;SP;3;Sudeste;SE;350022;Araçatuba;3506;Araçatuba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3544509;Rubinéia;35001;Jales;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350030;Santa Fé do Sul;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3544608;Sabino;35019;Lins;3504;Bauru;35;São Paulo;SP;3;Sudeste;SE;350012;Lins;3503;Bauru;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3544707;Sagres;35035;Adamantina;3508;Presidente Prudente;35;São Paulo;SP;3;Sudeste;SE;350019;Adamantina - Lucélia;3505;Presidente Prudente;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3544806;Sales;35008;Novo Horizonte;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350025;São José do Rio Preto;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3544905;Sales Oliveira;35010;São Joaquim da Barra;3502;Ribeirão Preto;35;São Paulo;SP;3;Sudeste;SE;350034;São Joaquim da Barra ¿ Orlândia;3508;Ribeirão Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3545001;Salesópolis;35062;Mogi das Cruzes;3515;Metropolitana de São Paulo;35;São Paulo;SP;3;Sudeste;SE;350001;São Paulo;3501;São Paulo;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3545100;Salmourão;35035;Adamantina;3508;Presidente Prudente;35;São Paulo;SP;3;Sudeste;SE;350019;Adamantina - Lucélia;3505;Presidente Prudente;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3545159;Saltinho;35028;Piracicaba;3506;Piracicaba;35;São Paulo;SP;3;Sudeste;SE;350040;Piracicaba;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3545209;Salto;35046;Sorocaba;3512;Macro Metropolitana Paulista;35;São Paulo;SP;3;Sudeste;SE;350003;Sorocaba;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3545308;Salto de Pirapora;35046;Sorocaba;3512;Macro Metropolitana Paulista;35;São Paulo;SP;3;Sudeste;SE;350003;Sorocaba;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3545407;Salto Grande;35040;Ourinhos;3510;Assis;35;São Paulo;SP;3;Sudeste;SE;350015;Ourinhos;3504;Marília;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3545506;Sandovalina;35036;Presidente Prudente;3508;Presidente Prudente;35;São Paulo;SP;3;Sudeste;SE;350018;Presidente Prudente;3505;Presidente Prudente;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3545605;Santa Adélia;35005;Catanduva;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350026;Catanduva;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3545704;Santa Albertina;35001;Jales;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350028;Jales;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3545803;Santa Bárbara d'Oeste;35032;Campinas;3507;Campinas;35;São Paulo;SP;3;Sudeste;SE;350038;Campinas;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3546009;Santa Branca;35050;São José dos Campos;3513;Vale do Paraíba Paulista;35;São Paulo;SP;3;Sudeste;SE;350049;São José dos Campos;3511;São José dos Campos;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3546108;Santa Clara d'Oeste;35001;Jales;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350030;Santa Fé do Sul;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3546207;Santa Cruz da Conceição;35027;Limeira;3506;Piracicaba;35;São Paulo;SP;3;Sudeste;SE;350045;Araras;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3546256;Santa Cruz da Esperança;35015;Batatais;3502;Ribeirão Preto;35;São Paulo;SP;3;Sudeste;SE;350031;Ribeirão Preto;3508;Ribeirão Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3546306;Santa Cruz das Palmeiras;35029;Pirassununga;3507;Campinas;35;São Paulo;SP;3;Sudeste;SE;350044;São João da Boa Vista;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3546405;Santa Cruz do Rio Pardo;35040;Ourinhos;3510;Assis;35;São Paulo;SP;3;Sudeste;SE;350015;Ourinhos;3504;Marília;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3546504;Santa Ernestina;35013;Jaboticabal;3502;Ribeirão Preto;35;São Paulo;SP;3;Sudeste;SE;350031;Ribeirão Preto;3508;Ribeirão Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3546603;Santa Fé do Sul;35001;Jales;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350030;Santa Fé do Sul;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3546702;Santa Gertrudes;35027;Limeira;3506;Piracicaba;35;São Paulo;SP;3;Sudeste;SE;350046;Rio Claro;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3546801;Santa Isabel;35059;Guarulhos;3515;Metropolitana de São Paulo;35;São Paulo;SP;3;Sudeste;SE;350001;São Paulo;3501;São Paulo;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3546900;Santa Lúcia;35024;Araraquara;3505;Araraquara;35;São Paulo;SP;3;Sudeste;SE;350036;Araraquara;3509;Araraquara;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3547007;Santa Maria da Serra;35028;Piracicaba;3506;Piracicaba;35;São Paulo;SP;3;Sudeste;SE;350040;Piracicaba;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3547106;Santa Mercedes;35034;Dracena;3508;Presidente Prudente;35;São Paulo;SP;3;Sudeste;SE;350020;Dracena;3505;Presidente Prudente;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3547205;Santana da Ponte Pensa;35001;Jales;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350030;Santa Fé do Sul;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3547304;Santana de Parnaíba;35057;Osasco;3515;Metropolitana de São Paulo;35;São Paulo;SP;3;Sudeste;SE;350001;São Paulo;3501;São Paulo;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3547403;Santa Rita d'Oeste;35001;Jales;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350030;Santa Fé do Sul;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3547502;Santa Rita do Passa Quatro;35014;Ribeirão Preto;3502;Ribeirão Preto;35;São Paulo;SP;3;Sudeste;SE;350037;São Carlos;3509;Araraquara;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3547601;Santa Rosa de Viterbo;35014;Ribeirão Preto;3502;Ribeirão Preto;35;São Paulo;SP;3;Sudeste;SE;350031;Ribeirão Preto;3508;Ribeirão Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3547650;Santa Salete;35001;Jales;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350028;Jales;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3547700;Santo Anastácio;35036;Presidente Prudente;3508;Presidente Prudente;35;São Paulo;SP;3;Sudeste;SE;350018;Presidente Prudente;3505;Presidente Prudente;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3547809;Santo André;35061;São Paulo;3515;Metropolitana de São Paulo;35;São Paulo;SP;3;Sudeste;SE;350001;São Paulo;3501;São Paulo;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3547908;Santo Antônio da Alegria;35015;Batatais;3502;Ribeirão Preto;35;São Paulo;SP;3;Sudeste;SE;350031;Ribeirão Preto;3508;Ribeirão Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3548005;Santo Antônio de Posse;35031;Mogi Mirim;3507;Campinas;35;São Paulo;SP;3;Sudeste;SE;350038;Campinas;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3548054;Santo Antônio do Aracanguá;35017;Araçatuba;3503;Araçatuba;35;São Paulo;SP;3;Sudeste;SE;350022;Araçatuba;3506;Araçatuba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3548104;Santo Antônio do Jardim;35030;São João da Boa Vista;3507;Campinas;35;São Paulo;SP;3;Sudeste;SE;350044;São João da Boa Vista;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3548203;Santo Antônio do Pinhal;35049;Campos do Jordão;3513;Vale do Paraíba Paulista;35;São Paulo;SP;3;Sudeste;SE;350050;Taubaté - Pindamonhangaba;3511;São José dos Campos;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3548302;Santo Expedito;35036;Presidente Prudente;3508;Presidente Prudente;35;São Paulo;SP;3;Sudeste;SE;350018;Presidente Prudente;3505;Presidente Prudente;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3548401;Santópolis do Aguapeí;35018;Birigui;3503;Araçatuba;35;São Paulo;SP;3;Sudeste;SE;350023;Birigui - Penápolis;3506;Araçatuba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3548500;Santos;35063;Santos;3515;Metropolitana de São Paulo;35;São Paulo;SP;3;Sudeste;SE;350002;Santos;3501;São Paulo;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3548609;São Bento do Sapucaí;35049;Campos do Jordão;3513;Vale do Paraíba Paulista;35;São Paulo;SP;3;Sudeste;SE;350050;Taubaté - Pindamonhangaba;3511;São José dos Campos;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3548708;São Bernardo do Campo;35061;São Paulo;3515;Metropolitana de São Paulo;35;São Paulo;SP;3;Sudeste;SE;350001;São Paulo;3501;São Paulo;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3548807;São Caetano do Sul;35061;São Paulo;3515;Metropolitana de São Paulo;35;São Paulo;SP;3;Sudeste;SE;350001;São Paulo;3501;São Paulo;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3548906;São Carlos;35025;São Carlos;3505;Araraquara;35;São Paulo;SP;3;Sudeste;SE;350037;São Carlos;3509;Araraquara;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3549003;São Francisco;35001;Jales;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350028;Jales;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3549102;São João da Boa Vista;35030;São João da Boa Vista;3507;Campinas;35;São Paulo;SP;3;Sudeste;SE;350044;São João da Boa Vista;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3549201;São João das Duas Pontes;35002;Fernandópolis;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350029;Fernandópolis;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3549250;São João de Iracema;35006;Auriflama;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350029;Fernandópolis;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3549300;São João do Pau d'Alho;35034;Dracena;3508;Presidente Prudente;35;São Paulo;SP;3;Sudeste;SE;350020;Dracena;3505;Presidente Prudente;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3549409;São Joaquim da Barra;35010;São Joaquim da Barra;3502;Ribeirão Preto;35;São Paulo;SP;3;Sudeste;SE;350034;São Joaquim da Barra ¿ Orlândia;3508;Ribeirão Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3549508;São José da Bela Vista;35012;Franca;3502;Ribeirão Preto;35;São Paulo;SP;3;Sudeste;SE;350033;Franca;3508;Ribeirão Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3549607;São José do Barreiro;35052;Bananal;3513;Vale do Paraíba Paulista;35;São Paulo;SP;3;Sudeste;SE;350053;Cruzeiro;3511;São José dos Campos;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3549706;São José do Rio Pardo;35030;São João da Boa Vista;3507;Campinas;35;São Paulo;SP;3;Sudeste;SE;350047;São José do Rio Pardo - Mococa;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3549805;São José do Rio Preto;35004;São José do Rio Preto;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350025;São José do Rio Preto;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3549904;São José dos Campos;35050;São José dos Campos;3513;Vale do Paraíba Paulista;35;São Paulo;SP;3;Sudeste;SE;350049;São José dos Campos;3511;São José dos Campos;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3549953;São Lourenço da Serra;35060;Itapecerica da Serra;3515;Metropolitana de São Paulo;35;São Paulo;SP;3;Sudeste;SE;350001;São Paulo;3501;São Paulo;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3550001;São Luiz do Paraitinga;35053;Paraibuna/Paraitinga;3513;Vale do Paraíba Paulista;35;São Paulo;SP;3;Sudeste;SE;350050;Taubaté - Pindamonhangaba;3511;São José dos Campos;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3550100;São Manuel;35023;Botucatu;3504;Bauru;35;São Paulo;SP;3;Sudeste;SE;350011;Botucatu;3503;Bauru;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3550209;São Miguel Arcanjo;35045;Piedade;3512;Macro Metropolitana Paulista;35;São Paulo;SP;3;Sudeste;SE;350006;Itapetininga;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3550308;São Paulo;35061;São Paulo;3515;Metropolitana de São Paulo;35;São Paulo;SP;3;Sudeste;SE;350001;São Paulo;3501;São Paulo;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3550407;São Pedro;35028;Piracicaba;3506;Piracicaba;35;São Paulo;SP;3;Sudeste;SE;350040;Piracicaba;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3550506;São Pedro do Turvo;35040;Ourinhos;3510;Assis;35;São Paulo;SP;3;Sudeste;SE;350015;Ourinhos;3504;Marília;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3550605;São Roque;35046;Sorocaba;3512;Macro Metropolitana Paulista;35;São Paulo;SP;3;Sudeste;SE;350003;Sorocaba;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3550704;São Sebastião;35054;Caraguatatuba;3513;Vale do Paraíba Paulista;35;São Paulo;SP;3;Sudeste;SE;350051;Caraguatatuba - Ubatuba - São Sebastião;3511;São José dos Campos;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3550803;São Sebastião da Grama;35030;São João da Boa Vista;3507;Campinas;35;São Paulo;SP;3;Sudeste;SE;350047;São José do Rio Pardo - Mococa;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3550902;São Simão;35014;Ribeirão Preto;3502;Ribeirão Preto;35;São Paulo;SP;3;Sudeste;SE;350031;Ribeirão Preto;3508;Ribeirão Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3551009;São Vicente;35063;Santos;3515;Metropolitana de São Paulo;35;São Paulo;SP;3;Sudeste;SE;350002;Santos;3501;São Paulo;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3551108;Sarapuí;35046;Sorocaba;3512;Macro Metropolitana Paulista;35;São Paulo;SP;3;Sudeste;SE;350003;Sorocaba;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3551207;Sarutaiá;35040;Ourinhos;3510;Assis;35;São Paulo;SP;3;Sudeste;SE;350017;Piraju;3504;Marília;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3551306;Sebastianópolis do Sul;35007;Nhandeara;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350027;Votuporanga;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3551405;Serra Azul;35014;Ribeirão Preto;3502;Ribeirão Preto;35;São Paulo;SP;3;Sudeste;SE;350031;Ribeirão Preto;3508;Ribeirão Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3551504;Serrana;35014;Ribeirão Preto;3502;Ribeirão Preto;35;São Paulo;SP;3;Sudeste;SE;350031;Ribeirão Preto;3508;Ribeirão Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3551603;Serra Negra;35033;Amparo;3507;Campinas;35;São Paulo;SP;3;Sudeste;SE;350048;Amparo;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3551702;Sertãozinho;35014;Ribeirão Preto;3502;Ribeirão Preto;35;São Paulo;SP;3;Sudeste;SE;350031;Ribeirão Preto;3508;Ribeirão Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3551801;Sete Barras;35055;Registro;3514;Litoral Sul Paulista;35;São Paulo;SP;3;Sudeste;SE;350005;Registro;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3551900;Severínia;35005;Catanduva;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350032;Barretos;3508;Ribeirão Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3552007;Silveiras;35052;Bananal;3513;Vale do Paraíba Paulista;35;São Paulo;SP;3;Sudeste;SE;350053;Cruzeiro;3511;São José dos Campos;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3552106;Socorro;35033;Amparo;3507;Campinas;35;São Paulo;SP;3;Sudeste;SE;350041;Bragança Paulista;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3552205;Sorocaba;35046;Sorocaba;3512;Macro Metropolitana Paulista;35;São Paulo;SP;3;Sudeste;SE;350003;Sorocaba;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3552304;Sud Mennucci;35016;Andradina;3503;Araçatuba;35;São Paulo;SP;3;Sudeste;SE;350024;Andradina;3506;Araçatuba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3552403;Sumaré;35032;Campinas;3507;Campinas;35;São Paulo;SP;3;Sudeste;SE;350038;Campinas;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3552502;Suzano;35062;Mogi das Cruzes;3515;Metropolitana de São Paulo;35;São Paulo;SP;3;Sudeste;SE;350001;São Paulo;3501;São Paulo;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3552551;Suzanápolis;35016;Andradina;3503;Araçatuba;35;São Paulo;SP;3;Sudeste;SE;350028;Jales;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3552601;Tabapuã;35005;Catanduva;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350026;Catanduva;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3552700;Tabatinga;35024;Araraquara;3505;Araraquara;35;São Paulo;SP;3;Sudeste;SE;350036;Araraquara;3509;Araraquara;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3552809;Taboão da Serra;35060;Itapecerica da Serra;3515;Metropolitana de São Paulo;35;São Paulo;SP;3;Sudeste;SE;350001;São Paulo;3501;São Paulo;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3552908;Taciba;35036;Presidente Prudente;3508;Presidente Prudente;35;São Paulo;SP;3;Sudeste;SE;350018;Presidente Prudente;3505;Presidente Prudente;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3553005;Taguaí;35040;Ourinhos;3510;Assis;35;São Paulo;SP;3;Sudeste;SE;350007;Avaré;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3553104;Taiaçu;35013;Jaboticabal;3502;Ribeirão Preto;35;São Paulo;SP;3;Sudeste;SE;350032;Barretos;3508;Ribeirão Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3553203;Taiúva;35013;Jaboticabal;3502;Ribeirão Preto;35;São Paulo;SP;3;Sudeste;SE;350032;Barretos;3508;Ribeirão Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3553302;Tambaú;35030;São João da Boa Vista;3507;Campinas;35;São Paulo;SP;3;Sudeste;SE;350044;São João da Boa Vista;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3553401;Tanabi;35004;São José do Rio Preto;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350025;São José do Rio Preto;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3553500;Tapiraí;35045;Piedade;3512;Macro Metropolitana Paulista;35;São Paulo;SP;3;Sudeste;SE;350003;Sorocaba;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3553609;Tapiratiba;35030;São João da Boa Vista;3507;Campinas;35;São Paulo;SP;3;Sudeste;SE;350047;São José do Rio Pardo - Mococa;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3553658;Taquaral;35013;Jaboticabal;3502;Ribeirão Preto;35;São Paulo;SP;3;Sudeste;SE;350032;Barretos;3508;Ribeirão Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3553708;Taquaritinga;35013;Jaboticabal;3502;Ribeirão Preto;35;São Paulo;SP;3;Sudeste;SE;350036;Araraquara;3509;Araraquara;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3553807;Taquarituba;35041;Itapeva;3511;Itapetininga;35;São Paulo;SP;3;Sudeste;SE;350007;Avaré;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3553856;Taquarivaí;35041;Itapeva;3511;Itapetininga;35;São Paulo;SP;3;Sudeste;SE;350004;Itapeva;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3553906;Tarabai;35036;Presidente Prudente;3508;Presidente Prudente;35;São Paulo;SP;3;Sudeste;SE;350018;Presidente Prudente;3505;Presidente Prudente;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3553955;Tarumã;35039;Assis;3510;Assis;35;São Paulo;SP;3;Sudeste;SE;350014;Assis;3504;Marília;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3554003;Tatuí;35043;Tatuí;3511;Itapetininga;35;São Paulo;SP;3;Sudeste;SE;350008;Tatuí;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3554102;Taubaté;35050;São José dos Campos;3513;Vale do Paraíba Paulista;35;São Paulo;SP;3;Sudeste;SE;350050;Taubaté - Pindamonhangaba;3511;São José dos Campos;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3554201;Tejupá;35040;Ourinhos;3510;Assis;35;São Paulo;SP;3;Sudeste;SE;350017;Piraju;3504;Marília;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3554300;Teodoro Sampaio;35036;Presidente Prudente;3508;Presidente Prudente;35;São Paulo;SP;3;Sudeste;SE;350018;Presidente Prudente;3505;Presidente Prudente;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3554409;Terra Roxa;35013;Jaboticabal;3502;Ribeirão Preto;35;São Paulo;SP;3;Sudeste;SE;350032;Barretos;3508;Ribeirão Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3554508;Tietê;35028;Piracicaba;3506;Piracicaba;35;São Paulo;SP;3;Sudeste;SE;350003;Sorocaba;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3554607;Timburi;35040;Ourinhos;3510;Assis;35;São Paulo;SP;3;Sudeste;SE;350017;Piraju;3504;Marília;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3554656;Torre de Pedra;35043;Tatuí;3511;Itapetininga;35;São Paulo;SP;3;Sudeste;SE;350008;Tatuí;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3554706;Torrinha;35026;Rio Claro;3506;Piracicaba;35;São Paulo;SP;3;Sudeste;SE;350010;Jaú;3503;Bauru;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3554755;Trabiju;35024;Araraquara;3505;Araraquara;35;São Paulo;SP;3;Sudeste;SE;350036;Araraquara;3509;Araraquara;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3554805;Tremembé;35050;São José dos Campos;3513;Vale do Paraíba Paulista;35;São Paulo;SP;3;Sudeste;SE;350050;Taubaté - Pindamonhangaba;3511;São José dos Campos;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3554904;Três Fronteiras;35001;Jales;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350030;Santa Fé do Sul;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3554953;Tuiuti;35048;Bragança Paulista;3512;Macro Metropolitana Paulista;35;São Paulo;SP;3;Sudeste;SE;350041;Bragança Paulista;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3555000;Tupã;35037;Tupã;3509;Marília;35;São Paulo;SP;3;Sudeste;SE;350016;Tupã;3504;Marília;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3555109;Tupi Paulista;35034;Dracena;3508;Presidente Prudente;35;São Paulo;SP;3;Sudeste;SE;350020;Dracena;3505;Presidente Prudente;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3555208;Turiúba;35018;Birigui;3503;Araçatuba;35;São Paulo;SP;3;Sudeste;SE;350023;Birigui - Penápolis;3506;Araçatuba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3555307;Turmalina;35002;Fernandópolis;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350028;Jales;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3555356;Ubarana;35004;São José do Rio Preto;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350025;São José do Rio Preto;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3555406;Ubatuba;35054;Caraguatatuba;3513;Vale do Paraíba Paulista;35;São Paulo;SP;3;Sudeste;SE;350051;Caraguatatuba - Ubatuba - São Sebastião;3511;São José dos Campos;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3555505;Ubirajara;35020;Bauru;3504;Bauru;35;São Paulo;SP;3;Sudeste;SE;350009;Bauru;3503;Bauru;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3555604;Uchoa;35004;São José do Rio Preto;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350025;São José do Rio Preto;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3555703;União Paulista;35007;Nhandeara;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350025;São José do Rio Preto;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3555802;Urânia;35001;Jales;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350028;Jales;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3555901;Uru;35020;Bauru;3504;Bauru;35;São Paulo;SP;3;Sudeste;SE;350012;Lins;3503;Bauru;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3556008;Urupês;35008;Novo Horizonte;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350025;São José do Rio Preto;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3556107;Valentim Gentil;35003;Votuporanga;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350027;Votuporanga;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3556206;Valinhos;35032;Campinas;3507;Campinas;35;São Paulo;SP;3;Sudeste;SE;350038;Campinas;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3556305;Valparaíso;35017;Araçatuba;3503;Araçatuba;35;São Paulo;SP;3;Sudeste;SE;350022;Araçatuba;3506;Araçatuba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3556354;Vargem;35048;Bragança Paulista;3512;Macro Metropolitana Paulista;35;São Paulo;SP;3;Sudeste;SE;350041;Bragança Paulista;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3556404;Vargem Grande do Sul;35030;São João da Boa Vista;3507;Campinas;35;São Paulo;SP;3;Sudeste;SE;350044;São João da Boa Vista;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3556453;Vargem Grande Paulista;35060;Itapecerica da Serra;3515;Metropolitana de São Paulo;35;São Paulo;SP;3;Sudeste;SE;350001;São Paulo;3501;São Paulo;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3556503;Várzea Paulista;35047;Jundiaí;3512;Macro Metropolitana Paulista;35;São Paulo;SP;3;Sudeste;SE;350039;Jundiaí;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3556602;Vera Cruz;35038;Marília;3509;Marília;35;São Paulo;SP;3;Sudeste;SE;350013;Marília;3504;Marília;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3556701;Vinhedo;35032;Campinas;3507;Campinas;35;São Paulo;SP;3;Sudeste;SE;350038;Campinas;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3556800;Viradouro;35013;Jaboticabal;3502;Ribeirão Preto;35;São Paulo;SP;3;Sudeste;SE;350032;Barretos;3508;Ribeirão Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3556909;Vista Alegre do Alto;35013;Jaboticabal;3502;Ribeirão Preto;35;São Paulo;SP;3;Sudeste;SE;350026;Catanduva;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3556958;Vitória Brasil;35001;Jales;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350028;Jales;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3557006;Votorantim;35046;Sorocaba;3512;Macro Metropolitana Paulista;35;São Paulo;SP;3;Sudeste;SE;350003;Sorocaba;3502;Sorocaba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3557105;Votuporanga;35003;Votuporanga;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350027;Votuporanga;3507;São José do Rio Preto;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3557154;Zacarias;35004;São José do Rio Preto;3501;São José do Rio Preto;35;São Paulo;SP;3;Sudeste;SE;350023;Birigui - Penápolis;3506;Araçatuba;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3557204;Chavantes;35040;Ourinhos;3510;Assis;35;São Paulo;SP;3;Sudeste;SE;350015;Ourinhos;3504;Marília;35;SP;São Paulo;3;SE;Sudeste;2024-02-09
+3557303;Estiva Gerbi;35031;Mogi Mirim;3507;Campinas;35;São Paulo;SP;3;Sudeste;SE;350043;Mogi Guaçu;3510;Campinas;35;SP;São Paulo;3;SE;Sudeste;2024-02-09

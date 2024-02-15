@@ -1,0 +1,10 @@
+{'id': 291790410, 'nome': 'Abadia', 'municipio': 
+{'id': 2917904, 'nome': 'Jandaíra', 'microrregiao': 
+{'id': 29018, 'nome': 'Entre Rios', 'mesorregiao': 
+{'id': 2904, 'nome': 'Nordeste Baiano', 'UF': 
+{'id': 29, 'sigla': 'BA', 'nome': 'Bahia', 'regiao': 
+{'id': 2, 'sigla': 'NE', 'nome': 'Nordeste'}}}}, 'regiao-imediata': 
+{'id': 290002, 'nome': 'Alagoinhas', 'regiao-intermediaria': 
+{'id': 2901, 'nome': 'Salvador', 'UF': 
+{'id': 29, 'sigla': 'BA', 'nome': 'Bahia', 'regiao': 
+{'id': 2, 'sigla': 'NE', 'nome': 'Nordeste'}}}}}}
