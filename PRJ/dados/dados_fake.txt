@@ -1,0 +1,31 @@
+nome;email;telefone;endereco;pais
+Mirella Rodrigues;renanmendes@example.com;(031) 6766 4502;"Vila Ana Lívia Silveira
+Boa Vista
+56365-562 da Costa de da Cruz / SC";Camboja
+Dra. Maria Cecília Sales;luigibarbosa@example.net;+55 21 7686-6710;"Fazenda Juliana Mendes, 732
+Alto Caiçaras
+23343623 Correia / PI";Ashmore and Cartier Islands
+Eduardo da Mata;jrocha@example.org;(031) 4196-4701;"Campo Mendes, 2
+Vila Bandeirantes
+43929-788 Cardoso da Serra / RR";Bulgária
+Maria Luiza Nogueira;valves@example.com;+55 41 1179-5518;"Alameda Cardoso, 8
+Vila Copasa
+93284159 Nascimento de Minas / RO";Senegal
+Pedro Henrique Rezende;enzo-gabrielda-mata@example.net;(051) 3033-9434;"Vale Sophie Costa, 2
+Vila Inestan
+21095718 Cavalcanti / MA";Bielorrússia
+Maria Cardoso;castrovicente@example.org;84 8087-3469;"Praça Farias, 18
+Vila Real 2ª Seção
+94053-983 Nascimento de Teixeira / PR";Palau
+Helena da Cunha;sabrina91@example.net;+55 (011) 1759-1659;"Ladeira Azevedo, 42
+Apolonia
+22669-913 Lima do Galho / PA";Filipinas
+Vitor Gabriel da Costa;ana-sophia70@example.net;41 3202 9424;"Rodovia de Viana
+Silveira
+31938-789 Gonçalves / SC";Nova Caledónia
+Matheus da Luz;costamaria@example.org;+55 41 6187-4254;"Largo Rafaela da Luz, 948
+São Francisco
+83467-100 Moreira da Praia / SE";Nicarágua
+Julia Gomes;calebeda-mata@example.com;(041) 3223-3039;"Jardim Nogueira, 367
+Túnel De Ibirité
+93844-168 Souza do Norte / PA";Grécia
