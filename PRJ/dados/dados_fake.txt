@@ -1,31 +1,31 @@
-nome;email;telefone;endereco;pais
-Mirella Rodrigues;renanmendes@example.com;(031) 6766 4502;"Vila Ana Lívia Silveira
-Boa Vista
-56365-562 da Costa de da Cruz / SC";Camboja
-Dra. Maria Cecília Sales;luigibarbosa@example.net;+55 21 7686-6710;"Fazenda Juliana Mendes, 732
-Alto Caiçaras
-23343623 Correia / PI";Ashmore and Cartier Islands
-Eduardo da Mata;jrocha@example.org;(031) 4196-4701;"Campo Mendes, 2
-Vila Bandeirantes
-43929-788 Cardoso da Serra / RR";Bulgária
-Maria Luiza Nogueira;valves@example.com;+55 41 1179-5518;"Alameda Cardoso, 8
-Vila Copasa
-93284159 Nascimento de Minas / RO";Senegal
-Pedro Henrique Rezende;enzo-gabrielda-mata@example.net;(051) 3033-9434;"Vale Sophie Costa, 2
-Vila Inestan
-21095718 Cavalcanti / MA";Bielorrússia
-Maria Cardoso;castrovicente@example.org;84 8087-3469;"Praça Farias, 18
-Vila Real 2ª Seção
-94053-983 Nascimento de Teixeira / PR";Palau
-Helena da Cunha;sabrina91@example.net;+55 (011) 1759-1659;"Ladeira Azevedo, 42
-Apolonia
-22669-913 Lima do Galho / PA";Filipinas
-Vitor Gabriel da Costa;ana-sophia70@example.net;41 3202 9424;"Rodovia de Viana
-Silveira
-31938-789 Gonçalves / SC";Nova Caledónia
-Matheus da Luz;costamaria@example.org;+55 41 6187-4254;"Largo Rafaela da Luz, 948
-São Francisco
-83467-100 Moreira da Praia / SE";Nicarágua
-Julia Gomes;calebeda-mata@example.com;(041) 3223-3039;"Jardim Nogueira, 367
-Túnel De Ibirité
-93844-168 Souza do Norte / PA";Grécia
+nome;email;telefone;endereco;empresa;pais
+Isabella Fernandes;gmoreira@example.com;+55 (031) 6191 8080;"Via Aragão, 33
+Nova Pampulha
+32086-724 Santos Paulista / TO";Ramos Costela e Filhos;Brasil
+Ana Clara Dias;umonteiro@example.net;31 7860-0876;"Estação Rodrigues, 45
+Vila Mangueiras
+43031394 Peixoto de Costa / PR";da Mata Rezende e Filhos;Brasil
+Dr. João Guilherme da Cunha;cardosoyasmin@example.org;0500 959 7647;"Ladeira Santos, 44
+Castelo
+60788-160 Gonçalves do Norte / RS";Cardoso Almeida S.A.;Brasil
+Gustavo Henrique Ferreira;ynascimento@example.com;84 1026-0925;"Colônia Noah Carvalho, 32
+Pantanal
+60526-818 Mendes / RJ";Nascimento;Brasil
+Sra. Maria Cecília Teixeira;luana62@example.net;+55 41 3720-8178;"Conjunto Guilherme Correia, 263
+Vila Ouro Minas
+39871-181 Moura de Martins / SE";Nunes;Brasil
+Manuela Farias;maysasilva@example.com;+55 (051) 7982 4146;"Pátio de da Luz, 166
+Liberdade
+20111-410 Araújo do Amparo / AP";Farias;Brasil
+João Pedro Nunes;ian12@example.org;(041) 6692-9817;"Lagoa Gomes, 110
+Braúnas
+28595616 Teixeira / AC";da Mota S.A.;Brasil
+Pietro Silva;rodriguesvinicius@example.net;(051) 0503-2627;"Esplanada de Aragão, 340
+Vila Piratininga Venda Nova
+05254143 Castro das Flores / MT";Novaes Melo e Filhos;Brasil
+Daniela Araújo;vitor39@example.net;+55 (041) 7944-6750;"Feira de da Mota, 59
+Santa Rosa
+50764-838 Almeida / MA";Jesus S/A;Brasil
+Sophie Lopes;caio44@example.org;(071) 5958-3188;"Ladeira de Araújo
+Vila Nova Gameleira 2ª Seção
+59795002 da Cruz do Sul / RO";Nogueira;Brasil
