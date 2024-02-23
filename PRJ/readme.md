@@ -13,5 +13,9 @@ diretório: PRJ
  >      |-- dados
  >      |      |___ dados_fake.txt
  >      |
+ >      |
+ >      |-- bd_prj.db
+ >      |      |___ brnz_fake
+ >      |
+ >      |
  >      |___ readme.md
- 
