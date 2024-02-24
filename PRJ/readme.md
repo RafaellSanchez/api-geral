@@ -9,6 +9,9 @@ diretório: PRJ
  >      |
  >      |-- codigo
  >      |      |___ data-fake.ipynb
+ >      |      |___ grd_faker.py
+ >      |      |___ igtao_brnz.py
+ >      |      |___ querys.ipynb
  >      |
  >      |-- dados
  >      |      |___ dados_fake.txt
