@@ -6,19 +6,26 @@ Status: Desenvolvimento
 #### Estrutura
 
 Diretório: MGS
->      |___ bckp
+>      |--- bckp
+>      |      |___ MEGA SENA.txt
+>      |      |___ numeros_completos_20240224_160051.txt
 >      |
 >      |
->      |___ codigo
+>      |--- codigo
 >      |      |___ api-extract-mega.ipynb
+>      |      |___ gr_num.py
 >      |      |___ igtao-bronze.ipynb
+>      |      |___ pipe-mega.py
 >      |
 >      |
->      |___ dados
+>      |--- dados
+>      |      |___ jogos_20240224_160317.txt
+>      |      |___ jogos_mega_filter_20240224_160039.txt
 >      |      |___ MEGA SENA.txt
 >      |      |___ Mega-Sena(2).xlsx
+>      |      |___ valores_mFrequentes_20240224_160112.txt
 >      |
->      |___ sql
+>      |--- sql
 >      |      |___ bd_mgs.db
 >      |
->      |___ readme.md
+>      |--- readme.md
