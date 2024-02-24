@@ -1,31 +1,91 @@
 nome;cpf;email;telefone;pagamento;cidade;estado;endereco;empresa;pais;data
-Dr. Nathan Fogaça;072.638.195-03;silveiraana@example.net;81 9411-9143;6968.00;Alves de Ramos;Roraima;"Chácara Teixeira, 67
-Casa Branca
-14485730 Azevedo / MA";Alves;Brasil;2021-03-21
-Emilly Melo;984.672.513-28;mouraluiz-gustavo@example.org;51 3366 0692;2642.00;Rezende;Rondônia;"Praia Rocha, 884
-Horto Florestal
-01440-320 Almeida da Serra / PE";Mendes e Filhos;Brasil;2021-12-02
-Maria Luiza Costa;749.610.235-07;ana-julia66@example.net;41 1195-4932;4073.00;Lima;Pernambuco;"Praia de Correia, 8
+Diogo Rezende;508.921.763-77;benjamin87@example.com;+55 (071) 4139 5801;1615.00;da Conceição Verde;Pernambuco;"Passarela da Cruz, 367
+Santo Antônio
+86370-895 Barros das Flores / RJ";das Neves e Filhos;Brasil;2020-09-05
+Anthony Melo;920.137.648-04;gnunes@example.net;(041) 0892-5173;2703.00;da Rosa da Prata;Rio de Janeiro;"Lago Ryan Gonçalves, 2
+Floresta
+14761-139 Alves do Norte / RO";Cavalcanti;Brasil;2023-02-19
+Natália Cunha;903.487.521-05;melobenicio@example.com;(071) 7672-6404;2541.00;da Rocha da Serra;Goiás;"Pátio de Oliveira, 80
+Jatobá
+00644601 Moraes / PA";Rodrigues e Filhos;Brasil;2020-12-17
+Ryan das Neves;218.603.475-17;brendada-cruz@example.net;+55 (031) 3639-3488;2596.00;Carvalho;Roraima;"Vale Martins, 41
+Mariquinhas
+09221-231 Almeida / AP";Nascimento - ME;Brasil;2023-04-27
+Luiz Fernando Castro;201.968.435-70;camposmanuela@example.com;+55 (084) 9707 0720;3184.00;Silveira;Alagoas;"Ladeira de Cavalcanti, 743
 Cidade Nova
-18026956 Porto / PR";Pinto Oliveira - ME;Brasil;2022-10-09
-Carolina Rezende;567.824.091-94;miguelcardoso@example.net;(031) 1726-2480;8694.00;Costela do Oeste;Minas Gerais;"Alameda Ana Vitória Fernandes, 7
+39125364 Jesus de Minas / MA";da Mata;Brasil;2020-10-23
+Maria Cecília Caldeira;543.781.269-82;freitasraquel@example.org;71 4094 9791;4250.00;Lima Paulista;Amapá;"Quadra Martins, 18
+Aguas Claras
+88330581 Moura da Mata / CE";Melo;Brasil;2020-12-20
+Rafael da Conceição;294.853.670-74;leticia46@example.com;+55 (051) 6744 0009;3683.00;Nogueira de Dias;Acre;"Estação Nunes, 66
+Nossa Senhora Da Conceição
+83271-095 Nunes / PE";Sales Souza S.A.;Brasil;2020-02-23
+Sr. Rafael Cardoso;879.012.536-30;cunhapedro-miguel@example.net;+55 84 3816 4795;1300.00;Martins do Campo;Rio de Janeiro;"Praia de Pinto
+Vista Alegre
+15694494 Barros do Norte / CE";Caldeira - ME;Brasil;2020-06-21
+Paulo Lima;087.316.452-08;marcelo22@example.com;+55 21 9385 0646;10044.00;da Rocha;Alagoas;"Aeroporto Sophia Santos, 85
+Boa União 2ª Seção
+28860374 Barbosa de da Mata / AC";Martins Novaes S/A;Brasil;2023-08-06
+Caroline Porto;498.620.731-87;ribeiropaulo@example.net;+55 11 7868-2328;5935.00;Viana;Paraíba;"Praia Luiz Otávio Pires, 981
+Boa União 2ª Seção
+29243347 da Cruz / DF";Pinto;Brasil;2020-09-23
+Sra. Isadora Cavalcanti;039.572.814-23;sabrinada-mota@example.com;+55 51 6535 6458;4269.00;Dias de Nunes;Rio Grande do Sul;"Lagoa Eduarda Lima, 88
+Minaslandia
+28969984 Costa da Serra / MS";da Mota;Brasil;2021-04-25
+Larissa Gonçalves;672.418.035-07;martinsana@example.com;0900 281 8856;4429.00;Pereira;Bahia;"Sítio Ramos, 59
+Santa Helena
+85794-999 Moraes / TO";das Neves;Brasil;2021-09-12
+Ana Lívia Farias;928.546.130-15;woliveira@example.org;(051) 9268-3549;6760.00;Castro da Mata;Roraima;"Lagoa Maria Sophia Mendes, 41
+Mangueiras
+09809994 Rodrigues do Sul / SE";da Conceição Barros Ltda.;Brasil;2021-09-02
+Lara Silveira;417.359.826-28;caio89@example.net;(071) 6957-6085;4254.00;Ferreira;Santa Catarina;"Praia de Moraes, 7
+Luxemburgo
+97516-282 Almeida de da Luz / RN";Jesus;Brasil;2023-04-18
+Dra. Maitê Barros;684.971.052-49;ccosta@example.net;+55 (021) 6869-7491;1488.00;Araújo;Mato Grosso;"Núcleo Cunha, 581
+Novo Tupi
+79079-810 Pereira / RS";Melo;Brasil;2022-01-22
+Enzo Gabriel Costa;185.726.390-12;alicegomes@example.net;(011) 2248-5312;1554.00;Correia;Mato Grosso do Sul;"Praça de Cardoso, 13
+Independência
+30071617 Silveira / PA";Barbosa - ME;Brasil;2020-12-06
+João Guilherme Campos;914.528.076-20;laraujo@example.com;71 8683-0444;5730.00;Novaes;Tocantins;"Estação Viana, 2
+Vila São Gabriel
+27781426 da Rosa / SE";da Conceição Ltda.;Brasil;2021-09-10
+Diogo Peixoto;623.147.590-52;xnascimento@example.net;+55 (011) 1155 9802;9594.00;Costa Grande;Piauí;"Viaduto Yasmin Nascimento, 15
+Itaipu
+80807-546 Rodrigues / RS";Gonçalves S.A.;Brasil;2023-10-21
+Srta. Sophia Dias;974.180.653-10;biancafreitas@example.org;(061) 0210-4370;4478.00;Santos;Pará;"Área de Pereira
+Luxemburgo
+25115788 Viana / ES";Barbosa;Brasil;2021-06-10
+Cauê Pinto;860.135.942-60;yago23@example.org;84 2171 7558;2130.00;Cardoso;Distrito Federal;"Estrada Bruna da Conceição
+Camargos
+55657828 da Cunha Alegre / DF";da Mota;Brasil;2021-10-26
+Isabella Rocha;376.241.890-03;thalescarvalho@example.net;+55 (051) 9470-6702;4888.00;Santos;Roraima;"Avenida de Oliveira
+Nova Pampulha
+15775852 Barros / MT";Nunes Azevedo S/A;Brasil;2020-03-02
+Ana Lívia Cavalcanti;846.071.532-90;pcarvalho@example.net;0300-744-5804;9164.00;Ribeiro de Gonçalves;Paraná;"Quadra de Pinto, 27
+Jatobá
+71556-853 Fogaça de Moreira / DF";Cavalcanti;Brasil;2021-02-20
+Maria Alice Porto;869.037.452-38;diashenrique@example.com;0800-150-7495;8277.00;Silva do Campo;Piauí;"Campo Pinto
+Urca
+18869-998 Duarte / RR";Pereira;Brasil;2023-12-02
+Igor Souza;490.536.172-99;luiz-gustavorezende@example.net;+55 (021) 4840-7696;8947.00;Rezende do Amparo;Tocantins;"Passarela Pietro Gonçalves, 67
+Jardim Felicidade
+17656-272 Alves / PB";Pereira;Brasil;2022-12-02
+Dra. Caroline Melo;053.897.416-84;costelamaria-julia@example.com;0800 420 0951;7431.00;Novaes;Paraná;"Passarela da Rosa, 69
+Novo Ouro Preto
+94730-875 Fogaça / RN";Porto;Brasil;2020-10-02
+Ana Clara Cardoso;789.165.320-86;manuelapereira@example.net;61 1221-0665;4567.00;da Mata de Minas;Distrito Federal;"Praça de Correia, 215
 São Jorge 2ª Seção
-65959923 Nascimento do Sul / PB";Duarte;Brasil;2023-09-10
-Helena Pereira;269.854.173-37;costaraquel@example.org;+55 31 8300 6760;8966.00;Rocha;Maranhão;"Travessa de Peixoto, 95
-Mantiqueira
-63159665 Pinto de Moura / PB";Almeida;Brasil;2021-10-18
-Srta. Clara Ferreira;102.789.346-50;augustoaragao@example.net;+55 71 1971 6821;5503.00;Almeida;Sergipe;"Sítio da Rosa, 88
-Vila Copacabana
-83856-953 Cunha do Amparo / MA";Gomes e Filhos;Brasil;2020-06-30
-Gabrielly da Rosa;395.718.064-39;isabella58@example.org;+55 (084) 0244 3721;6736.00;da Conceição do Amparo;Alagoas;"Campo de Peixoto
-Vila Novo São Lucas
-39555793 Moreira Alegre / PI";Sales;Brasil;2022-02-17
-Sr. Davi Lucca Farias;468.032.517-80;da-luzcaroline@example.org;+55 (051) 8916-8792;7482.00;Moura Paulista;Ceará;"Via de Pires, 86
-Buritis
-66131-703 Santos / SC";Moreira;Brasil;2021-01-03
-Rafaela Barros;716.209.854-11;rmendes@example.com;(084) 5763-6129;5244.00;Moraes;Amapá;"Passarela de Sales, 45
-Antonio Ribeiro De Abreu 1ª Seção
-02651-485 Souza Verde / PE";Nascimento;Brasil;2022-11-11
-Enrico Rocha;639.052.784-56;luigi91@example.com;+55 (031) 0489 8139;9449.00;Martins de Monteiro;Pará;"Travessa Carvalho, 82
-Conjunto Jatoba
-58898-257 Moreira / RR";Monteiro;Brasil;2020-10-15
+02127-437 Rodrigues / MT";Peixoto da Mata - EI;Brasil;2023-05-29
+Alícia Jesus;327.458.960-83;teixeiradanilo@example.com;(071) 7300-9812;3341.00;Cardoso dos Dourados;Bahia;"Área de Cardoso, 7
+Bela Vitoria
+10581120 da Mata / MG";Viana;Brasil;2023-02-15
+Ana Pereira;687.123.590-68;eda-cruz@example.org;+55 (081) 7488-7106;7338.00;Oliveira;Alagoas;"Vale de da Cunha, 23
+Caiçaras
+08114-778 Novaes do Norte / PB";Oliveira;Brasil;2020-11-12
+Sra. Cecília Almeida;406.935.827-74;emillyda-rocha@example.com;+55 (061) 4488 3728;6283.00;Farias de Minas;Bahia;"Estação Fogaça, 81
+Zilah Sposito
+51377737 Peixoto de Mendes / PA";Oliveira Cardoso S.A.;Brasil;2020-11-03
+Marcela da Cunha;370.596.814-93;kda-paz@example.com;71 9586 0244;4423.00;Freitas;Piauí;"Distrito da Rocha, 84
+Jardim Atlântico
+62177-229 Viana da Serra / AM";da Rosa;Brasil;2020-08-09
