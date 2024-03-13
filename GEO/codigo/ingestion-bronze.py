@@ -87,3 +87,4 @@ print('Criando tabela')
 df_descriptografado.to_sql('brnz_geo', conn, if_exists='replace', index=False)
 conn.close()
 print('Dados carregados na tabela')
+
