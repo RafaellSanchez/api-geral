@@ -50,6 +50,8 @@ if dados:
             
         })
 
+
+
 df = pd.DataFrame(dados_list)
 print(df)
 
