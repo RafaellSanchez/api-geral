@@ -36,7 +36,7 @@ if dados:
 df = pd.DataFrame(data_list)
 print(df)
 
-file = 'modelos.txt'
+file = 'marcas.txt'
 path = '/workspaces/api-geral/CAR/dados/'
 
 df.to_csv(f'{path}{file}', sep=';', index=False)
