@@ -1,0 +1,537 @@
+codigo;modelo
+5585;{'codigo': 5585, 'nome': 'AMAROK CD2.0 16V/S CD2.0 16V TDI 4x2 Die'}
+5586;{'codigo': 5586, 'nome': 'AMAROK CD2.0 16V/S CD2.0 16V TDI 4x4 Die'}
+9895;{'codigo': 9895, 'nome': 'AMAROK Comfor. 3.0 V6 TDI 4x4 Dies. Aut.'}
+8531;{'codigo': 8531, 'nome': 'AMAROK Comfor. CD 2.0 TDI 4x4 Dies. Aut.'}
+5748;{'codigo': 5748, 'nome': 'AMAROK CS2.0 16V/S2.0 16V TDI 4x2 Diesel'}
+5749;{'codigo': 5749, 'nome': 'AMAROK CS2.0 16V/S2.0 16V TDI 4x4 Diesel'}
+8532;{'codigo': 8532, 'nome': 'AMAROK Extreme CD 3.0 4x4 TB Dies. Aut.'}
+7854;{'codigo': 7854, 'nome': 'AMAROK Hig. Extreme CD 2.0 4x4 Dies. Aut'}
+7674;{'codigo': 7674, 'nome': 'AMAROK Hig.ULTIMATE CD 2.0 4x4 Dies. Aut'}
+5940;{'codigo': 5940, 'nome': 'AMAROK High.CD 2.0 16V TDI 4x4 Dies. Aut'}
+5261;{'codigo': 5261, 'nome': 'AMAROK Highline CD 2.0 16V TDI 4x4 Dies.'}
+8183;{'codigo': 8183, 'nome': 'AMAROK Highline CD 3.0 4x4 TB Dies. Aut.'}
+5476;{'codigo': 5476, 'nome': 'AMAROK SE CD 2.0 16V TDI 4x4 Diesel'}
+7367;{'codigo': 7367, 'nome': 'AMAROK T. Dark Label CD 2.0 4x4 Dies Aut'}
+5350;{'codigo': 5350, 'nome': 'AMAROK Trendline CD 2.0 16V TDI 4x4 Dies'}
+6277;{'codigo': 6277, 'nome': 'AMAROK Trendline CD 2.0 TDI 4X4 Dies Aut'}
+2359;{'codigo': 2359, 'nome': 'Apolo GL 1.8'}
+2360;{'codigo': 2360, 'nome': 'Apolo GLS/ Vip 1.8'}
+2362;{'codigo': 2362, 'nome': 'Bora 2.0 8v Comfortline Aut.'}
+2363;{'codigo': 2363, 'nome': 'Bora 2.0 8v Comfortline Mec.'}
+2361;{'codigo': 2361, 'nome': 'Bora 2.0/ 2.0 Flex 8v Aut.'}
+2364;{'codigo': 2364, 'nome': 'Bora 2.0/ 2.0 Flex 8v Mec.'}
+2365;{'codigo': 2365, 'nome': 'Caravelle 2.4 Diesel'}
+2366;{'codigo': 2366, 'nome': 'Corrado 2.0 Turbo'}
+2367;{'codigo': 2367, 'nome': 'Corrado G-60 2.8'}
+7077;{'codigo': 7077, 'nome': 'CROSSFOX  1.6 T. Flex 16V 5p'}
+7078;{'codigo': 7078, 'nome': 'CROSSFOX  I MOTION 1.6 T. Flex 16V 5p'}
+2368;{'codigo': 2368, 'nome': 'CROSSFOX 1.6 Mi Total Flex 8V 5p'}
+5983;{'codigo': 5983, 'nome': 'CROSSFOX I MOTION 1.6 Mi T. Flex 8V 5p'}
+10368;{'codigo': 10368, 'nome': 'Delivery Express Turbo Diesel (E6)'}
+10137;{'codigo': 10137, 'nome': 'Delivery Express+ Turbo Diesel'}
+4857;{'codigo': 4857, 'nome': 'EOS Cab. 2.0 Turbo FSI Tiptronic'}
+2369;{'codigo': 2369, 'nome': 'Eurovan 2.4 Diesel'}
+5082;{'codigo': 5082, 'nome': 'Fox 1.0 Mi Total Flex 8V 3p'}
+5083;{'codigo': 5083, 'nome': 'Fox 1.0 Mi Total Flex 8V 5p'}
+5084;{'codigo': 5084, 'nome': 'Fox 1.6 Mi I MOTION Total Flex 8V 5p'}
+5085;{'codigo': 5085, 'nome': 'Fox 1.6 Mi Total Flex 8V 5p'}
+6548;{'codigo': 6548, 'nome': 'Fox BLUEMOTION 1.0 Mi Total Flex 12V 3p'}
+6549;{'codigo': 6549, 'nome': 'Fox BLUEMOTION 1.0 Mi Total Flex 12V 5p'}
+6039;{'codigo': 6039, 'nome': 'Fox BlueMotion 1.6 Mi Total Flex 3p.'}
+6040;{'codigo': 6040, 'nome': 'Fox BlueMotion 1.6 Mi Total Flex 5p.'}
+2370;{'codigo': 2370, 'nome': 'Fox City 1.0 Mi/ 1.0Mi Total Flex 8V 5p'}
+2371;{'codigo': 2371, 'nome': 'Fox City 1.0Mi/ 1.0Mi Total Flex 8V 3p'}
+7269;{'codigo': 7269, 'nome': 'Fox Comfortline 1.0 Flex 12V 5p'}
+6934;{'codigo': 6934, 'nome': 'Fox Comfortline 1.0 Flex 8V 5p'}
+6935;{'codigo': 6935, 'nome': 'Fox Comfortline 1.6 Flex 8V 5p'}
+6936;{'codigo': 6936, 'nome': 'Fox Comfortline I Motion 1.6 Flex 8V 5p'}
+8112;{'codigo': 8112, 'nome': 'Fox Connect 1.6 Flex 8V 5p'}
+8133;{'codigo': 8133, 'nome': 'Fox Connect I Motion 1.6 Flex 8V 5p'}
+4668;{'codigo': 4668, 'nome': 'Fox extreme 1.6 Mi Total Flex 8V 5p'}
+6937;{'codigo': 6937, 'nome': 'Fox Highline I MOTION 1.6 Flex 16V 5p'}
+6938;{'codigo': 6938, 'nome': 'Fox Highline1.6 Flex 16V 5p'}
+7172;{'codigo': 7172, 'nome': 'Fox PEPPER 1.6 Flex 16V 5p'}
+7173;{'codigo': 7173, 'nome': 'Fox PEPPER I MOTION 1.6 Flex 16V 5p'}
+2372;{'codigo': 2372, 'nome': 'Fox Plus 1.0Mi/ 1.0Mi Total Flex 8V 3p'}
+2373;{'codigo': 2373, 'nome': 'Fox Plus 1.0Mi/ 1.0Mi Total Flex 8V 4p'}
+2374;{'codigo': 2374, 'nome': 'Fox Plus 1.6Mi/ 1.6Mi Total Flex 8V 3p'}
+2375;{'codigo': 2375, 'nome': 'Fox Plus 1.6Mi/ 1.6Mi Total Flex 8V 4p'}
+5087;{'codigo': 5087, 'nome': 'Fox PRIME/Hghi. IMOTION 1.6 T.Flex 8V 5p'}
+5086;{'codigo': 5086, 'nome': 'Fox PRIME/Higli. 1.6 Total Flex 8V 5p'}
+5599;{'codigo': 5599, 'nome': 'Fox Rock in Rio 1.6 Mi Total Flex 8V 5p'}
+4349;{'codigo': 4349, 'nome': 'Fox Route 1.0 Mi Total Flex 8V 3p'}
+4350;{'codigo': 4350, 'nome': 'Fox Route 1.0 Mi Total Flex 8V 5p'}
+4351;{'codigo': 4351, 'nome': 'Fox Route 1.6 Mi Total Flex 8V 3p'}
+4352;{'codigo': 4352, 'nome': 'Fox Route 1.6 Mi Total Flex 8V 5p'}
+7637;{'codigo': 7637, 'nome': 'Fox RUN 1.6 Flex 8V 5p'}
+6667;{'codigo': 6667, 'nome': 'Fox SELEÇÃO 1.0 Total Flex 8V 5p'}
+6668;{'codigo': 6668, 'nome': 'Fox SELEÇÃO 1.6 Total Flex 8V 5p'}
+6784;{'codigo': 6784, 'nome': 'Fox SELEÇÃO IMOTION 1.6 Mi T. Flex 8V 5p'}
+2379;{'codigo': 2379, 'nome': 'Fox Sportline/Sports 1.0 Tot.Flex 8V 4p'}
+2376;{'codigo': 2376, 'nome': 'Fox Sportline/Sports 1.0/1.0 Tot.Flex 3p'}
+2377;{'codigo': 2377, 'nome': 'Fox Sportline/Sports 1.6/1.6 Tot.Flex 3p'}
+2378;{'codigo': 2378, 'nome': 'Fox Sportline/Sports 1.6/1.6 Tot.Flex 4p'}
+4928;{'codigo': 4928, 'nome': 'Fox SUNRISE 1.0 Mi Total Flex 8V 5p'}
+7410;{'codigo': 7410, 'nome': 'Fox TRACK 1.0 Flex 12V 5p'}
+7295;{'codigo': 7295, 'nome': 'Fox Trendline 1.0 Flex 12V 5p'}
+6939;{'codigo': 6939, 'nome': 'Fox Trendline 1.0 Flex 8V 5p'}
+6940;{'codigo': 6940, 'nome': 'Fox Trendline 1.6 Flex 8V 5p'}
+8113;{'codigo': 8113, 'nome': 'Fox Xtreme 1.6 Flex 8V 5p'}
+2380;{'codigo': 2380, 'nome': 'Fusca'}
+7079;{'codigo': 7079, 'nome': 'Fusca 2.0 R-Line TSI 16V Aut.'}
+6278;{'codigo': 6278, 'nome': 'Fusca 2.0 TSI 16V Aut.'}
+6279;{'codigo': 6279, 'nome': 'Fusca 2.0 TSI 16V Mec.'}
+6280;{'codigo': 6280, 'nome': 'Gol (novo) 1.0 Mi Total Flex 8V 2p'}
+4689;{'codigo': 4689, 'nome': 'Gol (novo) 1.0 Mi Total Flex 8V 4p'}
+6281;{'codigo': 6281, 'nome': 'Gol (novo) 1.6 Mi Total Flex 8V 2p'}
+4691;{'codigo': 4691, 'nome': 'Gol (novo) 1.6 Mi Total Flex 8V 4p'}
+4690;{'codigo': 4690, 'nome': 'Gol (novo) 1.6 Power/Highi T.Flex 8v 4P'}
+8323;{'codigo': 8323, 'nome': 'Gol 1.0 Flex 12V 5p'}
+2381;{'codigo': 2381, 'nome': 'Gol 1.0 Mi FUN/ Highway/ Sport 16V  2/4p'}
+2382;{'codigo': 2382, 'nome': 'Gol 1.0 Plus 16v 2p'}
+2383;{'codigo': 2383, 'nome': 'Gol 1.0 Plus 16v 4p'}
+2384;{'codigo': 2384, 'nome': 'Gol 1.0 Plus 8v 2p'}
+2385;{'codigo': 2385, 'nome': 'Gol 1.0 Plus 8v 4p'}
+2386;{'codigo': 2386, 'nome': 'Gol 1.0 Power 16v 76cv 4p'}
+5941;{'codigo': 5941, 'nome': 'Gol 1.0 Total Flex 8V 5p (25 Anos)'}
+2387;{'codigo': 2387, 'nome': 'Gol 1.0 Trend/ Power 8V 2p'}
+2388;{'codigo': 2388, 'nome': 'Gol 1.0 Trend/ Power 8V 4p'}
+5114;{'codigo': 5114, 'nome': 'Gol 1.6 I MOTI.Power/Highli T.Flex 8V 4p'}
+6454;{'codigo': 6454, 'nome': 'Gol 1.6 Mi I MOTION Total Flex 8V 3p'}
+2389;{'codigo': 2389, 'nome': 'Gol 1.6 Mi Plus Total Flex 8V 2p'}
+2390;{'codigo': 2390, 'nome': 'Gol 1.6 Mi Plus Total Flex 8V 4p'}
+2391;{'codigo': 2391, 'nome': 'Gol 1.6 Mi Power Total Flex 8V 4p'}
+5404;{'codigo': 5404, 'nome': 'Gol 1.6 Mi Rallye I MOTION T. Flex 8V 4p'}
+2392;{'codigo': 2392, 'nome': 'Gol 1.6 Mi Rallye Total Flex 8V 4p'}
+2393;{'codigo': 2393, 'nome': 'Gol 1.6 Mi/ 1.6i 2p'}
+2394;{'codigo': 2394, 'nome': 'Gol 1.6 Mi/ Power 1.6 Mi 4p'}
+8463;{'codigo': 8463, 'nome': 'Gol 1.6 MSI Flex 16V 5p Aut.'}
+8324;{'codigo': 8324, 'nome': 'Gol 1.6 MSI Flex 8V 5p'}
+2395;{'codigo': 2395, 'nome': 'Gol 1.8 Mi'}
+2396;{'codigo': 2396, 'nome': 'Gol 1.8 Mi 4p'}
+2397;{'codigo': 2397, 'nome': 'Gol 1.8 Mi Power Total Flex 8V 4p'}
+2398;{'codigo': 2398, 'nome': 'Gol 1.8 Mi Rallye Total Flex 8V 4p'}
+2399;{'codigo': 2399, 'nome': 'Gol 1000 (modelo antigo)'}
+2400;{'codigo': 2400, 'nome': 'Gol 1000 Mi 16V 2p Turbo'}
+2401;{'codigo': 2401, 'nome': 'Gol 1000 Mi 16V 4p Turbo'}
+2402;{'codigo': 2402, 'nome': 'Gol 1000 Mi 16V/ Ouro  2p'}
+2403;{'codigo': 2403, 'nome': 'Gol 1000 Mi 16V/ Ouro 4p'}
+2404;{'codigo': 2404, 'nome': 'Gol 1000 Mi 2p  / 1000i'}
+2405;{'codigo': 2405, 'nome': 'Gol 1000 Mi 4p'}
+2406;{'codigo': 2406, 'nome': 'Gol 1000 Mi Plus 16V 2p e 4p'}
+2407;{'codigo': 2407, 'nome': 'Gol 1000 Mi Plus 8v 2p e 4p'}
+2408;{'codigo': 2408, 'nome': 'Gol 1000i Plus 2p'}
+2409;{'codigo': 2409, 'nome': 'Gol 2.0 Mi 2p'}
+2410;{'codigo': 2410, 'nome': 'Gol 2.0 Mi 4p'}
+5750;{'codigo': 5750, 'nome': 'Gol BLACK 1.0 Mi Total Flex 8V 4p'}
+2413;{'codigo': 2413, 'nome': 'Gol City (Trend) 1.0 Mi Total Flex 8V 2p'}
+3832;{'codigo': 3832, 'nome': 'Gol City (Trend) 1.6 Mi T. Flex 8V 2p'}
+2417;{'codigo': 2417, 'nome': 'Gol City (Trend) 1.6 Mi T.Flex 8V 4p'}
+2414;{'codigo': 2414, 'nome': 'Gol City (Trend)/Titan 1.0 T. Flex 8V 4p'}
+2411;{'codigo': 2411, 'nome': 'Gol City 1.0 Mi 8V 2p'}
+2412;{'codigo': 2412, 'nome': 'Gol City 1.0 Mi 8V 4p'}
+9098;{'codigo': 9098, 'nome': 'Gol City 1.0 Total Flex 12V 2p'}
+8840;{'codigo': 8840, 'nome': 'Gol City 1.0 Total Flex 12V 4P'}
+2415;{'codigo': 2415, 'nome': 'Gol City 1.6 Mi 8V 2p'}
+2416;{'codigo': 2416, 'nome': 'Gol City 1.6 Mi 8V 4p'}
+2418;{'codigo': 2418, 'nome': 'Gol CL 1.6 Mi 2p e 4p'}
+2419;{'codigo': 2419, 'nome': 'Gol CL 1.8 Mi 2p e 4p'}
+2420;{'codigo': 2420, 'nome': 'Gol CLi / CL 1.8'}
+2421;{'codigo': 2421, 'nome': 'Gol CLi / CL/ Copa/ Stones 1.6'}
+6791;{'codigo': 6791, 'nome': 'Gol Comfort. I MOTION 1.6 T. Flex 8V 3p'}
+6792;{'codigo': 6792, 'nome': 'Gol Comfort. I MOTION 1.6 T. Flex 8V 5p'}
+7521;{'codigo': 7521, 'nome': 'Gol Comfortline 1.0 T. Flex 12V 5p'}
+6787;{'codigo': 6787, 'nome': 'Gol Comfortline 1.0 T. Flex 8V 3p'}
+6788;{'codigo': 6788, 'nome': 'Gol Comfortline 1.0 T. Flex 8V 5p'}
+6789;{'codigo': 6789, 'nome': 'Gol Comfortline 1.6 T. Flex 8V 3p'}
+6790;{'codigo': 6790, 'nome': 'Gol Comfortline 1.6 T. Flex 8V 5p'}
+3958;{'codigo': 3958, 'nome': 'Gol COPA 1.0 Mi Total Flex 8V 4p'}
+3959;{'codigo': 3959, 'nome': 'Gol COPA 1.6 Mi Total Flex 8V 4p'}
+5218;{'codigo': 5218, 'nome': 'Gol ECOMOTION  1.0 Mi Total Flex 8V 4p'}
+5219;{'codigo': 5219, 'nome': 'Gol ECOMOTION 1.0 Mi Total Flex 8V 2p'}
+2422;{'codigo': 2422, 'nome': 'Gol Furgao 1.0 mi'}
+2423;{'codigo': 2423, 'nome': 'Gol Furgão 1.6 Mi/ 1.6i/ 1.6'}
+2424;{'codigo': 2424, 'nome': 'Gol GL 1.6 Mi/Star 1.6 e 1.8/Atlanta 1.6'}
+2425;{'codigo': 2425, 'nome': 'Gol GL 1.8 Mi 2p e 4p'}
+2426;{'codigo': 2426, 'nome': 'Gol GLi / GL/ Atlanta 1.8'}
+2427;{'codigo': 2427, 'nome': 'Gol GLS 2.0 Mi'}
+2428;{'codigo': 2428, 'nome': 'Gol GT/GTS 1.8'}
+2429;{'codigo': 2429, 'nome': 'Gol GTi 2.0'}
+2430;{'codigo': 2430, 'nome': 'Gol GTi 2000 16V'}
+5113;{'codigo': 5113, 'nome': 'Gol I MOTION 1.6 Mi Total Flex 8V 4p'}
+2431;{'codigo': 2431, 'nome': 'Gol L 1.3/ L/ LS/ C/ S/ BX/ Plus 1.6'}
+10166;{'codigo': 10166, 'nome': 'Gol Last Edition 1.0 Flex 12V 5p'}
+3833;{'codigo': 3833, 'nome': 'Gol Plus 1.0 Mi Total Flex 2p'}
+3834;{'codigo': 3834, 'nome': 'Gol Plus 1.0 Mi Total Flex 4p'}
+6795;{'codigo': 6795, 'nome': 'Gol Rallye 1.6 T. Flex 16V 5p'}
+6793;{'codigo': 6793, 'nome': 'Gol Rallye I MOTION 1.6 T. Flex 16V 5p'}
+5600;{'codigo': 5600, 'nome': 'Gol Rock in Rio 1.0 Mi Total Flex 8V 5p'}
+5220;{'codigo': 5220, 'nome': 'Gol SELEÇÃO 1.0 Mi Total Flex 8V 5p'}
+6669;{'codigo': 6669, 'nome': 'Gol SELEÇÃO 1.6 I MOTION T.Flex 8V 5p'}
+6670;{'codigo': 6670, 'nome': 'Gol SELEÇÃO 1.6 Total Flex 8V 5p'}
+2432;{'codigo': 2432, 'nome': 'Gol Special 1.0 Mi 4p'}
+7049;{'codigo': 7049, 'nome': 'Gol Special 1.0 Total Flex 8V 3p'}
+7050;{'codigo': 7050, 'nome': 'Gol Special 1.0 Total Flex 8V 5p'}
+2433;{'codigo': 2433, 'nome': 'Gol Special 1.6 Mi 8V 99cv 2p'}
+2434;{'codigo': 2434, 'nome': 'Gol Special/ Special Xtreme 1.0 Mi 2p'}
+4092;{'codigo': 4092, 'nome': 'Gol TECH 1.0 Mi Total Flex 8V 2p'}
+4093;{'codigo': 4093, 'nome': 'Gol TECH 1.0 Mi Total Flex 8V 4p'}
+6472;{'codigo': 6472, 'nome': 'Gol TRACK 1.0 Mi Total Flex 8V 4p'}
+7817;{'codigo': 7817, 'nome': 'Gol TRACK 1.0 Total Flex 12V 5p'}
+7638;{'codigo': 7638, 'nome': 'Gol Trendline 1.0 T.Flex 12V 3p'}
+7522;{'codigo': 7522, 'nome': 'Gol Trendline 1.0 T.Flex 12V 5p'}
+6785;{'codigo': 6785, 'nome': 'Gol Trendline 1.0 T.Flex 8V 3p'}
+6786;{'codigo': 6786, 'nome': 'Gol Trendline 1.0 T.Flex 8V 5p'}
+6977;{'codigo': 6977, 'nome': 'Gol Trendline 1.6 T.Flex 8V 3p'}
+6796;{'codigo': 6796, 'nome': 'Gol Trendline 1.6 T.Flex 8V 5p'}
+6976;{'codigo': 6976, 'nome': 'Gol Trendline I Motion 1.6 T. Flex 8V 3p'}
+6794;{'codigo': 6794, 'nome': 'Gol Trendline I MOTION 1.6 T. Flex 8V 5p'}
+2435;{'codigo': 2435, 'nome': 'Gol TSi 1.8/ 1.8Mi'}
+2436;{'codigo': 2436, 'nome': 'Gol TSi 2000 2p e 4p'}
+5115;{'codigo': 5115, 'nome': 'Golf  BLACK EDITON 2.0 Mi T. Flex 8V Tip'}
+4669;{'codigo': 4669, 'nome': 'Golf  TECH 1.6 Mi Total Flex 8V 4p'}
+4006;{'codigo': 4006, 'nome': 'Golf 1.6 Mi Total Flex 8V 4p'}
+2437;{'codigo': 2437, 'nome': 'Golf 1.6 Mi Trip/ Sport 101cv 8V'}
+2438;{'codigo': 2438, 'nome': 'Golf 1.6Mi/ 1.6Mi Gener./Black & Silver'}
+2439;{'codigo': 2439, 'nome': 'Golf 1.8 Mi Sport 150cv Turbo Mec/Aut.'}
+2440;{'codigo': 2440, 'nome': 'Golf 2.0/ 2.0 Mi Flex Aut/Tiptronic.'}
+2442;{'codigo': 2442, 'nome': 'Golf 2.0/ 2.0 Mi Flex Comfortline Aut.'}
+2443;{'codigo': 2443, 'nome': 'Golf 2.0/ 2.0 Mi Flex Comfortline/ Sport'}
+2441;{'codigo': 2441, 'nome': 'Golf 2.0/2.0 T. Flex Mec.(Black & Silv)'}
+8369;{'codigo': 8369, 'nome': 'Golf Comfort. 200 TSI 1.0 Flex 12V Aut.'}
+7781;{'codigo': 7781, 'nome': 'Golf Comfortline 1.0 TSI Total Flex Mec.'}
+6797;{'codigo': 6797, 'nome': 'Golf Comfortline 1.4 TSI 140cv Aut.'}
+6798;{'codigo': 6798, 'nome': 'Golf Comfortline 1.4 TSI 140cv Mec.'}
+7460;{'codigo': 7460, 'nome': 'Golf Comfortline 1.6 MSI Total Flex Aut.'}
+7461;{'codigo': 7461, 'nome': 'Golf Comfortline 1.6 MSI Total Flex Mec.'}
+3914;{'codigo': 3914, 'nome': 'Golf Flash 1.6 Mi/1.6 Mi Tot. Flex 8V 4p'}
+2444;{'codigo': 2444, 'nome': 'Golf GL 1.8/ 2.0i 4p'}
+2445;{'codigo': 2445, 'nome': 'Golf GLX 2.0 4p'}
+4835;{'codigo': 4835, 'nome': 'Golf GT 2.0 Mi T. Flex 8V 4p Tiptronic'}
+4703;{'codigo': 4703, 'nome': 'Golf GT 2.0 Mi Total Flex 8V 4p'}
+8943;{'codigo': 8943, 'nome': 'Golf GTE TSI 1.4 16V Híbrido Aut.'}
+2446;{'codigo': 2446, 'nome': 'Golf GTi 1.8 Mi 180/193cv Turbo 4p Mec.'}
+2447;{'codigo': 2447, 'nome': 'Golf GTi 1.8 Mi 180/193cv Turbo 4p Tip.'}
+2448;{'codigo': 2448, 'nome': 'Golf GTi 1.8 Mi 20V 2p Turbo Mec.'}
+2449;{'codigo': 2449, 'nome': 'Golf GTi 1.8 Mi 20V Turbo 2p Aut.'}
+2450;{'codigo': 2450, 'nome': 'Golf GTi 1.8 Mi 20V Turbo 4p Aut.'}
+2451;{'codigo': 2451, 'nome': 'Golf GTi 1.8 Mi 20V Turbo 4p Mec.'}
+2452;{'codigo': 2452, 'nome': 'Golf GTI 1.8 Turbo'}
+2453;{'codigo': 2453, 'nome': 'Golf GTi 2.0'}
+6600;{'codigo': 6600, 'nome': 'Golf GTi 2.0 TSI 220cv Aut.'}
+8370;{'codigo': 8370, 'nome': 'Golf GTi 350 TSI 2.0 230cv 16V Aut.'}
+2454;{'codigo': 2454, 'nome': 'Golf GTi Cabrio 2.0 Mi'}
+2455;{'codigo': 2455, 'nome': 'Golf GTI VR6/ Golf 2.8 VR6'}
+6601;{'codigo': 6601, 'nome': 'Golf Highline 1.4 TSI 140cv Aut.'}
+6602;{'codigo': 6602, 'nome': 'Golf Highline 1.4 TSI 140cv Mec.'}
+7462;{'codigo': 7462, 'nome': 'Golf Highline 1.4 TSI Total Flex Aut.'}
+7463;{'codigo': 7463, 'nome': 'Golf Highline 1.4 TSI Total Flex Mec.'}
+8371;{'codigo': 8371, 'nome': 'Golf Highline 250 TSI 1.4 Flex 16V Aut.'}
+5007;{'codigo': 5007, 'nome': 'Golf SILVER EDIT. 2.0 Mi T.Flex 8v Mec.'}
+5008;{'codigo': 5008, 'nome': 'Golf SILVER EDIT. 2.0 Mi T.Flex 8V Tip.'}
+4312;{'codigo': 4312, 'nome': 'Golf Sportline 1.6 Mi Total Flex 8V 4p'}
+5221;{'codigo': 5221, 'nome': 'Golf Sportline 2.0 Mi Total F. 8V Tip.'}
+8372;{'codigo': 8372, 'nome': 'Golf Variant Comf. 250 1.4 TSI Flex Aut.'}
+7782;{'codigo': 7782, 'nome': 'Golf Variant Comfort. 1.4 TSI T.Flex Aut'}
+7270;{'codigo': 7270, 'nome': 'Golf Variant Comfortline 1.4 TSI  Aut.'}
+7464;{'codigo': 7464, 'nome': 'Golf Variant Comfortline 1.4 TSI Mec.'}
+8373;{'codigo': 8373, 'nome': 'Golf Variant High. 250 1.4 TSI Flex Aut.'}
+7748;{'codigo': 7748, 'nome': 'Golf Variant Highli. 1.4 TSI T.Flex Aut'}
+7271;{'codigo': 7271, 'nome': 'Golf Variant Highline 1.4 TSI Aut.'}
+2456;{'codigo': 2456, 'nome': 'Grand Saveiro Xtreme/Street  1.6/1.8/2.0'}
+2457;{'codigo': 2457, 'nome': 'JETTA  GLX III 2.8 VR6'}
+4147;{'codigo': 4147, 'nome': 'JETTA 2.5 20V 150/170cv Tiptronic'}
+8581;{'codigo': 8581, 'nome': 'JETTA 250 TSI 1.4 flex 16v Aut.'}
+8487;{'codigo': 8487, 'nome': 'JETTA Comfort. 250 TSI 1.4 Flex 16v Aut.'}
+5512;{'codigo': 5512, 'nome': 'JETTA Comfortline  2.0 T.Flex 8V 4p Mec.'}
+7493;{'codigo': 7493, 'nome': 'JETTA Comfortline 1.4 TSI 16V 4p Aut.'}
+5513;{'codigo': 5513, 'nome': 'JETTA Comfortline 2.0 T.Flex 8V 4p Tipt.'}
+8717;{'codigo': 8717, 'nome': 'JETTA GLI 350 TSI 2.0 16V 4p Aut.'}
+5514;{'codigo': 5514, 'nome': 'JETTA Highline 2.0 TSI 16V 4p Tiptronic'}
+8488;{'codigo': 8488, 'nome': 'JETTA R-Line 250 TSI 1.4 Flex 16V Aut.'}
+7494;{'codigo': 7494, 'nome': 'JETTA Trendline 1.4 TSI 16V 4p  Aut.'}
+7495;{'codigo': 7495, 'nome': 'JETTA Trendline 1.4 TSI 16V 4p Mec.'}
+7216;{'codigo': 7216, 'nome': 'JETTA Trendline 2.0 T.Flex 8V 4p Tip.'}
+4649;{'codigo': 4649, 'nome': 'JETTA Variant 2.5 20V 170cv Tiptronic'}
+2458;{'codigo': 2458, 'nome': 'Kombi Carat'}
+2459;{'codigo': 2459, 'nome': 'Kombi Escolar 1.6 MPi'}
+3980;{'codigo': 3980, 'nome': 'Kombi Escolar/50 anos 1.4 Mi Total Flex'}
+2460;{'codigo': 2460, 'nome': 'Kombi Furgão'}
+3915;{'codigo': 3915, 'nome': 'Kombi Furgão 1.4 Mi Total Flex 8V'}
+2461;{'codigo': 2461, 'nome': 'Kombi Furgão Diesel'}
+6618;{'codigo': 6618, 'nome': 'Kombi LAST EDITION 56 1.4 Mi Total Flex'}
+3981;{'codigo': 3981, 'nome': 'Kombi Lotação 1.4 Mi Total Flex 8V'}
+2462;{'codigo': 2462, 'nome': 'Kombi Lotação 1.6 MPi'}
+2463;{'codigo': 2463, 'nome': 'Kombi Pick-Up'}
+2464;{'codigo': 2464, 'nome': 'Kombi Pick-Up Diesel'}
+3916;{'codigo': 3916, 'nome': 'Kombi Standard 1.4 Mi Total Flex 8V'}
+2465;{'codigo': 2465, 'nome': 'Kombi Standard/ Luxo/ Série Prata'}
+2466;{'codigo': 2466, 'nome': 'Logus 1.6 / CLi / CL/ GL'}
+2467;{'codigo': 2467, 'nome': 'Logus 1.8 / CLi / CL'}
+2468;{'codigo': 2468, 'nome': 'Logus GLi / GL 1.8'}
+2469;{'codigo': 2469, 'nome': 'Logus GLS 1.8'}
+2470;{'codigo': 2470, 'nome': 'Logus GLSi / GLS 2000'}
+2471;{'codigo': 2471, 'nome': 'Logus Wolfsburg Edition 2000i'}
+2472;{'codigo': 2472, 'nome': 'New Beetle 2.0 Mi Mec./Aut.'}
+9150;{'codigo': 9150, 'nome': 'Nivus Comfortline 1.0 200 TSI Flex Aut.'}
+9151;{'codigo': 9151, 'nome': 'Nivus Highline 1.0 200 TSI Flex Aut.'}
+9152;{'codigo': 9152, 'nome': 'Nivus Launching Ed. 1.0 200 TSI Flex Aut'}
+2473;{'codigo': 2473, 'nome': 'Parati 1.0 Mi FUN/ SunSet 16V 4p'}
+2474;{'codigo': 2474, 'nome': 'Parati 1.0 Mi Plus 16v 4p'}
+2475;{'codigo': 2475, 'nome': 'Parati 1.0 Mi Summer 16v 4p'}
+2476;{'codigo': 2476, 'nome': 'Parati 1.0 Mi Tour 16V 76cv 4p'}
+2500;{'codigo': 2500, 'nome': 'Parati 1.6 Mi Plus Total Flex  8V 4p'}
+2477;{'codigo': 2477, 'nome': 'Parati 1.6 Mi/ 1.6 Mi City'}
+2478;{'codigo': 2478, 'nome': 'Parati 1.6Mi/1.6Mi City/T.Field T.Flex'}
+2479;{'codigo': 2479, 'nome': 'Parati 1.8 Mi City Total Flex 8V 4p'}
+2480;{'codigo': 2480, 'nome': 'Parati 1.8 Mi CROSSOVER Total Flex 8V 4p'}
+3804;{'codigo': 3804, 'nome': 'Parati 1.8 Mi Plus Total Flex 8V 4p'}
+2481;{'codigo': 2481, 'nome': 'Parati 1.8 Mi T. Field Total Flex 8V 4p'}
+2482;{'codigo': 2482, 'nome': 'Parati 1.8 Mi Tour 8V 99cv 4p'}
+2483;{'codigo': 2483, 'nome': 'Parati 1.8 Mi/ 1.8 Mi Plus'}
+2484;{'codigo': 2484, 'nome': 'Parati 1000 Mi 16V 2p e 4p'}
+2485;{'codigo': 2485, 'nome': 'Parati 1000 Mi 16V 4p Turbo'}
+2486;{'codigo': 2486, 'nome': 'Parati 2.0 Mi Tour 8V 112cv 4p'}
+2487;{'codigo': 2487, 'nome': 'Parati 2.0 Mi/ 2.0 Mi Track & Field'}
+2488;{'codigo': 2488, 'nome': 'Parati C 1.6/ CL 1.6 Mi 2p e 4p'}
+2489;{'codigo': 2489, 'nome': 'Parati CL 1.8 Mi 2p e 4p'}
+2490;{'codigo': 2490, 'nome': 'Parati CLi / CL/ Atlanta 1.6'}
+2491;{'codigo': 2491, 'nome': 'Parati CLi / CL/ Atlanta 1.8'}
+3960;{'codigo': 3960, 'nome': 'Parati COMFORTLINE 1.6 Mi Tot.Flex 8V 4p'}
+3805;{'codigo': 3805, 'nome': 'Parati COMFORTLINE 1.8 Mi Tot.Flex 8V 4p'}
+2492;{'codigo': 2492, 'nome': 'Parati CROSSOVER 2.0 8V/ 1.0 16V TB 4p'}
+2493;{'codigo': 2493, 'nome': 'Parati Evidence 1.8 8V/ 1.0 16V TB 4p'}
+2494;{'codigo': 2494, 'nome': 'Parati GL 1.6 Mi/ 1.6/ GLS/ Club 1.6'}
+2495;{'codigo': 2495, 'nome': 'Parati GL 1.8 Mi/ Club 1.8 Mi 2p e 4p'}
+2496;{'codigo': 2496, 'nome': 'Parati GLi / GL 1.8'}
+2497;{'codigo': 2497, 'nome': 'Parati GLS 2.0 Mi 2/4p'}
+2498;{'codigo': 2498, 'nome': 'Parati GLSi 2.0 / GLS/ Surf 1.8'}
+2499;{'codigo': 2499, 'nome': 'Parati GTi 2.0 Mi 16V'}
+2501;{'codigo': 2501, 'nome': 'Parati Plus/ LS/ S'}
+4521;{'codigo': 4521, 'nome': 'Parati SURF 1.6 Mi Total Flex'}
+4522;{'codigo': 4522, 'nome': 'Parati SURF 1.8 Mi Total Flex'}
+4908;{'codigo': 4908, 'nome': 'Parati TITAN 1.6 Mi Total Flex 8V 4p'}
+2502;{'codigo': 2502, 'nome': 'Parati Utility 1.8 8V/ 1.0 Turbo 16V'}
+2503;{'codigo': 2503, 'nome': 'Passat  L/LS/LSe/GL/GLS/TS/Fla/Vill/Plus'}
+2504;{'codigo': 2504, 'nome': 'Passat 1.8 Aut.'}
+2505;{'codigo': 2505, 'nome': 'Passat 1.8 Mec.'}
+2506;{'codigo': 2506, 'nome': 'Passat 1.8 Tiptronic'}
+2507;{'codigo': 2507, 'nome': 'Passat 2.0'}
+3806;{'codigo': 3806, 'nome': 'Passat 2.0 FSI Tiptronic'}
+2508;{'codigo': 2508, 'nome': 'Passat 2.8 V6 Mec.'}
+2509;{'codigo': 2509, 'nome': 'Passat 2.8 V6 Protect Tiptronic'}
+2510;{'codigo': 2510, 'nome': 'Passat 2.8 V6 Tiptronic'}
+4322;{'codigo': 4322, 'nome': 'Passat 3.2 V6 FSI 24V 250cv Tip.'}
+6896;{'codigo': 6896, 'nome': 'Passat CC 2.0 TSI 211cv Tiptronic'}
+4929;{'codigo': 4929, 'nome': 'Passat CC 3.6 V6 FSI 300cv Tiptronic'}
+7465;{'codigo': 7465, 'nome': 'Passat Comfortline 2.0 TSI 220cv Tip.'}
+7466;{'codigo': 7466, 'nome': 'Passat Highline 2.0 TSI 220cv Tip.'}
+2511;{'codigo': 2511, 'nome': 'Passat Pointer GTS'}
+7051;{'codigo': 7051, 'nome': 'Passat R-Line TB 2.0 TSI Tiptronic 4p'}
+4148;{'codigo': 4148, 'nome': 'Passat TB 2.0 FSI/TSI 211cv Tiptronic 4p'}
+2512;{'codigo': 2512, 'nome': 'Passat Turbo 1.8 Mec.'}
+2513;{'codigo': 2513, 'nome': 'Passat Turbo 1.8 Tiptronic'}
+3917;{'codigo': 3917, 'nome': 'Passat Variant  2.0 FSI 150cv Tiptron.5p'}
+2514;{'codigo': 2514, 'nome': 'Passat Variant 1.8 Aut.'}
+2515;{'codigo': 2515, 'nome': 'Passat Variant 1.8 Mec.'}
+2516;{'codigo': 2516, 'nome': 'Passat Variant 2.0'}
+2517;{'codigo': 2517, 'nome': 'Passat Variant 2.8 V6'}
+2518;{'codigo': 2518, 'nome': 'Passat Variant 2.8 V6 Tiptronic'}
+4323;{'codigo': 4323, 'nome': 'Passat Variant 3.2 V6 FSI 24V 250cv Tip.'}
+7320;{'codigo': 7320, 'nome': 'Passat Variant R-Line TB 2.0 TSI Tip. 5p'}
+2519;{'codigo': 2519, 'nome': 'Passat Variant Turbo 1.8'}
+2520;{'codigo': 2520, 'nome': 'Passat Variant Turbo 1.8 Tiptronic'}
+4149;{'codigo': 4149, 'nome': 'Passat Variant Turbo 2.0 FSI Tiptron. 5p'}
+2521;{'codigo': 2521, 'nome': 'Passat Variant VR6 2.8'}
+2522;{'codigo': 2522, 'nome': 'Passat VR6 2.8'}
+2523;{'codigo': 2523, 'nome': 'Pointer 1.8 / CLi'}
+2524;{'codigo': 2524, 'nome': 'Pointer GLi 1.8'}
+2525;{'codigo': 2525, 'nome': 'Pointer GLi 2.0'}
+2526;{'codigo': 2526, 'nome': 'Pointer GTi 2.0'}
+8070;{'codigo': 8070, 'nome': 'Polo 1.0 Flex 12V 5p'}
+2527;{'codigo': 2527, 'nome': 'Polo 1.0 Mi 79cv 16V 5p'}
+10107;{'codigo': 10107, 'nome': 'Polo 1.0 MPI Flex 12V 5p'}
+10108;{'codigo': 10108, 'nome': 'Polo 1.0 TSI Flex 12V 5p'}
+4930;{'codigo': 4930, 'nome': 'Polo 1.6 E-Flex 8V 5p'}
+2528;{'codigo': 2528, 'nome': 'Polo 1.6 Mi/ S.Ouro 1.6Mi 101cv 8V 5p'}
+2529;{'codigo': 2529, 'nome': 'Polo 1.6 Mi/S.Ouro 1.6 Mi Tot.Flex 8V 5p'}
+8067;{'codigo': 8067, 'nome': 'Polo 1.6 MSI Flex 16V 5p'}
+8426;{'codigo': 8426, 'nome': 'Polo 1.6 MSI Total Flex 16V 5p Aut.'}
+2530;{'codigo': 2530, 'nome': 'Polo 2.0 Mi 116cv 8V 5p'}
+4909;{'codigo': 4909, 'nome': 'Polo BLUEMOTION 1.6 Total Flex 8V 5p'}
+2531;{'codigo': 2531, 'nome': 'Polo Classic 1.0 Mi 16v  65cv 4p'}
+2532;{'codigo': 2532, 'nome': 'Polo Classic/ Special 1.8 Mi'}
+8068;{'codigo': 8068, 'nome': 'Polo Comfort. 200 TSI 1.0 Flex 12V Aut.'}
+10109;{'codigo': 10109, 'nome': 'Polo Comfortline TSI 1.0 Flex 12V Aut.'}
+4797;{'codigo': 4797, 'nome': 'Polo GT 2.0 Mi Total Flex 8V 5p'}
+4300;{'codigo': 4300, 'nome': 'Polo GTI 1.8 Mi 150cv 20V Turbo 3p'}
+8996;{'codigo': 8996, 'nome': 'Polo GTS 1.4 TSI 16V Flex'}
+8069;{'codigo': 8069, 'nome': 'Polo Highline 200 TSI 1.0 Flex 12V Aut.'}
+10110;{'codigo': 10110, 'nome': 'Polo Highline TSI 1.0 Flex 12V Aut.'}
+4989;{'codigo': 4989, 'nome': 'Polo I MOTION 1.6 Total Flex  5p'}
+2533;{'codigo': 2533, 'nome': 'Polo Next 1.6 Mi 101cv 8V 5p'}
+3982;{'codigo': 3982, 'nome': 'Polo Sed. COMFORT. 1.6 Mi Tot. Flex 8v'}
+2536;{'codigo': 2536, 'nome': 'Polo Sed./Sed. COMF. 2.0/2.0 Flex 8V 4p'}
+4990;{'codigo': 4990, 'nome': 'Polo Sed.COMFORT. I MOTION 1.6 T.Flex 4p'}
+2534;{'codigo': 2534, 'nome': 'Polo Sedan 1.6 Mi 101cv 8V 4p'}
+2535;{'codigo': 2535, 'nome': 'Polo Sedan 1.6 Mi Total Flex 8V 4p'}
+2537;{'codigo': 2537, 'nome': 'Polo Sedan Evidence 1.6 Mi T.Flex 8v 4p'}
+4991;{'codigo': 4991, 'nome': 'Polo Sedan I MOTION  1.6 Total Flex  4p'}
+9558;{'codigo': 9558, 'nome': 'Polo Sense 200 TSI 1.0 Flex 12V Aut'}
+3983;{'codigo': 3983, 'nome': 'Polo SPORTLINE 1.6 Mi Total Flex 8V 5p'}
+5654;{'codigo': 5654, 'nome': 'Polo Sportline 2.0 Mi Total Flex 8V 5p'}
+4992;{'codigo': 4992, 'nome': 'Polo SPORTLINE I MOTION 1.6 T.Flex 5p'}
+10176;{'codigo': 10176, 'nome': 'Polo Track 1.0 Flex 12V 5p'}
+10406;{'codigo': 10406, 'nome': 'Polo Track First Edition 1.0 Flex 12V 5p'}
+2538;{'codigo': 2538, 'nome': 'Quantum 1.8 Mi/ 1.8i'}
+2539;{'codigo': 2539, 'nome': 'Quantum 2.0 Mi'}
+2540;{'codigo': 2540, 'nome': 'Quantum CLi / CL / C/ CS/ CD/ CG 1.8/2.0'}
+2541;{'codigo': 2541, 'nome': 'Quantum Evidence 2.0 Mi'}
+2542;{'codigo': 2542, 'nome': 'Quantum Exclusive 2.0 Mi'}
+2543;{'codigo': 2543, 'nome': 'Quantum GLi / GL 1.8/ 2.0'}
+2544;{'codigo': 2544, 'nome': 'Quantum GLSi / GLS 1.8/Sport/ Family 2.0'}
+2545;{'codigo': 2545, 'nome': 'Santana 1.8 Mi'}
+2546;{'codigo': 2546, 'nome': 'Santana 2.0 Mi 2p e 4p'}
+2547;{'codigo': 2547, 'nome': 'Santana CLi /CL /C 1.8/2.0 /SU 2.0 2p/4p'}
+3961;{'codigo': 3961, 'nome': 'Santana COMFORTLINE 1.8 Mi 8V 4p'}
+2548;{'codigo': 2548, 'nome': 'Santana CS/CD/CG'}
+2549;{'codigo': 2549, 'nome': 'Santana Evidenc 2.0 MI'}
+2550;{'codigo': 2550, 'nome': 'Santana Exclusiv 2.0 Mi/ Executivo 2.0i'}
+2551;{'codigo': 2551, 'nome': 'Santana GLi / GL/ Sport 1.8/ 2.0'}
+2552;{'codigo': 2552, 'nome': 'Santana GLSi / GLS 1.8/ 2.0'}
+5009;{'codigo': 5009, 'nome': 'Saveiro 1.6 Mi Total Flex 8V CE'}
+2553;{'codigo': 2553, 'nome': 'Saveiro 1.6 Mi/ 1.6 Mi Total Flex 8V'}
+2554;{'codigo': 2554, 'nome': 'Saveiro 1.6 Mi/ 1.6Mi City Total Flex 8V'}
+2555;{'codigo': 2555, 'nome': 'Saveiro 1.8 Mi'}
+2556;{'codigo': 2556, 'nome': 'Saveiro 2.0 Mi'}
+2557;{'codigo': 2557, 'nome': 'Saveiro City 1.8 Mi Total Flex 8V'}
+2558;{'codigo': 2558, 'nome': 'Saveiro CL 1.6 Mi / CL/ C 1.6'}
+2559;{'codigo': 2559, 'nome': 'Saveiro CL/ Summer 1.8 Mi e 1.8'}
+5195;{'codigo': 5195, 'nome': 'Saveiro CROSS 1.6 Mi Total Flex 8V CE'}
+6801;{'codigo': 6801, 'nome': 'Saveiro CROSS 1.6 T. Flex 16V CE'}
+6941;{'codigo': 6941, 'nome': 'Saveiro CROSS 1.6 T.Flex 16V CD'}
+3962;{'codigo': 3962, 'nome': 'Saveiro CROSSOVER 1.6 Mi Total Flex 8V'}
+2560;{'codigo': 2560, 'nome': 'Saveiro CROSSOVER 1.8 Mi 8V'}
+2561;{'codigo': 2561, 'nome': 'Saveiro CROSSOVER 1.8 Mi Total Flex 8V'}
+2562;{'codigo': 2562, 'nome': 'Saveiro Diesel (todas)'}
+10832;{'codigo': 10832, 'nome': 'Saveiro Extreme 1.6 Flex 16V CD'}
+2563;{'codigo': 2563, 'nome': 'Saveiro FUN 1.8 99cv/ City e S.Surf  1.6'}
+2564;{'codigo': 2564, 'nome': 'Saveiro GL 1.8Mi e 1.6/GL/LS/S/ Sunset'}
+6942;{'codigo': 6942, 'nome': 'Saveiro Highline 1.6 T. Flex 8V CD'}
+8026;{'codigo': 8026, 'nome': 'Saveiro Pepper 1.6 Flex 8V CD'}
+8027;{'codigo': 8027, 'nome': 'Saveiro Pepper 1.6 Flex 8V CE'}
+10141;{'codigo': 10141, 'nome': 'Saveiro Robust 1.6 Total Flex 16V '}
+10142;{'codigo': 10142, 'nome': 'Saveiro Robust 1.6 Total Flex 16V CD'}
+7566;{'codigo': 7566, 'nome': 'Saveiro Robust 1.6 Total Flex 8V'}
+7960;{'codigo': 7960, 'nome': 'Saveiro Robust 1.6 Total Flex 8V CD'}
+7272;{'codigo': 7272, 'nome': 'Saveiro Rock in Rio 1.6 Total Flex 8V CD'}
+3984;{'codigo': 3984, 'nome': 'Saveiro SPORTLINE 1.6 Mi Total Flex 8V'}
+3807;{'codigo': 3807, 'nome': 'Saveiro SPORTLINE 1.8 Mi Total Flex 8V'}
+6802;{'codigo': 6802, 'nome': 'Saveiro Startline 1.6 T.Flex 8V'}
+2565;{'codigo': 2565, 'nome': 'Saveiro Super Surf  1.8 Mi 8V 99cv'}
+2566;{'codigo': 2566, 'nome': 'Saveiro Super Surf 1.6 Mi Total Flex 8V'}
+2567;{'codigo': 2567, 'nome': 'Saveiro Super Surf 1.8 Mi Total Flex 8V'}
+4523;{'codigo': 4523, 'nome': 'Saveiro SURF 1.6 Mi Total Flex 2p'}
+4524;{'codigo': 4524, 'nome': 'Saveiro SURF 1.8 Mi Total Flex 2p'}
+4451;{'codigo': 4451, 'nome': 'Saveiro TITAN  1.6 Mi Total Flex 2p'}
+6799;{'codigo': 6799, 'nome': 'Saveiro Trendline 1.6 T.Flex 8V'}
+6943;{'codigo': 6943, 'nome': 'Saveiro Trendline 1.6 T.Flex 8V CD'}
+6800;{'codigo': 6800, 'nome': 'Saveiro Trendline 1.6 T.Flex 8V CE'}
+9872;{'codigo': 9872, 'nome': 'Saveiro Trendline 1.6 Total Flex 16V'}
+5010;{'codigo': 5010, 'nome': 'Saveiro TROOPER 1.6 Mi Total Flex 8V'}
+5011;{'codigo': 5011, 'nome': 'Saveiro TROOPER 1.6 Mi Total Flex 8V CE'}
+2568;{'codigo': 2568, 'nome': 'Saveiro TSi 2.0 Mi'}
+7235;{'codigo': 7235, 'nome': 'SpaceCross 1.6 Mi Total Flex 16V'}
+5655;{'codigo': 5655, 'nome': 'SpaceCross 1.6 Mi Total Flex 8V'}
+7236;{'codigo': 7236, 'nome': 'SpaceCross I MOTION 1.6 Mi T. Flex 16V'}
+5656;{'codigo': 5656, 'nome': 'SpaceCross I MOTION 1.6 Mi Total Flex 8V'}
+4729;{'codigo': 4729, 'nome': 'SPACEFOX  SPORTLINE/HIGHLINE 1.6 T.Flex'}
+5314;{'codigo': 5314, 'nome': 'SPACEFOX  TREND I MOTION 1.6 T. Flex 8V'}
+7321;{'codigo': 7321, 'nome': 'SPACEFOX 1.6 Trendline I MOT. T.Flex 8V'}
+7322;{'codigo': 7322, 'nome': 'SPACEFOX 1.6 Trendline Total Flex 8v 5p'}
+4007;{'codigo': 4007, 'nome': 'SPACEFOX 1.6/ 1.6 Trend Total Flex 8V 5p'}
+7217;{'codigo': 7217, 'nome': 'SPACEFOX COMF. I MOTION 1.6 Flex 8V 5p'}
+4008;{'codigo': 4008, 'nome': 'SPACEFOX COMFORTLINE 1.6 Mi T.Flex 8V 5p'}
+7237;{'codigo': 7237, 'nome': 'SPACEFOX HIGHLINE 1.6 T.Flex 16V'}
+7238;{'codigo': 7238, 'nome': 'SPACEFOX HIGHLINE I MOT. 1.6 T.Flex 16V'}
+4836;{'codigo': 4836, 'nome': 'SPACEFOX Route 1.6 Mi T.Flex 5p'}
+5315;{'codigo': 5315, 'nome': 'SPACEFOX SPORTLINE/HIGHLINE I MOTION 1.6'}
+9529;{'codigo': 9529, 'nome': 'TAOS Comfortline 1.4 250 TSI Flex Aut.'}
+9530;{'codigo': 9530, 'nome': 'TAOS Highline 1.4 250 TSI Flex Aut.'}
+9531;{'codigo': 9531, 'nome': 'TAOS Launching Ed. 1.4 250 TSI Flex Aut.'}
+8642;{'codigo': 8642, 'nome': 'T-Cross 1.0 TSI Flex 12V 5p Mec.'}
+10373;{'codigo': 10373, 'nome': 'T-Cross 200 TSI 1.0  Flex 12V 5p Aut.'}
+10374;{'codigo': 10374, 'nome': 'T-Cross Comfor. 200 TSI 1.0 Flex 5p Aut.'}
+10375;{'codigo': 10375, 'nome': 'T-Cross Hig. 250 TSI 1.4 Flex 16V 5p Aut'}
+10376;{'codigo': 10376, 'nome': 'T-Cross Sense 200 TSI 1.0 Flex 5p Aut.'}
+7860;{'codigo': 7860, 'nome': 'TIGUAN 1.4 TSI 16V 150cv 5p'}
+4931;{'codigo': 4931, 'nome': 'TIGUAN 2.0 TSI 16V 200cv Tiptronic 5p'}
+8300;{'codigo': 8300, 'nome': 'TIGUAN Allspac 250 TSI 1.4 Flex'}
+8301;{'codigo': 8301, 'nome': 'TIGUAN Allspac Comf 250 TSI 1.4 Flex'}
+10892;{'codigo': 10892, 'nome': 'TIGUAN Allspac R-Line 300 TSI 2.0 '}
+8302;{'codigo': 8302, 'nome': 'TIGUAN Allspac R-Line 350 TSI 2.0 4x4'}
+3835;{'codigo': 3835, 'nome': 'TOUAREG 3.2 24V V6 Tiptronic 5p'}
+4442;{'codigo': 4442, 'nome': 'TOUAREG 3.6 24V V6 280cv Tiptronic 5p'}
+2569;{'codigo': 2569, 'nome': 'TOUAREG 4.2 32V V8  Tiptronic 5p'}
+7218;{'codigo': 7218, 'nome': 'TOUAREG R-Line 4.2 V8 360cv Tiptronic 5p'}
+8702;{'codigo': 8702, 'nome': 'up! 1.0 Total Flex 12V 5p'}
+6715;{'codigo': 6715, 'nome': 'up! black/white/red 1.0 T. Flex 12V 5p'}
+7323;{'codigo': 7323, 'nome': 'up! black/white/red 1.0 TSI TFlex 12V 5p'}
+6803;{'codigo': 6803, 'nome': 'up! black/white/red I MOTION 1.0 Flex 5p'}
+8703;{'codigo': 8703, 'nome': 'up! Connect 1.0 TSI Total Flex 12V 5p'}
+7047;{'codigo': 7047, 'nome': 'up! cross 1.0 T. Flex 12V 5p'}
+7324;{'codigo': 7324, 'nome': 'up! cross 1.0 TSI Total Flex 12V 5p'}
+7048;{'codigo': 7048, 'nome': 'up! cross I MOTION 1.0 T.Flex 12V 5p'}
+6716;{'codigo': 6716, 'nome': 'up! high 1.0 Total Flex 12V 5p'}
+7325;{'codigo': 7325, 'nome': 'up! high 1.0 TSI Total Flex 12V 5p'}
+6804;{'codigo': 6804, 'nome': 'up! high I MOTION 1.0 T. Flex 12V 5p'}
+6805;{'codigo': 6805, 'nome': 'up! move 1.0 T. Flex 12V 3p'}
+6717;{'codigo': 6717, 'nome': 'up! move 1.0 Total Flex 12V 5p'}
+7326;{'codigo': 7326, 'nome': 'up! move 1.0 TSI Total Flex 12V 5p'}
+6806;{'codigo': 6806, 'nome': 'up! move I MOTION 1.0 T. Flex 12V 3p'}
+6846;{'codigo': 6846, 'nome': 'up! move I MOTION 1.0 T. Flex 12V 5p'}
+8028;{'codigo': 8028, 'nome': 'up! Pepper 1.0 TSI T.Flex 12V 5p'}
+7639;{'codigo': 7639, 'nome': 'up! Run 1.0 Total Flex 12V 5p'}
+7640;{'codigo': 7640, 'nome': 'up! Run I MOTION 1.0 Total Flex 12V 5p'}
+7327;{'codigo': 7327, 'nome': 'up! SPEED 1.0 TSI T. Flex 12V 5p'}
+6807;{'codigo': 6807, 'nome': 'up! take 1.0 T. Flex 12V 3p'}
+6718;{'codigo': 6718, 'nome': 'up! take 1.0 Total Flex 12V 5p'}
+7818;{'codigo': 7818, 'nome': 'up! track 1.0 Total Flex 12V 5p'}
+8704;{'codigo': 8704, 'nome': 'up! Xtreme 1.0 TSI Total Flex 12V 5p'}
+2570;{'codigo': 2570, 'nome': 'Van 1.6 Mi (furgão)'}
+8427;{'codigo': 8427, 'nome': 'VIRTUS 1.6 MSI Flex 16V 4p Aut.'}
+8184;{'codigo': 8184, 'nome': 'VIRTUS 1.6 MSI Flex 16V 5p Mec.'}
+8185;{'codigo': 8185, 'nome': 'VIRTUS Comfort. 200 TSI 1.0 Flex 12V Aut'}
+10411;{'codigo': 10411, 'nome': 'VIRTUS Exclusive 250TSI 1.4 Flex 16V Aut'}
+8997;{'codigo': 8997, 'nome': 'VIRTUS GTS 1.4 TSI 16V Flex 4p'}
+8186;{'codigo': 8186, 'nome': 'VIRTUS Highline 200 TSI 1.0 Flex 12V Aut'}
+9599;{'codigo': 9599, 'nome': 'VIRTUS Sense 1.6 Flex 16V 5p Aut. '}
+10412;{'codigo': 10412, 'nome': 'VIRTUS TSI 1.0 Flex 12V 4p Aut.'}
+10413;{'codigo': 10413, 'nome': 'VIRTUS TSI 1.0 Flex 12V 4p Mec.'}
+6808;{'codigo': 6808, 'nome': 'VOYAGE  Trendline 1.0 T.Flex 8V 4p'}
+8325;{'codigo': 8325, 'nome': 'VOYAGE 1.0 Flex 12V 4p'}
+4752;{'codigo': 4752, 'nome': 'VOYAGE 1.0/1.0 City Mi Total Flex 8V 4p'}
+8464;{'codigo': 8464, 'nome': 'VOYAGE 1.6 MSI Flex 16V 4p Aut.'}
+8326;{'codigo': 8326, 'nome': 'VOYAGE 1.6 MSI Flex 8V 4p'}
+4753;{'codigo': 4753, 'nome': 'VOYAGE 1.6/1.6 City  Mi Total Flex 8V 4p'}
+2571;{'codigo': 2571, 'nome': 'VOYAGE C/CL/Fox 1.6'}
+2572;{'codigo': 2572, 'nome': 'VOYAGE CL 1.8'}
+4754;{'codigo': 4754, 'nome': 'VOYAGE COMF/Highli. 1.6 T.Flex 8V 4p'}
+6810;{'codigo': 6810, 'nome': 'VOYAGE Comfortline  1.0 T.Flex 8V 4p'}
+7523;{'codigo': 7523, 'nome': 'VOYAGE Comfortline 1.0 T.Flex 12V 4p'}
+6811;{'codigo': 6811, 'nome': 'VOYAGE Evidence 1.6 Total Flex 8V 4p'}
+2573;{'codigo': 2573, 'nome': 'VOYAGE GL 1.8 4p (Argentino)'}
+2574;{'codigo': 2574, 'nome': 'VOYAGE GL/ Special 1.6/ 1.8'}
+6812;{'codigo': 6812, 'nome': 'VOYAGE I MOTION  Trendline 1.6 T.Flex 8V'}
+5116;{'codigo': 5116, 'nome': 'VOYAGE I MOTION 1.6 Mi Total Flex 8V'}
+5117;{'codigo': 5117, 'nome': 'VOYAGE I MOTION COMF/Hghli.1.6 T.Flex 8V'}
+6813;{'codigo': 6813, 'nome': 'VOYAGE I MOTION Evidence 1.6 T.Flex 8V'}
+5118;{'codigo': 5118, 'nome': 'VOYAGE I MOTION TREND 1.6 Mi T. Flex 8V'}
+2575;{'codigo': 2575, 'nome': 'VOYAGE L/LS/Plus/GLS/S/Sport/Super L.Ang'}
+6671;{'codigo': 6671, 'nome': 'VOYAGE SELEÇÃO 1.0 Mi Total Flex 8V 4p'}
+6672;{'codigo': 6672, 'nome': 'VOYAGE SELEÇÃO 1.6 I MOTION T.Flex 8V 4p'}
+6673;{'codigo': 6673, 'nome': 'VOYAGE SELEÇÃO 1.6 Total Flex 8V 4p'}
+4755;{'codigo': 4755, 'nome': 'VOYAGE TREND 1.6 Mi Total Flex 8V 4p'}
+7524;{'codigo': 7524, 'nome': 'VOYAGE Trendline 1.0 T.Flex 12V 4p'}
+6809;{'codigo': 6809, 'nome': 'VOYAGE Trendline 1.6 T.Flex 8V 4p'}
