@@ -1,2 +1,0 @@
-tipo_veiculo;valor;marca;modelo;anoModelo;combustivel;codigoFipe;mes_referencia;sigla_combustivel
-1;R$ 107.186,00;VW - VolksWagen;AMAROK High.CD 2.0 16V TDI 4x4 Dies. Aut;2014;Diesel;005340-6;março de 2024;D

@@ -1,0 +1,481 @@
+codigo;modelo
+655;{'codigo': 655, 'nome': 'Aerostar Mini-Van 3.8'}
+656;{'codigo': 656, 'nome': 'Aspire 1.3'}
+657;{'codigo': 657, 'nome': 'Belina GL 1.8 / 1.6'}
+658;{'codigo': 658, 'nome': 'Belina L 1.8/ 1.6'}
+9452;{'codigo': 9452, 'nome': 'Bronco Sport Wildtrak 2.0 Tb 16V AWD Aut'}
+659;{'codigo': 659, 'nome': 'Club Wagon V8'}
+660;{'codigo': 660, 'nome': 'Club Wagon XLT 4.9 V6'}
+661;{'codigo': 661, 'nome': 'Contour SE/ GL/ LX  2.0 16V'}
+662;{'codigo': 662, 'nome': 'Contour SE/GL/ LX 2.5 24V'}
+663;{'codigo': 663, 'nome': 'Corcel II GL/GT'}
+664;{'codigo': 664, 'nome': 'Corcel II L'}
+665;{'codigo': 665, 'nome': 'Courier 1.3i/Furgão'}
+666;{'codigo': 666, 'nome': 'Courier 1.6 L/ 1.6 Flex'}
+667;{'codigo': 667, 'nome': 'Courier CLX 1.4i 16V'}
+668;{'codigo': 668, 'nome': 'Courier Si 1.4i 16V'}
+669;{'codigo': 669, 'nome': 'Courier Sport 1.6 8v'}
+4134;{'codigo': 4134, 'nome': 'Courier Van 1.6/ 1.6 Flex 8V (Carga)'}
+670;{'codigo': 670, 'nome': 'Courier XL/XL-RS 1.6/ XL 1.6 Flex'}
+671;{'codigo': 671, 'nome': 'Crown Victoria LX 4.6'}
+672;{'codigo': 672, 'nome': 'Del Rey Belina Ghia'}
+673;{'codigo': 673, 'nome': 'Del Rey Belina GL'}
+674;{'codigo': 674, 'nome': 'Del Rey Belina GLX'}
+675;{'codigo': 675, 'nome': 'Del Rey Belina L'}
+676;{'codigo': 676, 'nome': 'Del Rey Ghia 1.8 / 1.6 2p e 4p'}
+677;{'codigo': 677, 'nome': 'Del Rey GLX 1.6/1.8 / GL 1.6/1.8 2p e 4p'}
+678;{'codigo': 678, 'nome': 'Del Rey L 1.8 / 1.6 2p e 4p'}
+8743;{'codigo': 8743, 'nome': 'EcoSport  100 Anos 1.5 Flex 5p Aut.'}
+679;{'codigo': 679, 'nome': 'EcoSport 4WD 2.0/ 2.0 Flex 16V 5p'}
+8004;{'codigo': 8004, 'nome': 'EcoSport FREESTYLE 1.5 12V Flex 5p Aut.'}
+8005;{'codigo': 8005, 'nome': 'EcoSport FREESTYLE 1.5 12V Flex 5p Mec.'}
+6157;{'codigo': 6157, 'nome': 'EcoSport FREESTYLE 1.6 16V Flex 5p'}
+7371;{'codigo': 7371, 'nome': 'EcoSport FREESTYLE 1.6 16V Flex 5p Aut.'}
+6464;{'codigo': 6464, 'nome': 'EcoSport FREESTYLE 2.0 16V 4WD Flex 5p'}
+6158;{'codigo': 6158, 'nome': 'EcoSport FREESTYLE 2.0 16V Flex 5p'}
+6913;{'codigo': 6913, 'nome': 'EcoSport FREESTYLE 2.0 16V Flex 5p Aut.'}
+8210;{'codigo': 8210, 'nome': 'EcoSport FREESTYLE PLUS 1.5 Flex 5p Aut.'}
+6159;{'codigo': 6159, 'nome': 'EcoSport S 1.6 16V Flex 5p'}
+8006;{'codigo': 8006, 'nome': 'EcoSport SE 1.5 12V Flex 5p Aut.'}
+8007;{'codigo': 8007, 'nome': 'EcoSport SE 1.5 12V Flex 5p Mec.'}
+7372;{'codigo': 7372, 'nome': 'EcoSport SE 1.6 16V Flex 5p Aut.'}
+6160;{'codigo': 6160, 'nome': 'EcoSport SE 1.6 16V Flex 5p Mec.'}
+6263;{'codigo': 6263, 'nome': 'EcoSport SE 2.0 16V Flex 5p Aut.'}
+9593;{'codigo': 9593, 'nome': 'EcoSport SE Direct 1.5 Flex 5p Aut.'}
+7686;{'codigo': 7686, 'nome': 'EcoSport SE Direct 1.6 16V Flex 5p Aut.'}
+8211;{'codigo': 8211, 'nome': 'EcoSport STORM 2.0 4WD 16V Flex 5p Aut.'}
+8588;{'codigo': 8588, 'nome': 'EcoSport TITANIUM 1.5 12V Flex 5p Aut.'}
+6161;{'codigo': 6161, 'nome': 'EcoSport TITANIUM 1.6 16V Flex 5p'}
+6162;{'codigo': 6162, 'nome': 'EcoSport TITANIUM 2.0 16V Flex 5p'}
+6264;{'codigo': 6264, 'nome': 'EcoSport TITANIUM 2.0 16V Flex 5p Aut.'}
+680;{'codigo': 680, 'nome': 'EcoSport XL 1.6/ 1.6 Flex 8V 5p'}
+681;{'codigo': 681, 'nome': 'EcoSport XL Supercharger 1.0 8V 95cv 5p'}
+682;{'codigo': 682, 'nome': 'EcoSport XLS 1.6/ 1.6 Flex 8V 5p'}
+4256;{'codigo': 4256, 'nome': 'EcoSport XLS 2.0/2.0 Flex 16V 5p Aut.'}
+3886;{'codigo': 3886, 'nome': 'EcoSport XLS FREESTYLE 1.6 Flex 8V 5p'}
+683;{'codigo': 683, 'nome': 'EcoSport XLT 1.6/ 1.6 Flex 8V 5p'}
+4257;{'codigo': 4257, 'nome': 'EcoSport XLT 2.0/ 2.0 Flex 16V 5p Aut.'}
+684;{'codigo': 684, 'nome': 'EcoSport XLT 2.0/ 2.0 Flex 16V 5p Mec.'}
+4258;{'codigo': 4258, 'nome': 'EcoSport XLT FREESTYLE 1.6 Flex 8V 5p'}
+4829;{'codigo': 4829, 'nome': 'EcoSport XLT FREESTYLE 2.0 Flex 16V 5p'}
+5413;{'codigo': 5413, 'nome': 'EDGE LIMITED 3.5 V6 24V AWD Aut.'}
+5741;{'codigo': 5741, 'nome': 'EDGE LIMITED 3.5 V6 24V FWD Aut.'}
+5742;{'codigo': 5742, 'nome': 'EDGE SEL 3.5 V6  24V FWD Aut.'}
+4810;{'codigo': 4810, 'nome': 'EDGE SEL 3.5 V6 24V AWD Aut.'}
+8589;{'codigo': 8589, 'nome': 'EDGE ST 2.7 V6 24V AWD Aut.'}
+7718;{'codigo': 7718, 'nome': 'EDGE TITANIUM 3.5 V6 24V AWD Aut.'}
+685;{'codigo': 685, 'nome': 'Escort  Racer 2.0i'}
+686;{'codigo': 686, 'nome': 'Escort Ghia 1.8i / 1.8 / 1.6'}
+687;{'codigo': 687, 'nome': 'Escort Ghia 2.0i / 2.0'}
+688;{'codigo': 688, 'nome': 'Escort GL 1.6 MPI'}
+689;{'codigo': 689, 'nome': 'Escort GL 1.6i / 1.6'}
+690;{'codigo': 690, 'nome': 'Escort GL 1.8i / 1.8'}
+691;{'codigo': 691, 'nome': 'Escort GL 1.8i 16V 3p'}
+692;{'codigo': 692, 'nome': 'Escort GL 1.8i 16V 4p'}
+693;{'codigo': 693, 'nome': 'Escort GLX 1.6i'}
+694;{'codigo': 694, 'nome': 'Escort GLX 1.8i 16V 4p'}
+695;{'codigo': 695, 'nome': 'Escort GLX 1.8i 8v'}
+696;{'codigo': 696, 'nome': 'Escort Guarujá 1.8 4p'}
+697;{'codigo': 697, 'nome': 'Escort Hobby 1.0'}
+698;{'codigo': 698, 'nome': 'Escort Hobby 1.6'}
+699;{'codigo': 699, 'nome': 'Escort L 1.8i / 1.8'}
+700;{'codigo': 700, 'nome': 'Escort L/LX 1.6'}
+701;{'codigo': 701, 'nome': 'Escort RS 1.8i 16V'}
+702;{'codigo': 702, 'nome': 'Escort S.W GL 1.8i 16V'}
+703;{'codigo': 703, 'nome': 'Escort S.W. GLX 1.8i 16V'}
+704;{'codigo': 704, 'nome': 'Escort SW 1.9 16v'}
+705;{'codigo': 705, 'nome': 'Escort SW GL 1.6 MPI'}
+706;{'codigo': 706, 'nome': 'Escort XR3 1.8 / 1.6 Beneton/Form./Laser'}
+707;{'codigo': 707, 'nome': 'Escort XR3 1.8 / 1.6 Conversível'}
+708;{'codigo': 708, 'nome': 'Escort XR3 2.0i'}
+709;{'codigo': 709, 'nome': 'Escort XR3 2.0i Conversível'}
+710;{'codigo': 710, 'nome': 'Expedition 5.4 V8'}
+711;{'codigo': 711, 'nome': 'Explorer Limited 4.0 4x4 V6 213cv'}
+712;{'codigo': 712, 'nome': 'Explorer Limited 5.0 4x4 V8'}
+713;{'codigo': 713, 'nome': 'Explorer Sport 4.0 V6'}
+714;{'codigo': 714, 'nome': 'Explorer XL 4x2 4.0 V6'}
+715;{'codigo': 715, 'nome': 'Explorer XL 4x4 4.0 V6'}
+716;{'codigo': 716, 'nome': 'Explorer XLT 4x2 4.0 V6'}
+717;{'codigo': 717, 'nome': 'Explorer XLT 4x4 4.0 V6'}
+718;{'codigo': 718, 'nome': 'F-100 2.3'}
+719;{'codigo': 719, 'nome': 'F-100 Blazer 2.3'}
+720;{'codigo': 720, 'nome': 'F-100 CD 2.3'}
+721;{'codigo': 721, 'nome': 'F-100 Super 2.3'}
+722;{'codigo': 722, 'nome': 'F-100 Super Série 2.3'}
+723;{'codigo': 723, 'nome': 'F-1000 CD/Blazer 3.6'}
+724;{'codigo': 724, 'nome': 'F-1000 CD/Blazer 3.9 Dies.'}
+725;{'codigo': 725, 'nome': 'F-1000 Lightning/ Super 4.9i'}
+726;{'codigo': 726, 'nome': 'F-1000 Regular Cab. 4.9i'}
+727;{'codigo': 727, 'nome': 'F-1000 S. S. Diesel / S.S. Diesel Turbo'}
+728;{'codigo': 728, 'nome': 'F-1000 SR XK  Deserter Diesel'}
+729;{'codigo': 729, 'nome': 'F-1000 SR XK Deserter'}
+730;{'codigo': 730, 'nome': 'F-1000 Super 3.6 / Super Série 3.6'}
+731;{'codigo': 731, 'nome': 'F-1000 Super CE 4.9i / 3.6'}
+732;{'codigo': 732, 'nome': 'F-1000 Super Diesel / Super Diesel Turbo'}
+733;{'codigo': 733, 'nome': 'F-1000 Super Diesel CE 3.9'}
+734;{'codigo': 734, 'nome': 'F-1000 Super Série CE 4.9/3.6'}
+735;{'codigo': 735, 'nome': 'F-1000 Super Série CE Diesel 3.9'}
+736;{'codigo': 736, 'nome': 'F-1000 Super/ S.Série 4x4 3.9 Diesel'}
+738;{'codigo': 738, 'nome': 'F-1000 Tropical CD 4.9i'}
+737;{'codigo': 737, 'nome': 'F-1000 Tropical CD HSD 2.5/4.3 Diesel TB'}
+739;{'codigo': 739, 'nome': 'F-1000 Tropical SL/ Van 4.9i'}
+740;{'codigo': 740, 'nome': 'F-1000 Tropical SL/ Van T.Diesel (todas)'}
+741;{'codigo': 741, 'nome': 'F-1000 XL 2.5 HSD Diesel TB'}
+742;{'codigo': 742, 'nome': 'F-1000 XL 4.9i'}
+743;{'codigo': 743, 'nome': 'F-1000 XL 4.9i CE'}
+744;{'codigo': 744, 'nome': 'F-1000 XL 4x4 Diesel Turbo'}
+745;{'codigo': 745, 'nome': 'F-1000 XL Diesel Turbo'}
+746;{'codigo': 746, 'nome': 'F-1000 XLT 2.5 HSD Diesel TB'}
+747;{'codigo': 747, 'nome': 'F-1000 XLT 4x4 Diesel Turbo'}
+748;{'codigo': 748, 'nome': 'F-1000 XLT CE 4.9i'}
+749;{'codigo': 749, 'nome': 'F-1000 XLT Diesel Turbo'}
+750;{'codigo': 750, 'nome': 'F-1000 XLT/XL Lighting 4.9i'}
+10398;{'codigo': 10398, 'nome': 'F-150 Lariat 4x4 5.0 V8'}
+10399;{'codigo': 10399, 'nome': 'F-150 Platinum 4x4 5.0 V8'}
+751;{'codigo': 751, 'nome': 'F-150 XL Triton 4.3 V6'}
+752;{'codigo': 752, 'nome': 'F-150 XLT Triton 4.3'}
+753;{'codigo': 753, 'nome': 'F-150 XLT Triton 4.6 V8'}
+754;{'codigo': 754, 'nome': 'F-150 XLT Triton 5.8'}
+5191;{'codigo': 5191, 'nome': 'F-250 F-MILHA CD 3.9 TB Diesel'}
+6032;{'codigo': 6032, 'nome': 'F-250 Tropica./Tropmine Exec. 3.9 Diesel'}
+4161;{'codigo': 4161, 'nome': 'F-250 TropiCab CE 3.9 TB Diesel'}
+755;{'codigo': 755, 'nome': 'F-250 Tropical 3.9 Diesel'}
+756;{'codigo': 756, 'nome': 'F-250 Tropical 4.2 CE / CD Diesel TB'}
+757;{'codigo': 757, 'nome': 'F-250 Tropical 4.2 V6'}
+758;{'codigo': 758, 'nome': 'F-250 Tropical SL/ Van T.Diesel (todas)'}
+4162;{'codigo': 4162, 'nome': 'F-250 Tropicampo CD 3.9 TB Diesel'}
+4163;{'codigo': 4163, 'nome': 'F-250 Tropiclassic 3.9 TB Diesel'}
+4164;{'codigo': 4164, 'nome': 'F-250 Tropivan Executive 3.9 TB Diesel'}
+4165;{'codigo': 4165, 'nome': 'F-250 Tropivan/Tropi. Plus 3.9 TB Diesel'}
+762;{'codigo': 762, 'nome': 'F-250 XL 3.9 4x2 Diesel'}
+4056;{'codigo': 4056, 'nome': 'F-250 XL 3.9 4x4 TB Diesel'}
+4057;{'codigo': 4057, 'nome': 'F-250 XL 3.9 CD TB Diesel'}
+759;{'codigo': 759, 'nome': 'F-250 XL 4.2 180cv CD TB Diesel'}
+760;{'codigo': 760, 'nome': 'F-250 XL 4.2 Turbo Diesel'}
+761;{'codigo': 761, 'nome': 'F-250 XL 4.2 V6'}
+763;{'codigo': 763, 'nome': 'F-250 XL Super Duty 3.9 Diesel'}
+764;{'codigo': 764, 'nome': 'F-250 XL Super Duty 4.2 TB Diesel'}
+765;{'codigo': 765, 'nome': 'F-250 XL Super Duty 4.2 V6'}
+4058;{'codigo': 4058, 'nome': 'F-250 XLT 3.9 4x2 CD TB Diesel'}
+766;{'codigo': 766, 'nome': 'F-250 XLT 3.9 4x2 Diesel TB'}
+4059;{'codigo': 4059, 'nome': 'F-250 XLT 3.9 4x4 CD TB Diesel'}
+4060;{'codigo': 4060, 'nome': 'F-250 XLT 3.9 4x4 TB Diesel'}
+767;{'codigo': 767, 'nome': 'F-250 XLT 4.2 180cv CD TB Diesel'}
+768;{'codigo': 768, 'nome': 'F-250 XLT 4.2 TB Diesel'}
+769;{'codigo': 769, 'nome': 'F-250 XLT 4.2 V6'}
+4135;{'codigo': 4135, 'nome': 'Fiesta 1.0 8V Flex/Class 1.0 8V Flex 5p'}
+770;{'codigo': 770, 'nome': 'Fiesta 1.0i 3p e 5p'}
+771;{'codigo': 771, 'nome': 'Fiesta 1.3  3p e 5p'}
+6422;{'codigo': 6422, 'nome': 'Fiesta 1.5 16V Flex Mec. 5p'}
+6423;{'codigo': 6423, 'nome': 'Fiesta 1.6 16V Flex Aut. 5p'}
+6424;{'codigo': 6424, 'nome': 'Fiesta 1.6 16V Flex Mec. 5p'}
+772;{'codigo': 772, 'nome': 'Fiesta 1.6 8V Flex/Class 1.6 8V Flex 5p'}
+773;{'codigo': 773, 'nome': 'Fiesta Class 1.0 2p'}
+774;{'codigo': 774, 'nome': 'Fiesta Class 1.0 4p'}
+775;{'codigo': 775, 'nome': 'Fiesta Class 1.6 8V 98cv 5p'}
+776;{'codigo': 776, 'nome': 'Fiesta CLX 1.3i 3p'}
+777;{'codigo': 777, 'nome': 'Fiesta CLX 1.3i 5p'}
+778;{'codigo': 778, 'nome': 'Fiesta CLX 1.4i 16V 3p e 5p'}
+779;{'codigo': 779, 'nome': 'Fiesta GL 1.0 3p'}
+780;{'codigo': 780, 'nome': 'Fiesta GL 1.0 5p'}
+781;{'codigo': 781, 'nome': 'Fiesta GL Class 1.0i 5p'}
+782;{'codigo': 782, 'nome': 'Fiesta GLX 1.6 8V 3p'}
+783;{'codigo': 783, 'nome': 'Fiesta GLX 1.6 8V 5p'}
+784;{'codigo': 784, 'nome': 'Fiesta Personnalité 1.0 8V 66cv 5p'}
+6425;{'codigo': 6425, 'nome': 'Fiesta S 1.0 8V Flex 5p'}
+6426;{'codigo': 6426, 'nome': 'Fiesta SE 1.0 8V Flex 5p'}
+5668;{'codigo': 5668, 'nome': 'Fiesta SE 1.6 16V Flex 5p'}
+6427;{'codigo': 6427, 'nome': 'Fiesta SE 1.6 8V Flex 5p'}
+8148;{'codigo': 8148, 'nome': 'Fiesta SE Plus 1.6 16V Flex Aut. 5p'}
+8008;{'codigo': 8008, 'nome': 'Fiesta SE Plus Direct 1.6 16V Flex Aut.'}
+7753;{'codigo': 7753, 'nome': 'Fiesta SE Style 1.6 16V Flex Mec. 5p'}
+785;{'codigo': 785, 'nome': 'Fiesta Sed. 1.6 8V Flex 4p'}
+786;{'codigo': 786, 'nome': 'Fiesta Sed. Personnalité 1.0 8V 4p'}
+787;{'codigo': 787, 'nome': 'Fiesta Sed. Supercharger 1.0 8V 4p'}
+6523;{'codigo': 6523, 'nome': 'Fiesta Sed. TI./TI.Plus1.6 16V Flex Aut.'}
+4136;{'codigo': 4136, 'nome': 'Fiesta Sedan 1.0 8V Flex 4p'}
+6521;{'codigo': 6521, 'nome': 'Fiesta Sedan 1.6 16V Flex Aut.'}
+6522;{'codigo': 6522, 'nome': 'Fiesta Sedan 1.6 16V Flex Mec.'}
+6428;{'codigo': 6428, 'nome': 'Fiesta Sedan S 1.0 8V Flex 4p'}
+6429;{'codigo': 6429, 'nome': 'Fiesta Sedan SE 1.0 8V Flex 4p'}
+5345;{'codigo': 5345, 'nome': 'Fiesta Sedan SE 1.6 16V Flex 4p'}
+6430;{'codigo': 6430, 'nome': 'Fiesta Sedan SE 1.6 8V Flex 4p'}
+8047;{'codigo': 8047, 'nome': 'Fiesta Sedan SEL 1.6 16V Flex Aut.'}
+8048;{'codigo': 8048, 'nome': 'Fiesta Sedan SEL 1.6 16V Flex Mec.'}
+788;{'codigo': 788, 'nome': 'Fiesta Sedan Street 1.0 8v 4p'}
+789;{'codigo': 789, 'nome': 'Fiesta Sedan Street 1.6 8v 4p'}
+6524;{'codigo': 6524, 'nome': 'Fiesta Sedan TITANIUM 1.6 16V Flex Mec'}
+8009;{'codigo': 8009, 'nome': 'Fiesta SEL 1.0 12V EcoBoost Aut. 5p'}
+7659;{'codigo': 7659, 'nome': 'Fiesta SEL 1.6 16V Flex  Aut. 5p'}
+7660;{'codigo': 7660, 'nome': 'Fiesta SEL 1.6 16V Flex Mec. 5p'}
+8177;{'codigo': 8177, 'nome': 'Fiesta SEL Style 1.0 EcoBoost Aut . 5p'}
+7754;{'codigo': 7754, 'nome': 'Fiesta SEL Style 1.6 16V Flex Mec. 5p'}
+790;{'codigo': 790, 'nome': 'Fiesta Sport 1.0MPi 4p'}
+7184;{'codigo': 7184, 'nome': 'Fiesta Sport 1.6 16V Flex Mec.'}
+791;{'codigo': 791, 'nome': 'Fiesta Sport 1.6MPi 4p'}
+792;{'codigo': 792, 'nome': 'Fiesta Street 1.0 8v 3p'}
+793;{'codigo': 793, 'nome': 'Fiesta Street 1.6 8v 95cv 5p'}
+794;{'codigo': 794, 'nome': 'Fiesta Street/ Action 1.0 8v 5p'}
+795;{'codigo': 795, 'nome': 'Fiesta Supercharger 1.0 8V 95cv 5p'}
+6431;{'codigo': 6431, 'nome': 'Fiesta TIT./TIT.Plus 1.6 16V Flex Aut.'}
+7661;{'codigo': 7661, 'nome': 'Fiesta TIT.Plus 1.0 12V EcoBoost Aut. 5p'}
+6432;{'codigo': 6432, 'nome': 'Fiesta TITANIUM 1.6 16V Flex Mec.'}
+4409;{'codigo': 4409, 'nome': 'Fiesta TRAIL 1.0 8V Flex 5p'}
+4410;{'codigo': 4410, 'nome': 'Fiesta TRAIL 1.6 8V Flex 5p'}
+6610;{'codigo': 6610, 'nome': 'Focus 1.6 S/1.6 SE Flex 16v 5p Aut'}
+796;{'codigo': 796, 'nome': 'Focus 1.6 S/SE/SE Plus Flex 8V/16V  5p'}
+797;{'codigo': 797, 'nome': 'Focus 1.8 16V 5p'}
+798;{'codigo': 798, 'nome': 'Focus 2.0 16V/ 2.0 16V Flex 5p'}
+799;{'codigo': 799, 'nome': 'Focus 2.0 16V/SE/SE Plus Flex 5p Aut.'}
+7284;{'codigo': 7284, 'nome': 'Focus Fastback SE/SE PLUS 2.0 Flex Aut.'}
+7285;{'codigo': 7285, 'nome': 'Focus Fastback TIT./T.PLUS 2.0 Flex Aut.'}
+800;{'codigo': 800, 'nome': 'Focus Ghia  2.0 16V/ 2.0 16V Flex 5p Aut'}
+801;{'codigo': 801, 'nome': 'Focus Ghia Sed. 2.0 16V/ 2.0 16V Flex 4p'}
+802;{'codigo': 802, 'nome': 'Focus Ghia Sed. 2.0 16V/2.0 16V Flex Aut'}
+803;{'codigo': 803, 'nome': 'Focus Ghia/ XR 2.0 /Ghia 2.0 16V Flex 5p'}
+5450;{'codigo': 5450, 'nome': 'Focus Sed. TI./TI.Plus 2.0 16V Flex  Aut'}
+7687;{'codigo': 7687, 'nome': 'Focus Sedan 1.6 16V Flex 4p Aut.'}
+804;{'codigo': 804, 'nome': 'Focus Sedan 1.6/1.6 Flex 8V/16V 4p Mec.'}
+805;{'codigo': 805, 'nome': 'Focus Sedan 1.8 16V 115cv 4p'}
+806;{'codigo': 806, 'nome': 'Focus Sedan 2.0 16V/2.0 16V Flex 4p'}
+807;{'codigo': 807, 'nome': 'Focus Sedan 2.0 16V/2.0 16V Flex 4p Aut.'}
+5451;{'codigo': 5451, 'nome': 'Focus TITA/TITA Plus 2.0  Flex 5p Aut.'}
+5452;{'codigo': 5452, 'nome': 'Focus TITANIUM 2.0 16V Flex 5p Mec.'}
+808;{'codigo': 808, 'nome': 'Furglaine 3.6'}
+809;{'codigo': 809, 'nome': 'Furglaine 3.9 Diesel'}
+810;{'codigo': 810, 'nome': 'Furglaine Chateaux/Exec. 3.9 Diesel'}
+10006;{'codigo': 10006, 'nome': 'Fusion 2.5 16V 193cv Aut. (Híbrido)'}
+6381;{'codigo': 6381, 'nome': 'Fusion 2.5L I-VCT Flex Aut.'}
+7826;{'codigo': 7826, 'nome': 'Fusion SE 2.5 I-VCT Flex 16V Aut.'}
+7755;{'codigo': 7755, 'nome': 'Fusion SEL 2.0 Ecobo. 16V 248cv Aut.'}
+4061;{'codigo': 4061, 'nome': 'Fusion SEL 2.3 16V  162cv Aut.'}
+4922;{'codigo': 4922, 'nome': 'Fusion SEL 2.5 16V 173cv Aut.'}
+5622;{'codigo': 5622, 'nome': 'Fusion SEL 3.0 V6  24V 243cv Aut.'}
+4923;{'codigo': 4923, 'nome': 'Fusion SEL 3.0 V6 AWD 24V 243cv Aut.'}
+10007;{'codigo': 10007, 'nome': 'Fusion Titanium 2.0 145cv Aut. (Híbrido)'}
+6324;{'codigo': 6324, 'nome': 'Fusion Titanium 2.0 GTDI Eco. Awd Aut.'}
+6382;{'codigo': 6382, 'nome': 'Fusion Titanium 2.0 GTDI Eco. Fwd Aut.'}
+811;{'codigo': 811, 'nome': 'Ibiza 3.9 Furgão Diesel'}
+812;{'codigo': 812, 'nome': 'Ibiza Chat./Exec. 3.9 Diesel'}
+4514;{'codigo': 4514, 'nome': 'Ka 1.0 8V/1.0 8V ST Flex 3p'}
+8744;{'codigo': 8744, 'nome': 'Ka 1.0 FREESTYLE 12V Flex 5p Mec.'}
+8149;{'codigo': 8149, 'nome': 'Ka 1.0 S TiVCT Flex 5p'}
+6915;{'codigo': 6915, 'nome': 'Ka 1.0 SE/SE Plus TiVCT Flex 5p'}
+6914;{'codigo': 6914, 'nome': 'Ka 1.0 SEL TiVCT Flex 5p'}
+8122;{'codigo': 8122, 'nome': 'Ka 1.0 TECNO 12V Flex 5p'}
+4789;{'codigo': 4789, 'nome': 'Ka 1.0 TECNO 8V Flex 3p'}
+813;{'codigo': 813, 'nome': 'Ka 1.0i 3p'}
+8745;{'codigo': 8745, 'nome': 'Ka 1.5 100 Anos Flex 5p Aut.'}
+8401;{'codigo': 8401, 'nome': 'Ka 1.5 FreeStyle 12V Flex 5p Aut.'}
+8402;{'codigo': 8402, 'nome': 'Ka 1.5 FreeStyle 12V Flex 5p Mec.'}
+8440;{'codigo': 8440, 'nome': 'Ka 1.5 SE 12V Flex 5p Aut.'}
+8441;{'codigo': 8441, 'nome': 'Ka 1.5 SE 12V Flex 5p Mec.'}
+8442;{'codigo': 8442, 'nome': 'Ka 1.5 SE Plus 12V Flex 5p Aut.'}
+8443;{'codigo': 8443, 'nome': 'Ka 1.5 SE Plus 12V Flex 5p Mec.'}
+6916;{'codigo': 6916, 'nome': 'Ka 1.5 SE/SE PLUS 16V Flex 5p'}
+8444;{'codigo': 8444, 'nome': 'Ka 1.5 Sedan SE 12V Flex 4p Aut.'}
+8445;{'codigo': 8445, 'nome': 'Ka 1.5 Sedan SE 12V Flex 4p Mec.'}
+8446;{'codigo': 8446, 'nome': 'Ka 1.5 Sedan SE Plus 12V Flex 4p Aut.'}
+8447;{'codigo': 8447, 'nome': 'Ka 1.5 Sedan SE Plus 12V Flex 4p Mec.'}
+8746;{'codigo': 8746, 'nome': 'Ka 1.5 Sedan SEL 12V Flex 4p Aut.'}
+8448;{'codigo': 8448, 'nome': 'Ka 1.5 Sedan SEL 12V Flex 4p Mec.'}
+8403;{'codigo': 8403, 'nome': 'Ka 1.5 Sedan TITANIUM 12V Flex 4p Aut.'}
+8449;{'codigo': 8449, 'nome': 'Ka 1.5 TITANIUM 12V Flex 5p Aut.'}
+4515;{'codigo': 4515, 'nome': 'Ka 1.6 8V Flex 3p'}
+4790;{'codigo': 4790, 'nome': 'Ka 1.6 TECNO 8V Flex 3p'}
+814;{'codigo': 814, 'nome': 'Ka Action 1.6 MPI 8V 95cv'}
+815;{'codigo': 815, 'nome': 'Ka Black 1.0 MPI 8v 65cv'}
+816;{'codigo': 816, 'nome': 'Ka Black 1.6 MPI 8v 95cv'}
+817;{'codigo': 817, 'nome': 'Ka CLX 1.3i 3p'}
+818;{'codigo': 818, 'nome': 'Ka GL 1.0i Zetec Rocam'}
+819;{'codigo': 819, 'nome': 'Ka GL Image 1.0i/ 1.0i Zetec Rocam'}
+820;{'codigo': 820, 'nome': 'Ka Image 1.0i'}
+3887;{'codigo': 3887, 'nome': 'Ka MP3 1.0 MPI 8V 65cv'}
+3888;{'codigo': 3888, 'nome': 'Ka MP3 1.6 MPI 8V 95cv'}
+6917;{'codigo': 6917, 'nome': 'Ka SEL 1.5 16V Flex 5p'}
+5623;{'codigo': 5623, 'nome': 'Ka Sport 1.6 8V Flex 3p'}
+821;{'codigo': 821, 'nome': 'Ka Street 1.0i'}
+822;{'codigo': 822, 'nome': 'Ka Tecno 1.0i 8v Zetec Rocam'}
+7905;{'codigo': 7905, 'nome': 'Ka TRAIL 1.0 12V Flex Mec. 5p'}
+7904;{'codigo': 7904, 'nome': 'Ka TRAIL 1.5 16V Flex Mec. 5p'}
+823;{'codigo': 823, 'nome': 'Ka XR 1.6 MPI 8V'}
+6919;{'codigo': 6919, 'nome': 'Ka+ Sedan 1.0 SE/SE PLUS TiVCT Flex 4p'}
+6918;{'codigo': 6918, 'nome': 'Ka+ Sedan 1.0 SEL TiCVT Flex 4p'}
+8123;{'codigo': 8123, 'nome': 'Ka+ Sedan 1.5 ADVANCED 16V Flex 4p'}
+6920;{'codigo': 6920, 'nome': 'Ka+ Sedan 1.5 SE/SE PLUS 16V Flex 4p'}
+6921;{'codigo': 6921, 'nome': 'Ka+ Sedan 1.5 SEL 16V Flex 4p'}
+9744;{'codigo': 9744, 'nome': 'Maverick Lariat FX4 2.0 EcoBoost Aut.'}
+10758;{'codigo': 10758, 'nome': 'Maverick Lariat Hybrid 2.5 Aut.'}
+824;{'codigo': 824, 'nome': 'Mondeo CLX 1.8 4p e 5p'}
+825;{'codigo': 825, 'nome': 'Mondeo CLX 1.8i SW'}
+826;{'codigo': 826, 'nome': 'Mondeo CLX 2.0i 4p Aut'}
+827;{'codigo': 827, 'nome': 'Mondeo CLX 2.0i 4p Mec'}
+828;{'codigo': 828, 'nome': 'Mondeo CLX 2.0i SW Aut'}
+829;{'codigo': 829, 'nome': 'Mondeo CLX 2.0i SW Mec'}
+830;{'codigo': 830, 'nome': 'Mondeo Ghia 2.0 16V 143cv 4p Aut'}
+831;{'codigo': 831, 'nome': 'Mondeo Ghia 2.0 16V 143cv 4p Mec'}
+832;{'codigo': 832, 'nome': 'Mondeo Ghia 2.5 V6 Aut'}
+833;{'codigo': 833, 'nome': 'Mondeo Ghia 2.5 V6 Mec'}
+834;{'codigo': 834, 'nome': 'Mondeo GLX 2.0 16V 4p Aut'}
+835;{'codigo': 835, 'nome': 'Mondeo GLX 2.0 4p e 5p'}
+836;{'codigo': 836, 'nome': 'Mondeo GLX 2.0i SW Mec./ Aut.'}
+837;{'codigo': 837, 'nome': 'Mustang 3.8 V6'}
+838;{'codigo': 838, 'nome': 'Mustang 3.8 V6 Conv.'}
+8987;{'codigo': 8987, 'nome': 'Mustang Black Shadow 5.0 V8'}
+839;{'codigo': 839, 'nome': 'Mustang Cobra 5.7 V8'}
+8238;{'codigo': 8238, 'nome': 'Mustang GT Premium 5.0 V8'}
+840;{'codigo': 840, 'nome': 'Mustang GT V8'}
+841;{'codigo': 841, 'nome': 'Mustang GT V8 Conversível'}
+9354;{'codigo': 9354, 'nome': 'Mustang MACH 1 5.0 V8'}
+10868;{'codigo': 10868, 'nome': 'Mustang Mach-E GT Performance (Elétrico)'}
+842;{'codigo': 842, 'nome': 'Pampa 4x4 Jeep GL / L 1.6'}
+843;{'codigo': 843, 'nome': 'Pampa Ghia 1.6/1.8/DUO'}
+844;{'codigo': 844, 'nome': 'Pampa GL 1.6/ 1.8'}
+845;{'codigo': 845, 'nome': 'Pampa L 1.6'}
+846;{'codigo': 846, 'nome': 'Pampa L 1.8i / 1.8'}
+847;{'codigo': 847, 'nome': 'Pampa S 1.8'}
+848;{'codigo': 848, 'nome': 'Probe 2.0/2.2'}
+849;{'codigo': 849, 'nome': 'Probe GT 2.5 V6'}
+850;{'codigo': 850, 'nome': 'Ranger 2.5 4x2 CD TB Diesel'}
+851;{'codigo': 851, 'nome': 'Ranger 2.5 4x2 CE Diesel'}
+852;{'codigo': 852, 'nome': 'Ranger 2.5 4x2 TB Diesel'}
+853;{'codigo': 853, 'nome': 'Ranger 2.5 4x4 CD TB Diesel'}
+854;{'codigo': 854, 'nome': 'Ranger 2.5 4x4 CE TB Diesel'}
+855;{'codigo': 855, 'nome': 'Ranger 2.5 4x4 TB Diesel'}
+856;{'codigo': 856, 'nome': 'Ranger 2.5i CD'}
+857;{'codigo': 857, 'nome': 'Ranger 2.5i CE'}
+858;{'codigo': 858, 'nome': 'Ranger 2.5i CS'}
+9359;{'codigo': 9359, 'nome': 'Ranger Black 2.2 4x2 CD Diesel Aut.'}
+9772;{'codigo': 9772, 'nome': 'Ranger FX4 3.2 20V 4x4 CD Diesel Aut.'}
+4998;{'codigo': 4998, 'nome': 'Ranger Limited 2.3 150cv CD'}
+6163;{'codigo': 6163, 'nome': 'Ranger Limited 2.5 16V 4x2 CD Flex'}
+859;{'codigo': 859, 'nome': 'Ranger Limited 3.0 PSE 4x4 CD TB Diesel'}
+10761;{'codigo': 10761, 'nome': 'Ranger Limited 3.0 V6 4x4 CD TB Die. Aut'}
+10741;{'codigo': 10741, 'nome': 'Ranger Limited 3.2 4x4 CD Diesel Aut.'}
+10762;{'codigo': 10762, 'nome': 'Ranger Limited+ 3.0 V6 4x4 CD TB Die Aut'}
+10891;{'codigo': 10891, 'nome': 'Ranger Raptor 3.0 V6 Bi-Turbo 4WD AUT.'}
+860;{'codigo': 860, 'nome': 'Ranger Splash CE'}
+861;{'codigo': 861, 'nome': 'Ranger Splash CS'}
+6746;{'codigo': 6746, 'nome': 'Ranger SPORT 2.5 Flex 16V 4x2 CS'}
+8079;{'codigo': 8079, 'nome': 'Ranger SPORTRAC 2.2 16V 4x4 CD Dies Aut.'}
+9080;{'codigo': 9080, 'nome': 'Ranger Storm 3.2 20V 4x4 CD Diesel Aut.'}
+862;{'codigo': 862, 'nome': 'Ranger STX 4.0 CS/ CE'}
+6525;{'codigo': 6525, 'nome': 'Ranger TROPICAB 2.5 16V 4X2 Flex'}
+6526;{'codigo': 6526, 'nome': 'Ranger TROPICAB 3.2 20V 4X4 TB Diesel'}
+6527;{'codigo': 6527, 'nome': 'Ranger TROPIVAN 2.5 16V 4X2 Flex'}
+6528;{'codigo': 6528, 'nome': 'Ranger TROPIVAN 3.2 20V 4X4 TB Dies.Aut.'}
+6529;{'codigo': 6529, 'nome': 'Ranger TROPIVAN 3.2 20V 4X4 TB Diesel'}
+5365;{'codigo': 5365, 'nome': 'Ranger TROPIVAN XLT 2.3 16V 150cv'}
+5366;{'codigo': 5366, 'nome': 'Ranger TROPIVAN XLT 3.0 PSE 4x2 TB Dies.'}
+5367;{'codigo': 5367, 'nome': 'Ranger TROPIVAN XLT 3.0 PSE 4x4 TB Dies.'}
+10828;{'codigo': 10828, 'nome': 'Ranger XL 2.0 4x4 CD Diesel Mec. '}
+7688;{'codigo': 7688, 'nome': 'Ranger XL 2.2 4x4 CD Diesel Mec.'}
+7882;{'codigo': 7882, 'nome': 'Ranger XL 2.2 4x4 CS Diesel Mec.'}
+863;{'codigo': 863, 'nome': 'Ranger XL 2.3 16v 137cv 4x2 CD Repower.'}
+864;{'codigo': 864, 'nome': 'Ranger XL 2.3 16v 137cv 4x2 CE Repower.'}
+865;{'codigo': 865, 'nome': 'Ranger XL 2.3 16v 137cv 4x2 CS Repower.'}
+866;{'codigo': 866, 'nome': 'Ranger XL 2.3 CS'}
+867;{'codigo': 867, 'nome': 'Ranger XL 2.8 8v 135cv 4x2 CD TB Diesel'}
+868;{'codigo': 868, 'nome': 'Ranger XL 2.8 8v 135cv 4x2 CE TB Diesel'}
+869;{'codigo': 869, 'nome': 'Ranger XL 2.8 8v 135cv 4x2 CS TB Diesel'}
+870;{'codigo': 870, 'nome': 'Ranger XL 2.8 8v 135cv 4x4 CD TB Diesel'}
+871;{'codigo': 871, 'nome': 'Ranger XL 2.8 8v 135cv 4x4 CE TB Diesel'}
+872;{'codigo': 872, 'nome': 'Ranger XL 2.8 8v 135cv 4x4 CS TB Diesel'}
+3814;{'codigo': 3814, 'nome': 'Ranger XL 3.0 PSE 163cv 4x2 CD TB Diesel'}
+3815;{'codigo': 3815, 'nome': 'Ranger XL 3.0 PSE 163cv 4x2 CS TB Diesel'}
+3816;{'codigo': 3816, 'nome': 'Ranger XL 3.0 PSE 163cv 4x4 CD TB Diesel'}
+3817;{'codigo': 3817, 'nome': 'Ranger XL 3.0 PSE 163cv 4x4 CS TB Diesel'}
+873;{'codigo': 873, 'nome': 'Ranger XL 4.0 12v V6 210cv 4x2 CS Repow.'}
+874;{'codigo': 874, 'nome': 'Ranger XL 4.0 CS'}
+10829;{'codigo': 10829, 'nome': 'Ranger XLS 2.0 4x2 CD Diesel Aut. '}
+10830;{'codigo': 10830, 'nome': 'Ranger XLS 2.0 4x4 CD Diesel Aut. '}
+8316;{'codigo': 8316, 'nome': 'Ranger XLS 2.2 4x2 CD Diesel Aut.'}
+8049;{'codigo': 8049, 'nome': 'Ranger XLS 2.2 4x2 CD Diesel Mec.'}
+7590;{'codigo': 7590, 'nome': 'Ranger XLS 2.2 4x4 CD Diesel Aut.'}
+6693;{'codigo': 6693, 'nome': 'Ranger XLS 2.2 4x4 CD Diesel Mec.'}
+875;{'codigo': 875, 'nome': 'Ranger XLS 2.3 16V 145cv/150cv 4x2 CD'}
+876;{'codigo': 876, 'nome': 'Ranger XLS 2.3 16V 145cv/150cv 4x2 CS'}
+6165;{'codigo': 6165, 'nome': 'Ranger XLS 2.5 16V 4x2 CD Flex'}
+6166;{'codigo': 6166, 'nome': 'Ranger XLS 2.5 16V 4x2 CS Flex'}
+877;{'codigo': 877, 'nome': 'Ranger XLS 2.8 8V 135cv 4x2 CD TB Diesel'}
+878;{'codigo': 878, 'nome': 'Ranger XLS 2.8 8V 135cv 4x2 CS TB Diesel'}
+879;{'codigo': 879, 'nome': 'Ranger XLS 2.8 8V 135cv 4x4 CS TB Diesel'}
+880;{'codigo': 880, 'nome': 'Ranger XLS 2.8/2.8 Storm  4x4 CD TB Dies'}
+881;{'codigo': 881, 'nome': 'Ranger XLS 3.0 PSE 163cv 4x2 CD TB Dies.'}
+882;{'codigo': 882, 'nome': 'Ranger XLS 3.0 PSE 163cv 4x2 CS TB Dies.'}
+883;{'codigo': 883, 'nome': 'Ranger XLS 3.0 PSE 163cv 4x4 CD TB Dies.'}
+4848;{'codigo': 4848, 'nome': 'Ranger XLS 3.0 PSE Storm 4x4 CD TB Dies.'}
+10831;{'codigo': 10831, 'nome': 'Ranger XLS 3.0 V6 4x4 CD Diesel Aut. '}
+6562;{'codigo': 6562, 'nome': 'Ranger XLS 3.2 20V 4x4 CD Diesel Aut.'}
+6167;{'codigo': 6167, 'nome': 'Ranger XLS 3.2 20V 4x4 CD Diesel Mec.'}
+6168;{'codigo': 6168, 'nome': 'Ranger XLS 3.2 20V 4x4 CS Diesel'}
+4474;{'codigo': 4474, 'nome': 'Ranger XLS SPORT 2.3 16V 150cv CS'}
+4291;{'codigo': 4291, 'nome': 'Ranger XLT 2.3 16V 150cv CD Repower.'}
+884;{'codigo': 884, 'nome': 'Ranger XLT 2.3 CS'}
+6169;{'codigo': 6169, 'nome': 'Ranger XLT 2.5 16V 4x2 CD Flex'}
+885;{'codigo': 885, 'nome': 'Ranger XLT 2.5 4x2 CD Diesel'}
+886;{'codigo': 886, 'nome': 'Ranger XLT 2.5 4x2 CE Diesel'}
+887;{'codigo': 887, 'nome': 'Ranger XLT 2.5 4x2 CS Diesel'}
+888;{'codigo': 888, 'nome': 'Ranger XLT 2.5 4x4 CD Diesel'}
+889;{'codigo': 889, 'nome': 'Ranger XLT 2.5 4x4 CE TB Diesel'}
+890;{'codigo': 890, 'nome': 'Ranger XLT 2.5 4x4 CS TB Diesel'}
+891;{'codigo': 891, 'nome': 'Ranger XLT 2.8 8v 135cv 4x2 CD TB Diesel'}
+892;{'codigo': 892, 'nome': 'Ranger XLT 2.8 8v 135cv 4x4 CD TB Diesel'}
+893;{'codigo': 893, 'nome': 'Ranger XLT 2.8 8v 135cv 4x4 CE TB Diesel'}
+894;{'codigo': 894, 'nome': 'Ranger XLT 3.0 PSE 163cv 4x2 CD TB Dies.'}
+895;{'codigo': 895, 'nome': 'Ranger XLT 3.0 PSE 163cv 4x4 CD TB Dies.'}
+10763;{'codigo': 10763, 'nome': 'Ranger XLT 3.0 V6 4x4 CD TB  Die. Aut.'}
+6170;{'codigo': 6170, 'nome': 'Ranger XLT 3.2 20V 4x4 CD Diesel'}
+6171;{'codigo': 6171, 'nome': 'Ranger XLT 3.2 20V 4x4 CD Diesel Aut.'}
+896;{'codigo': 896, 'nome': 'Ranger XLT 4.0 12v V6 210cv 4x4 CD Repow'}
+897;{'codigo': 897, 'nome': 'Ranger XLT 4.0 12v V6 210cv 4x4 CE Repow'}
+898;{'codigo': 898, 'nome': 'Ranger XLT 4.0 4x2 CE'}
+899;{'codigo': 899, 'nome': 'Ranger XLT 4.0 4x2 CS'}
+900;{'codigo': 900, 'nome': 'Ranger XLT 4.0 4x4 CD'}
+901;{'codigo': 901, 'nome': 'Ranger XLT 4.0 4x4 CE'}
+902;{'codigo': 902, 'nome': 'Ranger XLT 4.0 4x4 CS'}
+903;{'codigo': 903, 'nome': 'Ranger XLT Limit./L.Cent. 2.8 CD TB Dies'}
+904;{'codigo': 904, 'nome': 'Royale Ghia 2.0/2.0i 2p e 4p'}
+905;{'codigo': 905, 'nome': 'Royale GL 1.8/1.8i  2p e 4p'}
+906;{'codigo': 906, 'nome': 'Royale GL 2.0/2.0i 2p e 4p'}
+907;{'codigo': 907, 'nome': 'Taurus GL 3.0 V6'}
+908;{'codigo': 908, 'nome': 'Taurus GL SW 3.0 V6 24V'}
+909;{'codigo': 909, 'nome': 'Taurus L/LX 3.0 V6'}
+910;{'codigo': 910, 'nome': 'Taurus LX SW 3.0 V6 24V'}
+911;{'codigo': 911, 'nome': 'Taurus SHO 3.0 V6'}
+9163;{'codigo': 9163, 'nome': 'TERRITORY SEL 1.5 GTDi EcoBoost Aut.'}
+9164;{'codigo': 9164, 'nome': 'TERRITORY Titanium 1.5 GTDi EcoBo. Aut.'}
+912;{'codigo': 912, 'nome': 'Thunderbird SC 3.8 V6'}
+6202;{'codigo': 6202, 'nome': 'TRANSIT Chassi 2.2 TDCI Diesel'}
+5247;{'codigo': 5247, 'nome': 'TRANSIT Chassi 2.4 TDCI Diesel'}
+10838;{'codigo': 10838, 'nome': 'TRANSIT Chassi 350E 2.0 EcoBule Diesel'}
+10839;{'codigo': 10839, 'nome': 'TRANSIT Chassi 470E 2.0 EcoBule Diesel'}
+9839;{'codigo': 9839, 'nome': 'TRANSIT Furgão 2.0 Curto Turbo Diesel'}
+10638;{'codigo': 10638, 'nome': 'TRANSIT Furgão 2.0 Longo Turbo Die Aut.'}
+9840;{'codigo': 9840, 'nome': 'TRANSIT Furgão 2.0 Longo Turbo Diesel '}
+6383;{'codigo': 6383, 'nome': 'TRANSIT Furgão 2.2 TDCI Curto Diesel'}
+6296;{'codigo': 6296, 'nome': 'TRANSIT Furgão 2.2 TDCI Longa Diesel'}
+5884;{'codigo': 5884, 'nome': 'TRANSIT Furgão 2.2 TDCI Longo Jumbo Dies'}
+4838;{'codigo': 4838, 'nome': 'TRANSIT Furgão 3330 2.4 TDCI Curto Dies.'}
+4839;{'codigo': 4839, 'nome': 'TRANSIT Furgão 3550 2.4 TDCI Longo Dies.'}
+10639;{'codigo': 10639, 'nome': 'TRANSIT Minibus 15 Lug. 2.0 16V Die Aut.'}
+9650;{'codigo': 9650, 'nome': 'TRANSIT Minibus 15 Lug. 2.0 16V Diesel'}
+10640;{'codigo': 10640, 'nome': 'TRANSIT Minibus 18 Lug. 2.0 16V Die Aut.'}
+9651;{'codigo': 9651, 'nome': 'TRANSIT Minibus 18 Lug. 2.0 16V Diesel'}
+10641;{'codigo': 10641, 'nome': 'TRANSIT Minibus Vidrada 2.0 16V Die Aut.'}
+9652;{'codigo': 9652, 'nome': 'TRANSIT Minibus Vidrada 2.0 16V Diesel'}
+6203;{'codigo': 6203, 'nome': 'TRANSIT Van 3550 2.2 TDCI 14/16lug. Dies'}
+4840;{'codigo': 4840, 'nome': 'TRANSIT Van 3550 2.4 TDCI 14lug. Diesel'}
+913;{'codigo': 913, 'nome': 'Verona Ghia 2.0i 4p'}
+914;{'codigo': 914, 'nome': 'Verona GL 1.8i / LX 1.8i 4p'}
+915;{'codigo': 915, 'nome': 'Verona GLX 1.8 (Modelo antigo)'}
+916;{'codigo': 916, 'nome': 'Verona GLX 1.8i / 1.8 4p'}
+917;{'codigo': 917, 'nome': 'Verona GLX 2.0i / 2.0 4p'}
+918;{'codigo': 918, 'nome': 'Verona LX 1.6 (Modelo antigo)'}
+919;{'codigo': 919, 'nome': 'Verona LX 1.8 (Modelo antigo)'}
+920;{'codigo': 920, 'nome': 'Verona S 2.0i 4p'}
+921;{'codigo': 921, 'nome': 'Versailles Ghia 2.0i / 2.0 2p e 4p'}
+922;{'codigo': 922, 'nome': 'Versailles GL 1.8i / 1.8 2p e 4p'}
+923;{'codigo': 923, 'nome': 'Versailles GL 2.0i / 2.0 2p e 4p'}
+924;{'codigo': 924, 'nome': 'Windstar GL'}
+925;{'codigo': 925, 'nome': 'Windstar LX'}
