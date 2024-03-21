@@ -1,0 +1,2 @@
+tipo_veiculo;valor;marca;modelo;anoModelo;combustivel;codigoFipe;mes_referencia;sigla_combustivel
+1;R$ 25.408,00;Ford;Ka 1.0 8V/1.0 8V ST Flex 3p;2013;Gasolina;003325-1;março de 2024;G

@@ -40,14 +40,14 @@ if response.status_code == 200:
     print("Código FIPE:", codigo_fipe)
     print("Mês de Referência:", mes_referencia)
     print("Sigla do Combustível:", sigla_combustivel)
-else:
-    print("Falha ao recuperar os dados:", response.status_code)
+# else:
+#     print("Falha ao recuperar os dados:", response.status_code)
     
 
 df = pd.DataFrame(dados_list)
 print(df)
 
-file = f'modelo_info{modelo}.txt'
+file = f'modelo_info.txt'
 path = '/workspaces/api-geral/CAR/dados/ford/'
 
 df.to_csv(f'{path}{file}', sep=';', index=False)
