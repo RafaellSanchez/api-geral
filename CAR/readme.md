@@ -27,12 +27,12 @@ diretório: CAR
  >      |-- dados
  >      |      |
  >      |      |-- ford
- >      |      |      |__ modelo_ford.txt
- >      |      |      |__ modelo_info.txt
+ >      |      |     |__ modelo_ford.txt
+ >      |      |     |__ modelo_info.txt
  >      |      | 
- >      |      |--   vw
- >      |             |__ modelo_vw_info_AMAROK High.CD 2.0 16V TDI 4x4 Dies. Aut.txt
- >      |             |__ modelo_vw.txt
+ >      |      |--  vw
+ >      |            |__ modelo_vw_info_AMAROK High.CD 2.0 16V TDI 4x4 Dies. Aut.txt
+ >      |            |__ modelo_vw.txt
  >      |
  >      |-- doc
  >      |
