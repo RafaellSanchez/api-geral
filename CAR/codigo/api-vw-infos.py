@@ -47,7 +47,7 @@ else:
 df = pd.DataFrame(dados_list)
 print(df)
 
-file = 'modelo_vw_tipoVeiculo.txt'
+file = f'modelo_vw_info_{modelo}.txt'
 path = '/workspaces/api-geral/CAR/dados/'
 
 df.to_csv(f'{path}{file}', sep=';', index=False)
