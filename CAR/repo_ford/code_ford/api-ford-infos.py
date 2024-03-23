@@ -40,7 +40,7 @@ for ano in valores:
         mRef = ano_valor['MesReferencia']
         sglaComb = ano_valor['SiglaCombustivel']
         
-        #Adiciona os dados à lista fora do if
+
         lista_ano_valor.append({
             'tipo_veiculo': tipo,
             'valor':vlr,
