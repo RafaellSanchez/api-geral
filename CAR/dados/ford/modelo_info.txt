@@ -1,2 +1,7 @@
-tipo_veiculo;valor;marca;modelo;anoModelo;combustivel;codigoFipe;mes_referencia;sigla_combustivel
-1;R$ 25.408,00;Ford;Ka 1.0 8V/1.0 8V ST Flex 3p;2013;Gasolina;003325-1;março de 2024;G
+tipo_veiculo;valor;marca;modelo;anoModelo;combustivel;codigoFipe;mes_referencia;sigla_combustivel;Ano
+1;R$ 25.408,00;Ford;Ka 1.0 8V/1.0 8V ST Flex 3p;2013;Gasolina;003325-1;março de 2024;G;2013-1
+1;R$ 22.175,00;Ford;Ka 1.0 8V/1.0 8V ST Flex 3p;2012;Gasolina;003325-1;março de 2024;G;2012-1
+1;R$ 20.695,00;Ford;Ka 1.0 8V/1.0 8V ST Flex 3p;2011;Gasolina;003325-1;março de 2024;G;2011-1
+1;R$ 18.151,00;Ford;Ka 1.0 8V/1.0 8V ST Flex 3p;2010;Gasolina;003325-1;março de 2024;G;2010-1
+1;R$ 17.665,00;Ford;Ka 1.0 8V/1.0 8V ST Flex 3p;2009;Gasolina;003325-1;março de 2024;G;2009-1
+1;R$ 14.730,00;Ford;Ka 1.0 8V/1.0 8V ST Flex 3p;2008;Gasolina;003325-1;março de 2024;G;2008-1
