@@ -1,0 +1,2 @@
+tipo_veiculo;valor;marca;modelo;anoModelo;combustivel;codigoFipe;mes_referencia;sigla_combustivel;Ano
+1;R$ 42.642,00;Ford;Ka 1.0 TECNO 12V Flex 5p;2018;Gasolina;003447-9;março de 2024;G;2018-1
