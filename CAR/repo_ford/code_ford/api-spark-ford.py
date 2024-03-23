@@ -26,14 +26,10 @@ if dados:
 # Cria o DataFrame do Spark
 df = spark.createDataFrame(data_list)
 
-# Define o nome do arquivo CSV
 file = 'modelos_ford.csv'
-
-# Define o caminho do arquivo
 path = '/workspaces/api-geral/CAR/dados/ford/'
 
 # Salva o DataFrame como um arquivo CSV
 df.write.csv(f'{path}{file}', header=True, mode='overwrite')
-
 print(f'Arquivo salvo: {file}')
 print(f'Caminho: {path}')
