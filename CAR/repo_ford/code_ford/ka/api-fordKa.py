@@ -59,7 +59,7 @@ df = pd.DataFrame(lista_ano_valor)
 print(df)
 
 print('Preparando para salvar df')
-file = f'modelo_info.txt'
+file = f'modelo_info_ka.txt'
 path = '/workspaces/api-geral/CAR/repo_ford/ford/ka/'
 
 time.sleep(3)

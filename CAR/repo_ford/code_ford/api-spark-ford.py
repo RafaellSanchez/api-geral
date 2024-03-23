@@ -27,7 +27,7 @@ if dados:
 df = spark.createDataFrame(data_list)
 
 file = 'modelos_ford.csv'
-path = '/workspaces/api-geral/CAR/dados/ford/'
+path = '/workspaces/api-geral/CAR/repo_ford/ford/'
 
 # Salva o DataFrame como um arquivo CSV
 df.write.csv(f'{path}{file}', header=True, mode='overwrite')
