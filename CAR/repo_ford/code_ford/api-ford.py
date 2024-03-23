@@ -23,7 +23,7 @@ df = pd.DataFrame(data_list)
 print(df)
 
 file = 'modelo_ford.txt'
-path = '/workspaces/api-geral/CAR/dados/ford/'
+path = '/workspaces/api-geral/CAR/repo_ford/ford/'
 
 df.to_csv(f'{path}{file}', sep=';', index=False)
 print(f'Arquivo salvo: {file}')
