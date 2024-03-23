@@ -2,7 +2,8 @@ import requests
 import pandas as pd
 import time
 
-url_ano = 'https://parallelum.com.br/fipe/api/v1/carros/marcas/22/modelos/4514/anos'
+
+url_ano = 'https://parallelum.com.br/fipe/api/v1/carros/marcas/22/modelos/4789/anos'
 response = requests.get(url_ano)
 dados = response.json()
 time.sleep(3)
@@ -24,7 +25,7 @@ lista_ano_valor = []
 
 #Itera sobre cada ano, fazendo solicitações individuais para obter os valores
 for ano in valores:
-    url_vlr = f'https://parallelum.com.br/fipe/api/v1/carros/marcas/22/modelos/4514/anos/{ano}'
+    url_vlr = f'https://parallelum.com.br/fipe/api/v1/carros/marcas/22/modelos/4789/anos/{ano}'
     response = requests.get(url_vlr)
     ano_valor = response.json()
     print(f"Ano: {ano}, Valor: {ano_valor}")
@@ -60,8 +61,8 @@ df = pd.DataFrame(lista_ano_valor)
 print(df)
 
 print('Preparando para salvar df')
-file = f'modelo_info.txt'
-path = '/workspaces/api-geral/CAR/dados/ford/'
+file = f'modelo_info{mod}.txt'
+path = '/workspaces/api-geral/CAR/repo_ford/ford/'
 
 time.sleep(3)
 df.to_csv(f'{path}{file}', sep=';', index=False)

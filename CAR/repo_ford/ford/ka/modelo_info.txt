@@ -1,0 +1,154 @@
+tipo_veiculo;valor;marca;modelo;anoModelo;combustivel;codigoFipe;mes_referencia;sigla_combustivel;Ano
+1;R$ 25.408,00;Ford;Ka 1.0 8V/1.0 8V ST Flex 3p;2013;Gasolina;003325-1;março de 2024;G;2013-1
+1;R$ 22.175,00;Ford;Ka 1.0 8V/1.0 8V ST Flex 3p;2012;Gasolina;003325-1;março de 2024;G;2012-1
+1;R$ 20.695,00;Ford;Ka 1.0 8V/1.0 8V ST Flex 3p;2011;Gasolina;003325-1;março de 2024;G;2011-1
+1;R$ 18.151,00;Ford;Ka 1.0 8V/1.0 8V ST Flex 3p;2010;Gasolina;003325-1;março de 2024;G;2010-1
+1;R$ 17.665,00;Ford;Ka 1.0 8V/1.0 8V ST Flex 3p;2009;Gasolina;003325-1;março de 2024;G;2009-1
+1;R$ 14.730,00;Ford;Ka 1.0 8V/1.0 8V ST Flex 3p;2008;Gasolina;003325-1;março de 2024;G;2008-1
+1;R$ 52.941,00;Ford;Ka 1.0 FREESTYLE 12V Flex 5p Mec.;2021;Gasolina;003473-8;março de 2024;G;2021-1
+1;R$ 51.056,00;Ford;Ka 1.0 FREESTYLE 12V Flex 5p Mec.;2020;Gasolina;003473-8;março de 2024;G;2020-1
+1;R$ 52.427,00;Ford;Ka 1.0 S TiVCT Flex 5p;2021;Gasolina;003448-7;março de 2024;G;2021-1
+1;R$ 50.443,00;Ford;Ka 1.0 S TiVCT Flex 5p;2020;Gasolina;003448-7;março de 2024;G;2020-1
+1;R$ 47.254,00;Ford;Ka 1.0 S TiVCT Flex 5p;2019;Gasolina;003448-7;março de 2024;G;2019-1
+1;R$ 40.757,00;Ford;Ka 1.0 S TiVCT Flex 5p;2018;Gasolina;003448-7;março de 2024;G;2018-1
+1;R$ 53.116,00;Ford;Ka 1.0 SE/SE Plus TiVCT Flex 5p;2021;Gasolina;003408-8;março de 2024;G;2021-1
+1;R$ 51.145,00;Ford;Ka 1.0 SE/SE Plus TiVCT Flex 5p;2020;Gasolina;003408-8;março de 2024;G;2020-1
+1;R$ 47.742,00;Ford;Ka 1.0 SE/SE Plus TiVCT Flex 5p;2019;Gasolina;003408-8;março de 2024;G;2019-1
+1;R$ 43.508,00;Ford;Ka 1.0 SE/SE Plus TiVCT Flex 5p;2018;Gasolina;003408-8;março de 2024;G;2018-1
+1;R$ 41.020,00;Ford;Ka 1.0 SE/SE Plus TiVCT Flex 5p;2017;Gasolina;003408-8;março de 2024;G;2017-1
+1;R$ 38.773,00;Ford;Ka 1.0 SE/SE Plus TiVCT Flex 5p;2016;Gasolina;003408-8;março de 2024;G;2016-1
+1;R$ 37.827,00;Ford;Ka 1.0 SE/SE Plus TiVCT Flex 5p;2015;Gasolina;003408-8;março de 2024;G;2015-1
+1;R$ 47.854,00;Ford;Ka 1.0 SEL TiVCT Flex 5p;2019;Gasolina;003409-6;março de 2024;G;2019-1
+1;R$ 44.829,00;Ford;Ka 1.0 SEL TiVCT Flex 5p;2018;Gasolina;003409-6;março de 2024;G;2018-1
+1;R$ 41.916,00;Ford;Ka 1.0 SEL TiVCT Flex 5p;2017;Gasolina;003409-6;março de 2024;G;2017-1
+1;R$ 40.088,00;Ford;Ka 1.0 SEL TiVCT Flex 5p;2016;Gasolina;003409-6;março de 2024;G;2016-1
+1;R$ 39.110,00;Ford;Ka 1.0 SEL TiVCT Flex 5p;2015;Gasolina;003409-6;março de 2024;G;2015-1
+1;R$ 42.642,00;Ford;Ka 1.0 TECNO 12V Flex 5p;2018;Gasolina;003447-9;março de 2024;G;2018-1
+1;R$ 20.798,00;Ford;Ka 1.0 TECNO 8V Flex 3p;2011;Gasolina;003327-8;março de 2024;G;2011-1
+1;R$ 18.253,00;Ford;Ka 1.0 TECNO 8V Flex 3p;2010;Gasolina;003327-8;março de 2024;G;2010-1
+1;R$ 17.784,00;Ford;Ka 1.0 TECNO 8V Flex 3p;2009;Gasolina;003327-8;março de 2024;G;2009-1
+1;R$ 15.621,00;Ford;Ka 1.0 TECNO 8V Flex 3p;2008;Gasolina;003327-8;março de 2024;G;2008-1
+1;R$ 12.963,00;Ford;Ka 1.0i 3p;2007;Gasolina;003018-0;março de 2024;G;2007-1
+1;R$ 12.646,00;Ford;Ka 1.0i 3p;2006;Gasolina;003018-0;março de 2024;G;2006-1
+1;R$ 11.929,00;Ford;Ka 1.0i 3p;2005;Gasolina;003018-0;março de 2024;G;2005-1
+1;R$ 10.179,00;Ford;Ka 1.0i 3p;2004;Gasolina;003018-0;março de 2024;G;2004-1
+1;R$ 9.669,00;Ford;Ka 1.0i 3p;2003;Gasolina;003018-0;março de 2024;G;2003-1
+1;R$ 8.460,00;Ford;Ka 1.0i 3p;2000;Gasolina;003018-0;março de 2024;G;2000-1
+1;R$ 7.441,00;Ford;Ka 1.0i 3p;1999;Gasolina;003018-0;março de 2024;G;1999-1
+1;R$ 6.885,00;Ford;Ka 1.0i 3p;1998;Gasolina;003018-0;março de 2024;G;1998-1
+1;R$ 6.230,00;Ford;Ka 1.0i 3p;1997;Gasolina;003018-0;março de 2024;G;1997-1
+1;R$ 60.212,00;Ford;Ka 1.5 100 Anos Flex 5p Aut.;2020;Gasolina;003471-1;março de 2024;G;2020-1
+1;R$ 65.611,00;Ford;Ka 1.5 FreeStyle 12V Flex 5p Aut.;2021;Gasolina;003457-6;março de 2024;G;2021-1
+1;R$ 63.932,00;Ford;Ka 1.5 FreeStyle 12V Flex 5p Aut.;2020;Gasolina;003457-6;março de 2024;G;2020-1
+1;R$ 58.565,00;Ford;Ka 1.5 FreeStyle 12V Flex 5p Aut.;2019;Gasolina;003457-6;março de 2024;G;2019-1
+1;R$ 52.772,00;Ford;Ka 1.5 FreeStyle 12V Flex 5p Mec.;2019;Gasolina;003458-4;março de 2024;G;2019-1
+1;R$ 57.465,00;Ford;Ka 1.5 SE 12V Flex 5p Aut.;2020;Gasolina;003459-2;março de 2024;G;2020-1
+1;R$ 55.424,00;Ford;Ka 1.5 SE 12V Flex 5p Aut.;2019;Gasolina;003459-2;março de 2024;G;2019-1
+1;R$ 51.503,00;Ford;Ka 1.5 SE 12V Flex 5p Mec.;2019;Gasolina;003462-2;março de 2024;G;2019-1
+1;R$ 64.704,00;Ford;Ka 1.5 SE Plus 12V Flex 5p Aut.;2021;Gasolina;003460-6;março de 2024;G;2021-1
+1;R$ 60.946,00;Ford;Ka 1.5 SE Plus 12V Flex 5p Aut.;2020;Gasolina;003460-6;março de 2024;G;2020-1
+1;R$ 57.245,00;Ford;Ka 1.5 SE Plus 12V Flex 5p Aut.;2019;Gasolina;003460-6;março de 2024;G;2019-1
+1;R$ 59.192,00;Ford;Ka 1.5 SE Plus 12V Flex 5p Mec.;2021;Gasolina;003461-4;março de 2024;G;2021-1
+1;R$ 57.595,00;Ford;Ka 1.5 SE Plus 12V Flex 5p Mec.;2020;Gasolina;003461-4;março de 2024;G;2020-1
+1;R$ 55.793,00;Ford;Ka 1.5 SE Plus 12V Flex 5p Mec.;2019;Gasolina;003461-4;março de 2024;G;2019-1
+1;R$ 44.528,00;Ford;Ka 1.5 SE/SE PLUS 16V Flex 5p;2018;Gasolina;003410-0;março de 2024;G;2018-1
+1;R$ 41.665,00;Ford;Ka 1.5 SE/SE PLUS 16V Flex 5p;2017;Gasolina;003410-0;março de 2024;G;2017-1
+1;R$ 39.602,00;Ford;Ka 1.5 SE/SE PLUS 16V Flex 5p;2016;Gasolina;003410-0;março de 2024;G;2016-1
+1;R$ 38.603,00;Ford;Ka 1.5 SE/SE PLUS 16V Flex 5p;2015;Gasolina;003410-0;março de 2024;G;2015-1
+1;R$ 61.499,00;Ford;Ka 1.5 Sedan SE 12V Flex 4p Aut.;2020;Gasolina;003464-9;março de 2024;G;2020-1
+1;R$ 55.965,00;Ford;Ka 1.5 Sedan SE 12V Flex 4p Aut.;2019;Gasolina;003464-9;março de 2024;G;2019-1
+1;R$ 57.579,00;Ford;Ka 1.5 Sedan SE 12V Flex 4p Mec.;2021;Gasolina;003463-0;março de 2024;G;2021-1
+1;R$ 54.550,00;Ford;Ka 1.5 Sedan SE 12V Flex 4p Mec.;2020;Gasolina;003463-0;março de 2024;G;2020-1
+1;R$ 50.687,00;Ford;Ka 1.5 Sedan SE 12V Flex 4p Mec.;2019;Gasolina;003463-0;março de 2024;G;2019-1
+1;R$ 65.061,00;Ford;Ka 1.5 Sedan SE Plus 12V Flex 4p Aut.;2021;Gasolina;003465-7;março de 2024;G;2021-1
+1;R$ 61.451,00;Ford;Ka 1.5 Sedan SE Plus 12V Flex 4p Aut.;2020;Gasolina;003465-7;março de 2024;G;2020-1
+1;R$ 55.761,00;Ford;Ka 1.5 Sedan SE Plus 12V Flex 4p Aut.;2019;Gasolina;003465-7;março de 2024;G;2019-1
+1;R$ 58.087,00;Ford;Ka 1.5 Sedan SE Plus 12V Flex 4p Mec.;2021;Gasolina;003466-5;março de 2024;G;2021-1
+1;R$ 55.969,00;Ford;Ka 1.5 Sedan SE Plus 12V Flex 4p Mec.;2020;Gasolina;003466-5;março de 2024;G;2020-1
+1;R$ 50.942,00;Ford;Ka 1.5 Sedan SE Plus 12V Flex 4p Mec.;2019;Gasolina;003466-5;março de 2024;G;2019-1
+1;R$ 63.193,00;Ford;Ka 1.5 Sedan SEL 12V Flex 4p Aut.;2020;Gasolina;003474-6;março de 2024;G;2020-1
+1;R$ 55.842,00;Ford;Ka 1.5 Sedan SEL 12V Flex 4p Mec.;2019;Gasolina;003468-1;março de 2024;G;2019-1
+1;R$ 69.220,00;Ford;Ka 1.5 Sedan TITANIUM 12V Flex 4p Aut.;2021;Gasolina;003456-8;março de 2024;G;2021-1
+1;R$ 67.493,00;Ford;Ka 1.5 Sedan TITANIUM 12V Flex 4p Aut.;2020;Gasolina;003456-8;março de 2024;G;2020-1
+1;R$ 63.186,00;Ford;Ka 1.5 Sedan TITANIUM 12V Flex 4p Aut.;2019;Gasolina;003456-8;março de 2024;G;2019-1
+1;R$ 67.027,00;Ford;Ka 1.5 TITANIUM 12V Flex 5p Aut.;2020;Gasolina;003467-3;março de 2024;G;2020-1
+1;R$ 62.095,00;Ford;Ka 1.5 TITANIUM 12V Flex 5p Aut.;2019;Gasolina;003467-3;março de 2024;G;2019-1
+1;R$ 22.559,00;Ford;Ka 1.6 8V Flex 3p;2011;Gasolina;003326-0;março de 2024;G;2011-1
+1;R$ 21.379,00;Ford;Ka 1.6 8V Flex 3p;2010;Gasolina;003326-0;março de 2024;G;2010-1
+1;R$ 20.507,00;Ford;Ka 1.6 8V Flex 3p;2009;Gasolina;003326-0;março de 2024;G;2009-1
+1;R$ 19.474,00;Ford;Ka 1.6 8V Flex 3p;2008;Gasolina;003326-0;março de 2024;G;2008-1
+1;R$ 23.914,00;Ford;Ka 1.6 TECNO 8V Flex 3p;2011;Gasolina;003328-6;março de 2024;G;2011-1
+1;R$ 23.190,00;Ford;Ka 1.6 TECNO 8V Flex 3p;2010;Gasolina;003328-6;março de 2024;G;2010-1
+1;R$ 21.999,00;Ford;Ka 1.6 TECNO 8V Flex 3p;2009;Gasolina;003328-6;março de 2024;G;2009-1
+1;R$ 19.411,00;Ford;Ka Action 1.6 MPI 8V 95cv;2007;Gasolina;003264-6;março de 2024;G;2007-1
+1;R$ 17.937,00;Ford;Ka Action 1.6 MPI 8V 95cv;2006;Gasolina;003264-6;março de 2024;G;2006-1
+1;R$ 17.259,00;Ford;Ka Action 1.6 MPI 8V 95cv;2005;Gasolina;003264-6;março de 2024;G;2005-1
+1;R$ 16.838,00;Ford;Ka Action 1.6 MPI 8V 95cv;2004;Gasolina;003264-6;março de 2024;G;2004-1
+1;R$ 16.427,00;Ford;Ka Action 1.6 MPI 8V 95cv;2003;Gasolina;003264-6;março de 2024;G;2003-1
+1;R$ 11.113,00;Ford;Ka Black 1.0 MPI 8v 65cv;2001;Gasolina;003233-6;março de 2024;G;2001-1
+1;R$ 13.218,00;Ford;Ka Black 1.6 MPI 8v 95cv;2001;Gasolina;003234-4;março de 2024;G;2001-1
+1;R$ 11.141,00;Ford;Ka CLX 1.3i 3p;2000;Gasolina;003019-8;março de 2024;G;2000-1
+1;R$ 7.932,00;Ford;Ka CLX 1.3i 3p;1999;Gasolina;003019-8;março de 2024;G;1999-1
+1;R$ 7.550,00;Ford;Ka CLX 1.3i 3p;1998;Gasolina;003019-8;março de 2024;G;1998-1
+1;R$ 7.087,00;Ford;Ka CLX 1.3i 3p;1997;Gasolina;003019-8;março de 2024;G;1997-1
+1;R$ 14.239,00;Ford;Ka GL 1.0i Zetec Rocam;2008;Gasolina;003145-3;março de 2024;G;2008-1
+1;R$ 13.891,00;Ford;Ka GL 1.0i Zetec Rocam;2007;Gasolina;003145-3;março de 2024;G;2007-1
+1;R$ 13.324,00;Ford;Ka GL 1.0i Zetec Rocam;2006;Gasolina;003145-3;março de 2024;G;2006-1
+1;R$ 12.850,00;Ford;Ka GL 1.0i Zetec Rocam;2005;Gasolina;003145-3;março de 2024;G;2005-1
+1;R$ 12.099,00;Ford;Ka GL 1.0i Zetec Rocam;2004;Gasolina;003145-3;março de 2024;G;2004-1
+1;R$ 11.785,00;Ford;Ka GL 1.0i Zetec Rocam;2003;Gasolina;003145-3;março de 2024;G;2003-1
+1;R$ 9.901,00;Ford;Ka GL 1.0i Zetec Rocam;2002;Gasolina;003145-3;março de 2024;G;2002-1
+1;R$ 9.651,00;Ford;Ka GL 1.0i Zetec Rocam;2001;Gasolina;003145-3;março de 2024;G;2001-1
+1;R$ 9.382,00;Ford;Ka GL 1.0i Zetec Rocam;2000;Gasolina;003145-3;março de 2024;G;2000-1
+1;R$ 13.751,00;Ford;Ka GL Image 1.0i/ 1.0i Zetec Rocam;2003;Gasolina;003161-5;março de 2024;G;2003-1
+1;R$ 12.530,00;Ford;Ka GL Image 1.0i/ 1.0i Zetec Rocam;2002;Gasolina;003161-5;março de 2024;G;2002-1
+1;R$ 10.515,00;Ford;Ka GL Image 1.0i/ 1.0i Zetec Rocam;2001;Gasolina;003161-5;março de 2024;G;2001-1
+1;R$ 10.231,00;Ford;Ka GL Image 1.0i/ 1.0i Zetec Rocam;2000;Gasolina;003161-5;março de 2024;G;2000-1
+1;R$ 9.391,00;Ford;Ka Image 1.0i;2000;Gasolina;003098-8;março de 2024;G;2000-1
+1;R$ 7.591,00;Ford;Ka Image 1.0i;1999;Gasolina;003098-8;março de 2024;G;1999-1
+1;R$ 7.347,00;Ford;Ka Image 1.0i;1998;Gasolina;003098-8;março de 2024;G;1998-1
+1;R$ 13.564,00;Ford;Ka MP3 1.0 MPI 8V 65cv;2007;Gasolina;003301-4;março de 2024;G;2007-1
+1;R$ 12.109,00;Ford;Ka MP3 1.0 MPI 8V 65cv;2006;Gasolina;003301-4;março de 2024;G;2006-1
+1;R$ 16.288,00;Ford;Ka MP3 1.6 MPI 8V 95cv;2007;Gasolina;003302-2;março de 2024;G;2007-1
+1;R$ 13.753,00;Ford;Ka MP3 1.6 MPI 8V 95cv;2006;Gasolina;003302-2;março de 2024;G;2006-1
+1;R$ 48.263,00;Ford;Ka SEL 1.5 16V Flex 5p;2018;Gasolina;003411-8;março de 2024;G;2018-1
+1;R$ 43.656,00;Ford;Ka SEL 1.5 16V Flex 5p;2017;Gasolina;003411-8;março de 2024;G;2017-1
+1;R$ 41.181,00;Ford;Ka SEL 1.5 16V Flex 5p;2016;Gasolina;003411-8;março de 2024;G;2016-1
+1;R$ 39.437,00;Ford;Ka SEL 1.5 16V Flex 5p;2015;Gasolina;003411-8;março de 2024;G;2015-1
+1;R$ 29.473,00;Ford;Ka Sport 1.6 8V Flex 3p;2013;Gasolina;003350-2;março de 2024;G;2013-1
+1;R$ 28.754,00;Ford;Ka Sport 1.6 8V Flex 3p;2012;Gasolina;003350-2;março de 2024;G;2012-1
+1;R$ 7.068,00;Ford;Ka Street 1.0i;1999;Gasolina;003097-0;março de 2024;G;1999-1
+1;R$ 5.214,00;Ford;Ka Street 1.0i;1998;Gasolina;003097-0;março de 2024;G;1998-1
+1;R$ 6.797,00;Ford;Ka Tecno 1.0i 8v Zetec Rocam;2000;Gasolina;003169-0;março de 2024;G;2000-1
+1;R$ 46.292,00;Ford;Ka TRAIL 1.0 12V Flex Mec. 5p;2018;Gasolina;003435-5;março de 2024;G;2018-1
+1;R$ 39.279,00;Ford;Ka TRAIL 1.0 12V Flex Mec. 5p;2017;Gasolina;003435-5;março de 2024;G;2017-1
+1;R$ 48.262,00;Ford;Ka TRAIL 1.5 16V Flex Mec. 5p;2018;Gasolina;003434-7;março de 2024;G;2018-1
+1;R$ 43.156,00;Ford;Ka TRAIL 1.5 16V Flex Mec. 5p;2017;Gasolina;003434-7;março de 2024;G;2017-1
+1;R$ 27.049,00;Ford;Ka XR 1.6 MPI 8V;2007;Gasolina;003232-8;março de 2024;G;2007-1
+1;R$ 21.139,00;Ford;Ka XR 1.6 MPI 8V;2006;Gasolina;003232-8;março de 2024;G;2006-1
+1;R$ 20.610,00;Ford;Ka XR 1.6 MPI 8V;2005;Gasolina;003232-8;março de 2024;G;2005-1
+1;R$ 18.661,00;Ford;Ka XR 1.6 MPI 8V;2004;Gasolina;003232-8;março de 2024;G;2004-1
+1;R$ 17.379,00;Ford;Ka XR 1.6 MPI 8V;2003;Gasolina;003232-8;março de 2024;G;2003-1
+1;R$ 14.450,00;Ford;Ka XR 1.6 MPI 8V;2002;Gasolina;003232-8;março de 2024;G;2002-1
+1;R$ 14.097,00;Ford;Ka XR 1.6 MPI 8V;2001;Gasolina;003232-8;março de 2024;G;2001-1
+1;R$ 53.573,00;Ford;Ka+ Sedan 1.0 SE/SE PLUS TiVCT Flex 4p;2021;Gasolina;003412-6;março de 2024;G;2021-1
+1;R$ 51.182,00;Ford;Ka+ Sedan 1.0 SE/SE PLUS TiVCT Flex 4p;2020;Gasolina;003412-6;março de 2024;G;2020-1
+1;R$ 49.295,00;Ford;Ka+ Sedan 1.0 SE/SE PLUS TiVCT Flex 4p;2019;Gasolina;003412-6;março de 2024;G;2019-1
+1;R$ 44.701,00;Ford;Ka+ Sedan 1.0 SE/SE PLUS TiVCT Flex 4p;2018;Gasolina;003412-6;março de 2024;G;2018-1
+1;R$ 42.941,00;Ford;Ka+ Sedan 1.0 SE/SE PLUS TiVCT Flex 4p;2017;Gasolina;003412-6;março de 2024;G;2017-1
+1;R$ 41.495,00;Ford;Ka+ Sedan 1.0 SE/SE PLUS TiVCT Flex 4p;2016;Gasolina;003412-6;março de 2024;G;2016-1
+1;R$ 39.792,00;Ford;Ka+ Sedan 1.0 SE/SE PLUS TiVCT Flex 4p;2015;Gasolina;003412-6;março de 2024;G;2015-1
+1;R$ 46.831,00;Ford;Ka+ Sedan 1.0 SEL TiCVT Flex 4p;2019;Gasolina;003413-4;março de 2024;G;2019-1
+1;R$ 43.690,00;Ford;Ka+ Sedan 1.0 SEL TiCVT Flex 4p;2018;Gasolina;003413-4;março de 2024;G;2018-1
+1;R$ 41.422,00;Ford;Ka+ Sedan 1.0 SEL TiCVT Flex 4p;2017;Gasolina;003413-4;março de 2024;G;2017-1
+1;R$ 37.181,00;Ford;Ka+ Sedan 1.0 SEL TiCVT Flex 4p;2016;Gasolina;003413-4;março de 2024;G;2016-1
+1;R$ 36.274,00;Ford;Ka+ Sedan 1.0 SEL TiCVT Flex 4p;2015;Gasolina;003413-4;março de 2024;G;2015-1
+1;R$ 46.566,00;Ford;Ka+ Sedan 1.5 ADVANCED 16V Flex 4p;2018;Gasolina;003446-0;março de 2024;G;2018-1
+1;R$ 47.544,00;Ford;Ka+ Sedan 1.5 SE/SE PLUS 16V Flex 4p;2018;Gasolina;003414-2;março de 2024;G;2018-1
+1;R$ 43.513,00;Ford;Ka+ Sedan 1.5 SE/SE PLUS 16V Flex 4p;2017;Gasolina;003414-2;março de 2024;G;2017-1
+1;R$ 41.403,00;Ford;Ka+ Sedan 1.5 SE/SE PLUS 16V Flex 4p;2016;Gasolina;003414-2;março de 2024;G;2016-1
+1;R$ 39.938,00;Ford;Ka+ Sedan 1.5 SE/SE PLUS 16V Flex 4p;2015;Gasolina;003414-2;março de 2024;G;2015-1
+1;R$ 48.365,00;Ford;Ka+ Sedan 1.5 SEL 16V Flex 4p;2018;Gasolina;003415-0;março de 2024;G;2018-1
+1;R$ 43.992,00;Ford;Ka+ Sedan 1.5 SEL 16V Flex 4p;2017;Gasolina;003415-0;março de 2024;G;2017-1
+1;R$ 42.258,00;Ford;Ka+ Sedan 1.5 SEL 16V Flex 4p;2016;Gasolina;003415-0;março de 2024;G;2016-1
+1;R$ 40.059,00;Ford;Ka+ Sedan 1.5 SEL 16V Flex 4p;2015;Gasolina;003415-0;março de 2024;G;2015-1
