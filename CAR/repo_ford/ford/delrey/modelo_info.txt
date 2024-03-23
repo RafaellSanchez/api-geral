@@ -1,0 +1,39 @@
+tipo_veiculo;valor;marca;modelo;anoModelo;combustivel;codigoFipe;mes_referencia;sigla_combustivel;Ano
+1;R$ 8.076,00;Ford;Del Rey Belina Ghia;1991;Gasolina;003135-6;março de 2024;G;1991-1
+1;R$ 6.649,00;Ford;Del Rey Belina Ghia;1990;Gasolina;003135-6;março de 2024;G;1990-1
+1;R$ 6.428,00;Ford;Del Rey Belina Ghia;1989;Gasolina;003135-6;março de 2024;G;1989-1
+1;R$ 5.850,00;Ford;Del Rey Belina Ghia;1988;Gasolina;003135-6;março de 2024;G;1988-1
+1;R$ 4.349,00;Ford;Del Rey Belina Ghia;1987;Gasolina;003135-6;março de 2024;G;1987-1
+1;R$ 4.177,00;Ford;Del Rey Belina Ghia;1986;Gasolina;003135-6;março de 2024;G;1986-1
+1;R$ 4.081,00;Ford;Del Rey Belina GL;1987;Gasolina;003133-0;março de 2024;G;1987-1
+1;R$ 10.529,00;Ford;Del Rey Belina GLX;1991;Gasolina;003134-8;março de 2024;G;1991-1
+1;R$ 7.967,00;Ford;Del Rey Belina GLX;1990;Gasolina;003134-8;março de 2024;G;1990-1
+1;R$ 5.753,00;Ford;Del Rey Belina GLX;1989;Gasolina;003134-8;março de 2024;G;1989-1
+1;R$ 4.572,00;Ford;Del Rey Belina GLX;1988;Gasolina;003134-8;março de 2024;G;1988-1
+1;R$ 4.060,00;Ford;Del Rey Belina GLX;1987;Gasolina;003134-8;março de 2024;G;1987-1
+1;R$ 7.160,00;Ford;Del Rey Belina L;1991;Gasolina;003132-1;março de 2024;G;1991-1
+1;R$ 6.533,00;Ford;Del Rey Belina L;1990;Gasolina;003132-1;março de 2024;G;1990-1
+1;R$ 6.271,00;Ford;Del Rey Belina L;1989;Gasolina;003132-1;março de 2024;G;1989-1
+1;R$ 4.585,00;Ford;Del Rey Belina L;1988;Gasolina;003132-1;março de 2024;G;1988-1
+1;R$ 4.179,00;Ford;Del Rey Belina L;1987;Gasolina;003132-1;março de 2024;G;1987-1
+1;R$ 16.508,00;Ford;Del Rey Ghia 1.8 / 1.6 2p e 4p;1991;Gasolina;003025-2;março de 2024;G;1991-1
+1;R$ 13.497,00;Ford;Del Rey Ghia 1.8 / 1.6 2p e 4p;1990;Gasolina;003025-2;março de 2024;G;1990-1
+1;R$ 9.711,00;Ford;Del Rey Ghia 1.8 / 1.6 2p e 4p;1989;Gasolina;003025-2;março de 2024;G;1989-1
+1;R$ 7.784,00;Ford;Del Rey Ghia 1.8 / 1.6 2p e 4p;1988;Gasolina;003025-2;março de 2024;G;1988-1
+1;R$ 7.419,00;Ford;Del Rey Ghia 1.8 / 1.6 2p e 4p;1987;Gasolina;003025-2;março de 2024;G;1987-1
+1;R$ 5.281,00;Ford;Del Rey Ghia 1.8 / 1.6 2p e 4p;1986;Gasolina;003025-2;março de 2024;G;1986-1
+1;R$ 3.921,00;Ford;Del Rey Ghia 1.8 / 1.6 2p e 4p;1985;Gasolina;003025-2;março de 2024;G;1985-1
+1;R$ 12.109,00;Ford;Del Rey GLX 1.6/1.8 / GL 1.6/1.8 2p e 4p;1991;Gasolina;003024-4;março de 2024;G;1991-1
+1;R$ 10.349,00;Ford;Del Rey GLX 1.6/1.8 / GL 1.6/1.8 2p e 4p;1990;Gasolina;003024-4;março de 2024;G;1990-1
+1;R$ 8.841,00;Ford;Del Rey GLX 1.6/1.8 / GL 1.6/1.8 2p e 4p;1989;Gasolina;003024-4;março de 2024;G;1989-1
+1;R$ 6.816,00;Ford;Del Rey GLX 1.6/1.8 / GL 1.6/1.8 2p e 4p;1988;Gasolina;003024-4;março de 2024;G;1988-1
+1;R$ 5.933,00;Ford;Del Rey GLX 1.6/1.8 / GL 1.6/1.8 2p e 4p;1987;Gasolina;003024-4;março de 2024;G;1987-1
+1;R$ 4.709,00;Ford;Del Rey GLX 1.6/1.8 / GL 1.6/1.8 2p e 4p;1986;Gasolina;003024-4;março de 2024;G;1986-1
+1;R$ 4.358,00;Ford;Del Rey GLX 1.6/1.8 / GL 1.6/1.8 2p e 4p;1985;Gasolina;003024-4;março de 2024;G;1985-1
+1;R$ 7.149,00;Ford;Del Rey L 1.8 / 1.6 2p e 4p;1991;Gasolina;003023-6;março de 2024;G;1991-1
+1;R$ 6.240,00;Ford;Del Rey L 1.8 / 1.6 2p e 4p;1990;Gasolina;003023-6;março de 2024;G;1990-1
+1;R$ 5.325,00;Ford;Del Rey L 1.8 / 1.6 2p e 4p;1989;Gasolina;003023-6;março de 2024;G;1989-1
+1;R$ 4.251,00;Ford;Del Rey L 1.8 / 1.6 2p e 4p;1988;Gasolina;003023-6;março de 2024;G;1988-1
+1;R$ 3.482,00;Ford;Del Rey L 1.8 / 1.6 2p e 4p;1987;Gasolina;003023-6;março de 2024;G;1987-1
+1;R$ 2.837,00;Ford;Del Rey L 1.8 / 1.6 2p e 4p;1986;Gasolina;003023-6;março de 2024;G;1986-1
+1;R$ 2.383,00;Ford;Del Rey L 1.8 / 1.6 2p e 4p;1985;Gasolina;003023-6;março de 2024;G;1985-1
