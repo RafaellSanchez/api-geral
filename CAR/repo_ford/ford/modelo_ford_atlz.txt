@@ -1,0 +1,481 @@
+codigo;nome;id
+655;Aerostar Mini-Van 3.8;22
+656;Aspire 1.3;22
+657;Belina GL 1.8 / 1.6;22
+658;Belina L 1.8/ 1.6;22
+9452;Bronco Sport Wildtrak 2.0 Tb 16V AWD Aut;22
+659;Club Wagon V8;22
+660;Club Wagon XLT 4.9 V6;22
+661;Contour SE/ GL/ LX  2.0 16V;22
+662;Contour SE/GL/ LX 2.5 24V;22
+663;Corcel II GL/GT;22
+664;Corcel II L;22
+665;Courier 1.3i/Furgão;22
+666;Courier 1.6 L/ 1.6 Flex;22
+667;Courier CLX 1.4i 16V;22
+668;Courier Si 1.4i 16V;22
+669;Courier Sport 1.6 8v;22
+4134;Courier Van 1.6/ 1.6 Flex 8V (Carga);22
+670;Courier XL/XL-RS 1.6/ XL 1.6 Flex;22
+671;Crown Victoria LX 4.6;22
+672;Del Rey Belina Ghia;22
+673;Del Rey Belina GL;22
+674;Del Rey Belina GLX;22
+675;Del Rey Belina L;22
+676;Del Rey Ghia 1.8 / 1.6 2p e 4p;22
+677;Del Rey GLX 1.6/1.8 / GL 1.6/1.8 2p e 4p;22
+678;Del Rey L 1.8 / 1.6 2p e 4p;22
+8743;EcoSport  100 Anos 1.5 Flex 5p Aut.;22
+679;EcoSport 4WD 2.0/ 2.0 Flex 16V 5p;22
+8004;EcoSport FREESTYLE 1.5 12V Flex 5p Aut.;22
+8005;EcoSport FREESTYLE 1.5 12V Flex 5p Mec.;22
+6157;EcoSport FREESTYLE 1.6 16V Flex 5p;22
+7371;EcoSport FREESTYLE 1.6 16V Flex 5p Aut.;22
+6464;EcoSport FREESTYLE 2.0 16V 4WD Flex 5p;22
+6158;EcoSport FREESTYLE 2.0 16V Flex 5p;22
+6913;EcoSport FREESTYLE 2.0 16V Flex 5p Aut.;22
+8210;EcoSport FREESTYLE PLUS 1.5 Flex 5p Aut.;22
+6159;EcoSport S 1.6 16V Flex 5p;22
+8006;EcoSport SE 1.5 12V Flex 5p Aut.;22
+8007;EcoSport SE 1.5 12V Flex 5p Mec.;22
+7372;EcoSport SE 1.6 16V Flex 5p Aut.;22
+6160;EcoSport SE 1.6 16V Flex 5p Mec.;22
+6263;EcoSport SE 2.0 16V Flex 5p Aut.;22
+9593;EcoSport SE Direct 1.5 Flex 5p Aut.;22
+7686;EcoSport SE Direct 1.6 16V Flex 5p Aut.;22
+8211;EcoSport STORM 2.0 4WD 16V Flex 5p Aut.;22
+8588;EcoSport TITANIUM 1.5 12V Flex 5p Aut.;22
+6161;EcoSport TITANIUM 1.6 16V Flex 5p;22
+6162;EcoSport TITANIUM 2.0 16V Flex 5p;22
+6264;EcoSport TITANIUM 2.0 16V Flex 5p Aut.;22
+680;EcoSport XL 1.6/ 1.6 Flex 8V 5p;22
+681;EcoSport XL Supercharger 1.0 8V 95cv 5p;22
+682;EcoSport XLS 1.6/ 1.6 Flex 8V 5p;22
+4256;EcoSport XLS 2.0/2.0 Flex 16V 5p Aut.;22
+3886;EcoSport XLS FREESTYLE 1.6 Flex 8V 5p;22
+683;EcoSport XLT 1.6/ 1.6 Flex 8V 5p;22
+4257;EcoSport XLT 2.0/ 2.0 Flex 16V 5p Aut.;22
+684;EcoSport XLT 2.0/ 2.0 Flex 16V 5p Mec.;22
+4258;EcoSport XLT FREESTYLE 1.6 Flex 8V 5p;22
+4829;EcoSport XLT FREESTYLE 2.0 Flex 16V 5p;22
+5413;EDGE LIMITED 3.5 V6 24V AWD Aut.;22
+5741;EDGE LIMITED 3.5 V6 24V FWD Aut.;22
+5742;EDGE SEL 3.5 V6  24V FWD Aut.;22
+4810;EDGE SEL 3.5 V6 24V AWD Aut.;22
+8589;EDGE ST 2.7 V6 24V AWD Aut.;22
+7718;EDGE TITANIUM 3.5 V6 24V AWD Aut.;22
+685;Escort  Racer 2.0i;22
+686;Escort Ghia 1.8i / 1.8 / 1.6;22
+687;Escort Ghia 2.0i / 2.0;22
+688;Escort GL 1.6 MPI;22
+689;Escort GL 1.6i / 1.6;22
+690;Escort GL 1.8i / 1.8;22
+691;Escort GL 1.8i 16V 3p;22
+692;Escort GL 1.8i 16V 4p;22
+693;Escort GLX 1.6i;22
+694;Escort GLX 1.8i 16V 4p;22
+695;Escort GLX 1.8i 8v;22
+696;Escort Guarujá 1.8 4p;22
+697;Escort Hobby 1.0;22
+698;Escort Hobby 1.6;22
+699;Escort L 1.8i / 1.8;22
+700;Escort L/LX 1.6;22
+701;Escort RS 1.8i 16V;22
+702;Escort S.W GL 1.8i 16V;22
+703;Escort S.W. GLX 1.8i 16V;22
+704;Escort SW 1.9 16v;22
+705;Escort SW GL 1.6 MPI;22
+706;Escort XR3 1.8 / 1.6 Beneton/Form./Laser;22
+707;Escort XR3 1.8 / 1.6 Conversível;22
+708;Escort XR3 2.0i;22
+709;Escort XR3 2.0i Conversível;22
+710;Expedition 5.4 V8;22
+711;Explorer Limited 4.0 4x4 V6 213cv;22
+712;Explorer Limited 5.0 4x4 V8;22
+713;Explorer Sport 4.0 V6;22
+714;Explorer XL 4x2 4.0 V6;22
+715;Explorer XL 4x4 4.0 V6;22
+716;Explorer XLT 4x2 4.0 V6;22
+717;Explorer XLT 4x4 4.0 V6;22
+718;F-100 2.3;22
+719;F-100 Blazer 2.3;22
+720;F-100 CD 2.3;22
+721;F-100 Super 2.3;22
+722;F-100 Super Série 2.3;22
+723;F-1000 CD/Blazer 3.6;22
+724;F-1000 CD/Blazer 3.9 Dies.;22
+725;F-1000 Lightning/ Super 4.9i;22
+726;F-1000 Regular Cab. 4.9i;22
+727;F-1000 S. S. Diesel / S.S. Diesel Turbo;22
+728;F-1000 SR XK  Deserter Diesel;22
+729;F-1000 SR XK Deserter;22
+730;F-1000 Super 3.6 / Super Série 3.6;22
+731;F-1000 Super CE 4.9i / 3.6;22
+732;F-1000 Super Diesel / Super Diesel Turbo;22
+733;F-1000 Super Diesel CE 3.9;22
+734;F-1000 Super Série CE 4.9/3.6;22
+735;F-1000 Super Série CE Diesel 3.9;22
+736;F-1000 Super/ S.Série 4x4 3.9 Diesel;22
+738;F-1000 Tropical CD 4.9i;22
+737;F-1000 Tropical CD HSD 2.5/4.3 Diesel TB;22
+739;F-1000 Tropical SL/ Van 4.9i;22
+740;F-1000 Tropical SL/ Van T.Diesel (todas);22
+741;F-1000 XL 2.5 HSD Diesel TB;22
+742;F-1000 XL 4.9i;22
+743;F-1000 XL 4.9i CE;22
+744;F-1000 XL 4x4 Diesel Turbo;22
+745;F-1000 XL Diesel Turbo;22
+746;F-1000 XLT 2.5 HSD Diesel TB;22
+747;F-1000 XLT 4x4 Diesel Turbo;22
+748;F-1000 XLT CE 4.9i;22
+749;F-1000 XLT Diesel Turbo;22
+750;F-1000 XLT/XL Lighting 4.9i;22
+10398;F-150 Lariat 4x4 5.0 V8;22
+10399;F-150 Platinum 4x4 5.0 V8;22
+751;F-150 XL Triton 4.3 V6;22
+752;F-150 XLT Triton 4.3;22
+753;F-150 XLT Triton 4.6 V8;22
+754;F-150 XLT Triton 5.8;22
+5191;F-250 F-MILHA CD 3.9 TB Diesel;22
+6032;F-250 Tropica./Tropmine Exec. 3.9 Diesel;22
+4161;F-250 TropiCab CE 3.9 TB Diesel;22
+755;F-250 Tropical 3.9 Diesel;22
+756;F-250 Tropical 4.2 CE / CD Diesel TB;22
+757;F-250 Tropical 4.2 V6;22
+758;F-250 Tropical SL/ Van T.Diesel (todas);22
+4162;F-250 Tropicampo CD 3.9 TB Diesel;22
+4163;F-250 Tropiclassic 3.9 TB Diesel;22
+4164;F-250 Tropivan Executive 3.9 TB Diesel;22
+4165;F-250 Tropivan/Tropi. Plus 3.9 TB Diesel;22
+762;F-250 XL 3.9 4x2 Diesel;22
+4056;F-250 XL 3.9 4x4 TB Diesel;22
+4057;F-250 XL 3.9 CD TB Diesel;22
+759;F-250 XL 4.2 180cv CD TB Diesel;22
+760;F-250 XL 4.2 Turbo Diesel;22
+761;F-250 XL 4.2 V6;22
+763;F-250 XL Super Duty 3.9 Diesel;22
+764;F-250 XL Super Duty 4.2 TB Diesel;22
+765;F-250 XL Super Duty 4.2 V6;22
+4058;F-250 XLT 3.9 4x2 CD TB Diesel;22
+766;F-250 XLT 3.9 4x2 Diesel TB;22
+4059;F-250 XLT 3.9 4x4 CD TB Diesel;22
+4060;F-250 XLT 3.9 4x4 TB Diesel;22
+767;F-250 XLT 4.2 180cv CD TB Diesel;22
+768;F-250 XLT 4.2 TB Diesel;22
+769;F-250 XLT 4.2 V6;22
+4135;Fiesta 1.0 8V Flex/Class 1.0 8V Flex 5p;22
+770;Fiesta 1.0i 3p e 5p;22
+771;Fiesta 1.3  3p e 5p;22
+6422;Fiesta 1.5 16V Flex Mec. 5p;22
+6423;Fiesta 1.6 16V Flex Aut. 5p;22
+6424;Fiesta 1.6 16V Flex Mec. 5p;22
+772;Fiesta 1.6 8V Flex/Class 1.6 8V Flex 5p;22
+773;Fiesta Class 1.0 2p;22
+774;Fiesta Class 1.0 4p;22
+775;Fiesta Class 1.6 8V 98cv 5p;22
+776;Fiesta CLX 1.3i 3p;22
+777;Fiesta CLX 1.3i 5p;22
+778;Fiesta CLX 1.4i 16V 3p e 5p;22
+779;Fiesta GL 1.0 3p;22
+780;Fiesta GL 1.0 5p;22
+781;Fiesta GL Class 1.0i 5p;22
+782;Fiesta GLX 1.6 8V 3p;22
+783;Fiesta GLX 1.6 8V 5p;22
+784;Fiesta Personnalité 1.0 8V 66cv 5p;22
+6425;Fiesta S 1.0 8V Flex 5p;22
+6426;Fiesta SE 1.0 8V Flex 5p;22
+5668;Fiesta SE 1.6 16V Flex 5p;22
+6427;Fiesta SE 1.6 8V Flex 5p;22
+8148;Fiesta SE Plus 1.6 16V Flex Aut. 5p;22
+8008;Fiesta SE Plus Direct 1.6 16V Flex Aut.;22
+7753;Fiesta SE Style 1.6 16V Flex Mec. 5p;22
+785;Fiesta Sed. 1.6 8V Flex 4p;22
+786;Fiesta Sed. Personnalité 1.0 8V 4p;22
+787;Fiesta Sed. Supercharger 1.0 8V 4p;22
+6523;Fiesta Sed. TI./TI.Plus1.6 16V Flex Aut.;22
+4136;Fiesta Sedan 1.0 8V Flex 4p;22
+6521;Fiesta Sedan 1.6 16V Flex Aut.;22
+6522;Fiesta Sedan 1.6 16V Flex Mec.;22
+6428;Fiesta Sedan S 1.0 8V Flex 4p;22
+6429;Fiesta Sedan SE 1.0 8V Flex 4p;22
+5345;Fiesta Sedan SE 1.6 16V Flex 4p;22
+6430;Fiesta Sedan SE 1.6 8V Flex 4p;22
+8047;Fiesta Sedan SEL 1.6 16V Flex Aut.;22
+8048;Fiesta Sedan SEL 1.6 16V Flex Mec.;22
+788;Fiesta Sedan Street 1.0 8v 4p;22
+789;Fiesta Sedan Street 1.6 8v 4p;22
+6524;Fiesta Sedan TITANIUM 1.6 16V Flex Mec;22
+8009;Fiesta SEL 1.0 12V EcoBoost Aut. 5p;22
+7659;Fiesta SEL 1.6 16V Flex  Aut. 5p;22
+7660;Fiesta SEL 1.6 16V Flex Mec. 5p;22
+8177;Fiesta SEL Style 1.0 EcoBoost Aut . 5p;22
+7754;Fiesta SEL Style 1.6 16V Flex Mec. 5p;22
+790;Fiesta Sport 1.0MPi 4p;22
+7184;Fiesta Sport 1.6 16V Flex Mec.;22
+791;Fiesta Sport 1.6MPi 4p;22
+792;Fiesta Street 1.0 8v 3p;22
+793;Fiesta Street 1.6 8v 95cv 5p;22
+794;Fiesta Street/ Action 1.0 8v 5p;22
+795;Fiesta Supercharger 1.0 8V 95cv 5p;22
+6431;Fiesta TIT./TIT.Plus 1.6 16V Flex Aut.;22
+7661;Fiesta TIT.Plus 1.0 12V EcoBoost Aut. 5p;22
+6432;Fiesta TITANIUM 1.6 16V Flex Mec.;22
+4409;Fiesta TRAIL 1.0 8V Flex 5p;22
+4410;Fiesta TRAIL 1.6 8V Flex 5p;22
+6610;Focus 1.6 S/1.6 SE Flex 16v 5p Aut;22
+796;Focus 1.6 S/SE/SE Plus Flex 8V/16V  5p;22
+797;Focus 1.8 16V 5p;22
+798;Focus 2.0 16V/ 2.0 16V Flex 5p;22
+799;Focus 2.0 16V/SE/SE Plus Flex 5p Aut.;22
+7284;Focus Fastback SE/SE PLUS 2.0 Flex Aut.;22
+7285;Focus Fastback TIT./T.PLUS 2.0 Flex Aut.;22
+800;Focus Ghia  2.0 16V/ 2.0 16V Flex 5p Aut;22
+801;Focus Ghia Sed. 2.0 16V/ 2.0 16V Flex 4p;22
+802;Focus Ghia Sed. 2.0 16V/2.0 16V Flex Aut;22
+803;Focus Ghia/ XR 2.0 /Ghia 2.0 16V Flex 5p;22
+5450;Focus Sed. TI./TI.Plus 2.0 16V Flex  Aut;22
+7687;Focus Sedan 1.6 16V Flex 4p Aut.;22
+804;Focus Sedan 1.6/1.6 Flex 8V/16V 4p Mec.;22
+805;Focus Sedan 1.8 16V 115cv 4p;22
+806;Focus Sedan 2.0 16V/2.0 16V Flex 4p;22
+807;Focus Sedan 2.0 16V/2.0 16V Flex 4p Aut.;22
+5451;Focus TITA/TITA Plus 2.0  Flex 5p Aut.;22
+5452;Focus TITANIUM 2.0 16V Flex 5p Mec.;22
+808;Furglaine 3.6;22
+809;Furglaine 3.9 Diesel;22
+810;Furglaine Chateaux/Exec. 3.9 Diesel;22
+10006;Fusion 2.5 16V 193cv Aut. (Híbrido);22
+6381;Fusion 2.5L I-VCT Flex Aut.;22
+7826;Fusion SE 2.5 I-VCT Flex 16V Aut.;22
+7755;Fusion SEL 2.0 Ecobo. 16V 248cv Aut.;22
+4061;Fusion SEL 2.3 16V  162cv Aut.;22
+4922;Fusion SEL 2.5 16V 173cv Aut.;22
+5622;Fusion SEL 3.0 V6  24V 243cv Aut.;22
+4923;Fusion SEL 3.0 V6 AWD 24V 243cv Aut.;22
+10007;Fusion Titanium 2.0 145cv Aut. (Híbrido);22
+6324;Fusion Titanium 2.0 GTDI Eco. Awd Aut.;22
+6382;Fusion Titanium 2.0 GTDI Eco. Fwd Aut.;22
+811;Ibiza 3.9 Furgão Diesel;22
+812;Ibiza Chat./Exec. 3.9 Diesel;22
+4514;Ka 1.0 8V/1.0 8V ST Flex 3p;22
+8744;Ka 1.0 FREESTYLE 12V Flex 5p Mec.;22
+8149;Ka 1.0 S TiVCT Flex 5p;22
+6915;Ka 1.0 SE/SE Plus TiVCT Flex 5p;22
+6914;Ka 1.0 SEL TiVCT Flex 5p;22
+8122;Ka 1.0 TECNO 12V Flex 5p;22
+4789;Ka 1.0 TECNO 8V Flex 3p;22
+813;Ka 1.0i 3p;22
+8745;Ka 1.5 100 Anos Flex 5p Aut.;22
+8401;Ka 1.5 FreeStyle 12V Flex 5p Aut.;22
+8402;Ka 1.5 FreeStyle 12V Flex 5p Mec.;22
+8440;Ka 1.5 SE 12V Flex 5p Aut.;22
+8441;Ka 1.5 SE 12V Flex 5p Mec.;22
+8442;Ka 1.5 SE Plus 12V Flex 5p Aut.;22
+8443;Ka 1.5 SE Plus 12V Flex 5p Mec.;22
+6916;Ka 1.5 SE/SE PLUS 16V Flex 5p;22
+8444;Ka 1.5 Sedan SE 12V Flex 4p Aut.;22
+8445;Ka 1.5 Sedan SE 12V Flex 4p Mec.;22
+8446;Ka 1.5 Sedan SE Plus 12V Flex 4p Aut.;22
+8447;Ka 1.5 Sedan SE Plus 12V Flex 4p Mec.;22
+8746;Ka 1.5 Sedan SEL 12V Flex 4p Aut.;22
+8448;Ka 1.5 Sedan SEL 12V Flex 4p Mec.;22
+8403;Ka 1.5 Sedan TITANIUM 12V Flex 4p Aut.;22
+8449;Ka 1.5 TITANIUM 12V Flex 5p Aut.;22
+4515;Ka 1.6 8V Flex 3p;22
+4790;Ka 1.6 TECNO 8V Flex 3p;22
+814;Ka Action 1.6 MPI 8V 95cv;22
+815;Ka Black 1.0 MPI 8v 65cv;22
+816;Ka Black 1.6 MPI 8v 95cv;22
+817;Ka CLX 1.3i 3p;22
+818;Ka GL 1.0i Zetec Rocam;22
+819;Ka GL Image 1.0i/ 1.0i Zetec Rocam;22
+820;Ka Image 1.0i;22
+3887;Ka MP3 1.0 MPI 8V 65cv;22
+3888;Ka MP3 1.6 MPI 8V 95cv;22
+6917;Ka SEL 1.5 16V Flex 5p;22
+5623;Ka Sport 1.6 8V Flex 3p;22
+821;Ka Street 1.0i;22
+822;Ka Tecno 1.0i 8v Zetec Rocam;22
+7905;Ka TRAIL 1.0 12V Flex Mec. 5p;22
+7904;Ka TRAIL 1.5 16V Flex Mec. 5p;22
+823;Ka XR 1.6 MPI 8V;22
+6919;Ka+ Sedan 1.0 SE/SE PLUS TiVCT Flex 4p;22
+6918;Ka+ Sedan 1.0 SEL TiCVT Flex 4p;22
+8123;Ka+ Sedan 1.5 ADVANCED 16V Flex 4p;22
+6920;Ka+ Sedan 1.5 SE/SE PLUS 16V Flex 4p;22
+6921;Ka+ Sedan 1.5 SEL 16V Flex 4p;22
+9744;Maverick Lariat FX4 2.0 EcoBoost Aut.;22
+10758;Maverick Lariat Hybrid 2.5 Aut.;22
+824;Mondeo CLX 1.8 4p e 5p;22
+825;Mondeo CLX 1.8i SW;22
+826;Mondeo CLX 2.0i 4p Aut;22
+827;Mondeo CLX 2.0i 4p Mec;22
+828;Mondeo CLX 2.0i SW Aut;22
+829;Mondeo CLX 2.0i SW Mec;22
+830;Mondeo Ghia 2.0 16V 143cv 4p Aut;22
+831;Mondeo Ghia 2.0 16V 143cv 4p Mec;22
+832;Mondeo Ghia 2.5 V6 Aut;22
+833;Mondeo Ghia 2.5 V6 Mec;22
+834;Mondeo GLX 2.0 16V 4p Aut;22
+835;Mondeo GLX 2.0 4p e 5p;22
+836;Mondeo GLX 2.0i SW Mec./ Aut.;22
+837;Mustang 3.8 V6;22
+838;Mustang 3.8 V6 Conv.;22
+8987;Mustang Black Shadow 5.0 V8;22
+839;Mustang Cobra 5.7 V8;22
+8238;Mustang GT Premium 5.0 V8;22
+840;Mustang GT V8;22
+841;Mustang GT V8 Conversível;22
+9354;Mustang MACH 1 5.0 V8;22
+10868;Mustang Mach-E GT Performance (Elétrico);22
+842;Pampa 4x4 Jeep GL / L 1.6;22
+843;Pampa Ghia 1.6/1.8/DUO;22
+844;Pampa GL 1.6/ 1.8;22
+845;Pampa L 1.6;22
+846;Pampa L 1.8i / 1.8;22
+847;Pampa S 1.8;22
+848;Probe 2.0/2.2;22
+849;Probe GT 2.5 V6;22
+850;Ranger 2.5 4x2 CD TB Diesel;22
+851;Ranger 2.5 4x2 CE Diesel;22
+852;Ranger 2.5 4x2 TB Diesel;22
+853;Ranger 2.5 4x4 CD TB Diesel;22
+854;Ranger 2.5 4x4 CE TB Diesel;22
+855;Ranger 2.5 4x4 TB Diesel;22
+856;Ranger 2.5i CD;22
+857;Ranger 2.5i CE;22
+858;Ranger 2.5i CS;22
+9359;Ranger Black 2.2 4x2 CD Diesel Aut.;22
+9772;Ranger FX4 3.2 20V 4x4 CD Diesel Aut.;22
+4998;Ranger Limited 2.3 150cv CD;22
+6163;Ranger Limited 2.5 16V 4x2 CD Flex;22
+859;Ranger Limited 3.0 PSE 4x4 CD TB Diesel;22
+10761;Ranger Limited 3.0 V6 4x4 CD TB Die. Aut;22
+10741;Ranger Limited 3.2 4x4 CD Diesel Aut.;22
+10762;Ranger Limited+ 3.0 V6 4x4 CD TB Die Aut;22
+10891;Ranger Raptor 3.0 V6 Bi-Turbo 4WD AUT.;22
+860;Ranger Splash CE;22
+861;Ranger Splash CS;22
+6746;Ranger SPORT 2.5 Flex 16V 4x2 CS;22
+8079;Ranger SPORTRAC 2.2 16V 4x4 CD Dies Aut.;22
+9080;Ranger Storm 3.2 20V 4x4 CD Diesel Aut.;22
+862;Ranger STX 4.0 CS/ CE;22
+6525;Ranger TROPICAB 2.5 16V 4X2 Flex;22
+6526;Ranger TROPICAB 3.2 20V 4X4 TB Diesel;22
+6527;Ranger TROPIVAN 2.5 16V 4X2 Flex;22
+6528;Ranger TROPIVAN 3.2 20V 4X4 TB Dies.Aut.;22
+6529;Ranger TROPIVAN 3.2 20V 4X4 TB Diesel;22
+5365;Ranger TROPIVAN XLT 2.3 16V 150cv;22
+5366;Ranger TROPIVAN XLT 3.0 PSE 4x2 TB Dies.;22
+5367;Ranger TROPIVAN XLT 3.0 PSE 4x4 TB Dies.;22
+10828;Ranger XL 2.0 4x4 CD Diesel Mec. ;22
+7688;Ranger XL 2.2 4x4 CD Diesel Mec.;22
+7882;Ranger XL 2.2 4x4 CS Diesel Mec.;22
+863;Ranger XL 2.3 16v 137cv 4x2 CD Repower.;22
+864;Ranger XL 2.3 16v 137cv 4x2 CE Repower.;22
+865;Ranger XL 2.3 16v 137cv 4x2 CS Repower.;22
+866;Ranger XL 2.3 CS;22
+867;Ranger XL 2.8 8v 135cv 4x2 CD TB Diesel;22
+868;Ranger XL 2.8 8v 135cv 4x2 CE TB Diesel;22
+869;Ranger XL 2.8 8v 135cv 4x2 CS TB Diesel;22
+870;Ranger XL 2.8 8v 135cv 4x4 CD TB Diesel;22
+871;Ranger XL 2.8 8v 135cv 4x4 CE TB Diesel;22
+872;Ranger XL 2.8 8v 135cv 4x4 CS TB Diesel;22
+3814;Ranger XL 3.0 PSE 163cv 4x2 CD TB Diesel;22
+3815;Ranger XL 3.0 PSE 163cv 4x2 CS TB Diesel;22
+3816;Ranger XL 3.0 PSE 163cv 4x4 CD TB Diesel;22
+3817;Ranger XL 3.0 PSE 163cv 4x4 CS TB Diesel;22
+873;Ranger XL 4.0 12v V6 210cv 4x2 CS Repow.;22
+874;Ranger XL 4.0 CS;22
+10829;Ranger XLS 2.0 4x2 CD Diesel Aut. ;22
+10830;Ranger XLS 2.0 4x4 CD Diesel Aut. ;22
+8316;Ranger XLS 2.2 4x2 CD Diesel Aut.;22
+8049;Ranger XLS 2.2 4x2 CD Diesel Mec.;22
+7590;Ranger XLS 2.2 4x4 CD Diesel Aut.;22
+6693;Ranger XLS 2.2 4x4 CD Diesel Mec.;22
+875;Ranger XLS 2.3 16V 145cv/150cv 4x2 CD;22
+876;Ranger XLS 2.3 16V 145cv/150cv 4x2 CS;22
+6165;Ranger XLS 2.5 16V 4x2 CD Flex;22
+6166;Ranger XLS 2.5 16V 4x2 CS Flex;22
+877;Ranger XLS 2.8 8V 135cv 4x2 CD TB Diesel;22
+878;Ranger XLS 2.8 8V 135cv 4x2 CS TB Diesel;22
+879;Ranger XLS 2.8 8V 135cv 4x4 CS TB Diesel;22
+880;Ranger XLS 2.8/2.8 Storm  4x4 CD TB Dies;22
+881;Ranger XLS 3.0 PSE 163cv 4x2 CD TB Dies.;22
+882;Ranger XLS 3.0 PSE 163cv 4x2 CS TB Dies.;22
+883;Ranger XLS 3.0 PSE 163cv 4x4 CD TB Dies.;22
+4848;Ranger XLS 3.0 PSE Storm 4x4 CD TB Dies.;22
+10831;Ranger XLS 3.0 V6 4x4 CD Diesel Aut. ;22
+6562;Ranger XLS 3.2 20V 4x4 CD Diesel Aut.;22
+6167;Ranger XLS 3.2 20V 4x4 CD Diesel Mec.;22
+6168;Ranger XLS 3.2 20V 4x4 CS Diesel;22
+4474;Ranger XLS SPORT 2.3 16V 150cv CS;22
+4291;Ranger XLT 2.3 16V 150cv CD Repower.;22
+884;Ranger XLT 2.3 CS;22
+6169;Ranger XLT 2.5 16V 4x2 CD Flex;22
+885;Ranger XLT 2.5 4x2 CD Diesel;22
+886;Ranger XLT 2.5 4x2 CE Diesel;22
+887;Ranger XLT 2.5 4x2 CS Diesel;22
+888;Ranger XLT 2.5 4x4 CD Diesel;22
+889;Ranger XLT 2.5 4x4 CE TB Diesel;22
+890;Ranger XLT 2.5 4x4 CS TB Diesel;22
+891;Ranger XLT 2.8 8v 135cv 4x2 CD TB Diesel;22
+892;Ranger XLT 2.8 8v 135cv 4x4 CD TB Diesel;22
+893;Ranger XLT 2.8 8v 135cv 4x4 CE TB Diesel;22
+894;Ranger XLT 3.0 PSE 163cv 4x2 CD TB Dies.;22
+895;Ranger XLT 3.0 PSE 163cv 4x4 CD TB Dies.;22
+10763;Ranger XLT 3.0 V6 4x4 CD TB  Die. Aut.;22
+6170;Ranger XLT 3.2 20V 4x4 CD Diesel;22
+6171;Ranger XLT 3.2 20V 4x4 CD Diesel Aut.;22
+896;Ranger XLT 4.0 12v V6 210cv 4x4 CD Repow;22
+897;Ranger XLT 4.0 12v V6 210cv 4x4 CE Repow;22
+898;Ranger XLT 4.0 4x2 CE;22
+899;Ranger XLT 4.0 4x2 CS;22
+900;Ranger XLT 4.0 4x4 CD;22
+901;Ranger XLT 4.0 4x4 CE;22
+902;Ranger XLT 4.0 4x4 CS;22
+903;Ranger XLT Limit./L.Cent. 2.8 CD TB Dies;22
+904;Royale Ghia 2.0/2.0i 2p e 4p;22
+905;Royale GL 1.8/1.8i  2p e 4p;22
+906;Royale GL 2.0/2.0i 2p e 4p;22
+907;Taurus GL 3.0 V6;22
+908;Taurus GL SW 3.0 V6 24V;22
+909;Taurus L/LX 3.0 V6;22
+910;Taurus LX SW 3.0 V6 24V;22
+911;Taurus SHO 3.0 V6;22
+9163;TERRITORY SEL 1.5 GTDi EcoBoost Aut.;22
+9164;TERRITORY Titanium 1.5 GTDi EcoBo. Aut.;22
+912;Thunderbird SC 3.8 V6;22
+6202;TRANSIT Chassi 2.2 TDCI Diesel;22
+5247;TRANSIT Chassi 2.4 TDCI Diesel;22
+10838;TRANSIT Chassi 350E 2.0 EcoBule Diesel;22
+10839;TRANSIT Chassi 470E 2.0 EcoBule Diesel;22
+9839;TRANSIT Furgão 2.0 Curto Turbo Diesel;22
+10638;TRANSIT Furgão 2.0 Longo Turbo Die Aut.;22
+9840;TRANSIT Furgão 2.0 Longo Turbo Diesel ;22
+6383;TRANSIT Furgão 2.2 TDCI Curto Diesel;22
+6296;TRANSIT Furgão 2.2 TDCI Longa Diesel;22
+5884;TRANSIT Furgão 2.2 TDCI Longo Jumbo Dies;22
+4838;TRANSIT Furgão 3330 2.4 TDCI Curto Dies.;22
+4839;TRANSIT Furgão 3550 2.4 TDCI Longo Dies.;22
+10639;TRANSIT Minibus 15 Lug. 2.0 16V Die Aut.;22
+9650;TRANSIT Minibus 15 Lug. 2.0 16V Diesel;22
+10640;TRANSIT Minibus 18 Lug. 2.0 16V Die Aut.;22
+9651;TRANSIT Minibus 18 Lug. 2.0 16V Diesel;22
+10641;TRANSIT Minibus Vidrada 2.0 16V Die Aut.;22
+9652;TRANSIT Minibus Vidrada 2.0 16V Diesel;22
+6203;TRANSIT Van 3550 2.2 TDCI 14/16lug. Dies;22
+4840;TRANSIT Van 3550 2.4 TDCI 14lug. Diesel;22
+913;Verona Ghia 2.0i 4p;22
+914;Verona GL 1.8i / LX 1.8i 4p;22
+915;Verona GLX 1.8 (Modelo antigo);22
+916;Verona GLX 1.8i / 1.8 4p;22
+917;Verona GLX 2.0i / 2.0 4p;22
+918;Verona LX 1.6 (Modelo antigo);22
+919;Verona LX 1.8 (Modelo antigo);22
+920;Verona S 2.0i 4p;22
+921;Versailles Ghia 2.0i / 2.0 2p e 4p;22
+922;Versailles GL 1.8i / 1.8 2p e 4p;22
+923;Versailles GL 2.0i / 2.0 2p e 4p;22
+924;Windstar GL;22
+925;Windstar LX;22
