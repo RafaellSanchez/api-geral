@@ -3,7 +3,7 @@ import pandas as pd
 import time
 
 
-file = '/workspaces/api-geral/CAR/repo_ford/ford/modelo_ford.txt'
+file = '/workspaces/api-geral/CAR/codigo/repo_ford/ford/modelo_ford.txt'
 df = pd.read_csv(file, delimiter=";")
 
 # Filtro para encontrar linhas onde a coluna "nome_da_coluna" contenha a palavra "Ka"
