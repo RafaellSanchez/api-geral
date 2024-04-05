@@ -1,0 +1,40 @@
+{"data":
+    {"brand":
+      {"name":"Banco do Brasil S/A","companies":[
+          {"name":"Banco do Brasil S/A","cnpjNumber":"00000000000191","contractors":[
+            {"name":"MUITOFACIL ARRECADACAO E RECEB","cnpjNumber":"02789417000100","bankingAgents":[
+                {"identification":
+                {"corporationName":"JOSE RAIMUNDO MAGALHAES PASSOS","groupName":"MUITOFACIL ARRECADACAO E RECEB","cnpjNumber":"22342467000152","isUnderestablishment":true},"locations":[
+                    {"postalAddress":
+                    {"address":"VICOSA DO CEARA VL JUA DOS VIEIRAS, 001","additionalInfo":null,"districtName":"JUA DOS VIEIRAS","townName":"VICOSA DO CEARA","ibgeCode":"0231410","countrySubDivision":"CE","postCode":"62300000","country":"BRASIL","countryCode":"BRA","geographicCoordinates":
+                    {"latitude":"-3.511600569","longitude":"-41.28732919"}},"availability":{"standards":[
+                        {"weekday":"SEGUNDA_FEIRA","openingTime":"11:00:00Z","closingTime":"21:00:00Z"},
+                        {"weekday":"TERCA_FEIRA","openingTime":"11:00:00Z","closingTime":"21:00:00Z"},
+                        {"weekday":"QUARTA_FEIRA","openingTime":"11:00:00Z","closingTime":"21:00:00Z"},
+                        {"weekday":"QUINTA_FEIRA","openingTime":"11:00:00Z","closingTime":"21:00:00Z"},
+                        {"weekday":"SEXTA_FEIRA","openingTime":"11:00:00Z","closingTime":"21:00:00Z"}],"exception":"Funcionamento somente em dias úteis","isPublicAccessAllowed":true},"phones":[
+                            {"type":"NA","countryCallingCode":null,"areaCode":null,"number":null}]}],"services":[
+                                {"name":"RECEBIMENTOS_PAGAMENTOS_QUALQUER_NATUREZA_OUTRAS_ATIVIDADES_DECORRENTES_EXECUCAO_CONTRATOS_CONVENIOS_PRESTACAO_SERVICOS","code":"RECEBIMENTOS_PAGAMENTOS_QUALQUER_NATUREZA_EXECUCAO_CONTRATOS_CONVENIO","additionalInfo":null},
+                                {"name":"OUTROS","code":"OUTROS","additionalInfo":null}]},
+                                {"identification":
+                                {"corporationName":"ANTONIA LEANE SOUSA SILVA 05394578176","groupName":"MUITOFACIL ARRECADACAO E RECEB","cnpjNumber":"22295690000196","isUnderestablishment":true},"locations":[
+                                    {"postalAddress":
+                                    {"address":"TIANGUA DISTRITO DE ARAPA S/N","additionalInfo":null,"districtName":"ZONA RURAL","townName":"TIANGUA","ibgeCode":"0231340","countrySubDivision":"CE","postCode":"62320000","country":"BRASIL","countryCode":"BRA","geographicCoordinates":
+                                    {"latitude":"-3.730020000","longitude":"-40.99235000"}},"availability":
+                                    {"standards":[
+                                        {"weekday":"SEGUNDA_FEIRA","openingTime":"11:00:00Z","closingTime":"22:00:00Z"},
+                                        {"weekday":"TERCA_FEIRA","openingTime":"11:00:00Z","closingTime":"22:00:00Z"},
+                                        {"weekday":"QUARTA_FEIRA","openingTime":"11:00:00Z","closingTime":"22:00:00Z"},
+                                        {"weekday":"QUINTA_FEIRA","openingTime":"11:00:00Z","closingTime":"22:00:00Z"},
+                                        {"weekday":"SEXTA_FEIRA","openingTime":"11:00:00Z","closingTime":"22:00:00Z"},
+                                        {"weekday":"SABADO","openingTime":"11:00:00Z","closingTime":"22:00:00Z"},
+                                        {"weekday":"DOMINGO","openingTime":"11:00:00Z","closingTime":"22:00:00Z"}],"exception":"Feriados, de 08:00:00 às 19:00:00","isPublicAccessAllowed":true},"phones":[
+                                            {"type":"NA","countryCallingCode":null,"areaCode":null,"number":null}]}],"services":[
+                                                {"name":"RECEBIMENTOS_PAGAMENTOS_QUALQUER_NATUREZA_OUTRAS_ATIVIDADES_DECORRENTES_EXECUCAO_CONTRATOS_CONVENIOS_PRESTACAO_SERVICOS","code":"RECEBIMENTOS_PAGAMENTOS_QUALQUER_NATUREZA_EXECUCAO_CONTRATOS_CONVENIO","additionalInfo":null},
+                                                {"name":"OUTROS","code":"OUTROS","additionalInfo":null}]}]}]}]}},"links":
+                                                {"self":"https://opendata.api.bb.com.br/open-banking/channels/v1/banking-agents?page=1521&page-size=2",
+                                                "first":"https://opendata.api.bb.com.br/open-banking/channels/v1/banking-agents?page=1&page-size=2",
+                                                "prev":"https://opendata.api.bb.com.br/open-banking/channels/v1/banking-agents?page=1520&page-size=2",
+                                                "next":"https://opendata.api.bb.com.br/open-banking/channels/v1/banking-agents?page=1522&page-size=2",
+                                                "last":"https://opendata.api.bb.com.br/open-banking/channels/v1/banking-agents?page=6836&page-size=2"},"meta":
+                                                {"totalRecords":13672,"totalPages":6836}}
