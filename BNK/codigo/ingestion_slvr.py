@@ -9,39 +9,86 @@ conn = sqlite3.connect(banco_de_dados)
 # Criar um cursor para executar comandos SQL
 cursor = conn.cursor()
 
-create_silver = '''
-CREATE TABLE IF NOT EXISTS test_bank_silver(
-    nome_empresa TEXT, 
-    cnpj_empresa INTEGER,
-    contrato_nome TEXT, 
-    contrato_cnpj TEXT, 
-    corporacao TEXT, 
-    grupo TEXT, 
-    isUnderestablishment TEXT, 
-    cnpjnumber INTEGER, 
-    endereco TEXT, 
-    enderecoInfo TEXT, 
-    distrito_nome TEXT, 
-    cidade_nome TEXT, 
-    codigo_ibge TEXT, 
-    codigo_postal TEXT, 
-    pais TEXT, 
-    codigo_pais TEXT, 
-    latitude FLOAT, 
-    longitude FLOAT, 
-    semana TEXT, 
-    aberto TEXT, 
-    fechado TEXT, 
-    tipoTelefone TEXT, 
-    codigoPais TEXT, 
-    codigoArea TEXT, 
-    numeroTelefone TEXT    
-);
+insert_silver = '''
+INSERT INTO tb_bank_silver(
+nome_empresa
+,cnpj_empresa
+,contrato_nome
+,contrato_cnpj
+,corporacao
+,grupo
+,isUnderestablishment
+,cnpjnumber
+,endereco
+,enderecoInfo
+,distrito_nome
+,cidade_nome
+,codigo_ibge
+,codigo_postal
+,pais
+,codigo_pais
+,latitude
+,longitude
+,semana
+,aberto
+,fechado
+,tipoTelefone
+,codigoPais
+,codigoArea
+,numeroTelefone
+,thora_inclusao
+,dtIgtao
+)
+SELECT 
+nome AS nome_empresa
+,CAST(cnpj AS INTEGER) AS cnpj_empresa
+,contrato_nome
+,contrato_cnpj
+,corporacao
+,grupo
+,isUnderestablishment
+,CAST(cnpjnumber AS INTEGER) AS cnpj_number
+,ender AS endereco
+,enderIdentInfo AS enderecoInfo
+,districtName AS distrito_nome
+,townName AS cidade_nome
+,ibgeCode AS codigo_ibge
+,postCode AS codigo_postal
+,country AS pais
+,countryCode AS codigo_pais
+,latitude
+,longitude
+,semana
+,open AS aberto
+,close AS fechado
+,tipoTelefone
+,codigoPais
+,codigoArea
+,numeroTelefone
+,strftime('%Y%m%d_%H%M%S', 'now') AS thora_inclusao
+,strftime('%Y-%m-%d', 'now') AS dtIgtao
+
+from tb_bank_brnz;
 '''
-cursor.execute(create_silver)
-print('realizando commit')
+
+cursor.execute(insert_silver)
+
 # Commit para salvar as alterações
 conn.commit()
-print('fechando conexao!')
+print('insert executado com sucesso!')
+table_name = 'tb_bank_silver'
+
+query = f'''
+select * from {table_name}
+'''
+cursor.execute(query)
+resultados = cursor.fetchall()
+
+for linha in resultados:
+    print(linha)
+    
+
+
 # Fechar a conexão
 conn.close()
+print('execucao finalizada!')
