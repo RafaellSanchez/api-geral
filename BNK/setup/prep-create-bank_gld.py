@@ -1,4 +1,5 @@
 import sqlite3
+
 #função para mensagem
 def mensagem(msg):
     print('-' *25)
@@ -9,6 +10,7 @@ def mensagem(msg):
 
 print('iniciando conexao com o banco de dados!')
 banco_de_dados = '/workspaces/api-geral/BNK/sql/bank.db'
+
 # Conectar ao banco de dados SQLite
 print('conectando ao banco de dados!')
 conn = sqlite3.connect(banco_de_dados)
@@ -44,13 +46,13 @@ CREATE TABLE IF NOT EXISTS tb_bank_gld(
     codigoPais TEXT, 
     codigoArea TEXT, 
     numeroTelefone TEXT,
-    strftime(''%Y%m%d_%H%M%S'', 'now') AS thora_inclusao
-    strftime('%Y-%m-%d', 'now') AS dtIgtao
-)
-
+    thora_inclusao,
+    dtIgtao
+);
 '''
-
 cursor.execute(create_gold)
+
+mensagem('tabela criada')
 # Commit para salvar as alterações
 conn.commit()
 # Execute uma consulta SQL para obter as colunas da tabela
@@ -59,16 +61,5 @@ colunas = cursor.fetchall()
 print('carregando informações das colunas')
 for coluna in colunas:
     print(coluna[1])
-      
 
-
-table_name = 'tb_bank_gld'
-mensagem(f'carregando informações da tabela: {table_name}')
-query = f'''
-select * from {table_name}
-'''
-cursor.execute(query)
-resultados = cursor.fetchall()
-
-for linha in resultados:
-    print(linha)
+mensagem('fim da execucao')
