@@ -12,7 +12,8 @@ conn = sqlite3.connect(banco_de_dados)
 cursor = conn.cursor()
 
 create_silver = '''
-CREATE TABLE IF NOT EXISTS test_bank_silver(
+CREATE TABLE IF NOT EXISTS tb_bank_silver(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
     nome_empresa TEXT, 
     cnpj_empresa INTEGER,
     contrato_nome TEXT, 
@@ -37,7 +38,9 @@ CREATE TABLE IF NOT EXISTS test_bank_silver(
     tipoTelefone TEXT, 
     codigoPais TEXT, 
     codigoArea TEXT, 
-    numeroTelefone TEXT    
+    numeroTelefone TEXT,
+    thora_inclusao,
+    dtIgtao  
 );
 '''
 cursor.execute(create_silver)
