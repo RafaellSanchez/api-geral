@@ -1,5 +1,7 @@
 import sqlite3
 
+#create table silver
+
 print('iniciando conexao com o banco de dados!')
 banco_de_dados = '/workspaces/api-geral/BNK/sql/bank.db'
 # Conectar ao banco de dados SQLite
