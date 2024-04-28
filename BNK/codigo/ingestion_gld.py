@@ -13,8 +13,7 @@ cursor = conn.cursor()
 
 insert_gold = '''
 INSERT INTO tb_bank_gld(
- id
-,nome_empresa
+nome_empresa
 ,cnpj_empresa
 ,contrato_nome
 ,contrato_cnpj
