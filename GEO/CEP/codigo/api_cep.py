@@ -4,10 +4,16 @@ import time
 
 
 
-url = 'viacep.com.br/ws/RS/Porto Alegre/Domingos/json/'
-
+url = 'https://viacep.com.br/ws/RS/Porto Alegre/Domingos/json/'
 response = requests.get(url)
+
+if response.status_code == 200:
+    print ('OK!')
+else:
+    print ('Boo!')
 print('realizando response!')
+
+
 dados = response.json()
 print('transformando no formato json')
 
