@@ -1,0 +1,10 @@
+cep: 07600-740
+logradouro: Estrada Armando Barbosa de Almeida
+complemento: 
+bairro: Chácara Arantes
+localidade: Mairiporã
+uf: SP
+ibge: 3528502
+gia: 4339
+ddd: 11
+siafi: 6671
