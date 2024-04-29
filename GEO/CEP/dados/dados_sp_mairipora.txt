@@ -1,0 +1,43 @@
+cep;logradouro;bairro;localidade;uf;ibge;gia;ddd;siafi
+07613-580;Rua Mairiporã;Mantiqueira;Mairiporã;SP;3528502;4339;11;6671
+07605-020;Rua JasminsJd Mairipora I;Rio Abaixo;Mairiporã;SP;3528502;4339;11;6671
+07605-065;Rua OrquideasJd Mairipora I;Rio Abaixo;Mairiporã;SP;3528502;4339;11;6671
+07605-225;Rua GirassolJd Mairipora II;Rio Abaixo;Mairiporã;SP;3528502;4339;11;6671
+07605-200;Rua das RosasJd Mairipora II;Rio Abaixo;Mairiporã;SP;3528502;4339;11;6671
+07605-230;Rua AntúriosJd Mairipora II;Rio Abaixo;Mairiporã;SP;3528502;4339;11;6671
+07605-070;Rua dos CravosJd Mairipora I;Rio Abaixo;Mairiporã;SP;3528502;4339;11;6671
+07605-025;Alameda LíriosJd Mairipora I;Rio Abaixo;Mairiporã;SP;3528502;4339;11;6671
+07605-095;Alameda TulipasJd Mairipora I;Rio Abaixo;Mairiporã;SP;3528502;4339;11;6671
+07605-045;Alameda GiestasJd Mairipora I;Rio Abaixo;Mairiporã;SP;3528502;4339;11;6671
+07605-060;Alameda GirassolJd Mairipora I;Rio Abaixo;Mairiporã;SP;3528502;4339;11;6671
+07605-180;Rua Acácias - Jd Mairipora II;Rio Abaixo;Mairiporã;SP;3528502;4339;11;6671
+07605-030;Alameda AcáciasJd Mairipora I;Rio Abaixo;Mairiporã;SP;3528502;4339;11;6671
+07605-240;Rua HortênciasJd Mairipora II;Rio Abaixo;Mairiporã;SP;3528502;4339;11;6671
+07605-015;Alameda AzaléiaJd Mairipora I;Rio Abaixo;Mairiporã;SP;3528502;4339;11;6671
+07605-035;Alameda BegôniasJd Mairipora I;Rio Abaixo;Mairiporã;SP;3528502;4339;11;6671
+07605-080;Alameda das RosasJd Mairipora I;Rio Abaixo;Mairiporã;SP;3528502;4339;11;6671
+07605-010;Praça JacarandáJd Mairipora I;Rio Abaixo;Mairiporã;SP;3528502;4339;11;6671
+07629-460;Praça Lions Club de Mairiporã;Capoavinha;Mairiporã;SP;3528502;4339;11;6671
+07605-100;Alameda AntúriosJd Mairipora I;Rio Abaixo;Mairiporã;SP;3528502;4339;11;6671
+07658-515;Rua TucanoPaineira de Mairipora;Mato Dentro;Mairiporã;SP;3528502;4339;11;6671
+07600-026;Praça Rotary Club de Mairiporã;Centro;Mairiporã;SP;3528502;4339;11;6671
+07605-205;Rua das BegôniasJd Mairipora II;Rio Abaixo;Mairiporã;SP;3528502;4339;11;6671
+07605-220;Rua Flor de LotusJd Mairipora II;Rio Abaixo;Mairiporã;SP;3528502;4339;11;6671
+07605-075;Alameda MargaridasJd Mairipora I;Rio Abaixo;Mairiporã;SP;3528502;4339;11;6671
+07605-170;Alameda Giestas - Jd Mairipora II;Rio Abaixo;Mairiporã;SP;3528502;4339;11;6671
+07656-130;Alameda dos TucanosAld Mairiporã;Mato Dentro;Mairiporã;SP;3528502;4339;11;6671
+07605-210;Alameda Lírios - Jd Mairipora II;Rio Abaixo;Mairiporã;SP;3528502;4339;11;6671
+07605-215;Alameda Tulipas - Jd Mairipora II;Rio Abaixo;Mairiporã;SP;3528502;4339;11;6671
+07656-135;Travessa dos TucanosAld Mairiporã;Mato Dentro;Mairiporã;SP;3528502;4339;11;6671
+07605-190;Alameda dos JasminsJd Mairipora II;Rio Abaixo;Mairiporã;SP;3528502;4339;11;6671
+07605-175;Alameda Azaléia - Jd Mairipora II;Rio Abaixo;Mairiporã;SP;3528502;4339;11;6671
+07605-040;Alameda Flor de MaioJd Mairipora I;Rio Abaixo;Mairiporã;SP;3528502;4339;11;6671
+07605-085;Alameda Amor PerfeitoJd Mairipora I;Rio Abaixo;Mairiporã;SP;3528502;4339;11;6671
+07605-195;Rua das Orquideas - Jd Mairipora II;Rio Abaixo;Mairiporã;SP;3528502;4339;11;6671
+07605-185;Alameda Camélias - Jd Mairipora II;Rio Abaixo;Mairiporã;SP;3528502;4339;11;6671
+07656-175;Travessa Olho D'ÁguaAld Mairiporã;Mato Dentro;Mairiporã;SP;3528502;4339;11;6671
+07605-165;Alameda Flor de Maio - Jd Mairipora II;Rio Abaixo;Mairiporã;SP;3528502;4339;11;6671
+07605-150;Alameda Amor Perfeito - Jd Mairipora II;Rio Abaixo;Mairiporã;SP;3528502;4339;11;6671
+07605-235;Alameda das Margaridas - Jd Mairipora II;Rio Abaixo;Mairiporã;SP;3528502;4339;11;6671
+07605-090;Alameda Mater Boni ConsiliiJd Mairipora I;Rio Abaixo;Mairiporã;SP;3528502;4339;11;6671
+07605-055;Alameda das Ilhas Havaianas Jd Mairipora I;Rio Abaixo;Mairiporã;SP;3528502;4339;11;6671
