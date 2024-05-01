@@ -14,8 +14,8 @@ cep;logradouro;bairro;localidade;uf;ibge;gia;ddd;siafi
 07605-030;Alameda AcáciasJd Mairipora I;Rio Abaixo;Mairiporã;SP;3528502;4339;11;6671
 07605-240;Rua HortênciasJd Mairipora II;Rio Abaixo;Mairiporã;SP;3528502;4339;11;6671
 07605-015;Alameda AzaléiaJd Mairipora I;Rio Abaixo;Mairiporã;SP;3528502;4339;11;6671
-07605-080;Alameda das RosasJd Mairipora I;Rio Abaixo;Mairiporã;SP;3528502;4339;11;6671
 07605-035;Alameda BegôniasJd Mairipora I;Rio Abaixo;Mairiporã;SP;3528502;4339;11;6671
+07605-080;Alameda das RosasJd Mairipora I;Rio Abaixo;Mairiporã;SP;3528502;4339;11;6671
 07605-010;Praça JacarandáJd Mairipora I;Rio Abaixo;Mairiporã;SP;3528502;4339;11;6671
 07629-460;Praça Lions Club de Mairiporã;Capoavinha;Mairiporã;SP;3528502;4339;11;6671
 07605-100;Alameda AntúriosJd Mairipora I;Rio Abaixo;Mairiporã;SP;3528502;4339;11;6671
