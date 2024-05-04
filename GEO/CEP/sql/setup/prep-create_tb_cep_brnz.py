@@ -1,13 +1,27 @@
 import sqlite3
 
-banco_de_dados = '/workspaces/api-geral/GEO/CEP/sql/db/banco_cep.db'
+############################
+#  EXECUTAR APENAS UMA VEZ #
+############################
+
+
+db = 'banco_cep.db'
+banco_de_dados = f'/workspaces/api-geral/GEO/CEP/sql/db/{db}'
 #conectar ao banco de dados SQLite
 conn = sqlite3.connect(banco_de_dados)
 cursor = conn.cursor()
+print(f'db conectado: {db}')
 
+tabela = 'tb_cep_brnz'
+drop = f'''
+drop table if exists {tabela};
+'''
+print(f'tabela excluida: {tabela}')
 
-query = '''
-CREATE TABLE IF NOT EXISTS tb_cep_brnz(
+print('executando uma nova query')
+print(f'criando tabela: {tabela}')
+query = f'''
+CREATE TABLE IF NOT EXISTS {tabela}(
     cep TEXT,
     logradouro TEXT,
     bairro TEXT,
@@ -16,10 +30,14 @@ CREATE TABLE IF NOT EXISTS tb_cep_brnz(
     ibge TEXT,
     gia TEXT,
     ddd INTEGER,
-    siafi INTEGER
+    siafi INTEGER,
+    nm_arquivo TEXT,
+    data_arquivo STRING
 );
 '''
 
 cursor.execute(query)
+print('query executada!')
 conn.commit()
 conn.close()
+print('codigo executado!')
