@@ -1,4 +1,4 @@
-,cep,logradouro,bairro,localidade,uf,ibge,gia,ddd,siafi,nome_arquivo,data_igtao
+,cep,logradouro,bairro,localidade,uf,ibge,gia,ddd,siafi,nome_arquivo,data_arquivo
 0,07613-580,Rua Mairiporã,Mantiqueira,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
 1,07605-020,Rua JasminsJd Mairipora I,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
 2,07605-065,Rua OrquideasJd Mairipora I,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447

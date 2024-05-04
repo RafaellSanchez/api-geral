@@ -17,7 +17,7 @@ drop = f'''
 drop table if exists {tabela};
 '''
 print(f'tabela excluida: {tabela}')
-
+conn.commit()
 print('executando uma nova query')
 print(f'criando tabela: {tabela}')
 query = f'''
@@ -32,12 +32,19 @@ CREATE TABLE IF NOT EXISTS {tabela}(
     ddd INTEGER,
     siafi INTEGER,
     nm_arquivo TEXT,
-    data_arquivo STRING
+    data_arquivo TEXT
 );
 '''
 
 cursor.execute(query)
 print('query executada!')
 conn.commit()
+cursor.execute("PRAGMA table_info(tb_cep_brnz)")
+colunas = cursor.fetchall()
+print(f'describe da tabela: {tabela}')
+print('resultado:')
+for coluna in colunas:
+    print(coluna[1])
+
 conn.close()
 print('codigo executado!')

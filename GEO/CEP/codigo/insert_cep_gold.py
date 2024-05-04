@@ -24,6 +24,8 @@ try:
             gia,
             ddd,
             siafi,
+            nm_arquivo,
+            data_arquivo,
             dthora_inclusao,
             dtIgtao
          )
@@ -37,6 +39,9 @@ try:
             gia,
             ddd,
             siafi,
+            nm_arquivo
+            data_arquivo,
+            dthora_inclusao,
            strftime('%Y%m%d_%H%M%S', 'now') AS dthora_inclusao,
            strftime('%Y-%m-%d', 'now') AS dtIgtao
         FROM tb_cep_slver;

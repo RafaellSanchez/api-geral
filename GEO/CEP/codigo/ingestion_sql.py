@@ -19,7 +19,7 @@ try:
             df = pd.read_csv(f'{src_arquivo}', delimiter=';', usecols=lambda column: column !='Unnamed: 0')
             df['nome_arquivo'] = nome_arquivo
             data = nome_arquivo[17:32]
-            df['data_igtao'] = data
+            df['data_arquivo'] = data
             # print(df)
             
             print('carregando informações no df')
@@ -42,7 +42,7 @@ try:
             
 except Exception as e:
     print(f'Error: {e}')
- 
+
         
 print('Verificando tabela')
 tabela = 'tb_cep_brnz'
