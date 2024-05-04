@@ -1,5 +1,10 @@
 import sqlite3
+import time
 
+print('iniciando processo transformação')
+time.sleep(3)
+
+print('carregando variaveis!')
 try:
     banco = 'banco_cep.db'
     print('conectando com o banco de dados')
@@ -7,7 +12,9 @@ try:
     #conectar ao banco de dados SQLite
     conn = sqlite3.connect(banco_de_dados)
     cursor = conn.cursor()
+    time.sleep(3)
     
+    print('iniciando insert')
     insert_silver = '''
          INSERT INTO tb_cep_slver(
             cep,
@@ -19,6 +26,8 @@ try:
             gia,
             ddd,
             siafi,
+            nm_arquivo,
+            data_arquivo,
             dthora_inclusao,
             dtIgtao
          )
@@ -32,18 +41,21 @@ try:
             gia,
             ddd,
             siafi,
-           strftime('%Y%m%d_%H%M%S', 'now') AS dthora_inclusao,
-           strftime('%Y-%m-%d', 'now') AS dtIgtao
+            nome_arquivo AS nm_arquivo,
+            data_arquivo AS data_arquivo,
+            strftime('%Y%m%d_%H%M%S', 'now') AS dthora_inclusao,
+            strftime('%Y-%m-%d', 'now') AS dtIgtao
         FROM tb_cep_brnz;
     '''
     
     cursor.execute(insert_silver)
     conn.commit()
-    
+    print('insert sucesso!')
 except Exception as e:
     print(f'error: {e}')
     
 print('Verificando tabela')
+time.sleep(3)
 tabela = 'tb_cep_slver'
 query = f'''
 select * from {tabela}
