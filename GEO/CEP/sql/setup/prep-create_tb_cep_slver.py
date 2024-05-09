@@ -30,7 +30,9 @@ print(f'criando tabela: {tabela}')
 query = f'''
 CREATE TABLE IF NOT EXISTS {tabela}(
     id INTEGER PRIMARY KEY AUTOINCREMENT,
-    cep TEXT,
+    ccep INTEGER,
+    cep_loc DECIMAL,
+    ccep_compl DECIMAL,
     logradouro TEXT,
     bairro TEXT,
     localidade TEXT,
