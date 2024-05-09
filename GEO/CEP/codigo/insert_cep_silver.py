@@ -17,7 +17,9 @@ try:
     print('iniciando insert')
     insert_silver = '''
          INSERT INTO tb_cep_slver(
-            cep,
+            ccep,
+            cep_loc,
+            ccep_compl,
             logradouro,
             bairro,
             localidade,
@@ -32,7 +34,9 @@ try:
             dtIgtao
          )
          SELECT 
-            cep,
+            ccep,
+            cast(cep_loc as decimal) as cep_loc,
+            cast(ccep_compl as decimal) as ccep_loc,
             logradouro,
             bairro,
             localidade,
@@ -41,10 +45,10 @@ try:
             gia,
             ddd,
             siafi,
-            nome_arquivo AS nm_arquivo,
-            data_arquivo AS data_arquivo,
-            strftime('%Y%m%d_%H%M%S', 'now') AS dthora_inclusao,
-            strftime('%Y-%m-%d', 'now') AS dtIgtao
+            nome_arquivo as nm_arquivo,
+            data_arquivo as data_arquivo,
+            strftime('%Y%m%d_%H%M%S', 'now') as dthora_inclusao,
+            strftime('%Y-%m-%d', 'now') as dtIgtao
         FROM tb_cep_brnz;
     '''
     
