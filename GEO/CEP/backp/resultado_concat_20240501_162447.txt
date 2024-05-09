@@ -1,217 +1,217 @@
-,cep,logradouro,bairro,localidade,uf,ibge,gia,ddd,siafi,nome_arquivo,data_arquivo
-0,07613-580,Rua Mairiporã,Mantiqueira,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-1,07605-020,Rua JasminsJd Mairipora I,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-2,07605-065,Rua OrquideasJd Mairipora I,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-3,07605-225,Rua GirassolJd Mairipora II,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-4,07605-200,Rua das RosasJd Mairipora II,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-5,07605-230,Rua AntúriosJd Mairipora II,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-6,07605-070,Rua dos CravosJd Mairipora I,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-7,07605-025,Alameda LíriosJd Mairipora I,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-8,07605-095,Alameda TulipasJd Mairipora I,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-9,07605-045,Alameda GiestasJd Mairipora I,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-10,07605-060,Alameda GirassolJd Mairipora I,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-11,07605-180,Rua Acácias - Jd Mairipora II,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-12,07605-030,Alameda AcáciasJd Mairipora I,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-13,07605-240,Rua HortênciasJd Mairipora II,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-14,07605-015,Alameda AzaléiaJd Mairipora I,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-15,07605-035,Alameda BegôniasJd Mairipora I,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-16,07605-080,Alameda das RosasJd Mairipora I,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-17,07605-010,Praça JacarandáJd Mairipora I,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-18,07629-460,Praça Lions Club de Mairiporã,Capoavinha,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-19,07605-100,Alameda AntúriosJd Mairipora I,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-20,07658-515,Rua TucanoPaineira de Mairipora,Mato Dentro,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-21,07600-026,Praça Rotary Club de Mairiporã,Centro,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-22,07605-205,Rua das BegôniasJd Mairipora II,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-23,07605-220,Rua Flor de LotusJd Mairipora II,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-24,07605-075,Alameda MargaridasJd Mairipora I,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-25,07605-170,Alameda Giestas - Jd Mairipora II,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-26,07656-130,Alameda dos TucanosAld Mairiporã,Mato Dentro,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-27,07605-210,Alameda Lírios - Jd Mairipora II,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-28,07605-215,Alameda Tulipas - Jd Mairipora II,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-29,07656-135,Travessa dos TucanosAld Mairiporã,Mato Dentro,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-30,07605-190,Alameda dos JasminsJd Mairipora II,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-31,07605-175,Alameda Azaléia - Jd Mairipora II,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-32,07605-040,Alameda Flor de MaioJd Mairipora I,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-33,07605-085,Alameda Amor PerfeitoJd Mairipora I,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-34,07656-175,Travessa Olho D'ÁguaAld Mairiporã,Mato Dentro,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-35,07605-195,Rua das Orquideas - Jd Mairipora II,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-36,07605-185,Alameda Camélias - Jd Mairipora II,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-37,07605-165,Alameda Flor de Maio - Jd Mairipora II,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-38,07605-150,Alameda Amor Perfeito - Jd Mairipora II,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-39,07605-235,Alameda das Margaridas - Jd Mairipora II,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-40,07605-090,Alameda Mater Boni ConsiliiJd Mairipora I,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-41,07605-055,Alameda das Ilhas Havaianas Jd Mairipora I,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-42,07613-500,Rodovia Arão Sahm,Mantiqueira,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-43,07652-010,Rodovia Arão Sahm,Remédios,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-44,07613-300,Rodovia Arão Sahm,Boa Vista,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-45,07625-500,Rodovia Arão Sahm,Luiz Fagundes,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-46,07631-200,Rodovia Arão Sahm,Rio Acima,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-47,07662-810,Rodovia Arão Sahm,Terra Preta (Terra Preta),Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-48,07664-000,Rodovia Arão Sahm,Jundiaizinho (Terra Preta),Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-49,07600-070,Rodovia Fernão Dias,Centro,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-50,07663-000,Rodovia Fernão Dias,Jundiaizinho (Terra Preta),Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-51,07629-000,Rodovia Fernão Dias,Capoavinha,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-52,07600-400,Rodovia Fernão Dias,Moinho,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-53,07625-000,Rodovia Fernão Dias,Luiz Fagundes,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-54,07631-300,Rodovia Fernão Dias,Rio Acima,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-55,07600-320,Rodovia Fernão Dias,Cidade Jardim,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-56,07661-000,Rodovia Fernão Dias,Terra Preta (Terra Preta),Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-57,07602-200,Rodovia Fernão Dias,Olho D'Água,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-58,07600-598,Rodovia Prefeito Luiz Salomao Chamma,Lavapés,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-59,07605-700,Rodovia Prefeito Luiz Salomao Chamma,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-60,07600-740,Estrada Armando Barbosa de Almeida,Chácara Arantes,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-61,07605-005,Estrada Armando Barbosa de Almeida,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-62,07604-525,Estrada Armando Barbosa de Almeida,Caceia,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-63,07642-700,Estrada D,Invernada,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-64,07642-670,Estrada G,Invernada,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-65,07642-630,Estrada K,Invernada,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-66,07642-650,Estrada A,Invernada,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-67,07642-620,Estrada H,Invernada,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-68,07642-560,Estrada L,Invernada,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-69,07642-640,Estrada B,Invernada,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-70,07642-660,Estrada E,Invernada,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-71,07642-610,Estrada I,Invernada,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-72,07642-520,Estrada M,Invernada,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-73,07642-730,Estrada C,Invernada,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-74,07642-680,Estrada F,Invernada,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-75,07642-600,Estrada J,Invernada,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-76,07642-510,Estrada M2,Invernada,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-77,07664-270,Estrada Um,Jundiaizinho (Terra Preta),Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-78,07642-530,Estrada M1,Invernada,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-79,07626-403,Estrada Doze,Luiz Fagundes,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-80,07632-590,Estrada Tupi,Rio Acima,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-81,07664-275,Estrada Dois,Jundiaizinho (Terra Preta),Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-82,07663-180,Estrada Mirante,Jundiaizinho (Terra Preta),Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-83,07657-305,Estrada do Mimi,Mato Dentro,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-84,07619-626,Estrada Fragoso,Roseira,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-85,07666-280,Estrada Laramara,Corumbá (Terra Preta),Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-86,07642-580,Estrada do Clube,Invernada,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-87,07626-420,Estrada do Itaim,Luiz Fagundes,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-88,07657-275,Estrada da Fonte,Mato Dentro,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-89,07664-390,Estrada Laramara,Jundiaizinho (Terra Preta),Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-90,07627-120,Estrada da Tapera,Luiz Fagundes,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-91,07625-770,Estrada de Ibirá,Luiz Fagundes,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-92,07666-100,Estrada Municipal,Corumbá (Terra Preta),Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-93,07657-245,Estrada do Parque,Mato Dentro,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-94,07626-105,Estrada Municipal,Luiz Fagundes,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-95,07612-504,Estrada Existente,Boa Vista,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-96,07619-622,Estrada Particular,Roseira,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-97,07626-100,Estrada dos Moraes,Luiz Fagundes,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-98,07631-405,Estrada das Lavras,Rio Acima,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-99,07618-640,Estrada São Pedro,Roseira,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-100,07634-005,Estrada das Lavras,Lavras,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-101,07629-302,Estrada Tahira Eki,Capoavinha,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-102,07638-020,Estrada das Lavras,Pirucaia,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-103,07637-005,Estrada dos Moraes,Pirucaia,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-104,07627-090,Estrada do Valinho,Luiz Fagundes,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-105,07623-190,Estrada do Canduá,Samambaia,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-106,07667-700,Estrada Particular,Cardoso (Terra Preta),Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-107,07657-285,Estrada da Represa,Mato Dentro,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-108,07623-280,Estrada Santa Inês,Samambaia,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-109,07667-690,Estrada Existente 2,Cardoso (Terra Preta),Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-110,07657-250,Estrada da Floresta,Mato Dentro,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-111,07666-600,Estrada Municipal 2,Corumbá (Terra Preta),Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-112,07667-680,Estrada do Corumbá,Cardoso (Terra Preta),Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-113,07600-740,Estrada Armando Barbosa de Almeida,Chácara Arantes,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-114,07605-005,Estrada Armando Barbosa de Almeida,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-115,07604-525,Estrada Armando Barbosa de Almeida,Caceia,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-116,07629-116,Rua C,Capoavinha,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-117,07668-410,Rua B,Pedra Vermelha (Terra Preta),Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-118,07629-108,Rua A,Capoavinha,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-119,07645-300,Rua A,Marmelo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-120,07610-390,Rua B,Santa Inês,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-121,07622-100,Rua A,Caraguatá,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-122,07612-748,Rua A,Boa Vista,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-123,07610-380,Rua A,Santa Inês,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-124,07661-150,Rua K,Terra Preta (Terra Preta),Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-125,07629-020,Rua Um,Capoavinha,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-126,07607-505,Rua Um,São Vicente,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-127,07606-215,Rua Um,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-128,07619-092,Rua Um,Roseira,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-129,07668-425,Rua Um,Pedra Vermelha (Terra Preta),Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-130,07662-745,Rua Um,Terra Preta (Terra Preta),Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-131,07609-090,Rua Um,Vila Machado,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-132,07653-620,Rua Um,Remédios,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-133,07617-460,Rua Um,Juqueri Mirim,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-134,07621-305,Rua Joa,Caraguatá,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-135,07607-445,Rua Hum,São Vicente,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-136,07619-052,Rua Dez,Roseira,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-137,07663-070,Rua Avay,Jundiaizinho (Terra Preta),Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-138,07619-072,Rua Onze,Roseira,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-139,07606-336,Rua Nice,Rancho Grande,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-140,07621-290,Rua Ipê,Caraguatá,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-141,07623-160,Rua Doze,Samambaia,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-142,07667-660,Rua Rosa,Cardoso (Terra Preta),Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-143,07601-055,Rua Tupi,Olho D'Água,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-144,07662-770,Rua Seis,Terra Preta (Terra Preta),Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-145,07613-700,Rua Onix,Mantiqueira,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-146,07611-625,Rua Raia,Barreiro,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-147,07663-345,Rua Onze,Jundiaizinho (Terra Preta),Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-148,07663-060,Rua Peru,Jundiaizinho (Terra Preta),Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-149,07623-145,Rua Nove,Samambaia,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-150,07663-335,Rua Doze,Jundiaizinho (Terra Preta),Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-151,07666-265,Rua Edda,Corumbá (Terra Preta),Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-152,07632-215,Rua Ypê,Rio Acima,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-153,07623-110,Rua Riva,Samambaia,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-154,07609-235,Rua Sete,Vila Machado,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-155,07628-400,Rua Ipê,Mata Fria,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-156,07667-650,Rua Sara,Cardoso (Terra Preta),Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-157,07661-445,Rua Mero,Terra Preta (Terra Preta),Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-158,07662-765,Rua Sete,Terra Preta (Terra Preta),Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-159,07619-076,Rua Dois,Roseira,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-160,07653-630,Rua Dois,Remédios,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-161,07663-150,Rua Dois,Jundiaizinho (Terra Preta),Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-162,07621-220,Rua Kiri,Caraguatá,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-163,07623-120,Rua Oito,Samambaia,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-164,07612-744,Rua Lobo,Boa Vista,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-165,07629-168,Rua Poá,Capoavinha,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-166,07601-345,Avenida Hum,Olho D'Água,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-167,07613-655,Avenida Ouro,Mantiqueira,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-168,07613-690,Avenida Rubi,Mantiqueira,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-169,07657-210,Avenida Alpes,Mato Dentro,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-170,07631-320,Avenida Sandra,Rio Acima,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-171,07631-570,Avenida do Sol,Rio Acima,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-172,07613-705,Avenida Galena,Mantiqueira,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-173,07613-680,Avenida Safira,Mantiqueira,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-174,07634-020,Avenida Brasil,Lavras,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-175,07613-710,Avenida Quartzo,Mantiqueira,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-176,07613-720,Avenida Bauxita,Mantiqueira,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-177,07613-715,Avenida Pérola,Mantiqueira,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-178,07619-028,Avenida Mariana,Roseira,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-179,07601-330,Avenida Suécia,Olho D'Água,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-180,07657-205,Avenida Everest,Mato Dentro,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-181,07632-200,Avenida Marginal,Rio Acima,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-182,07612-860,Avenida Colônia,Boa Vista,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-183,07607-515,Avenida Marginal,São Vicente,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-184,07602-280,Avenida Montreal,Olho D'Água,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-185,07657-180,Avenida Himalaia,Mato Dentro,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-186,07666-180,Avenida Nebraska,Corumbá (Terra Preta),Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-187,07664-110,Avenida Espraiada,Jundiaizinho (Terra Preta),Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-188,07621-885,Avenida das Rosas,Caraguatá,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-189,07604-605,Avenida Maranduba,Caceia,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-190,07613-660,Avenida Esmeralda,Mantiqueira,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-191,07625-480,Avenida Cancelata,Luiz Fagundes,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-192,07619-188,Avenida dos Rubis,Roseira,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-193,07619-236,Avenida Pau Marfim,Roseira,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-194,07664-495,Avenida Flamboyant,Jundiaizinho (Terra Preta),Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-195,07618-862,Avenida São Paulo,Roseira,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-196,07619-200,Avenida dos Cedros,Roseira,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-197,07620-100,Avenida Campo Baio,Cumbari,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-198,07619-024,Avenida Ouro Preto,Roseira,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-199,07620-120,Avenida Caraguatá,Cumbari,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-200,07601-050,Avenida Beira Lago,Olho D'Água,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-201,07619-224,Avenida dos Angicos,Roseira,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-202,07629-004,Avenida Neli Ladeia,Capoavinha,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-203,07661-435,Avenida Pietro Petri,Terra Preta (Terra Preta),Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-204,07619-184,Avenida das Granadas,Roseira,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-205,07613-765,Avenida Renato Pucci,Mantiqueira,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-206,07656-400,Avenida dos Beraldes,Mato Dentro,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-207,07619-460,Avenida das Caviunas,Roseira,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-208,07611-015,Avenida Serra Morena,Barreiro,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-209,07628-005,Avenida Minas Gerais,Mata Fria,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-210,07619-208,Avenida dos Alecrins,Roseira,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-211,07601-170,Avenida das Carnaubas,Olho D'Água,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-212,07619-228,Avenida das Camélias,Roseira,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-213,07611-400,Avenida dos Coqueiros,Barreiro,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-214,07623-025,Avenida Manoel Martins,Samambaia,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
-215,07610-620,Avenida dos Girassóis,Santa Inês,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447
+,logradouro,bairro,localidade,uf,ibge,gia,ddd,siafi,nome_arquivo,data_arquivo,ccep,cep_loc,ccep_compl
+0,Rua Mairiporã,Mantiqueira,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07613580,07613,580
+1,Rua JasminsJd Mairipora I,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07605020,07605,020
+2,Rua OrquideasJd Mairipora I,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07605065,07605,065
+3,Rua GirassolJd Mairipora II,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07605225,07605,225
+4,Rua das RosasJd Mairipora II,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07605200,07605,200
+5,Rua AntúriosJd Mairipora II,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07605230,07605,230
+6,Rua dos CravosJd Mairipora I,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07605070,07605,070
+7,Alameda LíriosJd Mairipora I,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07605025,07605,025
+8,Alameda TulipasJd Mairipora I,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07605095,07605,095
+9,Alameda GiestasJd Mairipora I,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07605045,07605,045
+10,Alameda GirassolJd Mairipora I,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07605060,07605,060
+11,Rua Acácias - Jd Mairipora II,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07605180,07605,180
+12,Alameda AcáciasJd Mairipora I,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07605030,07605,030
+13,Rua HortênciasJd Mairipora II,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07605240,07605,240
+14,Alameda AzaléiaJd Mairipora I,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07605015,07605,015
+15,Alameda BegôniasJd Mairipora I,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07605035,07605,035
+16,Alameda das RosasJd Mairipora I,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07605080,07605,080
+17,Praça JacarandáJd Mairipora I,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07605010,07605,010
+18,Praça Lions Club de Mairiporã,Capoavinha,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07629460,07629,460
+19,Alameda AntúriosJd Mairipora I,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07605100,07605,100
+20,Rua TucanoPaineira de Mairipora,Mato Dentro,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07658515,07658,515
+21,Praça Rotary Club de Mairiporã,Centro,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07600026,07600,026
+22,Rua das BegôniasJd Mairipora II,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07605205,07605,205
+23,Rua Flor de LotusJd Mairipora II,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07605220,07605,220
+24,Alameda MargaridasJd Mairipora I,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07605075,07605,075
+25,Alameda Giestas - Jd Mairipora II,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07605170,07605,170
+26,Alameda dos TucanosAld Mairiporã,Mato Dentro,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07656130,07656,130
+27,Alameda Lírios - Jd Mairipora II,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07605210,07605,210
+28,Alameda Tulipas - Jd Mairipora II,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07605215,07605,215
+29,Travessa dos TucanosAld Mairiporã,Mato Dentro,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07656135,07656,135
+30,Alameda dos JasminsJd Mairipora II,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07605190,07605,190
+31,Alameda Azaléia - Jd Mairipora II,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07605175,07605,175
+32,Alameda Flor de MaioJd Mairipora I,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07605040,07605,040
+33,Alameda Amor PerfeitoJd Mairipora I,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07605085,07605,085
+34,Travessa Olho D'ÁguaAld Mairiporã,Mato Dentro,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07656175,07656,175
+35,Rua das Orquideas - Jd Mairipora II,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07605195,07605,195
+36,Alameda Camélias - Jd Mairipora II,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07605185,07605,185
+37,Alameda Flor de Maio - Jd Mairipora II,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07605165,07605,165
+38,Alameda Amor Perfeito - Jd Mairipora II,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07605150,07605,150
+39,Alameda das Margaridas - Jd Mairipora II,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07605235,07605,235
+40,Alameda Mater Boni ConsiliiJd Mairipora I,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07605090,07605,090
+41,Alameda das Ilhas Havaianas Jd Mairipora I,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07605055,07605,055
+42,Rodovia Arão Sahm,Mantiqueira,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07613500,07613,500
+43,Rodovia Arão Sahm,Remédios,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07652010,07652,010
+44,Rodovia Arão Sahm,Boa Vista,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07613300,07613,300
+45,Rodovia Arão Sahm,Luiz Fagundes,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07625500,07625,500
+46,Rodovia Arão Sahm,Rio Acima,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07631200,07631,200
+47,Rodovia Arão Sahm,Terra Preta (Terra Preta),Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07662810,07662,810
+48,Rodovia Arão Sahm,Jundiaizinho (Terra Preta),Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07664000,07664,000
+49,Rodovia Fernão Dias,Centro,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07600070,07600,070
+50,Rodovia Fernão Dias,Jundiaizinho (Terra Preta),Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07663000,07663,000
+51,Rodovia Fernão Dias,Capoavinha,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07629000,07629,000
+52,Rodovia Fernão Dias,Moinho,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07600400,07600,400
+53,Rodovia Fernão Dias,Luiz Fagundes,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07625000,07625,000
+54,Rodovia Fernão Dias,Rio Acima,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07631300,07631,300
+55,Rodovia Fernão Dias,Cidade Jardim,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07600320,07600,320
+56,Rodovia Fernão Dias,Terra Preta (Terra Preta),Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07661000,07661,000
+57,Rodovia Fernão Dias,Olho D'Água,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07602200,07602,200
+58,Rodovia Prefeito Luiz Salomao Chamma,Lavapés,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07600598,07600,598
+59,Rodovia Prefeito Luiz Salomao Chamma,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07605700,07605,700
+60,Estrada Armando Barbosa de Almeida,Chácara Arantes,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07600740,07600,740
+61,Estrada Armando Barbosa de Almeida,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07605005,07605,005
+62,Estrada Armando Barbosa de Almeida,Caceia,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07604525,07604,525
+63,Estrada D,Invernada,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07642700,07642,700
+64,Estrada G,Invernada,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07642670,07642,670
+65,Estrada K,Invernada,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07642630,07642,630
+66,Estrada A,Invernada,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07642650,07642,650
+67,Estrada H,Invernada,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07642620,07642,620
+68,Estrada L,Invernada,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07642560,07642,560
+69,Estrada B,Invernada,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07642640,07642,640
+70,Estrada E,Invernada,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07642660,07642,660
+71,Estrada I,Invernada,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07642610,07642,610
+72,Estrada M,Invernada,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07642520,07642,520
+73,Estrada C,Invernada,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07642730,07642,730
+74,Estrada F,Invernada,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07642680,07642,680
+75,Estrada J,Invernada,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07642600,07642,600
+76,Estrada M2,Invernada,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07642510,07642,510
+77,Estrada Um,Jundiaizinho (Terra Preta),Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07664270,07664,270
+78,Estrada M1,Invernada,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07642530,07642,530
+79,Estrada Doze,Luiz Fagundes,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07626403,07626,403
+80,Estrada Tupi,Rio Acima,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07632590,07632,590
+81,Estrada Dois,Jundiaizinho (Terra Preta),Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07664275,07664,275
+82,Estrada Mirante,Jundiaizinho (Terra Preta),Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07663180,07663,180
+83,Estrada do Mimi,Mato Dentro,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07657305,07657,305
+84,Estrada Fragoso,Roseira,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07619626,07619,626
+85,Estrada Laramara,Corumbá (Terra Preta),Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07666280,07666,280
+86,Estrada do Clube,Invernada,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07642580,07642,580
+87,Estrada do Itaim,Luiz Fagundes,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07626420,07626,420
+88,Estrada da Fonte,Mato Dentro,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07657275,07657,275
+89,Estrada Laramara,Jundiaizinho (Terra Preta),Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07664390,07664,390
+90,Estrada da Tapera,Luiz Fagundes,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07627120,07627,120
+91,Estrada de Ibirá,Luiz Fagundes,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07625770,07625,770
+92,Estrada Municipal,Corumbá (Terra Preta),Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07666100,07666,100
+93,Estrada do Parque,Mato Dentro,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07657245,07657,245
+94,Estrada Municipal,Luiz Fagundes,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07626105,07626,105
+95,Estrada Existente,Boa Vista,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07612504,07612,504
+96,Estrada Particular,Roseira,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07619622,07619,622
+97,Estrada dos Moraes,Luiz Fagundes,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07626100,07626,100
+98,Estrada das Lavras,Rio Acima,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07631405,07631,405
+99,Estrada São Pedro,Roseira,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07618640,07618,640
+100,Estrada das Lavras,Lavras,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07634005,07634,005
+101,Estrada Tahira Eki,Capoavinha,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07629302,07629,302
+102,Estrada das Lavras,Pirucaia,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07638020,07638,020
+103,Estrada dos Moraes,Pirucaia,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07637005,07637,005
+104,Estrada do Valinho,Luiz Fagundes,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07627090,07627,090
+105,Estrada do Canduá,Samambaia,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07623190,07623,190
+106,Estrada Particular,Cardoso (Terra Preta),Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07667700,07667,700
+107,Estrada da Represa,Mato Dentro,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07657285,07657,285
+108,Estrada Santa Inês,Samambaia,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07623280,07623,280
+109,Estrada Existente 2,Cardoso (Terra Preta),Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07667690,07667,690
+110,Estrada da Floresta,Mato Dentro,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07657250,07657,250
+111,Estrada Municipal 2,Corumbá (Terra Preta),Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07666600,07666,600
+112,Estrada do Corumbá,Cardoso (Terra Preta),Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07667680,07667,680
+113,Estrada Armando Barbosa de Almeida,Chácara Arantes,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07600740,07600,740
+114,Estrada Armando Barbosa de Almeida,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07605005,07605,005
+115,Estrada Armando Barbosa de Almeida,Caceia,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07604525,07604,525
+116,Rua C,Capoavinha,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07629116,07629,116
+117,Rua B,Pedra Vermelha (Terra Preta),Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07668410,07668,410
+118,Rua A,Capoavinha,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07629108,07629,108
+119,Rua A,Marmelo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07645300,07645,300
+120,Rua B,Santa Inês,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07610390,07610,390
+121,Rua A,Caraguatá,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07622100,07622,100
+122,Rua A,Boa Vista,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07612748,07612,748
+123,Rua A,Santa Inês,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07610380,07610,380
+124,Rua K,Terra Preta (Terra Preta),Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07661150,07661,150
+125,Rua Um,Capoavinha,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07629020,07629,020
+126,Rua Um,São Vicente,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07607505,07607,505
+127,Rua Um,Rio Abaixo,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07606215,07606,215
+128,Rua Um,Roseira,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07619092,07619,092
+129,Rua Um,Pedra Vermelha (Terra Preta),Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07668425,07668,425
+130,Rua Um,Terra Preta (Terra Preta),Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07662745,07662,745
+131,Rua Um,Vila Machado,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07609090,07609,090
+132,Rua Um,Remédios,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07653620,07653,620
+133,Rua Um,Juqueri Mirim,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07617460,07617,460
+134,Rua Joa,Caraguatá,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07621305,07621,305
+135,Rua Hum,São Vicente,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07607445,07607,445
+136,Rua Dez,Roseira,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07619052,07619,052
+137,Rua Avay,Jundiaizinho (Terra Preta),Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07663070,07663,070
+138,Rua Onze,Roseira,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07619072,07619,072
+139,Rua Nice,Rancho Grande,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07606336,07606,336
+140,Rua Ipê,Caraguatá,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07621290,07621,290
+141,Rua Doze,Samambaia,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07623160,07623,160
+142,Rua Rosa,Cardoso (Terra Preta),Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07667660,07667,660
+143,Rua Tupi,Olho D'Água,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07601055,07601,055
+144,Rua Seis,Terra Preta (Terra Preta),Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07662770,07662,770
+145,Rua Onix,Mantiqueira,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07613700,07613,700
+146,Rua Raia,Barreiro,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07611625,07611,625
+147,Rua Onze,Jundiaizinho (Terra Preta),Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07663345,07663,345
+148,Rua Peru,Jundiaizinho (Terra Preta),Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07663060,07663,060
+149,Rua Nove,Samambaia,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07623145,07623,145
+150,Rua Doze,Jundiaizinho (Terra Preta),Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07663335,07663,335
+151,Rua Edda,Corumbá (Terra Preta),Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07666265,07666,265
+152,Rua Ypê,Rio Acima,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07632215,07632,215
+153,Rua Riva,Samambaia,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07623110,07623,110
+154,Rua Sete,Vila Machado,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07609235,07609,235
+155,Rua Ipê,Mata Fria,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07628400,07628,400
+156,Rua Sara,Cardoso (Terra Preta),Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07667650,07667,650
+157,Rua Mero,Terra Preta (Terra Preta),Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07661445,07661,445
+158,Rua Sete,Terra Preta (Terra Preta),Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07662765,07662,765
+159,Rua Dois,Roseira,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07619076,07619,076
+160,Rua Dois,Remédios,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07653630,07653,630
+161,Rua Dois,Jundiaizinho (Terra Preta),Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07663150,07663,150
+162,Rua Kiri,Caraguatá,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07621220,07621,220
+163,Rua Oito,Samambaia,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07623120,07623,120
+164,Rua Lobo,Boa Vista,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07612744,07612,744
+165,Rua Poá,Capoavinha,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07629168,07629,168
+166,Avenida Hum,Olho D'Água,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07601345,07601,345
+167,Avenida Ouro,Mantiqueira,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07613655,07613,655
+168,Avenida Rubi,Mantiqueira,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07613690,07613,690
+169,Avenida Alpes,Mato Dentro,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07657210,07657,210
+170,Avenida Sandra,Rio Acima,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07631320,07631,320
+171,Avenida do Sol,Rio Acima,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07631570,07631,570
+172,Avenida Galena,Mantiqueira,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07613705,07613,705
+173,Avenida Safira,Mantiqueira,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07613680,07613,680
+174,Avenida Brasil,Lavras,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07634020,07634,020
+175,Avenida Quartzo,Mantiqueira,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07613710,07613,710
+176,Avenida Bauxita,Mantiqueira,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07613720,07613,720
+177,Avenida Pérola,Mantiqueira,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07613715,07613,715
+178,Avenida Mariana,Roseira,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07619028,07619,028
+179,Avenida Suécia,Olho D'Água,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07601330,07601,330
+180,Avenida Everest,Mato Dentro,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07657205,07657,205
+181,Avenida Marginal,Rio Acima,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07632200,07632,200
+182,Avenida Colônia,Boa Vista,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07612860,07612,860
+183,Avenida Marginal,São Vicente,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07607515,07607,515
+184,Avenida Montreal,Olho D'Água,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07602280,07602,280
+185,Avenida Himalaia,Mato Dentro,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07657180,07657,180
+186,Avenida Nebraska,Corumbá (Terra Preta),Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07666180,07666,180
+187,Avenida Espraiada,Jundiaizinho (Terra Preta),Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07664110,07664,110
+188,Avenida das Rosas,Caraguatá,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07621885,07621,885
+189,Avenida Maranduba,Caceia,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07604605,07604,605
+190,Avenida Esmeralda,Mantiqueira,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07613660,07613,660
+191,Avenida Cancelata,Luiz Fagundes,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07625480,07625,480
+192,Avenida dos Rubis,Roseira,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07619188,07619,188
+193,Avenida Pau Marfim,Roseira,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07619236,07619,236
+194,Avenida Flamboyant,Jundiaizinho (Terra Preta),Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07664495,07664,495
+195,Avenida São Paulo,Roseira,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07618862,07618,862
+196,Avenida dos Cedros,Roseira,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07619200,07619,200
+197,Avenida Campo Baio,Cumbari,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07620100,07620,100
+198,Avenida Ouro Preto,Roseira,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07619024,07619,024
+199,Avenida Caraguatá,Cumbari,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07620120,07620,120
+200,Avenida Beira Lago,Olho D'Água,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07601050,07601,050
+201,Avenida dos Angicos,Roseira,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07619224,07619,224
+202,Avenida Neli Ladeia,Capoavinha,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07629004,07629,004
+203,Avenida Pietro Petri,Terra Preta (Terra Preta),Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07661435,07661,435
+204,Avenida das Granadas,Roseira,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07619184,07619,184
+205,Avenida Renato Pucci,Mantiqueira,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07613765,07613,765
+206,Avenida dos Beraldes,Mato Dentro,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07656400,07656,400
+207,Avenida das Caviunas,Roseira,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07619460,07619,460
+208,Avenida Serra Morena,Barreiro,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07611015,07611,015
+209,Avenida Minas Gerais,Mata Fria,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07628005,07628,005
+210,Avenida dos Alecrins,Roseira,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07619208,07619,208
+211,Avenida das Carnaubas,Olho D'Água,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07601170,07601,170
+212,Avenida das Camélias,Roseira,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07619228,07619,228
+213,Avenida dos Coqueiros,Barreiro,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07611400,07611,400
+214,Avenida Manoel Martins,Samambaia,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07623025,07623,025
+215,Avenida dos Girassóis,Santa Inês,Mairiporã,SP,3528502,4339,11,6671,resultado_concat_20240501_162447.txt,20240501_162447,07610620,07610,620

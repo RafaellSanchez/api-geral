@@ -15,11 +15,27 @@ try:
             src_arquivo = os.path.join(caminho, nome_arquivo)
             # print(src_arquivo)
             # print(nome_arquivo)
-
+            
+            #transformacao df
             df = pd.read_csv(f'{src_arquivo}', delimiter=';', usecols=lambda column: column !='Unnamed: 0')
             df['nome_arquivo'] = nome_arquivo
             data = nome_arquivo[17:32]
             df['data_arquivo'] = data
+            
+            df_ccep = df['cep'].str.replace(r'-', '')
+            df_cep =df['cep'].str.extract(r'(\d{5})-\d{3}')
+            df_cep_compl = df['cep'].str.extract(r'(-\d{3})')
+            df['ccep'] = df_ccep
+            df['cep_loc'] = df_cep
+            df['cep_compl'] = df_cep_compl
+            df_rplc = df['cep_compl'].str.replace('-', '')
+            df['ccep_compl'] = df_rplc
+            columns = ['cep', 'cep_compl']
+            df.drop(columns, inplace=True, axis=1)
+            
+            df['ccep'].astype(int)
+            df['cep_loc'].astype(int)
+            df['ccep_compl'].astype(int)
             # print(df)
             
             print('carregando informações no df')

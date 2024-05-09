@@ -22,7 +22,9 @@ print('executando uma nova query')
 print(f'criando tabela: {tabela}')
 query = f'''
 CREATE TABLE IF NOT EXISTS {tabela}(
-    cep TEXT,
+    ccep INTEGER,
+    cep_loc INTEGER,
+    ccep_compl INTEGER,
     logradouro TEXT,
     bairro TEXT,
     localidade TEXT,
