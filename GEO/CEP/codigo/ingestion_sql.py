@@ -52,7 +52,7 @@ try:
             
             #backp
             backup = '/workspaces/api-geral/GEO/CEP/backp/'
-            save = df.to_csv(f'{backup}{nome_arquivo}')
+            save = df.to_csv(f'{backup}{nome_arquivo}', sep=';')
             print(f'arquivo salvo no caminho:{backup}')
             print(f'nome do arquivo: {nome_arquivo}')
             
