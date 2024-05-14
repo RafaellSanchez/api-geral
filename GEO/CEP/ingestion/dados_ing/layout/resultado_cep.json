@@ -1,5 +1,10 @@
 [
     {
         
+        "db_data": "banco_cep.db",
+        "table": "tb_cep_brnz",
+        "file": "resultado_concat_{(8)}_{(6)}.txt",
+        "type": "txt"
+
     }
 ]
