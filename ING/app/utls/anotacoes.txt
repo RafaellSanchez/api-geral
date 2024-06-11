@@ -1,0 +1,8 @@
+#desenvolver motor de ingestao
+ler um diretório
+pegar o arquivo pelo nome especifico
+se o arquivo já foi ingerido ignora-lo 
+ajustar um local para salvar o nome do arquivo
+o código vai ter que fazer um ls dentro do arquivo para verificar se o nome já foi ingerido
+nome e timestamp, exemplo: arquivo_20240610_202105.txt
+os parametros de tipo de arquivo, nome de arquivo vão ser configurados no json
