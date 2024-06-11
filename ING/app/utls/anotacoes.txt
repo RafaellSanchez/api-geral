@@ -1,7 +1,10 @@
 #desenvolver motor de ingestao
-ler um diretório
+passos a realizar
+
+código para ler um diretório
 pegar o arquivo pelo nome especifico
-se o arquivo já foi ingerido ignora-lo 
+código para quando pegar o arquivo pelo nome especifico, gravar o nome em outro local para reutilzar e garantir controle
+se o arquivo já foi ingerido ignora-lo quando for realizada a verificação pelo nome
 ajustar um local para salvar o nome do arquivo
 o código vai ter que fazer um ls dentro do arquivo para verificar se o nome já foi ingerido
 nome e timestamp, exemplo: arquivo_20240610_202105.txt
