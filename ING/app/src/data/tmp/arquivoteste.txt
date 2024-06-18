@@ -1,2 +1,1 @@
-['resultado_concat_20240513_162447.txt'] 
-['resultado_concat_20240513_162447.txt'] 
+['resultado_concat_20240513_162447.txt']  
