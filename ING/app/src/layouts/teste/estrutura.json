@@ -1,6 +1,6 @@
 {
     "banco": "banco_teste.db",
     "tabela": "tabela_teste",
-    "descricao": "tabela teste cep",
+    "descricao": "tabela teste",
     "nomeArquivoChave": "teste"
 }
