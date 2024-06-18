@@ -3,3 +3,5 @@
 ['resultado_teste_20240617_222901.txt'] 
 ['resultado_concat_20240513_162447.txt'] 
 ['resultado_teste_20240617_222901.txt'] 
+['resultado_concat_20240513_162447.txt'] 
+['resultado_teste_20240617_222901.txt'] 
