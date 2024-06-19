@@ -1,5 +1,6 @@
 {
     "banco": "banco_cep_teste.db",
     "tabela": "tb_geo_brnz",
-    "descricao": "tabela teste geo"
+    "descricao": "tabela teste geo",
+    "nomeArquivoChave": "geo"
 }
