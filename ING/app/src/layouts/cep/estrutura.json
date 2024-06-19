@@ -1,5 +1,6 @@
 {
     "banco": "banco_cep_teste.db",
     "tabela": "tb_cep_brnz",
-    "descricao": "tabela teste cep"
+    "descricao": "tabela teste cep",
+    "nomeArquivoChave": "concat"
 }
