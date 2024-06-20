@@ -1,9 +1,9 @@
 import os
 import json
-
-from datetime import datetime
-import sqlite3
 import pandas as pd
+import sqlite3
+from datetime import datetime
+
 
 
 timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
@@ -12,7 +12,6 @@ ultimo_timestamp = None
 backup_dir = "/workspaces/api-geral/ING/app/src/data/tmp/arquivoteste.txt"
 landing = '/workspaces/api-geral/ING/app/src/data/landing/'
 layouts = '/workspaces/api-geral/ING/app/src/layouts/'
-
 
 read_landing = os.listdir(landing)
 print("Conteúdos do diretório 'landing':", read_landing)
@@ -33,7 +32,7 @@ try:
                 print(f'Encontrado estrutura.json em {item}')
                 
                 caminho_tabela_json = os.path.join(accept, f'tabela_{item}.json')
-                print(f'Encontrando estrtura json em {caminho_tabela_json}')
+                print(f'Encontrando schema da tabela.json em {caminho_tabela_json}')
                 
                 with open(f'{caminho_tabela_json}', 'r') as f:
                     config_colunas = json.load(f)
@@ -68,9 +67,9 @@ try:
                                     print('=================================')
                                     
                                     if caminho_completo.endswith('.txt'):
-                                        dados = pd.read_csv(caminho_completo, delimiter=';', header=None, names=[col['nome'] for col in config_colunas['colunas']])
+                                        dados = pd.read_csv(caminho_completo, delimiter=';', skiprows=[0], names=[col['nome'] for col in config_colunas['colunas']])
                                     elif caminho_completo.endswith('.csv'):
-                                        dados = pd.read_csv(caminho_completo, header=None, names=[col['nome'] for col in config_colunas['colunas']])
+                                        dados = pd.read_csv(caminho_completo, skiprows=[0], names=[col['nome'] for col in config_colunas['colunas']])
                                     elif caminho_completo.endswith('.bin'):
                                         pass
                                     else:
@@ -118,3 +117,4 @@ try:
                                     print('dados ignorado!')
 except FileExistsError as error:
     print(error)
+
