@@ -1,6 +1,20 @@
-{
-    "banco": "banco_teste.db",
-    "tabela": "tabela_teste",
-    "descricao": "tabela teste",
-    "nomeArquivoChave": "teste"
-}
+[
+    { 
+      "teste01":[
+        {"banco": "banco_teste_novo.db"},
+        {"tabela": "tabela_teste"},
+        {"descricao": "tabela teste"},
+        {"nomeArquivoChave": "teste"}
+      ]
+    },
+    {
+      "teste02":[
+        {"banco": "banco_teste_novo.db"},
+        {"tabela": "tabela_teste_2"},
+        {"descricao": "tabela teste 2"},
+        {"nomeArquivoChave": "teste2"}
+      ]
+    }
+]
+  
+

@@ -3,13 +3,13 @@ import json
 import pandas as pd
 import sqlite3
 from datetime import datetime
-
-
+import shutil
 
 timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
 ultimo_timestamp = None
 
-backup_dir = "/workspaces/api-geral/ING/app/src/data/tmp/arquivoteste.txt"
+caminho_backup = '/workspaces/api-geral/ING/app/src/bckp/'
+ctrl_ing = "/workspaces/api-geral/ING/app/src/data/landing/archiving_ctrl/controle_ingestao.txt"
 landing = '/workspaces/api-geral/ING/app/src/data/landing/'
 layouts = '/workspaces/api-geral/ING/app/src/layouts/'
 
@@ -46,7 +46,7 @@ try:
                     print(f'Palavra chave: {key}')
                     print('=====================')
                 
-                with open(backup_dir, 'r+') as dados:
+                with open(ctrl_ing, 'r+') as dados:
                     conteudo_load = dados.readlines()
                     print(f'Conteúdo do arquivo de backup: {conteudo_load}')
                     
@@ -111,10 +111,16 @@ try:
                                     print('Commit e fechamento da conexão...')
                                     conn.commit()
                                     conn.close()
-
                                     print("Ingestão de dados concluída com sucesso!")
+                                    
+                                    print("========================================")
+                                    print("movimentando arquivos")
+                                    shutil.move(caminho_completo, caminho_backup)
+                                    print(f'arquivo enviado para bckp: {caminho_completo}')
+                                    print(f'destino: {caminho_backup}')
+                                    
+                                    
                                 else:
                                     print('dados ignorado!')
 except FileExistsError as error:
     print(error)
-
