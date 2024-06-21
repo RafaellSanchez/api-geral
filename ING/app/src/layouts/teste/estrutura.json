@@ -1,6 +1,6 @@
 [
     { 
-      "teste01":[
+      "processo1":[
         {"banco": "banco_teste_novo.db"},
         {"tabela": "tabela_teste"},
         {"descricao": "tabela teste"},
@@ -8,7 +8,7 @@
       ]
     },
     {
-      "teste02":[
+      "processo2":[
         {"banco": "banco_teste_novo.db"},
         {"tabela": "tabela_teste_2"},
         {"descricao": "tabela teste 2"},
