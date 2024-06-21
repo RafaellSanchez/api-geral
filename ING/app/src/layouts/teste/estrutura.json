@@ -1,7 +1,7 @@
 [
     { 
       "processo1":[
-        {"banco": "banco_teste_novo.db"},
+        {"banco": "banco_teste.db"},
         {"tabela": "tabela_teste"},
         {"descricao": "tabela teste"},
         {"nomeArquivoChave": "teste"}
