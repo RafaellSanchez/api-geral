@@ -1,20 +1,16 @@
-[
-    { 
-      "processo1":[
-        {"banco": "banco_teste.db"},
-        {"tabela": "tabela_teste"},
-        {"descricao": "tabela teste"},
-        {"nomeArquivoChave": "teste"}
-      ]
+{
+  "processos": [
+    {
+      "banco": "banco_teste.db",
+      "tabela": "tabela_teste",
+      "descricao": "tabela teste",
+      "nomeArquivoChave": "teste"
     },
     {
-      "processo2":[
-        {"banco": "banco_teste_novo.db"},
-        {"tabela": "tabela_teste_2"},
-        {"descricao": "tabela teste 2"},
-        {"nomeArquivoChave": "teste2"}
-      ]
+      "banco": "banco_teste.db",
+      "tabela": "tabela_teste_2",
+      "descricao": "tabela teste 2",
+      "nomeArquivoChave": "teste2"
     }
-]
-  
-
+  ]
+}

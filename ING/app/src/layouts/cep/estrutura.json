@@ -1,6 +1,16 @@
 {
-    "banco": "banco_cep_teste.db",
-    "tabela": "tb_cep_brnz",
-    "descricao": "tabela teste cep",
-    "nomeArquivoChave": "concat"
+    "processos": [
+        {
+        "banco": "banco_cep_teste.db",
+        "tabela": "tb_cep",
+        "descricao": "tabela teste cep",
+        "nomeArquivoChave": "concat"
+        },
+        {
+        "banco": "banco_cep_teste.db",
+        "tabela": "tb_cep_2",
+        "descricao": "tabela teste cep",
+        "nomeArquivoChave": "concat2"
+        }
+    ]
 }
