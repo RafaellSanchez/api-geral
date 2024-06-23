@@ -1,4 +1,6 @@
 resultado_teste_20240620_204501.txt
 resultado_teste_20240620_205621.txt
-resultado_concat_20240513_162447.txt
 resultado_teste_20240617_222901.txt
+resultado_teste_20240621_121201.txt
+resultado_teste2_20240621_101010.txt
+resultado_concat_20240513_162447.txt

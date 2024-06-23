@@ -1,6 +1,16 @@
 {
-    "banco": "banco_cep_teste.db",
-    "tabela": "tb_geo_brnz",
-    "descricao": "tabela teste geo",
-    "nomeArquivoChave": "geo"
+    "processos": [
+      {
+        "banco": "banco_geo_teste.db",
+        "tabela": "tb_geo_brnz",
+        "descricao": "tabela teste geo",
+        "nomeArquivoChave": "geo"
+      },
+      {
+        "banco": "banco_geo_teste.db",
+        "tabela": "tb_geo_brnz",
+        "descricao": "tabela teste geo",
+        "nomeArquivoChave": "geo"
+      }
+    ]
 }
